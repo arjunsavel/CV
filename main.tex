@@ -1,0 +1,109 @@
+% The formatting of this CV is based on @davidwhogg's layout.
+
+\documentclass[12pt,letterpaper]{article}
+
+\input{cvstyle}
+
+\begin{document}\thispagestyle{empty}\sloppy\sloppypar\raggedbottom
+
+\textbf{\Large Arjun Baliga Savel} \hfill
+\textsf{\small asavel@gmail.com, https://arjunsavel.github.io} \\
+
+\cvheading{Education}
+\begin{list}{}{\cvlist}
+\item
+Ph.D. University of Maryland (expected, Astronomy)
+\item
+M.S. University of Maryland (expected, Astronomy)
+\item
+BA, University of California, Berkeley (May 2020, Astrophysics, Physics). Advisor: Courtney Dressing.
+\end{list}
+
+
+\ifdefined\withpubs
+    \cvheading{Publications}
+    \input{pubs_summary}
+
+    \cvheading{Refereed publications}
+    \begin{list}{}{\cvlist}
+    \input{pubs_ref}
+    \end{list}
+
+    \cvheading{Preprints \& white papers}
+    \begin{list}{}{\cvlist}
+    \input{pubs_unref}
+    \end{list}
+\fi
+
+\cvheading{Selected invited talks \& tutorials}
+\begin{list}{}{\cvlist}
+
+\item 8. Courtney D. Dressing, Steven Giacalone, Ellianna S. Abrahams \& 7 coauthors including \textbf{Arjun Savel}, 2020. ``Using TESS to Investigate the Frequency of Planetary Systems Orbiting Cool Dwarfs'', AAS 235, Honolulu, Hawai'i
+
+\item 7. $^\dagger$\textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2020. “A closer look at planet occurrence rates: AO follow-up of 71 stars in the Kepler field”, AAS 235, Honolulu, Hawai'i
+
+\item 6. \textbf{ Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2019. “A Closer Look at Exoplanet Occurrence Rates: Considering the Multiplicity of Stars without Detected Planets”, Bay Area Exoplanet Meeting \#31, NASA Ames
+
+\item 5. \textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2019. “A Closer Look at Exoplanet Occurrence Rates: The Impact of Stars Without Exoplanets”, Bay Area Planetary Sciences Meeting, Stanford University.
+
+\item 4. \textbf{Arjun Savel}, 2019.“Earth: Rare or Regular?”, Undergraduate Seminars, UC Berkeley Physics Department.
+
+\item 3. $^*$\textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P. C. Fleming, Jessie L. Christiansen, 2019. “A closer look: AO follow-up of 109 stars in the Kepler and K2 fields”, APSIS Poster Session, UC Berkeley.
+
+\item 2. Courtney D. Dressing, \textbf{ Arjun Savel} et al. 2019. “Characterizing Planetary Systems Orbiting TESS Cool Dwarfs”, TESS Science Conference I, MIT.
+
+\item 1. Steven Giacalone, Courtney Dressing, \textbf{Arjun Savel}, 2019. “Validation of TESS Exoplanet Candidates”, 3rd Advanced School on Exoplanetary Science, Vietri sul Mare.
+
+\end{list}
+
+
+\cvheading{Observing Experience}
+\begin{list}{}{\cvlist}
+
+\item 3-m Shane telescope (ShARCS), Mt. Hamilton, CA: assisted with 10 nights
+\item 10-meter Keck Telescope (NIRC2), Mauna Kea, HI: assisted with 1/2 night
+\item 10-meter Keck Telescope (NIRSPEC), Mauna Kea, HI: assisted with 1/2 night
+
+\end{list}
+
+\cvheading{Selected Honors, Prizes, and Awards}
+\begin{list}{}{\cvlist}
+
+\item Gregor and Donat Wentzel Scholarship, University of Maryland, 2020
+\item $^\ddagger$Astronomy Achievement Award Student Prize, AAS 235, 2020
+\item $^\dagger$Outstanding Graduate Student Instructor Award, UC Berkeley, 2020
+\item $^*$1st place at Astronomy Poster Summer Intern Symposium (APSIS), UC Berkeley, 2019
+\item Student Technology Fund grant for ULAB, UC Berkeley, 2018
+\item Ongoing UC Berkeley Physics Department award for ULAB, 2018
+
+\end{list}
+
+% \ifdefined\withpubs
+%     \newpage
+% \fi
+
+\cvheading{Teaching Experience}
+\begin{list}{}{\cvlist}
+\item Undergraduate Student Instructor, Astronomy C12 (The Planets), UC Berkeley, under Courtney Dressing and Raymond Jeanloz (2020)
+\item $^\dagger$Undergraduate Student Instructor, Astronomy C10 (Introduction to General Astronomy), UC Berkeley, under Alex Filippenko (2018-19)
+\end{list}
+
+\cvheading{Community Involvement}
+\begin{list}{}{\cvlist}
+\item Mentor, TARDIS Google Summer of Code (2020)
+\item Undergraduate Representative, Astronomy Department, University of California, Berkeley (2019-20)
+\item Director, Undergraduate Lab at Berkeley (ULAB), University of California, Berkeley (2018-19)
+\end{list}
+
+\cvheading{Workshops and Other Experience}
+\begin{list}{}{\cvlist}
+\item JWST Master Class Workshop, Stanford University (2020)
+\item Night Editor, The Daily Californian (2017)
+\end{list}
+
+\cvheading{Technical Skills}
+\begin{list}{}{\cvlist}
+\item Python, ADQL/SQL, R, MCMC, neural networks, astronomical image reduction, open-source code management
+\end{list}
+
+\end{document}
