@@ -7,6 +7,8 @@
 % \renewcommand{\dateseparator}{-}
 
 % Link formatting.
+\usepackage{hanging}
+
 \definecolor{numcolor}{rgb}{0.5,0.5,0.5}
 \definecolor{linkcolor}{rgb}{0,0,0.4}
 \hypersetup{%
@@ -36,16 +38,21 @@
 % Set up the custom unordered list.
 \newcounter{refpubnum}
 \newcommand{\cvlist}{%
+% \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+
     \rightmargin=0in
     \leftmargin=0.15in
     \topsep=0ex
     \partopsep=0pt
     \itemsep=0.2ex 
     \parsep=0pt
-    \itemindent=-1.0\leftmargin
-    \listparindent=0.0\leftmargin
+    \itemindent=0.0\leftmargin
+    \listparindent=2.0\leftmargin
     \settowidth{\labelsep}{~}
     \usecounter{refpubnum}
+    \leftskip=-10.1in
+    \parindent=-0.1in
+    % \labelindent=5p
 }
 
 % Margins and spaces.
