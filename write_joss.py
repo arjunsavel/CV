@@ -6,7 +6,7 @@ f1 = f.readlines()
 f.close()
 
 # assume scrape_joss.py has already been run
-num_reviewed = np.loadtxt('num_joss_reviews.txt')[0]
+num_reviewed = np.loadtxt('num_joss_reviews.txt')
 
 if num_reviewed == 1:
     project_word = 'project'
