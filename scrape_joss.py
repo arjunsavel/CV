@@ -12,6 +12,7 @@ with open('new_secret.json', 'w') as outfile:
     json.dump(data, outfile)
     
 print(os.listdir())
+print(json.__version__)
 
 
 sheets = Sheets.from_files('new_secret.json')
