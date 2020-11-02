@@ -23,7 +23,7 @@ jobs:
           
       - name: Scrape the number of JOSS reviews
         env:
-          SHEETS_SECRET: ${{ secrets.SHEETS_SECRET }}
+          SHEETS_SECRET: ${{ secrets.SHEETS_API_KEY }}
         run: |
           python scrape_joss.py "$SHEETS_SECRET"
           
