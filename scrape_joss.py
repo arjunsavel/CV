@@ -8,15 +8,17 @@ import os
 
 data = sys.argv[1]
 
-with open('new_secret.json', 'w') as outfile:
-    json.dump(data, outfile)
+# with open('new_secret.json', 'w') as outfile:
+#     json.dump(data, outfile)
     
-print(os.listdir())
-print(json.__version__)
+# print(os.listdir())
+# print(json.__version__)
 
 
-sheets = Sheets.from_files('new_secret.json')
-os.remove('new_secret.json')
+# sheets = Sheets.from_files('new_secret.json')
+# os.remove('new_secret.json')
+
+sheets = Sheets.from_developer_key(data)
 
 joss_reviews_id = '1PAPRJ63yq9aPC1COLjaQp8mHmEq3rZUzwUYxTulyu78'
 
