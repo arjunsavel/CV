@@ -1,9 +1,9 @@
 name: Add JOSS Reviews
-on:
-  schedule:
+on: push
+  #schedule:
     # * is a special character in YAML so you have to quote this string
     # runs twice a day
-    - cron:  '*/5 * * * *'
+   # - cron:  '*/5 * * * *'
 jobs:
   notebooks:
     name: "Build the notebooks for the docs"
