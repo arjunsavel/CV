@@ -10,6 +10,8 @@ data = sys.argv[1]
 
 with open('new_secret.json', 'w') as outfile:
     json.dump(data, outfile)
+    
+print(os.listdir())
 
 
 sheets = Sheets.from_files('new_secret.json')
