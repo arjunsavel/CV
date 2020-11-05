@@ -20,7 +20,6 @@ alex-konovalov,GAP,"Python, C",,,mathematics,0,4,3,1
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
 xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,3,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
-jsta,R,Python,,,"gis, ecology, reproducible science, api wrappers, scientific writing tools, oceanography, limnology, geospatial data management, scientific data management",0,5,1,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
 Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",0,7,1,0
@@ -967,7 +966,7 @@ Physics
 Profiling and performance optimisation",0,2,1,0
 mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,1,3,1,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
-wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,2,1
+wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,2,0
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
 Digital Humanities (?)
 Software Sustainability",0,0,0,0
@@ -1087,7 +1086,7 @@ C++",LBL,dghoshal@lbl.gov,"Cloud computing
 HPC
 distributed systems
 data management
-machine learning",0,1,1,1
+machine learning",0,1,1,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,1,0
@@ -1485,7 +1484,7 @@ R",Python,SRI International,edifice1989@gmail.com,"RNA-seq
 tumor drug target prediction 
 ",0,1,1,1
 leouieda,"Python, C","C++, Matlab",University of Hawaii at Manoa,leouieda@gmail.com,"Earth Science, Geoscience, Geophysics, Geodesy, Inverse Problems, Data Visualization",0,2,0,0
-ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific Computing,0,1,1,1
+ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific Computing,0,1,1,0
 jlincbio,"Perl
 R",C,Chiba Cancer Center,linjason@chiba-cc.jp,"bioinformatics
 genomics",0,1,0,0
@@ -1790,7 +1789,7 @@ junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",0,1,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,1,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",1,1,0,0
-EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,1,1,1
+EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,1,1,0
 streeve,"Python
 C++","Matlab
 C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,1,1
@@ -1843,7 +1842,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",0,3,3,2
+simulation technology",0,3,3,1
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -2108,7 +2107,7 @@ MapReduce
 Image and signal processing
 Linear algebra
 Data management
-Microscopy",0,1,1,1
+Microscopy",0,1,1,0
 kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
@@ -3211,7 +3210,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",0,3,3,2
+applied mathematics (numerical integration of ODEs, etc.)",0,3,3,1
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 hanayik,Python,"MATLAB
 Javascript","University of Oxford, Wellcome Center for Integrative Neuroimaging",taylor.hanayik@ndcn.ox.ac.uk,"MRI processing
@@ -3367,7 +3366,7 @@ Diagnostic classification models
 Cognitive diagnostic models
 Latent class (profile) analysis
 Item response theory
-Structural Equation Modeling",0,2,2,1
+Structural Equation Modeling",0,2,2,0
 jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
@@ -3725,7 +3724,7 @@ MATLAB",Julia,Postdoctoral Researcher,amin.sadeghi@uwaterloo.ca,"Porous material
 High performance computing
 Computational fluid dynamics
 Transport phenomena
-Electrochemistry",0,1,1,1
+Electrochemistry",0,1,1,0
 ashkelly,"python
 C",,Durham University,a.j.kelly@durham.ac.uk,"numerical methods, visualisation, n-body, scientific computing, astrophysics",0,0,0,0
 hasantahir,Matlab,C,University of Glasgow,Hasan.Abbas@glasgow.ac.uk,"Plasmonics
@@ -3776,7 +3775,7 @@ Data-grabbing (e.g. API wrappers)
 Genetics
 Population Genetics
 Evolutionary Biology",1,1,0,0
-eirini-zormpa,R,,Max Planck Institute for Psycholinguistics,eirini.zormpa@mpi.nl,Psycholinguistics,0,1,1,1
+eirini-zormpa,R,,Max Planck Institute for Psycholinguistics,eirini.zormpa@mpi.nl,Psycholinguistics,0,1,1,0
 kellerb,".Net/C#, .Net Core, React, Javascript, JQuery",,Software Engineer,keller.benjamin.d@gmail.com,"Anthropology, Archaeology, Social sciences, history, biological sciences",0,0,0,0
 ssriv,R,,University of Oregon,sanjay@uoregon.edu,"I am a psychology researcher. I work mostly with verbal report scales (rating scales), round-robin and dyadic studies, longitudinal designs, some behavioral observation/coding, and methods in psychometrics and statistics that are applicable to that kind of data.",0,0,0,0
 keurfonluu,Python,Fortran,Berkeley Lab,keurfonluu@outlook.com,Geophysics,0,0,0,0
@@ -4392,3 +4391,7 @@ Finite difference methods
 Runge-Kutta and linear multistep methods
 Numerical analysis",0,0,0,0
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis"
+https://github.com/smutao/,"Python
+Fortran
+C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
+Computational Physics"
