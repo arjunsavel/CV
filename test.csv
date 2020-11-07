@@ -303,7 +303,7 @@ earino,"R, python, Perl, C/++",All honesty,Facebook,earino@gmail.com,"Conflict, 
 andrewheiss,R,Python,Brigham Young University,andrewheiss@gmail.com,Politics,0,4,0,0
 koulvi,R,-,Corporate,vikeshkoul@gmail.com,Economics,0,0,0,0
 mariacuellar,R,,University of Pennsylvania ,maria.cuellar@gmail.com,"Statistics, social science, public policy, biostatistics ",0,0,0,0
-acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",0,6,2,0
+acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",0,6,1,0
 paragkulkarni11,"R,Python,Kotlin",Kotlin,ASQ,parag.kulkarni11@gmail.com,"Data Science, Machine Learning, Deep Learning, NLP",0,1,0,0
 GalenStocking,"Python
 R",,Pew Research Center,gstocking@pewresearch.org,"Statistics
@@ -511,7 +511,7 @@ jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
 Rmadillo,"R, SQL",,Seattle Children's Hospital,dwight.barry@seattlechildrens.org,"Healthcare, medicine, hospital",0,1,0,0
 klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,1,1
-acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",0,6,2,0
+acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",0,6,1,0
 chasemc,R,,University of Illinois at Chicago,cclark42@uic.edu,"Microbiology, biochemistry, analytical chemistry ",0,0,0,0
 barryrowlingson,"R
 Python",unix shell,Lancaster University,b.rowlingson@gmail.com,"epidemiology
@@ -787,7 +787,7 @@ daissi,"R
 Shell script
 Python",Perl,"University Heart Center Hamburg, Germany",bob.dybian@gmail.com,"Omics analyses, workflow development, reproducibility, system integration",0,3,1,0
 expectopatronum,"R
-Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,2,2,0
+Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,2,1,0
 pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",1,3,0,0
 jizecn,"C++
 Python","Matlab
@@ -963,7 +963,7 @@ C++
 Java",,Yandex,lisitsyn.s.o@gmail.com,machine learning,0,0,0,0
 StewMH,"C++, Python",,"Particle Physics Department, Rutherford Appleton Laboratory, ATLAS experiment CERN",stewart.martin-haugh@stfc.ac.uk,"Mathematical libraries
 Physics
-Profiling and performance optimisation",0,2,1,0
+Profiling and performance optimisation",0,2,0,0
 mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,1,3,1,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
 wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,2,0
@@ -1916,8 +1916,8 @@ cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
-mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,2,1
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,5,4,3
+mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,5,4,2
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2441,7 +2441,7 @@ Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,2,2,2
-zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",1,2,1,1
+zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,2
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",0,1,1,0
@@ -3454,7 +3454,7 @@ Simulation,
 Artificial Intelligence,
 Machine Learning,
 Time Series Forecasting",0,0,0,0
-ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",0,6,6,3
+ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",0,6,6,2
 kyq,"C++ 
 Matlab",,University of Edinburgh,e.valero@ed.ac.uk,"computer vision
 construction informatics
@@ -3472,7 +3472,7 @@ reinforcement learning
 meta learning
 optimization",0,0,0,0
 stevemacenski,"C++, python",,Samsung Research,stevenmacenski@gmail.com,robotics,0,0,0,0
-ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",0,6,6,3
+ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",0,6,6,2
 zethson,"Python, Java, Kotlin","Groovy, C++, html, css",Quantitative Biology Center Tübingen,lukas.heumos@posteo.net,"bioinformatics, machine learning, data science",0,0,0,0
 slayoo,Python,C++,"Jagiellonian University, Kraków, Poland",sylwester.arabas@uj.edu.pl,"differential equations, atmospheric science, Monte-Carlo methods",0,0,0,0
 No,"FORTRAN(OpenMP, MPI, CUDA)",Python,"INO-CNR BEC Center, University of Trento, Italy",arko.roy@unitn.it,Computer codes in Physics,0,0,0,0
@@ -3684,7 +3684,7 @@ Cheminformatics",0,0,0,0
 meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",0,0,0,0
 Logological,"C, bash, Java, LaTeX",,Austrian Research Institute for Artificial Intelligence,tristan.miller@ofai.at,"natural language processing, computational linguistics, computational humour",0,0,0,0
 alaingdl,IDL/GDL/FL,c/c++,CNRS & Observatoire de Paris,alain.coulais@obspm.fr,Astronomy,0,0,0,0
-rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",1,1,0,0
+rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",0,1,1,1
 Oldim Vilanculo,Matlab,Phyton,Eduardo Mondlane University,ochuquelane@gmail.com,Porous media modeling,0,0,0,0
 mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear algebra
 multiphysics
@@ -3759,7 +3759,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",3,3,0,0
+data science",2,3,1,1
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,1,1,1
 manojrege,"Python
@@ -4391,8 +4391,9 @@ Finite difference methods
 Runge-Kutta and linear multistep methods
 Numerical analysis",0,0,0,0
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,0,0,0
-https://github.com/smutao/,"Python
+smutao/,"Python
 Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
-Computational Physics"
+Computational Physics",0,0,0,0
 https://github.com/RafalKucharskiPK/,python,-,TU Delft,rkucharski@pk.edu.pl,"modelling, agent based models, network science, urban mobility, transport networks"
+scivision,"Fortran, CMake, Matlab",Python,Boston University,michael@scivision.dev,"Build systems, file i/o, benchmarking, multi-code language interfaces"
