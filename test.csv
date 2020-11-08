@@ -4395,5 +4395,13 @@ smutao/,"Python
 Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
 Computational Physics",0,0,0,0
-https://github.com/RafalKucharskiPK/,python,-,TU Delft,rkucharski@pk.edu.pl,"modelling, agent based models, network science, urban mobility, transport networks"
+RafalKucharskiPK/,python,-,TU Delft,rkucharski@pk.edu.pl,"modelling, agent based models, network science, urban mobility, transport networks",0,0,0,0
 scivision,"Fortran, CMake, Matlab",Python,Boston University,michael@scivision.dev,"Build systems, file i/o, benchmarking, multi-code language interfaces"
+kanirudh,"C++
+Python
+C
+Golang",,Tower Research Capital,agrwlanirudh@gmail.com,"Operating Systems
+Distributed Systems
+Multi-threaded Programming
+Computer Networks
+Linux Kernel"
