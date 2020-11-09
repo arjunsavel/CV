@@ -2328,7 +2328,7 @@ AlexaVillaume,python,,UC Santa Cruz,avillaum@ucsc.edu,Astronomy,0,0,0,0
 bradkav,python,"C++
 Mathematica","GRAPPA, University of Amsterdam",bradkav@gmail.com,"Astroparticle Physics
 Dark Matter
-Particle Physics",0,0,0,0
+Particle Physics",1,1,0,0
 hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",1,3,2,0
 aasensio,"Python, Fortran, IDL",,Instituto de Astrofísica de Canarias,aasensio@iac.es,Solar physics,0,0,0,0
 olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,1,1
@@ -4022,7 +4022,7 @@ State-space modeling
 Machine Learning",1,1,0,0
 BabakNSafa,Matlab,,,bsafa3@gatech.edu,biomechanics,0,0,0,0
 https://gitlab.bsc.es,Fortran,,,herbert.owen@bsc.es,CFD - Finite Element for Flow Problem - Large eddy simulation for complex geometry. Interest in Wind energy and car aerodynamics,0,0,0,0
-degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",1,1,0,0
+degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",0,1,1,1
 Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learning",1,1,0,0
 ozanerturk,Javascript,"Python
 C#",,ozanerturk17@gmail.com,"concurrency
@@ -4219,7 +4219,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,0,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",1,1,0,0
+Security",0,1,1,1
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -4396,7 +4396,7 @@ Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
 Computational Physics",0,0,0,0
 RafalKucharskiPK/,python,-,TU Delft,rkucharski@pk.edu.pl,"modelling, agent based models, network science, urban mobility, transport networks",0,0,0,0
-scivision,"Fortran, CMake, Matlab",Python,Boston University,michael@scivision.dev,"Build systems, file i/o, benchmarking, multi-code language interfaces"
+scivision,"Fortran, CMake, Matlab",Python,Boston University,michael@scivision.dev,"Build systems, file i/o, benchmarking, multi-code language interfaces",0,2,1,0
 kanirudh,"C++
 Python
 C
