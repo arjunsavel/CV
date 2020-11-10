@@ -252,7 +252,7 @@ Finite Element Methods",0,3,1,0
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,0,0,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
-wkearn,Julia,"Python, R, Matlab, Fortran",Boston University,wkearn@gmail.com,"Geosciences, fluid mechanics, signal processing",0,4,1,0
+wkearn,Julia,"Python, R, Matlab, Fortran",Boston University,wkearn@gmail.com,"Geosciences, fluid mechanics, signal processing",0,4,0,0
 afrubin,Python,"C
 R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.au,"Genetics
 Genomics
@@ -1369,7 +1369,7 @@ KedoKudo,Python,"C
 Fortran",Carnegie Mellon University,chenz3@andrew.cmu.edu,"high-energy X-ray diffraction
 crystal plasticity
 finite element
-dislocation dynamics",0,2,2,1
+dislocation dynamics",0,2,1,1
 jdeligt,"C++
 Java
 Python
@@ -1488,7 +1488,7 @@ ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific
 jlincbio,"Perl
 R",C,Chiba Cancer Center,linjason@chiba-cc.jp,"bioinformatics
 genomics",0,1,0,0
-mancellin,Python,"Fortran, Julia",ENS Paris-Saclay,matthieu.ancellin@cmla.ens-cachan.fr,"Fluid dynamics, partial differential equations",0,2,2,1
+mancellin,Python,"Fortran, Julia",ENS Paris-Saclay,matthieu.ancellin@cmla.ens-cachan.fr,"Fluid dynamics, partial differential equations",0,2,1,1
 platipodium,"Fortran
 Python","C
 C++
@@ -1710,7 +1710,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",2,5,3,0
+Structural Dynamics",2,5,2,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,2,2,1
 shreyasbapat,"Python
@@ -3491,7 +3491,7 @@ hmacdope,"Python
 FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
-HPC",0,1,1,1
+HPC",1,2,1,1
 simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,0,0,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
@@ -4254,7 +4254,7 @@ Monte Carlo",0,0,0,0
 lscalfi,"Fortran
 Python",C,"Sorbonne Université, CNRS, Physico-chimie des Électrolytes et Nanosystèmes Interfaciaux, PHENIX",laura.scalfi@sorbonne-universite.fr,"electrochemistry
 physical chemistry
-molecular dynamics",0,0,0,0
+molecular dynamics",1,1,0,0
 vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",0,0,0,0
 ferreira68,"C/C++, FORTRAN, Python","Perl, R",U.S. Department of Energy/Duquesne University,amferreira68@gmail.com,"Numerical Analysis, Chemistry, Physics",0,0,0,0
 tariqdaouda,python,"Javascript
@@ -4405,3 +4405,12 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel"
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing"
+AngryMaciek,Python,"R
+C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
+Statistical modeling
+FAIR research
+General-purpose tools"
+@emdupre,"Python
+JavaScript",,McGill University,elizabethm.dupre@gmail.com,"Neuroscience
+Machine learning"
