@@ -3918,7 +3918,7 @@ Physics
 Materials Science
 Quantum Mechanics
 Condensed Matter Science
-High Performance Computing",0,0,0,0
+High Performance Computing",1,1,0,0
 pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,0,0,0
 ldes89150,python,python,,ldes89150@gmail.com,"optics, physics",0,0,0,0
 schroedtert,"C++
@@ -4414,7 +4414,7 @@ General-purpose tools",0,0,0,0
 emdupre,"Python
 JavaScript",,McGill University,elizabethm.dupre@gmail.com,"Neuroscience
 Machine learning",1,1,0,0
-changhoonhahn,Python,Fortran,Princeton University,changhoon.hahn@princeton.edu,"astronomy, cosmology, statistics"
+changhoonhahn,Python,Fortran,Princeton University,changhoon.hahn@princeton.edu,"astronomy, cosmology, statistics",0,0,0,0
 jarrah42,"Java
 Python
 C
@@ -4439,3 +4439,11 @@ development tools
 security
 web development
 internet of things"
+salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization"
+rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization
+kullrich,"R
+python",,Max Planck Institute for Evolutionary Biology,ullrich@evolbio.mpg.de,"bioinformatics
+computational biology
+comparative genomics
+image processing
+quantitative genetics"
