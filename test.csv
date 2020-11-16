@@ -1063,7 +1063,7 @@ Julia","Javascript/typescript
 Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
-Physics simulators",0,5,1,0
+Physics simulators",0,5,0,0
 GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",1,4,1,1
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,1,0
 HaoZeke,"C++
@@ -1169,7 +1169,7 @@ ManuelaS,MATLAB,"python, R",Royal College of Surgeons in Ireland,manuelasalvucci
 SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & Max Planck Institute for the Science of Human History,simon@simon.net.nz,"phylogenetics
 historical/comparative linguistics
 cultural evolution",0,0,0,0
-jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,1,1,0
+jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,1,0,0
 camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,1,0,0
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
@@ -4450,5 +4450,5 @@ quantitative genetics",0,0,0,0
 alessandrobelli,"Php, every variation of C, web languages.",,University of Bremen,belli@uni-bremen.de,,0,0,0,0
 john-s-butler-dit,Python,R,TU Dublin,John.s.butler@tudublin.ie,"Computational Neuroscience
 Dynamical Systems
-Numerical Analysis"
+Numerical Analysis",0,0,0,0
 kakirastern,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering"
