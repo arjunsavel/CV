@@ -1926,7 +1926,7 @@ clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
 data science
-data visualization",1,3,2,0
+data visualization",0,3,3,1
 amritagos,"C++
 FORTRAN
 Python
@@ -3281,7 +3281,7 @@ C++",Indian Institute of Technology Bombay,rajatshinde@iitb.ac.in,"Geospatial Ap
 Geoinformatics
 Deep learning
 Remote Sensing",1,1,0,0
-a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",1,1,0,0
+a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,1,1
 github,Python,Java,Montana State University,indika.kahanda@montana.edu,"Bioinformatics
 Biomedical Informatics
 Medical Informatics
@@ -4452,3 +4452,7 @@ john-s-butler-dit,Python,R,TU Dublin,John.s.butler@tudublin.ie,"Computational Ne
 Dynamical Systems
 Numerical Analysis",0,0,0,0
 kakirastern,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering"
+@artgoldberg,Python,,Mount Sinai School of Medicine,Arthur.Goldberg@mssm.edu,"Discrete-event simulation
+Dynamical modeling
+Computational biology"
+https://github.com/RDxR10,Python/C/Bash/MATLAB/Java/Solidity,Javascript/Typescript,Researcher/Student,risirajdey@gmail.com,Security Tools/Scientific Computing
