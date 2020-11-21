@@ -224,7 +224,7 @@ Data Manipulation",0,1,1,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
-System Biology",0,1,0,0
+System Biology",1,2,0,0
 diegoenry,"Fortran
 BASH
 Python","HTML
@@ -3570,7 +3570,7 @@ Symbolic Regression
 Genetic Programming",0,1,1,0
 deep07004,Python,"C, fortran90",Indian National Center for Ocean Information Services,dipankar.s@incois.gov.in,Seismology,0,0,0,0
 sappelhoff,Python,,"Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",stefan.appelhoff@mailbox.org,"- Neuroscience with focus on electrophysiology (EEG, MEG, iEEG, ...)",0,1,1,1
-meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",0,0,0,0
+meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",1,1,0,0
 pwernette,"C++
 Python
 R",,U.S. Geological Survey,pwernette@usgs.gov,"Coastal Geology
@@ -3681,7 +3681,7 @@ Lesaffre,R,Python and C++,Accenture,alainlesaffre@hotmail.com,Data Science for I
 abotzki,"Python
 R",,"VIB Bioinformatics Core, VIB",alexander.botzki@vib.be,"Structural Bioinformatics
 Cheminformatics",0,0,0,0
-meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",0,0,0,0
+meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",1,1,0,0
 Logological,"C, bash, Java, LaTeX",,Austrian Research Institute for Artificial Intelligence,tristan.miller@ofai.at,"natural language processing, computational linguistics, computational humour",0,0,0,0
 alaingdl,IDL/GDL/FL,c/c++,CNRS & Observatoire de Paris,alain.coulais@obspm.fr,Astronomy,0,0,0,0
 rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",0,1,1,1
@@ -3995,7 +3995,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,1,1,0,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,0,0,0
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",1,1,0,0
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -4457,8 +4457,9 @@ Dynamical modeling
 Computational biology",0,0,0,0
 RDxR10,Python/C/Bash/MATLAB/Java/Solidity,Javascript/Typescript,Researcher/Student,risirajdey@gmail.com,Security Tools/Scientific Computing,0,0,0,0
 No,"R, Python","SAS,","Biostatistician, MSc",urko.agirre@gmail.com,Biostatistics,0,0,0,0
-github.umn.edu/eric3722,"Python, Java, C, HTML, CSS, JavaScript, R, MATLAB",OCaml,Student,ericksonesthi@gmail.com,Human Computer Interaction
-saran-nns,Python,,"Universitat Heidelberg, Germany",saran@visiolab.io,"Deep learning , Machine learning, Neuroscience, Data science, Information theory, Dynamical systems, Computational Mathematics, Signal processing"
+github.umn.edu/eric3722,"Python, Java, C, HTML, CSS, JavaScript, R, MATLAB",OCaml,Student,ericksonesthi@gmail.com,Human Computer Interaction,0,0,0,0
+saran-nns,Python,,"Universitat Heidelberg, Germany",saran@visiolab.io,"Deep learning , Machine learning, Neuroscience, Data science, Information theory, Dynamical systems, Computational Mathematics, Signal processing",0,0,0,0
 https://github.com/jmrozanec,"Java, Python",,Jožef Stefan Institute,jmrozanec@gmail.com,"machine learning
 data management
 utilities"
+Christovis,Python,"Fortran90, Julia",Durham University/ICC,chrbecker01@gmail.com,"N-Body simulations, Agent-Based modelling, Probabilistic programming,  Astrophysics/Cosmology"
