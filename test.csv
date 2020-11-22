@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",1,9,2,1
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,5,1,0
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",1,6,1,0
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,1,0
@@ -294,7 +294,7 @@ Postestimation
 Data visualization",1,2,0,0
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
 tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,1,0,0
-pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,1,1,0,0
+pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,1
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
 Quantitative Ecology",0,1,1,0
@@ -433,7 +433,7 @@ CameronDevine,Python,"Matlab
 C++
 Javascript",University Of Washington,camdev@uw.edu,"Robotics
 Control Systems",0,2,1,0
-steffilazerte,R,,steffilazerte.ca,sel@steffilazerte.ca,"biology, acoustics, birds, data munging, data collection",0,2,1,0
+steffilazerte,R,,steffilazerte.ca,sel@steffilazerte.ca,"biology, acoustics, birds, data munging, data collection",0,2,0,0
 juanvillada,R,NA,City University of Hong Kong,juancamilovillada@gmail.com,"Bioinformatics
 Computational biology
 Sequence analysis
@@ -1719,7 +1719,7 @@ Rust
 C++
 C","Dask
 R
-Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",0,2,0,0
+Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",1,3,0,0
 mwcraig,Python,,Minnesota State University Moorhead ,mattwcraig@gmail.com,"Astronomy
 ipywidgets",1,3,1,0
 ceb8,Python,"C/C++/C#
@@ -1971,7 +1971,7 @@ feddelegrand7,R,,National Higher School of Statistics and Applied Economics (ENS
 Economics 
 Data Envelopment Analysis 
 Banking",0,0,0,0
-martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",1,3,1,0
+martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",1,3,0,0
 czxa,"R
 Stata","Python
 Latex","Shandong University, China",czxjnu@163.com,"Economics
@@ -2070,7 +2070,7 @@ wwzhang,"R
 Igor Pro
 Matlab",,Peking University,zhangw@hsc.pku.edu.cn,Neuroscience,0,0,0,0
 cimentadaj,R,None,Max Planck Institute of Demography,cimentadaj@gmail.com,Social Sciences,0,0,0,0
-JonasMoss,R,,University of Oslo,jonas.gjertsen@gmail.com,"Statistics, data science",0,2,2,0
+JonasMoss,R,,University of Oslo,jonas.gjertsen@gmail.com,"Statistics, data science",0,2,1,0
 vwmaus,"R
 Fortran","C
 Python",Vienna University of Economics and Business (WU),vwmaus1@gmail.com,"Pattern Recognition
@@ -2670,7 +2670,7 @@ Neurobiology",0,2,2,0
 sachsmc,R,,Karolinska Institute,sachsmc@gmail.com,"Statistics
 biostatistics
 medicine
-epidemiology",1,1,0,0
+epidemiology",0,1,1,1
 DanielaGawehns,R,,Leiden University - Leiden Institute of Advanced Computer Science,gawehnsd@liacs.leidenuniv.nl,"Health Domain, Psychology, Neurology",0,0,0,0
 MakrinaAgaoglou,"Matlab
 Mathematica",,University of Bristol,makrina.agaoglou@bristol.ac.uk,"Dynamical Systems
@@ -2917,7 +2917,7 @@ Ecology
 Meteorology
 Climate science
 Information theory
-Statistical methods",2,3,1,0
+Statistical methods",1,3,2,1
 uludag/,"C, Java, Python",JavaScript,Software Developer,mahmut.uludag@kaust.edu.sa,Bioinformatics,0,0,0,0
 kanekalla,"R
 Python",,Northwestern University,kishore.anekalla@northestern.edu,"Bioinformatics
@@ -4459,7 +4459,13 @@ RDxR10,Python/C/Bash/MATLAB/Java/Solidity,Javascript/Typescript,Researcher/Stude
 No,"R, Python","SAS,","Biostatistician, MSc",urko.agirre@gmail.com,Biostatistics,0,0,0,0
 github.umn.edu/eric3722,"Python, Java, C, HTML, CSS, JavaScript, R, MATLAB",OCaml,Student,ericksonesthi@gmail.com,Human Computer Interaction,0,0,0,0
 saran-nns,Python,,"Universitat Heidelberg, Germany",saran@visiolab.io,"Deep learning , Machine learning, Neuroscience, Data science, Information theory, Dynamical systems, Computational Mathematics, Signal processing",0,0,0,0
-https://github.com/jmrozanec,"Java, Python",,Jožef Stefan Institute,jmrozanec@gmail.com,"machine learning
+jmrozanec,"Java, Python",,Jožef Stefan Institute,jmrozanec@gmail.com,"machine learning
 data management
-utilities"
+utilities",0,0,0,0
 Christovis,Python,"Fortran90, Julia",Durham University/ICC,chrbecker01@gmail.com,"N-Body simulations, Agent-Based modelling, Probabilistic programming,  Astrophysics/Cosmology"
+banditelol,Python,Javascript,Institut Teknologi Bandung,adityarputra@gmail.com,Machine Learning
+https://github.com/Naeemkh,Python,"Matlab
+R",University of Memphis,khoshnevis.naeem@gmail.com,"Applied Science
+Engineering
+Signal Processing
+OOP"
