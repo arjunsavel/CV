@@ -25,7 +25,7 @@ masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
 Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",0,7,1,0
 ctb,Python,C/C++,,,"bioinformatics, genomics, infrastructure, testing",0,3,0,0
 rmflight,R,Python,,,Bioinformatics,0,2,0,0
-luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,3,0
+luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,2,0
 conradsnicta,C++,,,,"machine learning, pattern recognition, computer vision",0,1,0,0
 Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epigenetics",0,0,0,0
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
@@ -50,7 +50,7 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,7,1,0
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,7,0,0
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,1,0,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
@@ -169,7 +169,7 @@ jsgalan,"Python
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
 Machine learning
 Bioinformatics
-Systems dynamics",1,8,3,1
+Systems dynamics",1,8,3,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,3,0,0
@@ -277,7 +277,7 @@ jhollist,R,,US EPA,hollister.jeff@epa.gov,"Ecology
 Environmental Science
 Geospatial
 Limnology
-Data Access/Wrapping existing APIs",0,3,1,0
+Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
@@ -297,7 +297,7 @@ tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, dat
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,1
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
-Quantitative Ecology",0,1,1,0
+Quantitative Ecology",0,1,0,0
 ben-williams,R,,"Alaska Department of Fish and Game, Commercial Fisheries",ben.williams@alaska.gov,Biological sciences,0,0,0,0
 earino,"R, python, Perl, C/++",All honesty,Facebook,earino@gmail.com,"Conflict, data science, big data",0,1,0,0
 andrewheiss,R,Python,Brigham Young University,andrewheiss@gmail.com,Politics,0,4,0,0
@@ -341,7 +341,7 @@ Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
 Software Engineering",0,1,1,0
-tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,3,2
+tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,3,1
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
 data visualization
@@ -594,7 +594,7 @@ benjamin-lee,Python,,Harvard University,benjamin_lee@college.harvard.edu,"Bioinf
 patatefritte,R,,Barcelona Institute of Global Health,serena.fossati@isglobal.org,"Epidemiology
 Public Health
 Medicine Statistic",0,0,0,0
-ha0ye,R,C++ (probably in the context of Rcpp),University of Florida,hao.ye@weecology.org,"time series analysis, statistics",0,1,1,0
+ha0ye,R,C++ (probably in the context of Rcpp),University of Florida,hao.ye@weecology.org,"time series analysis, statistics",0,1,0,0
 matthiaslein,Python,"Fortran, C",Victoria University of Wellington,matthias.lein@vuw.ac.nz,Computational Chemistry,0,0,0,0
 rasbt,pythoj,,University of Wisconsin-Madison (Assistant Professor of Statistics),mail@sebastianraschka.com,"deep learning, machine learning, statistics, computational biology",0,3,0,0
 aj2duncan,"R (including R Markdown, Bookdown and Shiny)",,Inverness College UHI (email: andrew.duncan.ic@uhi.ac.uk),andrew@aj2duncan.com,"Mathematics (including network analysis)
@@ -2756,7 +2756,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",0,3,3,1
+tidyverse",0,3,3,0
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -3238,7 +3238,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",0,1,1,1
+Finite Element Analysis",0,1,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",0,0,0,0
@@ -3454,7 +3454,7 @@ Simulation,
 Artificial Intelligence,
 Machine Learning,
 Time Series Forecasting",0,0,0,0
-ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",0,6,6,2
+ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",0,6,6,0
 kyq,"C++ 
 Matlab",,University of Edinburgh,e.valero@ed.ac.uk,"computer vision
 construction informatics
@@ -3472,7 +3472,7 @@ reinforcement learning
 meta learning
 optimization",0,0,0,0
 stevemacenski,"C++, python",,Samsung Research,stevenmacenski@gmail.com,robotics,0,0,0,0
-ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",0,6,6,2
+ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",0,6,6,0
 zethson,"Python, Java, Kotlin","Groovy, C++, html, css",Quantitative Biology Center Tübingen,lukas.heumos@posteo.net,"bioinformatics, machine learning, data science",0,0,0,0
 slayoo,Python,C++,"Jagiellonian University, Kraków, Poland",sylwester.arabas@uj.edu.pl,"differential equations, atmospheric science, Monte-Carlo methods",0,0,0,0
 No,"FORTRAN(OpenMP, MPI, CUDA)",Python,"INO-CNR BEC Center, University of Trento, Italy",arko.roy@unitn.it,Computer codes in Physics,0,0,0,0
@@ -4462,10 +4462,16 @@ saran-nns,Python,,"Universitat Heidelberg, Germany",saran@visiolab.io,"Deep lear
 jmrozanec,"Java, Python",,Jožef Stefan Institute,jmrozanec@gmail.com,"machine learning
 data management
 utilities",0,0,0,0
-Christovis,Python,"Fortran90, Julia",Durham University/ICC,chrbecker01@gmail.com,"N-Body simulations, Agent-Based modelling, Probabilistic programming,  Astrophysics/Cosmology"
-banditelol,Python,Javascript,Institut Teknologi Bandung,adityarputra@gmail.com,Machine Learning
+Christovis,Python,"Fortran90, Julia",Durham University/ICC,chrbecker01@gmail.com,"N-Body simulations, Agent-Based modelling, Probabilistic programming,  Astrophysics/Cosmology",0,0,0,0
+banditelol,Python,Javascript,Institut Teknologi Bandung,adityarputra@gmail.com,Machine Learning,0,0,0,0
 https://github.com/Naeemkh,Python,"Matlab
 R",University of Memphis,khoshnevis.naeem@gmail.com,"Applied Science
 Engineering
 Signal Processing
 OOP"
+https://github.com/KParas,"C++
+Python
+MATLAB","C++
+Python
+MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
+Mesh Generation"
