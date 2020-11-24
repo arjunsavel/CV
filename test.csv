@@ -179,7 +179,7 @@ Ecology
 Environmental Sciences",0,0,0,0
 jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,1,0,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
-Molecular Simulation",1,4,1,0
+Molecular Simulation",1,4,0,0
 kczimm,"go
 python","matlab
 octave",Marquette University,kevinczimmerman@gmail.com,"signal processing
@@ -1140,26 +1140,6 @@ Multi Regional Input Output Analysis (MRIO)
 Life Cycle Assessment (LCA)
 Other Quantitative Sustainability Software
 Economics",1,1,0,0
-rljacobson,"C
-C++
-Python
-Sage
-Mathematica
-Wolfram Language
-Java
-","JavaScript
-CoffeeScript
-SQL
-OCaml
-Cython
-Maple",Roger Williams University,rjacobson@rwu.edu,"Mathematics
-Computer Science
-Compilers
-Translators
-Interpreters
-Algorithms
-Computer Vision
-Data Science",0,2,1,0
 nathanlyons,python,,Tulane University,nlyons@tulane.edu,"geomorphology, tectonics",0,0,0,0
 margauxmouchene,Python,,CU Boulder,margaux.mouchene-1@colorado.edu,"Earth surface processes, hydrology, geomorphology, tectonics, surface dating, hillslope processes, natural hazards",0,0,0,0
 mikaem,"Python, C, C++",Fortran,"University of Oslo, Department of Mathematics",mikaem@math.uio.no,"Spectral methods, computational fluid dynamics, high performance computing, MPI, finite element methods",0,2,0,0
@@ -1792,7 +1772,7 @@ mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neu
 EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,1,1,0
 streeve,"Python
 C++","Matlab
-C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,1,1
+C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,1,0
 lauravana,R,,WU Vienna University of Economics and Business,laura.vana@wu.ac.at,"Statistical modeling, quantitative finance",0,0,0,0
 joao-lima,"C
 C++
@@ -1943,7 +1923,7 @@ Ice Nucleation
 Phase Transitions
 Computational Geometry
 Graph Theory
-Computational Optics",0,4,2,0
+Computational Optics",0,4,1,0
 N/A,"JavaScript
 Python",C# (C- Sharp),COMPUTER/NETWORK,MOHSEN.MOJRI@GMAIL.COM,Networking/Data science,0,0,0,0
 pratibhajagnere,Python,SQL,Python developer from last 10 years,pratibhajagnere@gmail.com,"Cyber security
@@ -4464,14 +4444,22 @@ data management
 utilities",0,0,0,0
 Christovis,Python,"Fortran90, Julia",Durham University/ICC,chrbecker01@gmail.com,"N-Body simulations, Agent-Based modelling, Probabilistic programming,  Astrophysics/Cosmology",0,0,0,0
 banditelol,Python,Javascript,Institut Teknologi Bandung,adityarputra@gmail.com,Machine Learning,0,0,0,0
-https://github.com/Naeemkh,Python,"Matlab
+Naeemkh,Python,"Matlab
 R",University of Memphis,khoshnevis.naeem@gmail.com,"Applied Science
 Engineering
 Signal Processing
-OOP"
+OOP",0,0,0,0
 https://github.com/KParas,"C++
 Python
 MATLAB","C++
 Python
 MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
 Mesh Generation"
+awvwgk,"Fortran
+Python","C
+C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
+Quantum Chemistry
+Electronic structure methods
+Atomistic simulations"
+elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
+Remote Sensing applications"
