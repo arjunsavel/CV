@@ -86,7 +86,7 @@ graphical user interface
 parallelization
 MPI
 climate science
-earth sciences",1,9,2,1
+earth sciences",1,9,2,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
 soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",1,6,1,0
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
@@ -876,7 +876,7 @@ mdpiper,"Python
 IDL
 Fortran","Java
 MATLAB",University of Colorado Boulder,mark.piper@colorado.edu,"Numerical modeling
-Data analysis",0,3,1,1
+Data analysis",0,3,1,0
 betteridiot,Python,"C/C++
 R
 JavaScript","University of Michigan, Department of Computational Medicine & Bioinformatics",mdsherman@betteridiot.tech,"Genetics
@@ -4449,17 +4449,18 @@ R",University of Memphis,khoshnevis.naeem@gmail.com,"Applied Science
 Engineering
 Signal Processing
 OOP",0,0,0,0
-https://github.com/KParas,"C++
+KParas,"C++
 Python
 MATLAB","C++
 Python
 MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
-Mesh Generation"
+Mesh Generation",0,0,0,0
 awvwgk,"Fortran
 Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations"
+Atomistic simulations",0,0,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications"
+katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology"
