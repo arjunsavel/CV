@@ -1296,7 +1296,7 @@ kmarkert,Python,Javascript,The University of Alabama in Huntsville,kel.markert@g
 crew102,"R, Python",Java,Virgina Tech Applied Research Corporation,chriscrewbaker@gmail.com,General software development and data science tools/topics,0,1,0,0
 aquilesC,python,matlab,Uetke.com,aquiles@uetke.com,"Physics
 Instrumentation
-Optics",2,3,0,0
+Optics",1,3,1,1
 igarizio,Python,,,iacopo.garizio@gmail.com,"Economics
 Game theory
 Matching algorithms",0,2,2,0
@@ -1583,7 +1583,7 @@ Fortran",University of California Davis,rene.gassmoeller@mailbox.org,"Geodynamic
 Geosciences
 High-perfomance computing
 Finite-element methods
-Particle methods",0,4,3,2
+Particle methods",0,4,3,1
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
@@ -1701,7 +1701,7 @@ C","Dask
 R
 Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",1,3,0,0
 mwcraig,Python,,Minnesota State University Moorhead ,mattwcraig@gmail.com,"Astronomy
-ipywidgets",1,3,1,0
+ipywidgets",0,3,2,1
 ceb8,Python,"C/C++/C#
 Javascript
 Perl",Space Telescope Science Institute,cebrasseur@gmail.com,"Astronomy, Mathematics, Cryptography",0,1,1,0
@@ -2288,7 +2288,7 @@ chpriyal,"C++
 Python
 Verilog
 Bluespec Verilog",,BITS Pilani,f20160378@goa.bits-pilani.ac.in,Computer Architecture,0,0,0,0
-caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",1,1,0,0
+caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,1,1
 dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,0,0,0
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
@@ -3406,7 +3406,7 @@ shell
 CMake",Karlsruhe Institute of Technology,pratik.nayak@kit.edu,"Numerical Linear Algebra
 Computational Fluid Dynamics
 High Performance Computing
-Finite Element Methods",1,2,1,1
+Finite Element Methods",1,2,1,0
 brianjimenez,"Python
 C",,Postdoctoral Research and RSE at Utrecht University,br.jimenezgarcia@gmail.com,"Computational biology
 Computational chemistry
@@ -3627,7 +3627,7 @@ Matlab",Karlsruhe Institute of Technology,pratikvn@protonmail.com,"High Performa
 GPU computing
 Computational Fluid dynamics
 Finite Element Methods
-Numerical Linear Algebra",1,2,1,1
+Numerical Linear Algebra",1,2,1,0
 rowlandm,Any,any,University of Melbourne,rowland.h.mosbergen@gmail.com,"Bioinformatics, systems and data viz",0,1,1,1
 Colindaven,"Python, bash, Java",,Hannover Medical School,colindaven@hotmail.com,"Genomics, epigenomics, long reads, snv calling",0,0,0,0
 dspelaez,Python,Fortran,University College Dublin,daniel.pelaez-zapata@ucdconnect.ie,Physical Oceanography,0,0,0,0
@@ -4462,5 +4462,5 @@ Quantum Chemistry
 Electronic structure methods
 Atomistic simulations",0,0,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
-Remote Sensing applications"
+Remote Sensing applications",0,0,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology"
