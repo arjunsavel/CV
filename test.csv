@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,7,1,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",0,2,2,0
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,3,2,0
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,0,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,1
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -44,7 +44,7 @@ benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducib
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",1,2,0,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,1,0
-hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,1,1
+hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,1,0
 sgrieve,"C++, Python",C,,,"geoscience, environmental science, hydrology, GIS, spatial analysis",0,5,0,0
 arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary differential equations, GPU computing",0,3,0,0
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
@@ -101,7 +101,7 @@ machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,1,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,1,0,0
-CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,2,0,0
+CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",0,2,1,1
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
 cheminformatics
@@ -152,7 +152,7 @@ web and cloud infrastructure
 HPC
 informatics and neuroinformatics
 image processing
-machine learning",0,6,1,0
+machine learning",0,6,0,0
 ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",0,0,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,5,2,0
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,2,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,0,0,0
@@ -2930,7 +2930,7 @@ Numerical Methods
 Electromagnetics",0,0,0,0
 s0nata,Java,"prolog, python",EPFL,s0nata@protonmail.com,"Software Engineering
 Natural Language Processing",0,0,0,0
-petroniocandido,"Python, Java, C#","C, C++",Instituto Federal do Norte de Minas Gerais - IFNMG,petronio.candido@ifnmg.edu.br,"Forecasting, Fuzzy Systems, Evolutionary Algorithms, Neural Networks",0,1,1,1
+petroniocandido,"Python, Java, C#","C, C++",Instituto Federal do Norte de Minas Gerais - IFNMG,petronio.candido@ifnmg.edu.br,"Forecasting, Fuzzy Systems, Evolutionary Algorithms, Neural Networks",0,1,1,0
 seisman,"C
 Python",,Michigan State University,tiandong@msu.edu,"Geophysics
 Seismology",1,3,2,0
@@ -3485,7 +3485,7 @@ AnjaliSandip/,"Python, Fortran, Matlab, Bash",C,University of North Dakota,asand
 Path2Genome,"R，Perl, Python",shell,path2genome.org,ms_mail@163.com,"biological
 medical",0,0,0,0
 Domdfcoding,Python,,Staffordshire University,dominic@davis-foster.co.uk,"Sciences, especially chemistry",0,0,0,0
-jdmoorman,python,,UCLA Department of Mathematics,jacob@moorman.me,linear algebra,0,0,0,0
+jdmoorman,python,,UCLA Department of Mathematics,jacob@moorman.me,linear algebra,1,1,0,0
 billchenxi,"Python, R","C++, Matlab",University of Kentucky,billchenxi@gmail.com,"Machine learning, Data science",0,0,0,0
 x,x,x,x,x@x.com,x,0,0,0,0
 SebastianoF,Python,"go, rust",Independent researcher,sebastiano.ferraris@gmail.com,"medical imaging
@@ -3712,7 +3712,7 @@ Electromagnetic Theory
 Computational Electromagnetics
 Terahertz Sensing
 2D Materials
-Antenna Theory and Design",1,1,0,0
+Antenna Theory and Design",0,1,1,1
 kegiljarhus,"Python
 Fortran
 C++","C
@@ -3934,7 +3934,7 @@ TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science,
 sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,1,1
 j-andrews7,"python
 R",bash,,jared.andrews@stjude.org,"Bioinformatics
-Genomics",0,0,0,0
+Genomics",1,1,0,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
 neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,1,0,0
@@ -4213,7 +4213,7 @@ telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
-Genomics",0,0,0,0
+Genomics",1,1,0,0
 reSHARMA,C++,"C
 bash",AMD,reshabhsh@gmail.com,"Compiler
 System
@@ -4327,7 +4327,7 @@ Perl
 Javascript",Purdue University,xie186@purdue.edu,"Bioinformatics
 Genomics
 Genetics
-Sequencing",0,0,0,0
+Sequencing",1,1,0,0
 richelbilderbeek,"R
 C++",C,"MIMY, GBB, University of Groningen",richel@richelbilderbeek.nl,"Phylogenetics
 Immunology",0,0,0,0
@@ -4464,3 +4464,6 @@ Atomistic simulations",0,0,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,0,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology"
+omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics"
+mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods"
+wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic"
