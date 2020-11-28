@@ -1154,7 +1154,7 @@ camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of 
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
-neuroimaging",1,7,2,2
+neuroimaging",1,7,2,1
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",1,5,2,0
@@ -2311,7 +2311,7 @@ Dark Matter
 Particle Physics",1,1,0,0
 hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",0,3,3,1
 aasensio,"Python, Fortran, IDL",,Instituto de Astrofísica de Canarias,aasensio@iac.es,Solar physics,0,0,0,0
-olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,1,1
+olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,1,0
 Suchitakulkarni,Python,,Austrian academy of sciences,suchita.kulkarni@gmail.com,Particle physics,0,0,0,0
 warrickball,"Python
 Fortran",,"School of Physics and Astronomy, University of Birmingham",W.H.Ball@bham.ac.uk,"Stellar modelling
@@ -2421,7 +2421,7 @@ Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,2,2,2
-zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,2
+zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,1
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",0,1,1,0
@@ -2479,7 +2479,7 @@ R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
 Scholarly communications",0,0,0,0
-DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",1,3,2,1
+DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",1,3,2,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
 smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"computational biology, bioinformatics",0,0,0,0
@@ -2860,7 +2860,7 @@ lbugnon,Python,"Matlab/octave
 C++","sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence",lbugnon@sinc.unl.edu.ar,"Bioinformatics
 Machine Learning
 Signal/image processing
-Biomedical signals",0,1,1,0
+Biomedical signals",1,2,1,0
 Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOAM
 Multiphase flow
 CFD
@@ -3578,7 +3578,7 @@ robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",0,2,2,1
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,2,0
-olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,1
+olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,2,1
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,2
 mberacochea,"python
@@ -3857,7 +3857,7 @@ Julia
 R",,Shahid Beheshti University,amir.h.hadian@gmail.com,"Cognitive Sciences
 Scientific Computing
 Brain Data Analysis",0,0,0,0
-justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,1,1,1
+justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",1,2,1,1
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,1,0,0
@@ -4385,7 +4385,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,0,0,0
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",1,1,0,0
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -4463,7 +4463,7 @@ Electronic structure methods
 Atomistic simulations",0,0,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,0,0,0
-katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology"
-omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics"
-mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods"
+katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
+omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,0,0,0
+mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
 wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic"
