@@ -2,7 +2,7 @@ username,Preferred Programming Languages,Other Programming Languages,affiliation
 ----------------------,----------------------,----------------------,----------------------,----------------------,----------------------
 tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0,6,2,1
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",1,6,1,0
-wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,1
+wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
 amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,2,1
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,1,0
@@ -485,7 +485,7 @@ CUDA",Michigan State University,ajacobs@pa.msu.edu,"Astronomy
 Astrophysics
 Physics
 Fluid Dynamics
-Stiff ODE solvers (e.g. for reactions)",0,1,1,1
+Stiff ODE solvers (e.g. for reactions)",0,1,1,0
 clemaitre58,"C++
 Python",Matlab,Apeira Technologies,c.lemaitre@apeira-technologies.fr,"Computer Vision
 Data minirg
@@ -543,7 +543,7 @@ darrendahly,R,,University College Cork,ddahly@ucc.ie,"Biostats
 Epidemiology",0,0,0,0
 dhaine,R,Stata,Freelance consultant,denis.haine@gmail.com,Epidemiology,0,0,0,0
 tomfaulkenberry,R,Python,Tarleton State University,faulkenberry@tarleton.edu,"Psychology
-Biostatistics",0,5,2,1
+Biostatistics",0,5,2,0
 joongsup,R,,AT&T,jaylee@att.com,"Statistical process control, R work flow with other big data tools",0,0,0,0
 Gweissman,"R, Python",,"Perelman School of Medicine, University of Pennsylvania",gary.weissman@uphs.upenn.edu,"Medicine, clinical informatics, predictive models, NLP",0,0,0,0
 Suresh-lab,"R, C++, Matlab, C","Python, Perl, Java ",Johns Hopkins University ,ksuresh2@jhmi.edu,"Medicine, especially processing of microscopic images, analysis of sequencing data, statistical modeling",0,0,0,0
@@ -860,7 +860,7 @@ Matlab",Western University ,cdegroo5@uwo.ca,"Computational fluid dynamics (CFD)
 Mathematical modelling
 Mechanical engineering
 Chemical engineering
-Automatic differentiation",0,4,0,0
+Automatic differentiation",1,5,0,0
 AksanBA,"Python
 R",,,brian.akperi@gmail.com,,0,0,0,0
 lucydot,Python,,Imperial College London,lucywhalley@gmail.com,Computational materials science,0,3,0,0
@@ -1334,7 +1334,7 @@ Regression",0,0,0,0
 andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey.smelter@gmail.com,"Bioinformatics, Software Engineering",0,2,0,0
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
-sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,2,1
+sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,2,0
 standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,2,2,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
@@ -1349,7 +1349,7 @@ KedoKudo,Python,"C
 Fortran",Carnegie Mellon University,chenz3@andrew.cmu.edu,"high-energy X-ray diffraction
 crystal plasticity
 finite element
-dislocation dynamics",0,2,1,1
+dislocation dynamics",0,2,1,0
 jdeligt,"C++
 Java
 Python
@@ -2004,7 +2004,7 @@ data mining
 ensemble learning
 outlier detection
 machine learning libraries",0,1,1,0
-ali-ramadhan,"Julia, Python","C, C++, MATLAB, Javascript, Java",Massachusetts Institute of Technology,alir@mit.edu,"scientific computing, climate science, atmospheric science, oceanography, computational fluid dynamics, physics, mathematics, numerical methods, statistics, data analysis",0,2,2,1
+ali-ramadhan,"Julia, Python","C, C++, MATLAB, Javascript, Java",Massachusetts Institute of Technology,alir@mit.edu,"scientific computing, climate science, atmospheric science, oceanography, computational fluid dynamics, physics, mathematics, numerical methods, statistics, data analysis",0,2,2,0
 alcantarar,"MATLAB
 ","Python
 R",University of Colorado Boulder,ryan.alcantara@colorado.edu,"Biomechanics
@@ -2886,7 +2886,7 @@ Javascript","Prolog
 Ruby
 Go",Arizona State University,douglas.g.moore@asu.edu,"Physics
 Applied Mathematics
-Biology",0,0,0,0
+Biology",1,1,0,0
 arbennett,"Python
 Fortran
 Julia
@@ -3131,7 +3131,7 @@ Formal Methods",0,0,0,0
 jayten,"FORTRAN 90
 Python",,"Indian Institute of Technology Madras, India",jayten010@gmail.com,"Computational Fluid Dynamics
 Transition modeling
-LES/RANS simulation",0,0,0,0
+LES/RANS simulation",1,1,0,0
 fccoelho,Python,"Javascript, D",Fundação Getulio Vargas,fccoelho@gmail.com,"Math, statistics, NLP, machine learning",0,1,1,0
 shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data visualization
 computing education
@@ -3176,7 +3176,7 @@ scleveland,"Javascript
 Python
 Ruby",,University of Hawaii,seanbc@hawaii.edu,"Cyberinfrastructure
 Bioinformatics",0,0,0,0
-adam-m-jcbs,"python, Fortran, C/C++, CUDA, bash/shell","AWS code, web languages, Go, R",Stony Brook University,adam.m.jcbs@gmail.com,"computational fluid dynamics, gpu acceleration, cloud-native deployments, performance optimization, containerization",0,1,1,1
+adam-m-jcbs,"python, Fortran, C/C++, CUDA, bash/shell","AWS code, web languages, Go, R",Stony Brook University,adam.m.jcbs@gmail.com,"computational fluid dynamics, gpu acceleration, cloud-native deployments, performance optimization, containerization",0,1,1,0
 macrocosme,python,"html, javascript, c++, cuda, opencl","ASTRON, Netherlands Institute for Radio Astronomy",vohl@astron.nl,"visualisation, image processing, search pipelines (e.g. source finding), modelling, data compression, high performance computing",0,1,1,1
 GISerDaiShaoqing,R,Python,"Deparement of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente",dsq1993qingge@163.com,Geography and Spatial Statistics,0,0,0,0
 ABCD,PHP,HTML,LOCATION,JIEKUMAJAYA@GMAIL.COM,BROJOURNAL,0,0,0,0
@@ -3543,7 +3543,7 @@ Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
 Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",1,2,1,1
-zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,0,1,1,1
+zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,0,1,1,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
 Symbolic Regression
@@ -3762,7 +3762,7 @@ keurfonluu,Python,Fortran,Berkeley Lab,keurfonluu@outlook.com,Geophysics,0,0,0,0
 marcjwilliams1,"R
 julia",python,Memorial Sloan Kettering Cancer Center,marcjwilliams1@gmail.com,"Bioinformatics
 Computational Biology
-Bayesian Inference",1,1,0,0
+Bayesian Inference",2,2,0,0
 ldominguezruben,Python,Matlab,Universidad Nacional del Litoral,ldominguez@fich.unl.edu.ar,"Hydraulics, earth landforms and processes, geomorphology",0,0,0,0
 bastinrobin,Python,Go,CleverInsight,bastinrobins@gmail.com,Data Science,0,0,0,0
 Athanasiamo,"R
@@ -4468,10 +4468,10 @@ omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Fin
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
 wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic",0,0,0,0
 navdeep-G,"Python, R, Java","C,C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, statistics",0,0,0,0
-BraMurgas,"Python, c++",Fortran,Cemef - Mines Paris Tech,brayan.murgas@mines-paristech.fr,Microstructure evolution
+BraMurgas,"Python, c++",Fortran,Cemef - Mines Paris Tech,brayan.murgas@mines-paristech.fr,Microstructure evolution,0,0,0,0
 sptennak,Python,"Java
 C++
-C#",,sumudutennakoon@gmail.com,Data Science
+C#",,sumudutennakoon@gmail.com,Data Science,0,1,1,0
 sptennak,Python,"Java
 C++
 C#",,sumudutennakoon@gmail.com,"Data Science
@@ -4480,9 +4480,16 @@ Deep Learning
 Physics
 Materials Science
 Signal Processing
-Mineral Physics"
+Mineral Physics",0,1,1,0
 iammix,Python,,Aristotle University Of Thessaloniki,k.mixios@gmail.com,"Applied Mechanics
 Finite Element Method
-Structural Analysis"
+Structural Analysis",0,0,0,0
 josehd,Python,,,josehd@cio.mx,"Optics
 Mathematics"
+sabinomaggi,"Fortran, Python, R","Mathematica, AWK, bash",CNR National Research Council,sabino.maggi@cnr.it,"physics/solid state/superconductivity
+physics/solid state
+data analysis
+data visualization"
+kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
+renewable energy"
+slybloty,python,,N/A,slybloty@gmail.com,N/A
