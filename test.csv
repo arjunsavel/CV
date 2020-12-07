@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",1,6,1,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,2,1
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,2,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,1,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,1,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,1,0
@@ -439,7 +439,7 @@ Computational biology
 Sequence analysis
 Genome analysis
 Evolution
-Ecology",1,4,1,0
+Ecology",0,4,2,1
 hainesr,"Ruby
 Java
 C
@@ -1064,7 +1064,7 @@ Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
 Physics simulators",0,5,0,0
-GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",1,4,1,1
+GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,2,2
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,1,0
 HaoZeke,"C++
 Rust
@@ -3024,7 +3024,7 @@ HTML
 SQL",C,Argonne National Laboratory,atanikanti@anl.gov,"Computer Science
 Data Science
 Machine Learning
-HPC",1,2,1,1
+HPC",0,2,2,2
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,2,1
 mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",1,2,1,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
@@ -3097,7 +3097,7 @@ C++","R
 C",Argonne National Labratory,aditya.tanikanti@gmail.com,"Data Science
 Computer Science
 Information Technology
-Dev Ops",1,2,1,1
+Dev Ops",0,2,2,2
 fpl,"Python, Perl, C, C++, R","Java, Javascript,",CNR IREA,francesco.lovergine@cnr.it,"geospatial, numerical analysis, machine learning, statistics",0,0,0,0
 github.com/Paul92,"C++, Python, C",,EPFL,paul.gafton@gmail.com,"Computer Vision, Machine Learning",0,0,0,0
 paulotome,c,Common Lisp,none,paulo.jorge.tome@gmail.com,Linux,0,0,0,0
