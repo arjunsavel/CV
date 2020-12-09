@@ -1822,7 +1822,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",0,3,3,1
+simulation technology",0,3,3,0
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -3190,7 +3190,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",0,3,3,1
+applied mathematics (numerical integration of ODEs, etc.)",0,3,3,0
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 hanayik,Python,"MATLAB
 Javascript","University of Oxford, Wellcome Center for Integrative Neuroimaging",taylor.hanayik@ndcn.ox.ac.uk,"MRI processing
@@ -3824,7 +3824,7 @@ Earth System Modeling",0,0,0,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
-Python",,Universidad Politécnica de Cartagena (UPCT),avigueras.rodriguez@upct.es,"Urban Hydraulic, Wind power, Hydropower, CFD",0,1,1,1
+Python",,Universidad Politécnica de Cartagena (UPCT),avigueras.rodriguez@upct.es,"Urban Hydraulic, Wind power, Hydropower, CFD",0,1,1,0
 ajoer,Python,,University of Amsterdam,a.jorgensen@uva.nl,"Social science, digital humanities, Natural language processing, data engineering",0,0,0,0
 Jgeller112,R Python,NA,Rutgers Univerisy,jason.geller1@rutgers.edu,Eye tracking Pupillometry,0,0,0,0
 tpeulen,Python,C/C++,University of California San Francisco,thomas-otavio.peulen@ucsf.edu,"Biophysics
@@ -4519,20 +4519,29 @@ AI Embedded Computing
 SAT solvers
 Sensor Fusion Algorithms
 Digital Signal Processing",0,0,0,0
-https://github.com/praveenkumarpgiindia,"Python
+praveenkumarpgiindia,"Python
 R
 Unix","Python
 R","DM Clinical Pharmacology Resident, Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh",praveenkumarpgiindia@gmail.com,"Clinical trial
 Metaanalysis
 Healthcare programs
 Medical Simulation
-Pharmacokinetics"
-@Nathaniel-Haines,"R
+Pharmacokinetics",0,0,0,0
+Nathaniel-Haines,"R
 Stan",,The Ohio State University,haines.175@osu.edu,"Cognitive Science
 Computational Modeling
 Simulation
-Task Design"
+Task Design",0,0,0,0
 kgoebber,Python,Python,Valparaiso University,kevin.goebbert@valpo.edu,"atmospheric science
 climate science
-meteorology"
+meteorology",0,0,0,0
 bernardsilenou,R,,Mr,bernard.silenou@helmholtz-hzi.de,Statistics
+raghurama123,"Fortran, Python, Octave",Julia,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry
+Materials Science
+Quantum Mechanics
+Quantum Chemistry
+Density Functional Theory"
+pgg1610,Python,R,Graduate Research Assistant,pghaneka@purdue.edu,"Catalysis
+Material Science
+Reaction engineering
+Kinetics"
