@@ -25,7 +25,7 @@ masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
 Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",0,7,1,0
 ctb,Python,C/C++,,,"bioinformatics, genomics, infrastructure, testing",0,3,0,0
 rmflight,R,Python,,,Bioinformatics,0,2,0,0
-luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,2,0
+luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,1,0
 conradsnicta,C++,,,,"machine learning, pattern recognition, computer vision",0,1,0,0
 Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epigenetics",0,0,0,0
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
@@ -4544,10 +4544,10 @@ Density Functional Theory",0,0,0,0
 pgg1610,Python,R,Graduate Research Assistant,pghaneka@purdue.edu,"Catalysis
 Material Science
 Reaction engineering
-Kinetics"
-https://github.com/EtienneCmb,Python,Matlab,"Aix-Marseille University, Institut de Neurosciences de la Timone",e.combrisson@gmail.com,"Visualization
+Kinetics",0,0,0,0
+EtienneCmb,Python,Matlab,"Aix-Marseille University, Institut de Neurosciences de la Timone",e.combrisson@gmail.com,"Visualization
 Information Theory
 Phase Amplitude Coupling
 Machine learning
-Signal Processing"
+Signal Processing",0,0,0,0
 dxm447,Python,MATLAB,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy, Image Analysis"
