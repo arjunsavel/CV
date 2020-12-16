@@ -1988,7 +1988,7 @@ Bash
 Mathematica
 PHP",DESY,dmitriy.kostunin@desy.de,Astroparticle physics,0,0,0,0
 brynpickering,Python,,ETH Zurich,brynmorpickering@gmail.com,"Energy system optimisation
-Demand modelling",1,2,1,0
+Demand modelling",0,2,2,1
 fstdesk,php,,,tindeks@gmail.com,,0,0,0,0
 puolival,Python,MATLAB,University of Helsinki,tuomas.puolivali@ieee.org,"Signal processing
 Neuroscience
@@ -2467,7 +2467,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",1,2,1,0
+visualisation",0,2,2,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,1,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -4567,6 +4567,19 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music"
-jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models."
+Computers in Art, Design, and Music",0,0,0,0
+jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis"
+https://github.com/andrewryh/,"Python
+C++",Fortran,Argonne National Laboratory,arykhlevskii@anl.gov,Scientific software for nuclear or mechanical engineering
+@somefunagba,"MATLAB
+C++
+C","Python
+Java",Federal University of Technology Akure,oasomefun@futa.edu.ng,"Control
+Signal Processing
+Machine Learning
+Optimization"
+iturki,"Java
+PHP",Python,University of Hafr Al-Batin,turki@uhb.edu.sa,"Software metrics
+Software refactoring
+Software maintainability"
