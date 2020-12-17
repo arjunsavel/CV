@@ -2106,7 +2106,7 @@ numerical methods
 machine learning
 molecular dynamics
 enhanced sampling
-biophysics",1,2,0,0
+biophysics",0,2,1,1
 pythonpanda2,Python,-,ARGONNE NATIONAL LABORATORY,cet.ganesh@gmail.com,"MATERIAL SCIENCE, BIOPHYSICS",1,1,0,0
 SuperKam91,"Python, C++, Fortran",Bash Shell Script,University of Cambridge,kj316@mrao.cam.ac.uk,"Bayesian Inference, MCMC, Statistics, Machine Learning",0,0,0,0
 pythonpanda2,Python,,ARGONNE NATIONAL LABORATORY,gsivaraman@anl.gov,"Computational Material Science, Data Science, Materials Informatics, Cheminformatics, Biophysics",1,1,0,0
@@ -4569,17 +4569,26 @@ Machine Learning
 Logic Programming
 Computers in Art, Design, and Music",0,0,0,0
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
-glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis"
-https://github.com/andrewryh/,"Python
-C++",Fortran,Argonne National Laboratory,arykhlevskii@anl.gov,Scientific software for nuclear or mechanical engineering
-@somefunagba,"MATLAB
+glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
+andrewryh/,"Python
+C++",Fortran,Argonne National Laboratory,arykhlevskii@anl.gov,Scientific software for nuclear or mechanical engineering,0,0,0,0
+somefunagba,"MATLAB
 C++
 C","Python
 Java",Federal University of Technology Akure,oasomefun@futa.edu.ng,"Control
 Signal Processing
 Machine Learning
-Optimization"
+Optimization",0,0,0,0
 iturki,"Java
 PHP",Python,University of Hafr Al-Batin,turki@uhb.edu.sa,"Software metrics
 Software refactoring
 Software maintainability"
+sigvaldm,"Python
+C
+C++
+Fortran",Haskell,University of Oslo,sigvald@marebakken.com,"Computational Physics
+Plasma Physics
+Numerical Methods
+Finite Element Method
+Particle-In-Cell"
+spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology"
