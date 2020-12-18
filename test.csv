@@ -34,9 +34,9 @@ mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, D
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,1,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,1,0
-kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,7,1,0
+kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",1,8,1,0
 pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC",0,2,0,0
-arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,1,1
+arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,1,0
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",1,2,0,0
@@ -586,7 +586,7 @@ Physics
 Web technologies
 Cloud technologies
 Machine learning",0,4,1,0
-jacobsoj,R,None,"Queen's University, Canada",jill.jacobson@queensu.ca,"Statistics/multiple regression, structural equation modeling, factor analysis, multilevel modeling, reliability, assumptions, statistical power, effect size, confidence intervals, meta-analysis.",0,1,1,1
+jacobsoj,R,None,"Queen's University, Canada",jill.jacobson@queensu.ca,"Statistics/multiple regression, structural equation modeling, factor analysis, multilevel modeling, reliability, assumptions, statistical power, effect size, confidence intervals, meta-analysis.",0,1,1,0
 wahls,"C
 Matlab",,TU Delft,s.wahls@tudelft.nl,"Signal processing
 Control",0,0,0,0
@@ -1213,7 +1213,7 @@ melund,"Python
 Xonsh
 AnyScript",C,AnyBody Technology A/S,melund@gmail.com,"Biomechanics
 Musculoskeletal modeling
-Data visualisation",0,3,1,0
+Data visualisation",1,4,0,0
 mufi-ibrahimjee,java,"c++, c",no,mufaddaljamaly2752@gmail.com,hypervisor,0,0,0,0
 darogan,"Python, R, Perl","C, PHP",University of Cambridge (UK),rsh46@cam.ac.uk,"Bioinformatics, Computational Biology",0,1,0,0
 atla5,"python
@@ -1401,7 +1401,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,1,1,0,0
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,1,1,1
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",0,1,1,0
@@ -2610,7 +2610,7 @@ tillsten,python,,Freie Universität Berlin,tillsten@zedat.fu-berlin.de,"spectros
 fitting",0,0,0,0
 edonnachie,R,,"University of Tübingen, Germany",ewan@donnachie.net,"applications in health services research
 data visualisation
-applied statistical methods",0,1,1,1
+applied statistical methods",0,1,1,0
 b-freitas,"Python
 Javascript
 C",Java,,bfreitas.ita@gmail.com,"machine learning
@@ -3427,7 +3427,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",0,0,0,0
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,1,1,0,0
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,1,1,1
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -3784,7 +3784,7 @@ joshia5,"C++
 Fortran 90",MATLAB,PhD Student,joshia5@rpi.edu,"Finite Element Analysis
 Computational Fluid Dynamics
 Scientific Computation",0,0,0,0
-jaeyk,R,Python,"University of California, Berkeley",jaeyeonkim@berkeley.edu,"programs for data wrangling, visualization, modeling, text analysis, and machine learning",0,1,1,1
+jaeyk,R,Python,"University of California, Berkeley",jaeyeonkim@berkeley.edu,"programs for data wrangling, visualization, modeling, text analysis, and machine learning",0,1,1,0
 marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and Northern Arizona University",daniel@mardascience.com,"geomorphology, remote sensing, hydrology, oceanography, machine learning, deep learning",0,0,0,0
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
 daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,2,2
@@ -3803,7 +3803,7 @@ chainsawriot,R,"Lisp
 Python",Mannheimer Zentrum für Europäische Sozialforschung,chung-hong.chan@mzes.uni-mannheim.de,"social science
 communication studies
 political science
-digital humanties",0,1,1,1
+digital humanties",0,1,1,0
 reality,"Groovy
 Go
 OWL
@@ -4582,7 +4582,7 @@ Optimization",0,0,0,0
 iturki,"Java
 PHP",Python,University of Hafr Al-Batin,turki@uhb.edu.sa,"Software metrics
 Software refactoring
-Software maintainability"
+Software maintainability",0,0,0,0
 sigvaldm,"Python
 C
 C++
@@ -4590,5 +4590,5 @@ Fortran",Haskell,University of Oslo,sigvald@marebakken.com,"Computational Physic
 Plasma Physics
 Numerical Methods
 Finite Element Method
-Particle-In-Cell"
+Particle-In-Cell",0,0,0,0
 spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology"
