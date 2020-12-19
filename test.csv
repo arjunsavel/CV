@@ -1901,7 +1901,7 @@ sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
-Physics (plasmas, especially)",0,1,1,1
+Physics (plasmas, especially)",0,1,1,0
 clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
@@ -2420,7 +2420,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,2,2,2
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,2,2,1
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,1
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -3340,7 +3340,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",1,2,1,0
+    - Sequence alignment",0,2,1,0
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -3928,7 +3928,7 @@ dalg24,"C++, Python",,,lebrungrandt@ornl.gov,"Geometric search, finite elements,
 avakiai,"R
 Matlab
 NeuroBS Presentation",,,avakiai@gmail.com,"cognitive neuroscience, experimental psychology, behavioral neuroscience",0,0,0,0
-xyzmjf,"Python (Perl, PHP, C)","PHP, Perl, C",,markf.mail@gmail.com,"Cheminformatics, protein sequence & structure, bioinformatics, molecular simulations.",1,1,0,0
+xyzmjf,"Python (Perl, PHP, C)","PHP, Perl, C",,markf.mail@gmail.com,"Cheminformatics, protein sequence & structure, bioinformatics, molecular simulations.",0,1,0,0
 rosoport,matlab,"c, java, python",,rosoport@gmail.com,"linear algebra, numerical computing, geophysics",0,0,0,0
 TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",0,0,0,0
 sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,1,1
@@ -4591,4 +4591,24 @@ Plasma Physics
 Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,0,0,0
-spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology"
+spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,0,0,0
+rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines"
+qpmnguyen,"R
+Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
+Bioinformatics
+Statistics"
+evetion,"python
+julia",,Deltares,git@evetion.nl,"GIS
+HPC
+remote sensing
+computational geometry"
+@JDRomano2,"Python
+C++
+R","C
+Java
+Javascript",University of Pennsylvania,joseph.romano@pennmedicine.upenn.edu,"Knowledge discovery
+Knowledge extraction
+Ontologies
+Bioinformatics
+Data integration
+Machine Learning / Artificial Intelligence"
