@@ -1089,7 +1089,7 @@ data management
 machine learning",0,1,1,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
-machine learning",0,2,1,0
+machine learning",0,2,0,0
 gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,1,0,0
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,1
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
@@ -1692,7 +1692,7 @@ Computational Fluid Dynamics
 Fluid-Structure Interaction
 Structural Dynamics",3,6,2,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
-TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,2,2,1
+TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,2,1,1
 shreyasbapat,"Python
 JavaScript
 Rust
@@ -2783,7 +2783,7 @@ Telephony
 Messaging",0,0,0,0
 sthyjuyhtgrf,fdghjh,dfhgjjhg,sedghjhgf,demovrus1985@gmail.com,dfghgtf,0,0,0,0
 aureliocarnero,Python,C++,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
-Cosmology",1,5,3,0
+Cosmology",1,5,2,0
 Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"Geology, machine learning, geophysics",0,0,0,0
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
@@ -3001,7 +3001,7 @@ Neuroscience
 Genomics
 Quantitative Finance",0,0,0,0
 aureliocarnero,"Python, C++",,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
-Astronomy",1,5,3,0
+Astronomy",1,5,2,0
 mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",0,0,0,0
 mbdemoraes,"python
 c
@@ -4592,17 +4592,17 @@ Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,0,0,0
 spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,0,0,0
-rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines"
+rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,0,0,0
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
 Bioinformatics
-Statistics"
+Statistics",0,0,0,0
 evetion,"python
 julia",,Deltares,git@evetion.nl,"GIS
 HPC
 remote sensing
-computational geometry"
-@JDRomano2,"Python
+computational geometry",0,0,0,0
+JDRomano2,"Python
 C++
 R","C
 Java
@@ -4611,4 +4611,9 @@ Knowledge extraction
 Ontologies
 Bioinformatics
 Data integration
-Machine Learning / Artificial Intelligence"
+Machine Learning / Artificial Intelligence",0,0,0,0
+https://github.com/jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
+Machine Learning
+Signal Processing
+Time Series"
+marwanalam2,Python,VASP,University of the Punjab,macssp18@gmail.com,Computational Physics
