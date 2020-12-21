@@ -1279,7 +1279,7 @@ PhilipVinc,"C++
 Julia","Python
 Matlab","Laboratoire Matériaux et Phénomènes quantiques, Université Paris 7 Diderot, Paris, France",filippo.vicentini@univ-paris-diderot.fr,"Physics
 Quantum Optics
-Langevin Dynamics",0,1,1,0
+Langevin Dynamics",0,1,0,0
 goerz,"Python
 Fortran",Julia,U.S. Army Research Lab,mail@michaelgoerz.net,"quantum physics
 quantum chemistry
@@ -1609,7 +1609,7 @@ Air Traffic Management
 Data Science
 Machine Learning
 Optimisation Research
-Geographic Information Systems",0,1,1,0
+Geographic Information Systems",0,1,0,0
 wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"heliophysics, space science, astrophysics, machine learning",0,0,0,0
 giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,1,0,0
 gvegayon,"R
@@ -1848,7 +1848,7 @@ Python
 C
 Pascal",C++,University of Bristol,david.barton@bristol.ac.uk,"Applied mathematics
 Dynamical systems
-Differential equations",0,3,3,0
+Differential equations",0,3,2,0
 javalosp,Python,Fortran,"Department of Earth Science and Engineering, Imperial College London",jea4117@ic.ac.uk,"Numerical modelling
 CFD",0,0,0,0
 MatthewFlamm,Python,"MATLAB
@@ -4612,8 +4612,9 @@ Ontologies
 Bioinformatics
 Data integration
 Machine Learning / Artificial Intelligence",0,0,0,0
-https://github.com/jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
+jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
 Machine Learning
 Signal Processing
-Time Series"
+Time Series",0,0,0,0
 marwanalam2,Python,VASP,University of the Punjab,macssp18@gmail.com,Computational Physics
+https://github.com/acguidoum,R,Python,University of Science and Technology Houari Boumediene,acguidoum@usthb.dz,Probability Statistics
