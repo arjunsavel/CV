@@ -464,7 +464,7 @@ Evolution
 Metagenomics
 Comparative genomics",0,2,0,0
 ysimillides,"Julia
-Python",Matlab,UCL,yiannis.simillides.14@ucl.ac.uk,Differential Equations / Numerical Methods,0,3,1,1
+Python",Matlab,UCL,yiannis.simillides.14@ucl.ac.uk,Differential Equations / Numerical Methods,0,3,1,0
 adibender,R,,"Statistical Consulting Unit, StaBLab, LMU Munich",bender.at.R@gmail.com,,0,0,0,0
 ocramz,Haskell,,,zocca.marco@gmail.com,"High-performance computing
 Numerical algorithms
@@ -644,7 +644,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,1,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,4,1,0
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,4,2,1
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1507,7 +1507,7 @@ malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
 Earth and Planetary Sciences
 Geophysical Fluid Dynamics",0,1,1,0
-osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,2,1,0
+osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,2,0,0
 ksunden,"Python
 C
 C++
@@ -4621,3 +4621,4 @@ acguidoum,R,Python,University of Science and Technology Houari Boumediene,acguid
 mgezer,"python 
 php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
 Computer Vision"
+.,python,,engineering,mohammadreza.hl.asl@gmail.com
