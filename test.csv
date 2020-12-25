@@ -291,7 +291,7 @@ lebebr01,R,,University of Iowa ,lebebr01@gmail.com,"Social science, education, s
 Maczokni ,R,,University of Manchester ,reka.solymosi@manchester.ac.uk,"Criminology, transport studies, urban geography, smart cities ",0,0,0,0
 jkarreth,R,,Ursinus College,jkarreth@ursinus.edu,"Bayesian statistics
 Postestimation
-Data visualization",1,2,0,0
+Data visualization",0,2,1,1
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
 tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,1,0,0
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,1
@@ -1390,7 +1390,7 @@ Validation
 Testing",0,0,0,0
 jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,2,0,0
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
-rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,1,1
+rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,1,0
 EduPH,"Python
 R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
@@ -1600,7 +1600,7 @@ Quantum Mechanics",0,1,0,0
 trashbirdecology,R,,University of Nebraska-Lincoln,jessicaleighburnett@gmail.com,"Ecology
 Ecological modelling
 Ecological statistics
-Applied statistics",1,1,0,0
+Applied statistics",0,1,1,1
 xoolive,"Python
 OCaml","R
 Scala
@@ -1971,7 +1971,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",0,1,1,1
+model selection",0,1,1,0
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -2700,7 +2700,7 @@ Python",,Max Planck Institute for Heart and Lung Research,jens.preussner@mpi-bn.
 Bioinformatics
 Single-cell biology
 Cancer biology
-Data Science",0,2,2,1
+Data Science",0,2,2,0
 carleshf,"python
 R","javascript
 java",The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG),carles.hernandez@cnag.crg.eu,"bioinformatics
@@ -4209,7 +4209,7 @@ florian-rosenthal,"Matlab
 C++",Python,Karlsruhe Institute of Technology,rosenthal@kit.edu,"Signal Processing
 Automatic Control",0,0,0,0
 SvenVanPoucke,Python,RapidMiner,Ziekenhuis Oost-Limburg,svanpoucke@gmail.com,Medicine,0,0,0,0
-telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,1,1,1
+telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,1,1,0
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
@@ -4620,5 +4620,6 @@ marwanalam2,Python,VASP,University of the Punjab,macssp18@gmail.com,Computationa
 acguidoum,R,Python,University of Science and Technology Houari Boumediene,acguidoum@usthb.dz,Probability Statistics,0,0,0,0
 mgezer,"python 
 php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
-Computer Vision"
+Computer Vision",0,0,0,0
 .,python,,engineering,mohammadreza.hl.asl@gmail.com
+erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering"
