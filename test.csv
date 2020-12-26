@@ -293,7 +293,7 @@ jkarreth,R,,Ursinus College,jkarreth@ursinus.edu,"Bayesian statistics
 Postestimation
 Data visualization",0,2,1,1
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
-tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,1,0,0
+tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",1,2,0,0
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,1
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
@@ -2345,7 +2345,7 @@ Chromatin conformation",0,0,0,0
 andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",0,0,0,0
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,0,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
-HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,1,1,0
+HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,1,0,0
 kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,0,0,0
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,2,2
@@ -2816,7 +2816,7 @@ julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system 
 time-series data analysis
 geospational data analysis",1,1,0,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,1,0
-eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,1,0,0
+eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,1,1,1
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
 Interstellar medium",0,1,1,1
@@ -3052,7 +3052,7 @@ motahhir,C,"Python, Matlab","ENSA Fès, USMBA",saad.motahhir@usmba.ac.ma,"Embedd
 felixcremer,Julia,python,Deutsches Zentrum für Luft und Raumfahrt,felix.cremer@dlr.de,"earth observation
 time series",0,1,1,1
 danhey,Python,,University of Sydney,dhey3294@uni.sydney.edu.au,"Astronomy
-Asteroseismology",0,1,1,1
+Asteroseismology",0,1,1,0
 nagellette,Python,,MSc. Geomatics Engineer (PhD Candidate),necipenesgengec@gmail.com,"Spatial analysis
 GIS
 Remote Sensing
@@ -3300,7 +3300,7 @@ Optimization methods",0,0,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
-coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,2,2,1
+coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,2,2,0
 lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,0,0,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
@@ -3739,7 +3739,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",2,3,1,1
+data science",1,3,2,2
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,1,1,1
 manojrege,"Python
@@ -4621,5 +4621,5 @@ acguidoum,R,Python,University of Science and Technology Houari Boumediene,acguid
 mgezer,"python 
 php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
 Computer Vision",0,0,0,0
-.,python,,engineering,mohammadreza.hl.asl@gmail.com
+.,python,,engineering,mohammadreza.hl.asl@gmail.com,,0,0,0,0
 erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering"
