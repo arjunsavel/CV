@@ -3471,7 +3471,7 @@ hmacdope,"Python
 FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
-HPC",1,2,1,1
+HPC",1,2,1,0
 simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,0,0,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
@@ -3480,7 +3480,7 @@ Javascript",KTH Royal Institute of Technology,gaborit@kth.se,"Physics
 Numerical methods and simulations",0,0,0,0
 tylerwmarrs,"Python, Java, C, R",,"Matrix Profile Foundation, CRST International",tylerwmarrs@gmail.com,"Scientific computing, machine learning, algorithms, statistics",0,0,0,0
 bblum9,"R, Python, C++, Bash",,Boston University School of Medicine,bblum@bu.edu,"Bioinformatics, Computational Biology, Statistics",0,0,0,0
-mattwthompson,Python,No others at the moment,Open Force Field Initiative/University of Colorado Boulder,mattwthomp@gmail.com,"Scientific Computing, Molecular Simulation, Computational Chemistry",0,1,1,1
+mattwthompson,Python,No others at the moment,Open Force Field Initiative/University of Colorado Boulder,mattwthomp@gmail.com,"Scientific Computing, Molecular Simulation, Computational Chemistry",0,1,1,0
 AnjaliSandip/,"Python, Fortran, Matlab, Bash",C,University of North Dakota,asandip785@gmail.com,"Numerical methods (finite element/finite volume), Optimization, Uncertainty quantification",0,0,0,0
 Path2Genome,"R，Perl, Python",shell,path2genome.org,ms_mail@163.com,"biological
 medical",0,0,0,0
@@ -4623,3 +4623,10 @@ php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
 Computer Vision",0,0,0,0
 .,python,,engineering,mohammadreza.hl.asl@gmail.com,,0,0,0,0
 erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering"
+junliu2050,Matlab,"C/C++
+Java",Southern Illinois University Edwardsville,juliu@siue.edu,Computational and Applied Mathematics
+@neurofractal,"MATLAB
+Python",,UCL,rob.seymour@ucl.ac.uk,"Neuroscience
+Signal Processing
+MEG
+EEG"
