@@ -829,7 +829,7 @@ rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western R
 Biostatistics/Epidemiology
 Topological data analysis
 Mathematical oncology
-Data visualization",0,4,2,2
+Data visualization",0,4,2,1
 sonal-raj,"Python
 Java
 C++",Scala,"National Institute of Technology, Jamshedpur, India",sonal.nitjsr@gmail.com,"Python
@@ -930,7 +930,7 @@ sahilseth,R Python Bash,js ,MD Anderson Cancer Center,sseth.research@gmail.com,"
 Genomics
 Modeling
 Machine learning
-Cancer research",2,3,1,1
+Cancer research",2,3,1,0
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
 joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,1,1
@@ -1462,7 +1462,7 @@ Physical Chemistry",0,0,0,0
 edifice1989,"perl
 R",Python,SRI International,edifice1989@gmail.com,"RNA-seq
 tumor drug target prediction 
-",0,1,1,1
+",0,1,1,0
 leouieda,"Python, C","C++, Matlab",University of Hawaii at Manoa,leouieda@gmail.com,"Earth Science, Geoscience, Geophysics, Geodesy, Inverse Problems, Data Visualization",0,2,0,0
 ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific Computing,0,1,1,0
 jlincbio,"Perl
@@ -3787,7 +3787,7 @@ Scientific Computation",0,0,0,0
 jaeyk,R,Python,"University of California, Berkeley",jaeyeonkim@berkeley.edu,"programs for data wrangling, visualization, modeling, text analysis, and machine learning",0,1,1,0
 marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and Northern Arizona University",daniel@mardascience.com,"geomorphology, remote sensing, hydrology, oceanography, machine learning, deep learning",0,0,0,0
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
-daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,2,2
+daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,2,1
 lachlangrose,"python
 c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,0,0,0,0
 skradha26,"c++, java, javascript",,University of Notre Dame,sradha@nd.edu,"decentralized identities, blockchain",0,0,0,0
@@ -4622,11 +4622,13 @@ mgezer,"python
 php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
 Computer Vision",0,0,0,0
 .,python,,engineering,mohammadreza.hl.asl@gmail.com,,0,0,0,0
-erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering"
+erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering",0,0,0,0
 junliu2050,Matlab,"C/C++
-Java",Southern Illinois University Edwardsville,juliu@siue.edu,Computational and Applied Mathematics
+Java",Southern Illinois University Edwardsville,juliu@siue.edu,Computational and Applied Mathematics,0,0,0,0
 @neurofractal,"MATLAB
 Python",,UCL,rob.seymour@ucl.ac.uk,"Neuroscience
 Signal Processing
 MEG
 EEG"
+https://github.com/Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay",narayanarao.bhogapurapu@gmail.com,"Remote sensing, crop, soil, SAR, QGIS"
+213,5446,12352,20,2@2.com,1561653
