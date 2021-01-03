@@ -258,7 +258,7 @@ R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.a
 Genomics
 Computational Biology
 Bioinformatics
-Protein Science",0,5,2,1
+Protein Science",0,5,2,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
 zfurnas,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
@@ -883,7 +883,7 @@ JavaScript","University of Michigan, Department of Computational Medicine & Bioi
 Genomics
 Bioinformatics
 Big Data
-Structural Variation",0,4,2,1
+Structural Variation",0,4,2,0
 fabian-s,R,C++,LMU Munich (Stats Department),fabian.scheipl@googlemail.com,"Linear Models
 Additive Models
 Mixed Models
@@ -2300,7 +2300,7 @@ ThomDietrich,"python
 r
 bash",,,thomas@nurzen.de,,0,0,0,0
 benjaminpope,Python,,New York University,benjamin.pope@nyu.edu,"astronomy
-astrophysics",0,1,1,1
+astrophysics",0,1,1,0
 adrn,Python,"Cython
 if necessary, C",Flatiron Institute,adrianmpw@gmail.com,"astronomy
 general open-source",0,0,0,0
