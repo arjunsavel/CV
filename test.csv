@@ -16,7 +16,7 @@ khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, comp
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,0,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,1
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
-alex-konovalov,GAP,"Python, C",,,mathematics,0,4,3,1
+alex-konovalov,GAP,"Python, C",,,mathematics,0,4,3,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
 xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,3,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
@@ -774,7 +774,7 @@ Web-based Applications",1,1,0,0
 henrik227,Python,Julia,"AICES, RWTH Aachen University",barthels@aices.rwth-aachen.de,"symbolic computations
 pattern matching
 program generation
-linear algebra",0,3,1,1
+linear algebra",0,3,1,0
 shaunpwilkinson,R,,Victoria University of Wellington,shaunpwilkinson@gmail.com,"ecology and evolution
 phylogenetics
 algorithms
