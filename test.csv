@@ -3085,7 +3085,7 @@ Matlab",CNRS,corentin.lothode@univ-rouen.fr,"computational physics
 numerical analysis
 fluid dynamics
 structural mechanics
-fluid structure interaction",0,1,1,0
+fluid structure interaction",1,2,1,0
 irnaka,"Python
 Fortran","Matlab
 C++",Universitas Gadjah Mada,marwan.irnaka@ugm.ac.id,"Geophysics
@@ -4483,7 +4483,7 @@ Signal Processing
 Mineral Physics",0,1,1,0
 iammix,Python,,Aristotle University Of Thessaloniki,k.mixios@gmail.com,"Applied Mechanics
 Finite Element Method
-Structural Analysis",0,0,0,0
+Structural Analysis",1,1,0,0
 josehd,Python,,,josehd@cio.mx,"Optics
 Mathematics",0,0,0,0
 sabinomaggi,"Fortran, Python, R","Mathematica, AWK, bash",CNR National Research Council,sabino.maggi@cnr.it,"physics/solid state/superconductivity
@@ -4634,3 +4634,4 @@ Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay"
 213,5446,12352,20,2@2.com,1561653,0,0,0,0
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 @ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology
+frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering
