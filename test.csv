@@ -169,7 +169,7 @@ jsgalan,"Python
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
 Machine learning
 Bioinformatics
-Systems dynamics",1,8,2,0
+Systems dynamics",0,8,3,1
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,3,0,0
@@ -269,7 +269,7 @@ Genomics
 Data Science",0,0,0,0
 a-slide,Python ,,EMBL-EBI ,aleg@ebi.ac.uk ,"Bioinformatics
 Computational biology",0,0,0,0
-rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",1,1,0,0
+rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,1,1
 milesmcbain,"R, Javascript",SQL,Australian Centre of Excellence for Mathematics and Statistics (ACEMS),miles.mcbain@gmail.com,data science,0,0,0,0
 mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,1,0
 adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",0,0,0,0
@@ -3218,7 +3218,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",0,1,1,0
+Finite Element Analysis",1,2,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",0,0,0,0
@@ -4635,5 +4635,11 @@ Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay"
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology,0,0,0,0
 frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering,0,0,0,0
-H,Pppooiiuuyy,Pppooiiuuyy,hamwdi,nn07800293477@gmail.com,Pppooiiuuyy
+H,Pppooiiuuyy,Pppooiiuuyy,hamwdi,nn07800293477@gmail.com,Pppooiiuuyy,0,0,0,0
 destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering"
+thomaspinder,"Python
+Julia
+R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
+Gaussian processes
+Bayesian machine learning
+Markov Chain Monte-Carlo"
