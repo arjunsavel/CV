@@ -60,7 +60,7 @@ fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms 
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,1,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,1,0
-trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",2,9,1,0
+trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",2,9,0,0
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,6,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
@@ -349,7 +349,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",0,8,2,0
+[glad to consider anything and will reply quickly if not qualified]",0,8,1,0
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -432,7 +432,7 @@ Computer Games AI",1,1,0,0
 CameronDevine,Python,"Matlab
 C++
 Javascript",University Of Washington,camdev@uw.edu,"Robotics
-Control Systems",0,2,1,0
+Control Systems",0,2,0,0
 steffilazerte,R,,steffilazerte.ca,sel@steffilazerte.ca,"biology, acoustics, birds, data munging, data collection",0,2,0,0
 juanvillada,R,NA,City University of Hong Kong,juancamilovillada@gmail.com,"Bioinformatics
 Computational biology
@@ -510,7 +510,7 @@ corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epide
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
 Rmadillo,"R, SQL",,Seattle Children's Hospital,dwight.barry@seattlechildrens.org,"Healthcare, medicine, hospital",0,1,0,0
-klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,1,1
+klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,1,0
 acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",0,6,0,0
 chasemc,R,,University of Illinois at Chicago,cclark42@uic.edu,"Microbiology, biochemistry, analytical chemistry ",0,0,0,0
 barryrowlingson,"R
@@ -673,7 +673,7 @@ R",,"University of Cambridge, UK",sermarcue@gmail.com,"Bioinformatics
 Cheminformatics
 Computational biology
 Computational chemistry",0,0,0,0
-mzszym,Python,"C, C++, Java",Independent Researcher (previously IFM Linkoping University),mzszym@gmail.com,"physics, nanoscience, electronics",0,2,2,0
+mzszym,Python,"C, C++, Java",Independent Researcher (previously IFM Linkoping University),mzszym@gmail.com,"physics, nanoscience, electronics",0,2,1,0
 highlando,Python,Matlab,￼ Max Planck Institute for Dynamics of Complex Technical Systems // Otto-von-Guericke University Magdeburg,heiland@mpi-magdeburg.mpg.de,"CFD
 Model Reduction
 numerical solution of ODEs/PDEs in general",0,1,0,0
@@ -933,9 +933,9 @@ Machine learning
 Cancer research",2,3,1,0
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
-joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,1,1
+joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,1,0
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
-arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",1,2,0,0
+arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,1,1
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
 dvberkel,"Rust
 Elm
@@ -1396,7 +1396,7 @@ R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
 Algebraic Topology
 Machine Learning
-Deep Learning",0,3,2,0
+Deep Learning",0,3,1,0
 bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
@@ -1862,7 +1862,7 @@ Python
 ",Matlab,Universidad de Sevilla,epaluzo@us.es,"Machine learning
 Topological Data Analysis
 Computational Topology
-Mathematics",0,3,2,0
+Mathematics",0,3,1,0
 vitorsr,"GNU Octave
 MATLAB
 Octave
@@ -4151,7 +4151,7 @@ Fortran",Oak Ridge National Laboratory,mcdonnellmt@ornl.gov,"Materials Science
 Computational Chemistry
 Neutron Scattering
 Molecular Dynamics
-Web Applications",1,1,0,0
+Web Applications",0,1,1,1
 williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",1,1,0,0
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,0,0,0
@@ -4636,10 +4636,11 @@ as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology,0,0,0,0
 frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering,0,0,0,0
 H,Pppooiiuuyy,Pppooiiuuyy,hamwdi,nn07800293477@gmail.com,Pppooiiuuyy,0,0,0,0
-destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering"
+destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering",0,0,0,0
 thomaspinder,"Python
 Julia
 R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
 Gaussian processes
 Bayesian machine learning
 Markov Chain Monte-Carlo"
+halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics"
