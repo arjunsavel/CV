@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",1,6,1,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",0,2,1,0
+Computer Networks. ",1,3,1,0
 mlxd,"C
 C++
 Python
@@ -272,7 +272,7 @@ Computational biology",0,0,0,0
 rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,1,1
 milesmcbain,"R, Javascript",SQL,Australian Centre of Excellence for Mathematics and Statistics (ACEMS),miles.mcbain@gmail.com,data science,0,0,0,0
 mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,1,0
-adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",0,0,0,0
+adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",1,1,0,0
 jhollist,R,,US EPA,hollister.jeff@epa.gov,"Ecology
 Environmental Science
 Geospatial
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,0,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,1,1,1
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,2,1,1
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -1711,7 +1711,7 @@ ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Me
 Atmospheric Sciences
 Oceanography
 Scientific computing
-Numerical methods",0,1,1,0
+Numerical methods",0,1,0,0
 pitsianis ,"MATLAB, C, C++, FORTRAN, Maple, Mathematica","Julia, Scheme, SML",Aristotle University of Thessaloniki,nikos.pitsianis@eng.auth.gr,"Parallel numerical software, compiler tools, fast transforms, big data",0,0,0,0
 wxy8955gmail.com,Python,,University of Texas at Austin,xywu@utexas.edu,"physics
 scientific instrumentation
@@ -2004,7 +2004,7 @@ data mining
 ensemble learning
 outlier detection
 machine learning libraries",0,1,0,0
-ali-ramadhan,"Julia, Python","C, C++, MATLAB, Javascript, Java",Massachusetts Institute of Technology,alir@mit.edu,"scientific computing, climate science, atmospheric science, oceanography, computational fluid dynamics, physics, mathematics, numerical methods, statistics, data analysis",0,2,2,0
+ali-ramadhan,"Julia, Python","C, C++, MATLAB, Javascript, Java",Massachusetts Institute of Technology,alir@mit.edu,"scientific computing, climate science, atmospheric science, oceanography, computational fluid dynamics, physics, mathematics, numerical methods, statistics, data analysis",0,2,1,0
 alcantarar,"MATLAB
 ","Python
 R",University of Colorado Boulder,ryan.alcantara@colorado.edu,"Biomechanics
@@ -3171,7 +3171,7 @@ R
 Julia",Javascrip,University of Bambey Alioun Diop,panda.constantin@gmail.com,"Machine Learning ,  Healthcare",0,0,0,0
 mikerspencer,R,,Scotland's Rural College,spencer.mike.r@gmail.com,"Social science
 Environmental science
-Spatial/GIS",1,1,0,0
+Spatial/GIS",2,2,0,0
 scleveland,"Javascript
 Python
 Ruby",,University of Hawaii,seanbc@hawaii.edu,"Cyberinfrastructure
@@ -3565,7 +3565,7 @@ Chemistry
 Chemical Engineering",0,0,0,0
 johanneswerner,"Python
 R",,"Department of Biological Oceanography, Leibniz Institute of Baltic Sea Research",johannes.werner@io-warnemuende.de,"bioinformatics
-(in the field of microbial ecology/environmental microbiology)",1,1,0,0
+(in the field of microbial ecology/environmental microbiology)",0,1,1,1
 e-dub,Python,,Free University of Bozen-Bolzano,erich.wehrle@unibz.it,"Mechanical engineering, numerical optimization, design optimization, vibrations, structural mechanics",1,1,0,0
 fwitte,Python,,Research assistant at Flensburg University of Applied Sciences,joss@witte.sh,"Thermodynamics, Thermal Engineering, Power Plant Design and Simulation",0,1,1,1
 calum-chamberlain,Python,,Victoria University of Wellington,calum.chamberlain@vuw.ac.nz,"Seismology
@@ -4642,5 +4642,6 @@ Julia
 R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
 Gaussian processes
 Bayesian machine learning
-Markov Chain Monte-Carlo"
+Markov Chain Monte-Carlo",0,0,0,0
 halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics"
+ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing"
