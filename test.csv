@@ -575,7 +575,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",0,7,2,1
+Statistics",0,7,2,0
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",0,1,0,0
@@ -899,7 +899,7 @@ Optimization
 Data Science
 Machine Learning",0,3,0,0
 lucask07,"Python
-MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,1
+MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,4,0,0
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,1,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
@@ -980,7 +980,7 @@ bash
 html
 javascript",Universidade Federal do Pará,andremrsantos@gmail.com,"Statistics
 Computational Biology
-Bioinformatics",0,1,1,1
+Bioinformatics",0,1,1,0
 maxscheurer,"Python, C++",Java,University of Heidelberg,maximilian.scheurer@iwr.uni-heidelberg.de,"Computational Chemistry,
 Computational Biophysics, Quantum Chemistry",0,0,0,0
 snastase,Python,,Princeton University,sam.nastase@gmail.com,"Neuroscience
@@ -1587,7 +1587,7 @@ Particle methods",0,4,3,1
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,2,0,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",2,3,0,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,5,4,2
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,6,4,2
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -4643,5 +4643,5 @@ R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
 Gaussian processes
 Bayesian machine learning
 Markov Chain Monte-Carlo",0,0,0,0
-halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics"
+halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics",0,0,0,0
 ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing"
