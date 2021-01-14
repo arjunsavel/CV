@@ -3025,7 +3025,7 @@ SQL",C,Argonne National Laboratory,atanikanti@anl.gov,"Computer Science
 Data Science
 Machine Learning
 HPC",0,2,2,2
-bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,2,1
+bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,2,0
 mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",1,2,1,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
 amandadumi,"Python
@@ -4655,7 +4655,7 @@ Go
 R",Baylor College of Medicine,medhat.mahmoud@bcm.edu,"Structural variant
 SNVs
 Comparative genomics 
-Genomics"
+Genomics",0,0,0,0
 mefuller,"Python, TeX, Fortran",Octave/Matlab,RWTH Aachen University,mark.e.fuller@gmx.de,"Chemical Engineering
 Mechanical Engineering
 Physical Chemistry
@@ -4664,5 +4664,15 @@ Thermodynamics
 Heat Transfer
 Fuel Cells
 Batteries
-Combustion"
+Combustion",0,0,0,0
 @csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision"
+jifarquharson,"Python
+G (LabVIEW)
+MATLAB",,University of Miami,jifarq89@googlemail.com,"Geoscience
+Geophysics
+Volcanology
+Typesetting"
+gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk,"security, blockchain, distributed system, trusted software"
+petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
+evolutionary biology
+phylogenetics"
