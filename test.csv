@@ -3177,7 +3177,7 @@ Python
 Ruby",,University of Hawaii,seanbc@hawaii.edu,"Cyberinfrastructure
 Bioinformatics",0,0,0,0
 adam-m-jcbs,"python, Fortran, C/C++, CUDA, bash/shell","AWS code, web languages, Go, R",Stony Brook University,adam.m.jcbs@gmail.com,"computational fluid dynamics, gpu acceleration, cloud-native deployments, performance optimization, containerization",0,1,1,0
-macrocosme,python,"html, javascript, c++, cuda, opencl","ASTRON, Netherlands Institute for Radio Astronomy",vohl@astron.nl,"visualisation, image processing, search pipelines (e.g. source finding), modelling, data compression, high performance computing",0,1,1,1
+macrocosme,python,"html, javascript, c++, cuda, opencl","ASTRON, Netherlands Institute for Radio Astronomy",vohl@astron.nl,"visualisation, image processing, search pipelines (e.g. source finding), modelling, data compression, high performance computing",0,1,1,0
 GISerDaiShaoqing,R,Python,"Deparement of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente",dsq1993qingge@163.com,Geography and Spatial Statistics,0,0,0,0
 ABCD,PHP,HTML,LOCATION,JIEKUMAJAYA@GMAIL.COM,BROJOURNAL,0,0,0,0
 cpgr,"C++
@@ -3776,7 +3776,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,1,1,1
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,1,1,0
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -4362,7 +4362,7 @@ linear algebra
 topological data analysis
 geometric data analysis
 unsupervised machine learning
-dimensionality reduction",0,0,0,0
+dimensionality reduction",1,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
 ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,0,0,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
@@ -4665,14 +4665,15 @@ Heat Transfer
 Fuel Cells
 Batteries
 Combustion",0,0,0,0
-@csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision"
+csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision",0,0,0,0
 jifarquharson,"Python
 G (LabVIEW)
 MATLAB",,University of Miami,jifarq89@googlemail.com,"Geoscience
 Geophysics
 Volcanology
-Typesetting"
-gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk,"security, blockchain, distributed system, trusted software"
+Typesetting",0,0,0,0
+gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk,"security, blockchain, distributed system, trusted software",0,0,0,0
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics"
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design"
