@@ -58,7 +58,7 @@ effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine l
 stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",1,6,1,0
 fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms visualizations, game theory, mathematics",0,1,0,0
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
-marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,1,0
+marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,1,0
 trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",2,9,0,0
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,6,1,0
@@ -153,7 +153,7 @@ HPC
 informatics and neuroinformatics
 image processing
 machine learning",0,6,0,0
-ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",0,0,0,0
+ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",1,1,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
 Sowftware characterisation and profiling",0,4,1,0
@@ -173,7 +173,7 @@ Systems dynamics",0,8,3,1
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,3,0,0
-gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,4,1
+gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,3,1
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,0,0,0
@@ -393,7 +393,7 @@ remote sensing",0,2,0,0
 nhejazi,R,"Python, Julia",UC Berkeley,nhejazi@berkeley.edu,"statistics, machine learning, causal inference, computational biology",0,6,1,0
 JoshKarpel,Python,,University of Wisconsin - Madison,josh.karpel@gmail.com,"Physics / Computational Physics
 Math
-Data Visualization",0,2,1,0
+Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
 Software Testing",1,2,1,0
@@ -1042,7 +1042,7 @@ LaTeX
 Sphinx (documentation engine)
 Markdown
 Markup languages",0,2,0,0
-thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,1,1,0
+thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,1,0,0
 sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,1
 fsteeg,Java,Scala,Hochschulbibliothekszentrum NRW (hbz),steeg@hbz-nrw.de,"Web technology
 Linked data
@@ -1050,7 +1050,7 @@ Information retrieval
 Library and information science",0,0,0,0
 fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, biostatistics",0,0,0,0
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
-dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,1,0
+dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
 stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",1,6,1,0
 vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",0,1,0,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
@@ -1997,7 +1997,7 @@ Human brain imaging",1,2,0,0
 tretherington,"Python
 R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,0,0,0
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,2,0
-Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,1,1,0
+Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,1,0,0
 mariabnd,R,Python,Currently Steno Diabetes Center Copenhagen,maria@mdunbar.dk,Public Health,0,0,0,0
 yzhao062,Python,,Carnegie Mellon University,zhaoy@cmu.edu,"machine learning
 data mining
@@ -4364,7 +4364,7 @@ geometric data analysis
 unsupervised machine learning
 dimensionality reduction",1,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
-ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,0,0,0,0
+ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,1,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
 Finite volume methods
 Finite difference methods
@@ -4675,5 +4675,6 @@ Typesetting",0,0,0,0
 gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk,"security, blockchain, distributed system, trusted software",0,0,0,0
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
-phylogenetics"
+phylogenetics",0,0,0,0
 LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design"
+bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering"
