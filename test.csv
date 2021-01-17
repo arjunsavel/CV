@@ -1396,7 +1396,7 @@ R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
 Algebraic Topology
 Machine Learning
-Deep Learning",0,3,1,0
+Deep Learning",0,3,0,0
 bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
@@ -1684,7 +1684,7 @@ bash",Concordia University,tristan.glatard@concordia.caC,"Distributed systems
 Medical imaging
 Big Data",0,0,0,0
 ellessenne,R,,University of Leicester,ellessenne@gmail.com,"Epidemiology, Biostatistics",0,1,0,0
-sbrugman,Python,"Java, C#, C++, PHP, Javascript (incl. angular, node etc.)",Radboud University,sfbbrugman@gmail.com,"Machine Learning, Data Science, Computer Vision, Natural Language Processing",0,1,1,0
+sbrugman,Python,"Java, C#, C++, PHP, Javascript (incl. angular, node etc.)",Radboud University,sfbbrugman@gmail.com,"Machine Learning, Data Science, Computer Vision, Natural Language Processing",0,1,0,0
 chennachaos,"C++
 Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
@@ -1862,7 +1862,7 @@ Python
 ",Matlab,Universidad de Sevilla,epaluzo@us.es,"Machine learning
 Topological Data Analysis
 Computational Topology
-Mathematics",0,3,1,0
+Mathematics",0,3,0,0
 vitorsr,"GNU Octave
 MATLAB
 Octave
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,6,4,2
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,6,4,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2761,7 +2761,7 @@ Lua
 Go",JavaScript,Max Planck Institute for the Science of Human History,tresoldi@shh.mpg.de,"Linguistics
 Literature
 Social Sciences
-Phylogenetics",0,1,1,1
+Phylogenetics",0,1,1,0
 htugcas,"IDL, python",,Krakow Pedagogical University,tugcasener@gmail.com,"astronomy, astrophysics",0,0,0,0
 ngoiz,"Python
 Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
@@ -3590,7 +3590,7 @@ kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
 statistics",0,0,0,0
-munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,0,0,0
+munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",1,1,0,0
 kinow,"Java
 Python
 PHP
@@ -3771,7 +3771,7 @@ API
 Visualisation
 Data munging
 Psychology",0,1,1,0
-samhforbes,R,Python,University of East Anglia,samuel.h.forbes@gmail.com,"Eye tracking, psychology",0,2,2,1
+samhforbes,R,Python,University of East Anglia,samuel.h.forbes@gmail.com,"Eye tracking, psychology",0,2,2,0
 dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
@@ -3820,7 +3820,7 @@ high-performance computing
 software design",0,0,0,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",0,0,0,0
+Earth System Modeling",1,1,0,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -4596,7 +4596,7 @@ rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
 Bioinformatics
-Statistics",0,0,0,0
+Statistics",1,1,0,0
 evetion,"python
 julia",,Deltares,git@evetion.nl,"GIS
 HPC
@@ -4676,5 +4676,8 @@ gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics",0,0,0,0
-LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design"
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,0,0,0
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering"
+@cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
+System Dynamics
+Knowledge Representation"
