@@ -109,7 +109,7 @@ drug discovery
 variable selection
 high-dimensional data
 biological sequence analysis",0,1,0,0
-iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",1,6,1,0
+iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,2,1
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
 Computer Networks. ",1,3,1,0
@@ -201,7 +201,7 @@ Python",,"Imperial College London, University of Bath",jarvist.frost@ic.ac.uk,"C
 Monte-Carlo
 Tight-Binding
 Path-Integrals",1,3,0,0
-mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,3,1
+mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,2,1
 aokad,python,Javascript,University of Tokyo,aiokada@hgc.jp,Visualization,0,1,0,0
 tupi,python,latex,CERFACS,roy.pamphile@gmail.com,"data science
 machine learning
@@ -341,7 +341,7 @@ Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
 Software Engineering",0,1,1,0
-tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,3,0
+tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,2,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
 data visualization
@@ -585,7 +585,7 @@ JavaScript",Macquarie University,wilfred.gee@students.mq.edu.au,"Astronomy
 Physics
 Web technologies
 Cloud technologies
-Machine learning",0,4,1,0
+Machine learning",0,4,0,0
 jacobsoj,R,None,"Queen's University, Canada",jill.jacobson@queensu.ca,"Statistics/multiple regression, structural equation modeling, factor analysis, multilevel modeling, reliability, assumptions, statistical power, effect size, confidence intervals, meta-analysis.",0,1,1,0
 wahls,"C
 Matlab",,TU Delft,s.wahls@tudelft.nl,"Signal processing
@@ -1263,7 +1263,7 @@ R
 Bash",,Italian Institute of Technology,tommaso.leonardi@iit.it,"Bioinformatics
 Genomics
 Biostatistics",0,2,1,0
-Juanlu001,Python,Fortran,Unaffiliated,juanlu001@gmail.com,"Orbital Mechanics, Astrodynamics, Aerospace Engineering",0,3,1,0
+Juanlu001,Python,Fortran,Unaffiliated,juanlu001@gmail.com,"Orbital Mechanics, Astrodynamics, Aerospace Engineering",0,3,0,0
 lmcinnes,Python,C (not C++),Tutte Institute for Mathematics and Computing,leland.mcinnes@gmail.com,"Clustering, Dimension reduction, Topological Data Analysis",0,2,0,0
 vissarion,C/C++,"R, Python","University of Athens, Greece",fisikop@gmail.com,"Scientific Computing, Mathematical Software, Computational Geometry/Algebra, Optimization, Algorithms",0,2,1,1
 homonecloco,"Ruby
@@ -1335,7 +1335,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,2,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,2,2,0
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,2,1,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1936,7 +1936,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,0,0,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,2,0,0
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,2,2,0
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,2,1,0
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -3183,7 +3183,7 @@ ABCD,PHP,HTML,LOCATION,JIEKUMAJAYA@GMAIL.COM,BROJOURNAL,0,0,0,0
 cpgr,"C++
 python",,CSIRO,chris.green@csiro.au,"Mathematics
 Physics
-Earth science",1,1,0,0
+Earth science",0,1,1,1
 mstimberg,"Python
 C
 C++
@@ -4677,7 +4677,12 @@ petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.
 evolutionary biology
 phylogenetics",0,0,0,0
 LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,0,0,0
-bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering"
+bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
 @cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
 Knowledge Representation"
+https://github.com/amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science"
+esteinig,"Python
+Rust
+R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics"
+JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning"
