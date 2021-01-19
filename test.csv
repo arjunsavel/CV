@@ -60,7 +60,7 @@ fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms 
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,1,0
-trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",2,9,0,0
+trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",1,9,0,0
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,6,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
@@ -455,7 +455,7 @@ Numerical methods",1,4,0,0
 zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",1,5,1,0
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
-Medical Imaging",1,3,0,0
+Medical Imaging",0,3,1,1
 zedtaha,R,Java/C#/Matlab,"Faculty of economics and management of Tunis, University of Tunis El Manar",zedtaha@gmail.com,Econometrics,0,0,0,0
 wspr,"Matlab, LaTeX, Mathematica",,The University of Adelaide ,will@wspr.io,"Engineering, Datavis, Document production",0,0,0,0
 giraola,R,Python,Institut Pasteur de Montevideo,giraola@pasteur.edu.uy,"Microbiology
@@ -2178,7 +2178,7 @@ github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc."
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
 Data Science
-Natural Language Processing",0,2,2,1
+Natural Language Processing",0,2,1,1
 lixiaodong,"Java
 C#
 Javascript
@@ -2646,7 +2646,7 @@ Neuroinformatics
 Bioinformatics
 Biophysics
 Biology
-Neurobiology",0,2,2,0
+Neurobiology",0,2,1,0
 sachsmc,R,,Karolinska Institute,sachsmc@gmail.com,"Statistics
 biostatistics
 medicine
@@ -3542,7 +3542,7 @@ Image Processing
 Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
-Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",0,2,2,2
+Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",0,2,2,1
 zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,0,1,1,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
@@ -3887,7 +3887,7 @@ Metabolomics
 Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
-jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",1,1,0,0
+jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,1
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,0,0,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,0,0,0
 mturiansky,"Python
@@ -4678,11 +4678,25 @@ evolutionary biology
 phylogenetics",0,0,0,0
 LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,0,0,0
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
-@cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
+cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
-Knowledge Representation"
-https://github.com/amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science"
+Knowledge Representation",0,0,0,0
+amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science",0,0,0,0
 esteinig,"Python
 Rust
-R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics"
+R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,0,0,0
 JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning"
+@ghislainv,"R
+Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
+Community ecology
+Conservation biology
+Bayesian statistics
+Tropical forest ecology
+Landscape ecology"
+axel-loewe,"Python
+C++
+Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology
+https://github.com/juliensiebert,Python,R,Fraunhofer-Institut für Experimentelles Software Engineering IESE,julien.siebert@iese.fraunhofer.de,"Data Science
+Machine Learning
+Time Series Analysis
+Data Mining"
