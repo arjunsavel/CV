@@ -3149,9 +3149,9 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",1,3,2,1
+multiscale",1,3,2,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,1,0
-GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,0,0,0
+GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",1,1,0,0
 rchg,"Python
 Fortran
 Julia","Bash
@@ -3628,7 +3628,7 @@ GPU computing
 Computational Fluid dynamics
 Finite Element Methods
 Numerical Linear Algebra",1,2,1,0
-rowlandm,Any,any,University of Melbourne,rowland.h.mosbergen@gmail.com,"Bioinformatics, systems and data viz",0,1,1,1
+rowlandm,Any,any,University of Melbourne,rowland.h.mosbergen@gmail.com,"Bioinformatics, systems and data viz",0,1,1,0
 Colindaven,"Python, bash, Java",,Hannover Medical School,colindaven@hotmail.com,"Genomics, epigenomics, long reads, snv calling",0,0,0,0
 dspelaez,Python,Fortran,University College Dublin,daniel.pelaez-zapata@ucdconnect.ie,Physical Oceanography,0,0,0,0
 yangbai90,"c++
@@ -3642,7 +3642,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",1,3,2,1
+plasticity",1,3,2,0
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -4685,18 +4685,28 @@ amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learn
 esteinig,"Python
 Rust
 R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,0,0,0
-JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning"
-@ghislainv,"R
+JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",0,0,0,0
+ghislainv,"R
 Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
 Community ecology
 Conservation biology
 Bayesian statistics
 Tropical forest ecology
-Landscape ecology"
+Landscape ecology",0,0,0,0
 axel-loewe,"Python
 C++
-Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology
+Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology,0,0,0,0
 https://github.com/juliensiebert,Python,R,Fraunhofer-Institut für Experimentelles Software Engineering IESE,julien.siebert@iese.fraunhofer.de,"Data Science
 Machine Learning
 Time Series Analysis
 Data Mining"
+ayushpatnaikgit,Julia,Python & R,Independant,ayushpatnaik@gmail.com,"Computer science, statistics"
+nicorenaud,"Python
+C++
+Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational Chemistry, Quantum Chemistry"
+https://github.com/felipeZ,"Python
+Rust
+C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry
+krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology"
+mkhoshbin1,"Python
+Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering
