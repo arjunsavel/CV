@@ -60,7 +60,7 @@ fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms 
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,1,0
-trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",1,9,0,0
+trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",0,9,1,1
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,6,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
@@ -662,7 +662,7 @@ sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"Hi
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
 kdpeterson51,R,,University of Iowa,petersonkdon@gmail.com,"Statistics, Machine Learning",0,0,0,0
-juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",1,4,2,1
+juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",1,4,2,0
 fdroessler,Python,,Data Scientist in Industry,roessler.fd@gmail.com,"Molecular Dynamics Simulation
 Computational Chemistry
 Agent Based Models",0,1,0,0
@@ -1043,7 +1043,7 @@ Sphinx (documentation engine)
 Markdown
 Markup languages",0,2,0,0
 thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,1,0,0
-sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,1
+sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,0
 fsteeg,Java,Scala,Hochschulbibliothekszentrum NRW (hbz),steeg@hbz-nrw.de,"Web technology
 Linked data
 Information retrieval
@@ -1139,7 +1139,7 @@ GAMS",Matlab,"Industrial Ecology Programme, NTNU - Norwegian University of Scien
 Multi Regional Input Output Analysis (MRIO)
 Life Cycle Assessment (LCA)
 Other Quantitative Sustainability Software
-Economics",1,1,0,0
+Economics",0,1,1,1
 nathanlyons,python,,Tulane University,nlyons@tulane.edu,"geomorphology, tectonics",0,0,0,0
 margauxmouchene,Python,,CU Boulder,margaux.mouchene-1@colorado.edu,"Earth surface processes, hydrology, geomorphology, tectonics, surface dating, hillslope processes, natural hazards",0,0,0,0
 mikaem,"Python, C, C++",Fortran,"University of Oslo, Department of Mathematics",mikaem@math.uio.no,"Spectral methods, computational fluid dynamics, high performance computing, MPI, finite element methods",0,2,0,0
@@ -2045,7 +2045,7 @@ Physiology
 Sensor I/O
 Signal Processing
 Image Processing
-3D Meshing, Pointclouds",1,2,0,0
+3D Meshing, Pointclouds",0,2,1,1
 wwzhang,"R
 Igor Pro
 Matlab",,Peking University,zhangw@hsc.pku.edu.cn,Neuroscience,0,0,0,0
@@ -4696,17 +4696,17 @@ Landscape ecology",0,0,0,0
 axel-loewe,"Python
 C++
 Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology,0,0,0,0
-https://github.com/juliensiebert,Python,R,Fraunhofer-Institut für Experimentelles Software Engineering IESE,julien.siebert@iese.fraunhofer.de,"Data Science
+juliensiebert,Python,R,Fraunhofer-Institut für Experimentelles Software Engineering IESE,julien.siebert@iese.fraunhofer.de,"Data Science
 Machine Learning
 Time Series Analysis
-Data Mining"
-ayushpatnaikgit,Julia,Python & R,Independant,ayushpatnaik@gmail.com,"Computer science, statistics"
+Data Mining",0,0,0,0
+ayushpatnaikgit,Julia,Python & R,Independant,ayushpatnaik@gmail.com,"Computer science, statistics",0,0,0,0
 nicorenaud,"Python
 C++
-Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational Chemistry, Quantum Chemistry"
-https://github.com/felipeZ,"Python
+Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational Chemistry, Quantum Chemistry",0,0,0,0
+felipeZ,"Python
 Rust
-C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry
-krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology"
+C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,0,0,0,0
+krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",0,0,0,0
 mkhoshbin1,"Python
 Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering
