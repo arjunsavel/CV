@@ -176,10 +176,10 @@ solid state physics",0,3,0,0
 gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,3,1
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
-Environmental Sciences",0,0,0,0
+Environmental Sciences",1,1,0,0
 jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,1,0,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
-Molecular Simulation",1,4,0,0
+Molecular Simulation",0,4,1,1
 kczimm,"go
 python","matlab
 octave",Marquette University,kevinczimmerman@gmail.com,"signal processing
@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",0,1,0,0
+Data Manipulation",1,2,0,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -897,7 +897,7 @@ Java
 C++","LIACS, Leiden University",s.j.van.rijn@liacs.leidenuniv.nl,"Natural Computing/Evolutionary Algorithms
 Optimization
 Data Science
-Machine Learning",0,3,0,0
+Machine Learning",1,4,0,0
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,4,0,0
@@ -1003,7 +1003,7 @@ Ruby
 Elixir",,,mahmoud@openconnective.org,,0,0,0,0
 devdess,Python,C++,Université Laval,sylvain.dessureault.1@ulaval.ca,"Artificial intelligence, competitive programming, algorithms, IoT, app dev",0,0,0,0
 foeroyingur,"Fortran
-Python",,"Hylleraas Centre for Quantum Molecular Sciences, UiT The Arctic University of Norway",jogvan.m.olsen@uit.no,Computational chemistry,1,1,0,0
+Python",,"Hylleraas Centre for Quantum Molecular Sciences, UiT The Arctic University of Norway",jogvan.m.olsen@uit.no,Computational chemistry,0,1,1,1
 hobu,"C++, python","C, Basic, Ruby, JavaScript",Self,howard@hobu.co,Spatial or geo stuff,0,0,0,0
 martlj,"C, python, matlab",C++,The Francis Crick Institute,martin.jones@crick.ac.uk,"Physics, biology, image processing",0,0,0,0
 azneto,python,,Embrapa,azneto@gmail.com,bioinformatics,0,2,0,0
@@ -1197,7 +1197,7 @@ jmborr,python,,"Neutrons Scattering Data Sciences, Oak Ridge National Laboratory
 gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiome, phylogenetics, applied machine learning",0,2,0,0
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
 matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,2,1
-chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,0,0,0,0
+chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,1,1,0,0
 jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,0,0,0
 PingjunChen,Python,C++,University of Florida,chenpingjun@gmx.com,"machine learning
 biomedical image analysis
@@ -3857,7 +3857,7 @@ Julia
 R",,Shahid Beheshti University,amir.h.hadian@gmail.com,"Cognitive Sciences
 Scientific Computing
 Brain Data Analysis",0,0,0,0
-justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",1,2,1,1
+justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",1,2,1,0
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,1,0,0
@@ -4460,7 +4460,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",0,0,0,0
+Atomistic simulations",1,1,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,0,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -4502,7 +4502,7 @@ Dynamical Systems",0,0,0,0
 Alaterre,Python,,InstaDeep,alexandre.laterre@gmail.com,Machine learning,0,0,0,0
 znicholls,Python,Fortan90,"Australian-German Climate & Energy College, University of Melbourne",zebedee.nicholls@climate-energy-college.org,"Climate modelling
 Atmospheric sciences",0,0,0,0
-elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,1,1,0
+elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,1,0,0
 kelly-sovacool,"R
 Python",,University of Michigan,sovacool@umich.edu,"Bioinformatics
 Computational Biology
@@ -4710,3 +4710,9 @@ C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computationa
 krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",0,0,0,0
 mkhoshbin1,"Python
 Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering
+mahsan321,"C
+C++
+Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
+Security"
+pmyteh,"R
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis"
