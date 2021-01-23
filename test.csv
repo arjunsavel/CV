@@ -2188,7 +2188,7 @@ Python",no,470060850@qq.com,,0,0,0,0
 EtienneCmb,Python,,"Aix-Marseille University, Institut de Neurosciences de la Timone",e.combrisson@gmail.com,"machine learning
 statistics
 information theory
-neuroscience",0,0,0,0
+neuroscience",1,1,0,0
 matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",0,0,0,0
 sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
@@ -4347,7 +4347,7 @@ Julia",,European XFEL,robert.rosca@protonmail.com,"Physics
 HPC
 Astronomy",0,0,0,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
-JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,0,0,0
+JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",1,1,0,0
 yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,0,0,0
 pr4deepr,"Python, ImageJ Macro",Groovy (basic or beginner),Monash University,pradeep.rajasekhar@gmail.com,"Bioimage analysis, image processing, microscopy, data processing, visualisation, machine learning",0,0,0,0
 Bsingstad,Python,,University of Oslo,bjorn_sing@hotmail.com,Signal processing and Machine learning (in medical applications),0,0,0,0
@@ -4549,7 +4549,7 @@ EtienneCmb,Python,Matlab,"Aix-Marseille University, Institut de Neurosciences de
 Information Theory
 Phase Amplitude Coupling
 Machine learning
-Signal Processing",0,0,0,0
+Signal Processing",1,1,0,0
 dxm447,Python,MATLAB,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy, Image Analysis",0,0,0,0
 Het-Shah,"Python
 C++
@@ -4629,7 +4629,7 @@ neurofractal,"MATLAB
 Python",,UCL,rob.seymour@ucl.ac.uk,"Neuroscience
 Signal Processing
 MEG
-EEG",0,0,0,0
+EEG",1,1,0,0
 Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay",narayanarao.bhogapurapu@gmail.com,"Remote sensing, crop, soil, SAR, QGIS",0,0,0,0
 213,5446,12352,20,2@2.com,1561653,0,0,0,0
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
@@ -4709,10 +4709,10 @@ Rust
 C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,0,0,0,0
 krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",0,0,0,0
 mkhoshbin1,"Python
-Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering
+Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering,0,0,0,0
 mahsan321,"C
 C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
-Security"
+Security",0,0,0,0
 pmyteh,"R
 Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis"
