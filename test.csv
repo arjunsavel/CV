@@ -124,7 +124,7 @@ nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
 machine learning applied to astronomy",0,1,0,0
-stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,5,0,0
+stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",1,6,0,0
 ThomasA,Python,Matlab,Aalborg University,tha@es.aau.dk,"Signal processing, image processing, compressed sensing, signal/image reconstruction",0,2,0,0
 dhhagan,python,"julia, R, c++",MIT,dhagan@mit.edu,"Atmospheric Science, ML",0,4,1,0
 biswapriyamisra,R,,Texas Biomedical Research Institute,bbmisraccb@gmail.com,"Metabolomics, LC-MS, GC-MS, mass spectrometry, pathways, networks",0,1,0,0
@@ -2432,7 +2432,7 @@ python",,"University of the Philippines Los Banos, College of Veterinary Medicin
 genomics
 user interface",0,0,0,0
 santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, gravity, magnetics, inversion.",0,2,0,0
-eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",2,4,0,0
+eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",1,3,0,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,1,1
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
 smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,0,0,0
@@ -3114,7 +3114,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",0,1,1,1
+Data handling",0,1,1,0
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -3717,7 +3717,7 @@ kegiljarhus,"Python
 Fortran
 C++","C
 Matlab","Department of Mechanical and Structural Engineering and Materials Science, University of Stavanger, Stavanger, Norway",knut.e.giljarhus@uis.no,"Fluid dynamics
-Finite element/volume methods",0,1,1,1
+Finite element/volume methods",0,1,1,0
 samuelduchesne,python,C#,Massachusetts Institute of Technology,samueld@mit.edu,"Building Energy Modeling
 Solar Energy
 District Energy Modeling
@@ -3934,7 +3934,7 @@ TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science,
 sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,1,0
 j-andrews7,"python
 R",bash,,jared.andrews@stjude.org,"Bioinformatics
-Genomics",1,1,0,0
+Genomics",0,1,1,1
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
 neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,1,0,0
@@ -4213,7 +4213,7 @@ telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
-Genomics",1,1,0,0
+Genomics",0,1,1,1
 reSHARMA,C++,"C
 bash",AMD,reshabhsh@gmail.com,"Compiler
 System
@@ -4327,7 +4327,7 @@ Perl
 Javascript",Purdue University,xie186@purdue.edu,"Bioinformatics
 Genomics
 Genetics
-Sequencing",1,1,0,0
+Sequencing",0,1,1,1
 richelbilderbeek,"R
 C++",C,"MIMY, GBB, University of Groningen",richel@richelbilderbeek.nl,"Phylogenetics
 Immunology",0,0,0,0
@@ -4715,7 +4715,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis"
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",0,0,0,0
 prasantapal,"C
 C++ 
 Mathematica
@@ -4727,7 +4727,7 @@ Gnuplot",Brown University,prasanta.pal@gmail.com,"Algorithms
 Statistical analysis
 Image processing
 Data science
-Realtime system"
+Realtime system",0,0,0,0
 diegomcarvalho,"c++
 Python
 Julia
@@ -4742,3 +4742,8 @@ Big Data
 Grid Computing
 Cloud Computing
 AI"
+damienmarsic,Python,,Porton Biologics,damien.marsic@gmail.com,Bioinformatics
+abb58,"C/C++
+CUDA","Python
+SYCL
+OpenCL",Argonne National Laboratory,abhishekbagusetty@gmail.com,"Heterogeneous Computing, Molecular Dynamics,High Performance Computing"
