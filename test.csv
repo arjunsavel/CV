@@ -2865,7 +2865,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,0,0,0
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",1,1,0,0
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3026,7 +3026,7 @@ Data Science
 Machine Learning
 HPC",0,2,2,2
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,2,0
-mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",1,2,1,0
+mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",2,3,1,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
 amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
@@ -3377,7 +3377,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",0,0,0,0
+Statistical Computing",1,1,0,0
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,0,0,0
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -4611,7 +4611,7 @@ Knowledge extraction
 Ontologies
 Bioinformatics
 Data integration
-Machine Learning / Artificial Intelligence",0,0,0,0
+Machine Learning / Artificial Intelligence",1,1,0,0
 jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
 Machine Learning
 Signal Processing
@@ -4673,7 +4673,7 @@ gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics",0,0,0,0
-LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,0,0,0
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",1,1,0,0
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
 cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
@@ -4772,12 +4772,12 @@ phonetics",0,0,0,0
 gdancik,"R
 Python","C/C++
 Java",Eastern Connecticut State University,dancikg@easternct.edu,Bioinformatics,0,0,0,0
-github.com/KobaCemal/,"Bash, Python",,IMT School of Advanced Studies Lucca,cemalkoba@gmail.com,"Neuroscience, machine learning"
-https://github.com/stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
+github.com/KobaCemal/,"Bash, Python",,IMT School of Advanced Studies Lucca,cemalkoba@gmail.com,"Neuroscience, machine learning",0,0,0,0
+stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
 Bioinformatics
 Cancer biology
 transcriptomics
-tidyverse"
+tidyverse",0,0,0,0
 sea-bass,"Python
 MATLAB
 C++",,Massachusetts Institute of Technology,sebas.a.castro@gmail.com,"Robotics
@@ -4786,7 +4786,7 @@ Machine Learning
 Algorithms
 Mechatronics
 Physical Simulation
-Control Systems"
+Control Systems",0,0,0,0
 https://github.com/stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
