@@ -156,7 +156,7 @@ machine learning",0,6,0,0
 ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",1,1,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
-Sowftware characterisation and profiling",0,4,1,0
+Sowftware characterisation and profiling",0,4,0,0
 linuxscout,Python,"C++
 PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
@@ -662,7 +662,7 @@ sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"Hi
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
 kdpeterson51,R,,University of Iowa,petersonkdon@gmail.com,"Statistics, Machine Learning",0,0,0,0
-juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",1,4,2,0
+juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",0,4,3,1
 fdroessler,Python,,Data Scientist in Industry,roessler.fd@gmail.com,"Molecular Dynamics Simulation
 Computational Chemistry
 Agent Based Models",0,1,0,0
@@ -1357,7 +1357,7 @@ R
 bash","perl
 php", Institute of Environmental Science and Research Limited (ESR),joepio@gmail.com,"Genomics
 Bioinformatics",0,5,1,0
-harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",1,4,1,0
+harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",1,4,0,0
 RcSepp,"Python
 C++
 C#
@@ -2467,7 +2467,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",0,2,2,1
+visualisation",0,2,1,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,1,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -2565,7 +2565,7 @@ Machine Learning
 Deep Learning",0,1,1,0
 prateekiiest,Python,"Java, C++",Microsoft Research India,prateekkol21@gmail.com,"Machine Learning, Data Mining",0,0,0,0
 github.com/leonardojaneis,"Java, Node.js, Python, C, C++, JavaScript",PHP and Assembly,University of Campinas - UNICAMP,leonardojaneis@gmail.com,"Parallel programming, distributed systems, complex data, pattern recognition, biometrics and database",0,0,0,0
-potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,1,1,0
+potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,1,0,0
 cultpenguin,"python
 matlab",,"Department of Geoscience, Aarhus University, Denmark",tmeha@geo.au.dk,"geophysics
 sampling
@@ -2576,7 +2576,7 @@ Finance/Economics
 Deep Learning (Primarily Time Series)
 Time Series
 Graphical Models",0,0,0,0
-KshitijAggarwal,"Python, Shell",Matlab,"Department of Physics and Astronomy, West Virginia University",ka0064@mix.wvu.edu,"Astronomy Pipeline, Astronomy Data Analysis, Machine Learning",0,1,1,0
+KshitijAggarwal,"Python, Shell",Matlab,"Department of Physics and Astronomy, West Virginia University",ka0064@mix.wvu.edu,"Astronomy Pipeline, Astronomy Data Analysis, Machine Learning",0,1,0,0
 zhanglipku,"python, R",,Boston University,zhang101@bu.edu,"social media, communication, computational social science",0,0,0,0
 mparquer,C++,python,Geological Survey of Canada,marion.parquer@gmail.com,mathematical goesciences,0,0,0,0
 osolari,Python R,R,Post-Doctoral Scholar,solari@berkeley.edu,"Machine learning, AI",0,1,1,0
@@ -3579,7 +3579,7 @@ Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"E
 Power systems",0,2,2,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,2,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
-nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,2,1
+nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,2,0
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,0
 mberacochea,"python
 cwl
@@ -3844,7 +3844,7 @@ vectorization
 GPU
 FMM",0,0,0,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,0,0,0
-adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,1,1,1
+adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,1,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
 Assembly tools",0,0,0,0
@@ -4791,3 +4791,8 @@ https://github.com/stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinforma
 Biostatistics
 Visualisation
 Tidyverse"
+xuyxu,"Python
+Matlab","C++
+Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
+Data Mining
+Artifical Intelligence"
