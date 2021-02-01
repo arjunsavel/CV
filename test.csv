@@ -1091,7 +1091,7 @@ mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarr
 computer science
 machine learning",0,2,0,0
 gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,1,0,0
-chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,1
+chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
 Geomechanics",0,0,0,0
@@ -2277,7 +2277,7 @@ Geology",0,1,1,0
 castelao,"Python
 Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
-Machine Learning",0,1,1,1
+Machine Learning",0,1,1,0
 agisga,"R
 Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)",alexej.go@gmail.com,"Statistics, Machine Learning, Deep Learning, Medical Imaging",0,2,1,1
 k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,0,0,0,0
@@ -3014,7 +3014,7 @@ fitting
 optimization
 multivariate analysis
 statistical analysis",0,1,1,0
-hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,1,2,1,0
+hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,2,1
 atanikan,"Python
 Java
 R
@@ -4787,12 +4787,33 @@ Algorithms
 Mechatronics
 Physical Simulation
 Control Systems",0,0,0,0
-https://github.com/stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
+stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
-Tidyverse"
+Tidyverse",0,0,0,0
 xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
 Data Mining
 Artifical Intelligence"
+yuhc,"C
+C++
+Python","Java
+Rust
+C#
+CUDA
+OpenCL",Facebook,yuhc123@gmail.com,"Systems
+accelerator
+GPU
+programming language
+containers
+virtualization
+cloud systems
+cloud computing
+distributed systems
+Operating systems
+compilers"
+jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
+spatial
+spatiotemporal
+APIs"
