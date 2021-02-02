@@ -4345,7 +4345,7 @@ Machine Learning",0,0,0,0
 RobertRosca,"Python
 Julia",,European XFEL,robert.rosca@protonmail.com,"Physics
 HPC
-Astronomy",0,0,0,0
+Astronomy",1,1,0,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",1,1,0,0
 yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,0,0,0
@@ -4795,7 +4795,7 @@ xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
 Data Mining
-Artifical Intelligence"
+Artifical Intelligence",0,0,0,0
 yuhc,"C
 C++
 Python","Java
@@ -4812,7 +4812,7 @@ cloud systems
 cloud computing
 distributed systems
 Operating systems
-compilers"
+compilers",0,0,0,0
 jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
