@@ -371,7 +371,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",1,2,0,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,7,1,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,8,1,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,1,0
 pdebuyl,"Python
 Fortran","C
@@ -575,7 +575,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",0,7,2,0
+Statistics",0,7,1,0
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",0,1,0,0
@@ -706,7 +706,7 @@ C++",Université Libre de Bruxelles,zhampel@wipac.wisc.edu,"Astronomy & Astrophy
 Physics
 Statistics
 Machine Learning
-High Performance Computing",0,7,2,0
+High Performance Computing",0,7,1,0
 strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",0,6,1,0
 smattr,"Python
 C
@@ -3776,7 +3776,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,1,1,0
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",1,2,1,0
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -4181,7 +4181,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,1,1,1
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,1,1,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -4817,3 +4817,7 @@ jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
 APIs"
+mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis"
+@robashaw,"C, C++, Python, Fortran",,University of Sheffield,r.shaw@sheffield.ac.uk,"Computational chemistry, applied mathematics"
+ashok-arora,"C++, Python, Shell","Lua, Assembly, HTML, JS",Student,arora8715@gmail.com,"Artificial Intelligence, Computer Vision, Open Source Software, CMake"
+apalarcon,python,,"Department of Meteorology, Higher Institute of  Technologies and Applied Sciences, University of Havana, Cuba",apalarcon1991@gmail.com,"atmospheric sciences, meteorology, climatology, tropical cyclones"
