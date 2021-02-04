@@ -1786,7 +1786,7 @@ Networking
 Distributed Computing",0,0,0,0
 jramirezcr,"Fortran, C++, CUDA",Python,,ingenmec.jrc@gmail.com,Computational Fluid Dynamics,0,0,0,0
 mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",1,1,0,0
-hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",1,1,0,0
+hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,1,1
 daniellivingston,"Python
 Fortran
 Swift
@@ -4816,8 +4816,17 @@ compilers",0,0,0,0
 jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
-APIs"
-mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis"
-@robashaw,"C, C++, Python, Fortran",,University of Sheffield,r.shaw@sheffield.ac.uk,"Computational chemistry, applied mathematics"
-ashok-arora,"C++, Python, Shell","Lua, Assembly, HTML, JS",Student,arora8715@gmail.com,"Artificial Intelligence, Computer Vision, Open Source Software, CMake"
-apalarcon,python,,"Department of Meteorology, Higher Institute of  Technologies and Applied Sciences, University of Havana, Cuba",apalarcon1991@gmail.com,"atmospheric sciences, meteorology, climatology, tropical cyclones"
+APIs",0,0,0,0
+mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis",0,0,0,0
+robashaw,"C, C++, Python, Fortran",,University of Sheffield,r.shaw@sheffield.ac.uk,"Computational chemistry, applied mathematics",0,0,0,0
+ashok-arora,"C++, Python, Shell","Lua, Assembly, HTML, JS",Student,arora8715@gmail.com,"Artificial Intelligence, Computer Vision, Open Source Software, CMake",0,0,0,0
+apalarcon,python,,"Department of Meteorology, Higher Institute of  Technologies and Applied Sciences, University of Havana, Cuba",apalarcon1991@gmail.com,"atmospheric sciences, meteorology, climatology, tropical cyclones",0,0,0,0
+g4brielvs,Python,"R
+C
+Java
+Ruby",World Bank,gabrielusvicente@gmail.com,"Applied Mathematics
+Physics
+Optimization
+Machine Learning
+Artificial Intelligence"
+@OloOcki,Python,,"Chair of Photogrammetry and Remote Sensing, Technical University of Munich",olaf.wysocki@tum.de,"GIS, Photogrammetry, Remote Sensing, Geomatics"
