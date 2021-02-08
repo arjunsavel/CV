@@ -641,7 +641,7 @@ Cryptocurrency
 Autonomy",0,0,0,0
 nthomasCUBE,"Bash, Python, R, Perl, Java",,INET & IEM Helmholtz Zentrum Munich,thomas.nussbaumer@helmholtz-muenchen.de,,1,2,1,1
 jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
-Machine learning",0,1,1,0
+Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
 R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,4,1,1
@@ -706,7 +706,7 @@ C++",Université Libre de Bruxelles,zhampel@wipac.wisc.edu,"Astronomy & Astrophy
 Physics
 Statistics
 Machine Learning
-High Performance Computing",0,7,1,0
+High Performance Computing",0,7,0,0
 strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",0,6,1,0
 smattr,"Python
 C
