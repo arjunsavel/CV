@@ -41,7 +41,7 @@ fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",1,2,0,0
 benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,6,1,0
-moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",1,2,0,0
+moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,1
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,1,0
 hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,1,0
@@ -370,7 +370,7 @@ C++
 C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineering
 Web Development
 Machine Learning
-Distributed Systems",1,2,0,0
+Distributed Systems",0,2,1,1
 mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,8,1,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,1,0
 pdebuyl,"Python
@@ -3610,7 +3610,7 @@ Semantic Web
 Linked Data
 Fuzzy Logic
 Continuous Integration
-Software Quality",1,2,1,1
+Software Quality",0,2,2,2
 datakid,"Bash, python",,University of New South Wales,datakid@gmail.com,"Bioinformatics, systems administration",0,0,0,0
 urbanophile,"Python
 R",,University of New South Wales,contact.matt.gibson@gmail.com,"machine learning
@@ -4002,7 +4002,7 @@ State-space modeling
 Machine Learning",0,1,1,1
 BabakNSafa,Matlab,,,bsafa3@gatech.edu,biomechanics,0,0,0,0
 https://gitlab.bsc.es,Fortran,,,herbert.owen@bsc.es,CFD - Finite Element for Flow Problem - Large eddy simulation for complex geometry. Interest in Wind energy and car aerodynamics,0,0,0,0
-degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",0,1,1,1
+degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",0,1,1,0
 Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learning",1,1,0,0
 ozanerturk,Javascript,"Python
 C#",,ozanerturk17@gmail.com,"concurrency
@@ -4199,7 +4199,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,0,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",1,2,1,1
+Security",1,2,1,0
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -4846,3 +4846,4 @@ Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
 C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics"
+asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science"
