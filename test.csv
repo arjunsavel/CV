@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,1,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,1,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,1,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,7,1,0
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,8,1,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -644,7 +644,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,4,1,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,5,1,1
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1157,7 +1157,7 @@ magnetic resonance imaging
 neuroimaging",0,7,3,1
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
-JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",1,5,2,0
+JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",2,6,2,0
 ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,1,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
@@ -2827,7 +2827,7 @@ JavaScript",Northwestern University,xrpatrick@gmail.com,"physics
 chemistry
 applied mathematics
 computer vision
-neuroscience",0,1,1,0
+neuroscience",0,1,0,0
 amcasari,"Python
 R",,Open Source @ Google,amcasari@google.com,"data science
 open science
@@ -2860,7 +2860,7 @@ lbugnon,Python,"Matlab/octave
 C++","sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence",lbugnon@sinc.unl.edu.ar,"Bioinformatics
 Machine Learning
 Signal/image processing
-Biomedical signals",1,2,1,0
+Biomedical signals",1,2,0,0
 Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOAM
 Multiphase flow
 CFD
@@ -3670,7 +3670,7 @@ mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear
 multiphysics
 algebraic multigrid",0,0,0,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
-skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,2,2
+skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,2,1
 santoshkumarradha,"python
 Julia",C++,Case Western Reserve University,srr70@case.edu,"Physics
 Condensed matter physics",0,0,0,0
@@ -4846,7 +4846,15 @@ Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
 C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",0,0,0,0
-asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science"
-ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs"
-https://github.com/FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning"
+asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
+ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
+FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,0,0,0
 pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg.de,Bioinformatics
+rafaelab,"C++
+Python","C
+Julia",Radboud University Nijmegen,8rafael@gmail.com,"Astroparticle Physics
+High-Energy Astrophysics"
+apwheele,"python
+R","Stata
+SPSS",HMS,apwheele@gmail.com,"social science, criminology"
+vinodkahuja,R,Python,University of Nebraska Omaha,vahuja@unomaha.edu,Open Source Software
