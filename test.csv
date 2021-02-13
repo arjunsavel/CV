@@ -31,9 +31,9 @@ Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epi
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
 Funnelfiasco,Python,Bash,,,"Linux, CLI tools",0,0,0,0
 mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",1,1,0,0
-vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,1,0
+vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
-ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,1,0
+ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
 kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,8,1,1
 pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC",0,2,0,0
 arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,1,0
@@ -901,10 +901,10 @@ Machine Learning",1,4,0,0
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,4,0,0
-steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,1,0
+steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
-williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,2,1
+williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,1,1
 nyutal,Python,Java,Yahoo! Research ,yutal.nadav@gmail.com,,0,0,0,0
 federeghe,"C, C++","Python, MATLAB",Politecnico di Milano,federico.reghenzani@polimi.it,"Real-Time Computing, Embedded Systems, Operating Systems, WCET analyses.",0,0,0,0
 pankajkmishra,MATLAB,Fortran 90,"Department of Mathematics, Hong Kong Baptist Univerisy",pankajkmishra01@gmail.com,"Meshless Methods 
@@ -1516,7 +1516,7 @@ Instrumentation
 Spectroscopy
 ",0,0,0,0
 steven-murray,"Python
-","Fortran90, C",Arizona State University,steven.g.murray@asu.edu,"Astrophysics, mathematical techniques",0,1,1,0
+","Fortran90, C",Arizona State University,steven.g.murray@asu.edu,"Astrophysics, mathematical techniques",0,1,0,0
 dsurujon,"python
 R
 MATLAB",,Boston College,surujon@bc.edu,"bioinformatics
@@ -1934,7 +1934,7 @@ Python
 R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
-nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,0,0,0
+nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",1,1,0,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,2,0,0
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,2,0,0
 nniiicc,"R
@@ -4857,10 +4857,13 @@ High-Energy Astrophysics",0,0,0,0
 apwheele,"python
 R","Stata
 SPSS",HMS,apwheele@gmail.com,"social science, criminology",0,0,0,0
-vinodkahuja,R,Python,University of Nebraska Omaha,vahuja@unomaha.edu,Open Source Software
+vinodkahuja,R,Python,University of Nebraska Omaha,vahuja@unomaha.edu,Open Source Software,0,0,0,0
 https://gitlab.com/FaroukM,"Matlab
 Python
 C++",bash,University of Sherbrooke,farouk.maaboudallah@usherbrooke.ca,"Finite Element Method
 Computational contact
-Stochastic Finite Element Method"
+Stochastic Finite Element Method",0,0,0,0
 no,HTML,no,UUM,mrohaan@live.com,no
+SRSteinkamp,"Python, Matlab",,None currently,sr.steinkamp@mailbox.org,"Neuroimaging (EEG, fMRI), Modeling"
+morungos,"JavaScript, Java, Perl, C","Java, Lisp, Python",Turalt,stuart@morungos.com,"Cognitive science and cognitive modelling, bioinformatics (especially translational), psychometrics"
+aminorex,"Python, C++, Lisp, Java, Fortran, Javascript",,Gedanken Laboratories,alk@southoftheclouds.net,"AI, ML, numerical analysis, cognitive science"
