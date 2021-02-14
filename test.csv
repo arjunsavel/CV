@@ -788,7 +788,7 @@ Shell script
 Python",Perl,"University Heart Center Hamburg, Germany",bob.dybian@gmail.com,"Omics analyses, workflow development, reproducibility, system integration",0,3,0,0
 expectopatronum,"R
 Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,2,0,0
-pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",0,3,1,1
+pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",0,3,1,0
 jizecn,"C++
 Python","Matlab
 Java",Cardiff University,jiz1@cf.ac.uk,"Computer Vision
@@ -964,7 +964,7 @@ Java",,Yandex,lisitsyn.s.o@gmail.com,machine learning,0,0,0,0
 StewMH,"C++, Python",,"Particle Physics Department, Rutherford Appleton Laboratory, ATLAS experiment CERN",stewart.martin-haugh@stfc.ac.uk,"Mathematical libraries
 Physics
 Profiling and performance optimisation",0,2,0,0
-mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,2,1
+mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,2,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
 wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,2,0
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
@@ -1104,12 +1104,12 @@ Java
 PHP",Javascript,CPE Lyon,john.samuel@cpe.fr,"Data Science
 Data visualization",0,1,0,0
 schalkdaniel,R,C++,Ludwig Maximilians University Munich,schalkdaniel242@gmail.com,Machine Learning,0,1,0,0
-dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,3,1,1
+dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,3,1,0
 taqtiqa-mark,"R
 Mathematica
 Julia
 Ruby","Python
-C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,1,0
+C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,0,0,0
 marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,2,1,0
 louiejtaylor,"R
@@ -1299,7 +1299,7 @@ Instrumentation
 Optics",1,3,1,1
 igarizio,Python,,,iacopo.garizio@gmail.com,"Economics
 Game theory
-Matching algorithms",0,2,2,0
+Matching algorithms",0,2,1,0
 holtgrewe,"Python
 Rust","C/C++
 Java
@@ -2860,7 +2860,7 @@ lbugnon,Python,"Matlab/octave
 C++","sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence",lbugnon@sinc.unl.edu.ar,"Bioinformatics
 Machine Learning
 Signal/image processing
-Biomedical signals",1,2,0,0
+Biomedical signals",0,2,1,1
 Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOAM
 Multiphase flow
 CFD
@@ -3857,7 +3857,7 @@ Julia
 R",,Shahid Beheshti University,amir.h.hadian@gmail.com,"Cognitive Sciences
 Scientific Computing
 Brain Data Analysis",0,0,0,0
-justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",1,2,1,0
+justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,2,1
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,1,0,0
@@ -4385,7 +4385,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",1,1,0,0
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,1,1,1
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -4863,7 +4863,15 @@ Python
 C++",bash,University of Sherbrooke,farouk.maaboudallah@usherbrooke.ca,"Finite Element Method
 Computational contact
 Stochastic Finite Element Method",0,0,0,0
-no,HTML,no,UUM,mrohaan@live.com,no
-SRSteinkamp,"Python, Matlab",,None currently,sr.steinkamp@mailbox.org,"Neuroimaging (EEG, fMRI), Modeling"
-morungos,"JavaScript, Java, Perl, C","Java, Lisp, Python",Turalt,stuart@morungos.com,"Cognitive science and cognitive modelling, bioinformatics (especially translational), psychometrics"
+no,HTML,no,UUM,mrohaan@live.com,no,0,0,0,0
+SRSteinkamp,"Python, Matlab",,None currently,sr.steinkamp@mailbox.org,"Neuroimaging (EEG, fMRI), Modeling",0,0,0,0
+morungos,"JavaScript, Java, Perl, C","Java, Lisp, Python",Turalt,stuart@morungos.com,"Cognitive science and cognitive modelling, bioinformatics (especially translational), psychometrics",0,0,0,0
 aminorex,"Python, C++, Lisp, Java, Fortran, Javascript",,Gedanken Laboratories,alk@southoftheclouds.net,"AI, ML, numerical analysis, cognitive science"
+ssiddhantsharma,Python,Javascript,Blue Marble Space Institute of Science,siddhaantsharma.ss@gmail.com,"Computational Biology
+Computational Chemistry"
+vs74,"Python 
+PyTorch
+TensorFlow
+HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
+Machine Learning
+Medical Imaging"
