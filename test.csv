@@ -1145,7 +1145,7 @@ margauxmouchene,Python,,CU Boulder,margaux.mouchene-1@colorado.edu,"Earth surfac
 mikaem,"Python, C, C++",Fortran,"University of Oslo, Department of Mathematics",mikaem@math.uio.no,"Spectral methods, computational fluid dynamics, high performance computing, MPI, finite element methods",0,2,0,0
 arvestad,"Python, C, C++",Perl,Stockholm University,arve@math.su.se,Bioinformatics,0,0,0,0
 github.com/Gabriel-p,Python,,IALP-CONICET,gabrielperren@gmail.com,Astrophysics,0,0,0,0
-ManuelaS,MATLAB,"python, R",Royal College of Surgeons in Ireland,manuelasalvucci@rcsi.ie,"bioinformatics, biostatistics, machine learning",0,2,1,0
+ManuelaS,MATLAB,"python, R",Royal College of Surgeons in Ireland,manuelasalvucci@rcsi.ie,"bioinformatics, biostatistics, machine learning",0,2,0,0
 SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & Max Planck Institute for the Science of Human History,simon@simon.net.nz,"phylogenetics
 historical/comparative linguistics
 cultural evolution",0,0,0,0
@@ -1522,7 +1522,7 @@ R
 MATLAB",,Boston College,surujon@bc.edu,"bioinformatics
 genetics
 systems biology
-biostatistics",0,2,1,0
+biostatistics",0,2,0,0
 danehkar,"C/C++, FORTRAN, IDL, Python","Java, Pascal, S-Lang (ISIS), IRAF, XSPEC, CIAO Sherpa, Matlab, Mathematica package",University of Michigan,ashkbiz.danehkar@gmail.com,"Astronomy, Astrophysics, Physics, Cosmology, Computation, Numerical Analysis, Mathematics, Statistics, Machine Learning, High Performance Computing",0,0,0,0
 breezykermol,"Python, JS, Elm, Go","Java, C, C++, Rust",Forensic Architecture,lk@forensic-architecture.org,"Computer Graphics, some machine learning",0,0,0,0
 prmiles,Python,Matlab,NC State University,prmiles@ncsu.edu,"Uncertainty Quantification
@@ -4385,7 +4385,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,1,1,1
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",1,2,1,1
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -4866,9 +4866,9 @@ Stochastic Finite Element Method",0,0,0,0
 no,HTML,no,UUM,mrohaan@live.com,no,0,0,0,0
 SRSteinkamp,"Python, Matlab",,None currently,sr.steinkamp@mailbox.org,"Neuroimaging (EEG, fMRI), Modeling",0,0,0,0
 morungos,"JavaScript, Java, Perl, C","Java, Lisp, Python",Turalt,stuart@morungos.com,"Cognitive science and cognitive modelling, bioinformatics (especially translational), psychometrics",0,0,0,0
-aminorex,"Python, C++, Lisp, Java, Fortran, Javascript",,Gedanken Laboratories,alk@southoftheclouds.net,"AI, ML, numerical analysis, cognitive science"
+aminorex,"Python, C++, Lisp, Java, Fortran, Javascript",,Gedanken Laboratories,alk@southoftheclouds.net,"AI, ML, numerical analysis, cognitive science",0,0,0,0
 ssiddhantsharma,Python,Javascript,Blue Marble Space Institute of Science,siddhaantsharma.ss@gmail.com,"Computational Biology
-Computational Chemistry"
+Computational Chemistry",0,0,0,0
 vs74,"Python 
 PyTorch
 TensorFlow
