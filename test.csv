@@ -1701,10 +1701,10 @@ C","Dask
 R
 Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",0,3,1,1
 mwcraig,Python,,Minnesota State University Moorhead ,mattwcraig@gmail.com,"Astronomy
-ipywidgets",0,3,2,1
+ipywidgets",0,3,1,1
 ceb8,Python,"C/C++/C#
 Javascript
-Perl",Space Telescope Science Institute,cebrasseur@gmail.com,"Astronomy, Mathematics, Cryptography",0,1,1,0
+Perl",Space Telescope Science Institute,cebrasseur@gmail.com,"Astronomy, Mathematics, Cryptography",0,1,0,0
 MatthewSmith430,R,,University of Greenwich,M.Smith@greenwich.ac.uk,"visualisation, international trade, network analysis",0,0,0,0
 vinmay,Python,Java,,vinmay.nair@gmail.com,,0,0,0,0
 ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Mechanics
@@ -3972,7 +3972,7 @@ Numerical methods
 Web scraping
 Linear Algebra",1,1,0,0
 JBorrow,"python
-C",,,joshua.borrow@durham.ac.uk,astrophysics,1,1,0,0
+C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,1
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
 elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,1,1,1
@@ -4281,7 +4281,7 @@ wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Desi
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
 tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",1,1,0,0
 otre99,"C++, Python, QML/Qt",,Universidad Nacional Autónoma de México,roberto.cruz.rdg@gmail.com,"Numerical Modeling, Image Processing, Machine Learning, Computer Vision",0,0,0,0
-arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",1,1,0,0
+arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,1,1,1
 trettenbrein,R,Python,Max Planck Institute for Human Cognitive & Brain Sciences,trettenbrein@cbs.mpg.de,"cognitive science, linguistics, psychology of language, neuroscience of language",0,0,0,0
 no,english,,To read book,rashidaakter5288@gmail.com,General surgery,0,0,0,0
 not sure what you mean,"i do not want program, i would like to review papers",n/a,social sciences,aklepakova@gmail.com,"processes, continuous improvement, quality, social sciences, public administration, business administration, sales, procurement, QMA",0,0,0,0
@@ -4875,3 +4875,6 @@ TensorFlow
 HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
 Machine Learning
 Medical Imaging"
+dxm447,"Python
+MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
+Image Processing"
