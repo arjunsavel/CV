@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,0,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,2,1,1
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",2,3,1,1
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -1906,7 +1906,7 @@ clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
 data science
-data visualization",1,4,3,1
+data visualization",1,4,3,0
 amritagos,"C++
 FORTRAN
 Python
@@ -3261,7 +3261,7 @@ C++",Indian Institute of Technology Bombay,rajatshinde@iitb.ac.in,"Geospatial Ap
 Geoinformatics
 Deep learning
 Remote Sensing",1,1,0,0
-a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,1,1
+a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,1,0
 github,Python,Java,Montana State University,indika.kahanda@montana.edu,"Bioinformatics
 Biomedical Informatics
 Medical Informatics
@@ -4235,7 +4235,7 @@ lscalfi,"Fortran
 Python",C,"Sorbonne Université, CNRS, Physico-chimie des Électrolytes et Nanosystèmes Interfaciaux, PHENIX",laura.scalfi@sorbonne-universite.fr,"electrochemistry
 physical chemistry
 molecular dynamics",1,1,0,0
-vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",0,0,0,0
+vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",1,1,0,0
 ferreira68,"C/C++, FORTRAN, Python","Perl, R",U.S. Department of Energy/Duquesne University,amferreira68@gmail.com,"Numerical Analysis, Chemistry, Physics",0,0,0,0
 tariqdaouda,python,"Javascript
 C++
@@ -4418,9 +4418,9 @@ performance analysis
 development tools
 security
 web development
-internet of things",0,0,0,0
+internet of things",1,1,0,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,1
-rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,0,1,1,1
+rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,2,1,1
 kullrich,"R
 python",,Max Planck Institute for Evolutionary Biology,ullrich@evolbio.mpg.de,"bioinformatics
 computational biology
@@ -4531,7 +4531,7 @@ Nathaniel-Haines,"R
 Stan",,The Ohio State University,haines.175@osu.edu,"Cognitive Science
 Computational Modeling
 Simulation
-Task Design",0,0,0,0
+Task Design",1,1,0,0
 kgoebber,Python,Python,Valparaiso University,kevin.goebbert@valpo.edu,"atmospheric science
 climate science
 meteorology",0,0,0,0
@@ -4703,7 +4703,7 @@ C++
 Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational Chemistry, Quantum Chemistry",0,0,0,0
 felipeZ,"Python
 Rust
-C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,0,0,0,0
+C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,1,1,0,0
 krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",0,0,0,0
 mkhoshbin1,"Python
 Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering,0,0,0,0
@@ -4753,7 +4753,7 @@ Python",,"Physics Department, Sapienza U niversity of Rome",lorenzo.rovigatti@un
 - physical chemistry
 - soft matter
 - chemical physics
-- biophysics",0,0,0,0
+- biophysics",1,1,0,0
 none,"Python, Julia, C, C++",FORTRAN,University of Waterloo,nmabukhdeir@uwaterloo.ca,"fluid mechanics
 particle mechanics
 image processing",0,0,0,0
@@ -4874,7 +4874,7 @@ PyTorch
 TensorFlow
 HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
 Machine Learning
-Medical Imaging"
+Medical Imaging",0,0,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing"
