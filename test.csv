@@ -396,7 +396,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",1,2,1,0
+Software Testing",2,3,1,0
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -876,7 +876,7 @@ mdpiper,"Python
 IDL
 Fortran","Java
 MATLAB",University of Colorado Boulder,mark.piper@colorado.edu,"Numerical modeling
-Data analysis",0,3,1,0
+Data analysis",1,4,1,0
 betteridiot,Python,"C/C++
 R
 JavaScript","University of Michigan, Department of Computational Medicine & Bioinformatics",mdsherman@betteridiot.tech,"Genetics
@@ -2037,7 +2037,7 @@ Geophysics",0,0,0,0
 inakleinbottle,"Python
 Rust","C
 C++
-MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,0,1,0,0
+MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,1,2,0,0
 mdehollander,python,,Netherlands Institute of Ecology (NIOO-KNAW),m.dehollander@nioo.knaw.nl,"bioinformatics
 metagenomics",0,0,0,0
 abhishektha,Python,MATLAB,University of Colorado Boulder,abhishektha@gmail.com,"Biomechanics
@@ -2816,7 +2816,7 @@ julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system 
 time-series data analysis
 geospational data analysis",1,1,0,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,1,0
-eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,1,1,1
+eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,2,1,1
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
 Interstellar medium",0,1,1,0
@@ -4364,7 +4364,7 @@ geometric data analysis
 unsupervised machine learning
 dimensionality reduction",1,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
-ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,1,0,0
+ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,2,2,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
 Finite volume methods
 Finite difference methods
@@ -4874,7 +4874,7 @@ PyTorch
 TensorFlow
 HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
 Machine Learning
-Medical Imaging",0,0,0,0
+Medical Imaging",1,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,0,0,0
@@ -4888,5 +4888,16 @@ a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlo
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,0,0,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,0,0,0
-JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk"
+JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,0,0,0
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision"
+@jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning"
+Yuri-M-Dias,"R
+Python
+Java
+Rust
+C++
+Ruby",Julia,National Institute for Space Research (INPE),yurimathe.yp@gmail.com,"Aerospace
+Databases
+Telemetry
+Satellites
+OLAP/Data Cubes"
