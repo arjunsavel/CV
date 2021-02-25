@@ -1711,7 +1711,7 @@ ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Me
 Atmospheric Sciences
 Oceanography
 Scientific computing
-Numerical methods",0,1,0,0
+Numerical methods",1,2,0,0
 pitsianis ,"MATLAB, C, C++, FORTRAN, Maple, Mathematica","Julia, Scheme, SML",Aristotle University of Thessaloniki,nikos.pitsianis@eng.auth.gr,"Parallel numerical software, compiler tools, fast transforms, big data",0,0,0,0
 wxy8955gmail.com,Python,,University of Texas at Austin,xywu@utexas.edu,"physics
 scientific instrumentation
@@ -3796,7 +3796,7 @@ Latent Variable Modelling
 Process Modelling
 Process Control
 Process Optimization",0,0,0,0
-rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",1,1,0,0
+rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,1,1
 sigven,R,Python,"Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway",sigven@ifi.uio.no,"Text mining, bioinformatics, genomics",1,1,0,0
 AhmedArslan,Python; R,,Stanford University,aarslan@stanford.edu,Computational Biology; Bioinformatics,0,0,0,0
 chainsawriot,R,"Lisp
@@ -3923,7 +3923,7 @@ Python
 PHP
 Javascript",,bernhard.froehler@fh-wels.at,"Computed tomography data analysis
 Volume data visualization",0,0,0,0
-p-costa,Fortran,"Python, Matlab",,p.simoes.costa@gmail.com,"Fluid dynamics, High-performance computing",0,0,0,0
+p-costa,Fortran,"Python, Matlab",,p.simoes.costa@gmail.com,"Fluid dynamics, High-performance computing",1,1,0,0
 dalg24,"C++, Python",,,lebrungrandt@ornl.gov,"Geometric search, finite elements, performance portability, particle-based simulations",0,0,0,0
 avakiai,"R
 Matlab
@@ -4641,7 +4641,7 @@ Gaussian processes
 Bayesian machine learning
 Markov Chain Monte-Carlo",0,0,0,0
 halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics",0,0,0,0
-ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",0,1,0,0
+ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",1,2,0,0
 MeHelmy,"Python
 Java
 Go
@@ -4837,7 +4837,7 @@ Deep Learning
 Image Classification
 Time Series Data
 Astrophysics
-Cosmology",0,0,0,0
+Cosmology",1,1,0,0
 zgxn,"C
 C++
 Fortran","Python
@@ -4878,7 +4878,7 @@ Medical Imaging",1,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,0,0,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,1,0,0
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",2,2,0,0
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -4889,8 +4889,8 @@ zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,0,0,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,0,0,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,0,0,0
-jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision"
-@jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning"
+jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,0,0,0
+jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,0,0,0
 Yuri-M-Dias,"R
 Python
 Java
