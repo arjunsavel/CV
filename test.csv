@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,1,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,1,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,8,1,0
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,8,2,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -101,7 +101,7 @@ machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,1,0,0
-CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",0,2,1,1
+CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,1,1
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
 cheminformatics
@@ -644,7 +644,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,5,1,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,5,2,2
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -890,7 +890,7 @@ Mixed Models
 Bayesian Inference
 Functional Data Analysis
 Dimension Reduction Methods
-Spatial Data Analysis",0,4,1,0
+Spatial Data Analysis",0,4,0,0
 amarkos,R,Matlab,Democritus University of Thrace,amarkos@eled.duth.gr,"Clustering, Dimensionality reducation",0,0,0,0
 sjvrijn,Python,"C
 Java
@@ -1157,7 +1157,7 @@ magnetic resonance imaging
 neuroimaging",0,7,3,1
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
-JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",1,6,3,1
+JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,4,2
 ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,1,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
@@ -1296,7 +1296,7 @@ kmarkert,Python,Javascript,The University of Alabama in Huntsville,kel.markert@g
 crew102,"R, Python",Java,Virgina Tech Applied Research Corporation,chriscrewbaker@gmail.com,General software development and data science tools/topics,0,1,0,0
 aquilesC,python,matlab,Uetke.com,aquiles@uetke.com,"Physics
 Instrumentation
-Optics",1,3,1,1
+Optics",1,3,1,0
 igarizio,Python,,,iacopo.garizio@gmail.com,"Economics
 Game theory
 Matching algorithms",0,2,1,0
@@ -1701,7 +1701,7 @@ C","Dask
 R
 Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",0,3,1,1
 mwcraig,Python,,Minnesota State University Moorhead ,mattwcraig@gmail.com,"Astronomy
-ipywidgets",0,3,1,1
+ipywidgets",0,3,1,0
 ceb8,Python,"C/C++/C#
 Javascript
 Perl",Space Telescope Science Institute,cebrasseur@gmail.com,"Astronomy, Mathematics, Cryptography",0,1,0,0
@@ -2288,7 +2288,7 @@ chpriyal,"C++
 Python
 Verilog
 Bluespec Verilog",,BITS Pilani,f20160378@goa.bits-pilani.ac.in,Computer Architecture,0,0,0,0
-caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,1,1
+caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,1,0
 dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,0,0,0
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
@@ -4901,3 +4901,7 @@ Databases
 Telemetry
 Satellites
 OLAP/Data Cubes"
+@Balaje,"C++
+MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Method
+Fluid Structure Interaction
+Virtual Element Methods"
