@@ -101,7 +101,7 @@ machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,1,0,0
-CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,1,1
+CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,1,0
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
 cheminformatics
@@ -1404,9 +1404,9 @@ Machine Learning",0,0,0,0
 astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,1,1,1
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
-gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",0,1,1,0
+gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",1,2,1,0
 brandondube,Python,Javascript,"Retro Refractions, LLC",brandondube@gmail.com,"Optics
-Physics",0,1,1,0
+Physics",0,1,0,0
 aslakbergersen,Python,,Simula Research Laboratory,bergersen@gmail.com,"Geometric manipulation
 Numerical methods",0,0,0,0
 garrettj403,Python,,University of Oxford,garrettj403@gmail.com,"Electrical engineering
@@ -1610,7 +1610,7 @@ Data Science
 Machine Learning
 Optimisation Research
 Geographic Information Systems",0,1,0,0
-wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"heliophysics, space science, astrophysics, machine learning",0,0,0,0
+wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"heliophysics, space science, astrophysics, machine learning",1,1,0,0
 giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,1,0,0
 gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
@@ -1951,7 +1951,7 @@ feddelegrand7,R,,National Higher School of Statistics and Applied Economics (ENS
 Economics 
 Data Envelopment Analysis 
 Banking",0,0,0,0
-martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",1,3,0,0
+martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",2,4,0,0
 czxa,"R
 Stata","Python
 Latex","Shandong University, China",czxjnu@163.com,"Economics
@@ -2257,7 +2257,7 @@ Systems Biology
 general Stats and Machine learning when I understand it :)",0,0,0,0
 Jacob-Barhak,Python,"Matlab, C, C++",Jacob Barhak,jacob.barhak@gmail.com,"Computational disease modeling,  modeling and simulation,  machine learning,  computational geometry/ computer graphics, Computer Aided Design",0,0,0,0
 DiegoJRR,Python,,Student at Tecnologico de Monterrey,diegojrr00@gmail.com,"Physics
-Optics",0,1,1,0
+Optics",0,1,0,0
 innat,"Python
 C/C++","JavaScript
 Swift
@@ -3426,7 +3426,7 @@ jamesdamillington,R,Python,"Dept. of Geography, King's College London",james.mil
 ABM
 state-and-transition modelling
 landscape ecology
-geography",0,0,0,0
+geography",1,1,0,0
 astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,1,1,1
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
@@ -3712,7 +3712,7 @@ Electromagnetic Theory
 Computational Electromagnetics
 Terahertz Sensing
 2D Materials
-Antenna Theory and Design",0,1,1,1
+Antenna Theory and Design",0,1,1,0
 kegiljarhus,"Python
 Fortran
 C++","C
@@ -4900,8 +4900,9 @@ Ruby",Julia,National Institute for Space Research (INPE),yurimathe.yp@gmail.com,
 Databases
 Telemetry
 Satellites
-OLAP/Data Cubes"
+OLAP/Data Cubes",0,0,0,0
 @Balaje,"C++
 MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Method
 Fluid Structure Interaction
 Virtual Element Methods"
+moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science"
