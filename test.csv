@@ -156,7 +156,7 @@ machine learning",0,6,0,0
 ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",1,1,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
-Sowftware characterisation and profiling",0,4,0,0
+Sowftware characterisation and profiling",1,5,0,0
 linuxscout,Python,"C++
 PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
@@ -1401,7 +1401,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,1,1,1
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,1,2,1,1
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",1,2,1,0
@@ -3427,7 +3427,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",1,1,0,0
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,1,1,1
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,1,2,1,1
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -4464,7 +4464,7 @@ Atomistic simulations",1,1,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,0,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
-omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,0,0,0
+omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",1,1,0,0
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
 wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic",0,0,0,0
 navdeep-G,"Python, R, Java","C,C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, statistics",0,0,0,0
@@ -4901,8 +4901,9 @@ Databases
 Telemetry
 Satellites
 OLAP/Data Cubes",0,0,0,0
-@Balaje,"C++
+Balaje,"C++
 MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Method
 Fluid Structure Interaction
-Virtual Element Methods"
+Virtual Element Methods",0,0,0,0
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science"
+@georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking"
