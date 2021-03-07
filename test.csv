@@ -439,7 +439,7 @@ Computational biology
 Sequence analysis
 Genome analysis
 Evolution
-Ecology",0,4,1,1
+Ecology",0,4,1,0
 hainesr,"Ruby
 Java
 C
@@ -1064,7 +1064,7 @@ Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
 Physics simulators",0,5,0,0
-GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,2,1
+GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,2,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,1,0
 HaoZeke,"C++
 Rust
@@ -1997,7 +1997,7 @@ Human brain imaging",0,2,1,1
 tretherington,"Python
 R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,0,0,0
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,1,0
-Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,1,0,0
+Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",1,2,0,0
 mariabnd,R,Python,Currently Steno Diabetes Center Copenhagen,maria@mdunbar.dk,Public Health,0,0,0,0
 yzhao062,Python,,Carnegie Mellon University,zhaoy@cmu.edu,"machine learning
 data mining
@@ -3024,7 +3024,7 @@ HTML
 SQL",C,Argonne National Laboratory,atanikanti@anl.gov,"Computer Science
 Data Science
 Machine Learning
-HPC",0,2,2,1
+HPC",0,2,2,0
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,2,0
 mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",1,3,2,1
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
@@ -3097,7 +3097,7 @@ C++","R
 C",Argonne National Labratory,aditya.tanikanti@gmail.com,"Data Science
 Computer Science
 Information Technology
-Dev Ops",0,2,2,1
+Dev Ops",0,2,2,0
 fpl,"Python, Perl, C, C++, R","Java, Javascript,",CNR IREA,francesco.lovergine@cnr.it,"geospatial, numerical analysis, machine learning, statistics",0,0,0,0
 github.com/Paul92,"C++, Python, C",,EPFL,paul.gafton@gmail.com,"Computer Vision, Machine Learning",0,0,0,0
 paulotome,c,Common Lisp,none,paulo.jorge.tome@gmail.com,Linux,0,0,0,0
@@ -4279,7 +4279,7 @@ kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University 
 iwebnet.id,Java,php,Perpusnas,rizkitafaja@gmail.com,sience,0,0,0,0
 wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Design, Information Architecture, Front End Development, Database Design",0,0,0,0
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
-tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",0,1,1,1
+tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",1,2,1,1
 otre99,"C++, Python, QML/Qt",,Universidad Nacional Autónoma de México,roberto.cruz.rdg@gmail.com,"Numerical Modeling, Image Processing, Machine Learning, Computer Vision",0,0,0,0
 arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,1,1,1
 trettenbrein,R,Python,Max Planck Institute for Human Cognitive & Brain Sciences,trettenbrein@cbs.mpg.de,"cognitive science, linguistics, psychology of language, neuroscience of language",0,0,0,0
@@ -4911,16 +4911,16 @@ ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Developm
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
 raoulcollenteur,Python,,University of Graz,raoul.collenteur@uni-graz.at,"Geosciences, Hydrology",0,0,0,0
-yongzesong,R,Matlab,Curtin University,yongze.song@curtin.edu.au,"GIS, Spatial analysis, geography, remote sensing, environment and ecology"
-@vickysharma0812,Fortran,,Postdoctoral fellow,vickysharma0812@gmail.com,"Linear Algebra
+yongzesong,R,Matlab,Curtin University,yongze.song@curtin.edu.au,"GIS, Spatial analysis, geography, remote sensing, environment and ecology",0,0,0,0
+vickysharma0812,Fortran,,Postdoctoral fellow,vickysharma0812@gmail.com,"Linear Algebra
 Finite Element Methods
 Finite Volume Methods
-Computation Physics"
-s-m-e,"Python, C","Matlab, Bash, Basic, JavaScript",pleiszenburg.de - Independent Scientific Services,ernst@pleiszenburg.de,"HPC, Geophysics (and closely related disciplines), anything GIS, Astrodynamics, Small Body Science (Asteroids, Comets, Meteorites and other forms of dust in the solar system)"
+Computation Physics",0,0,0,0
+s-m-e,"Python, C","Matlab, Bash, Basic, JavaScript",pleiszenburg.de - Independent Scientific Services,ernst@pleiszenburg.de,"HPC, Geophysics (and closely related disciplines), anything GIS, Astrodynamics, Small Body Science (Asteroids, Comets, Meteorites and other forms of dust in the solar system)",0,0,0,0
 MichaelHoltonPrice,"Python, R",,Santa Fe Institute,MichaelHoltonPrice@gmail.com,"Statistics
 MCMC based optimizations (e.g., parallel tempering)
 Anthropology
 Archaeology
 Human Evolution
-Ecology"
+Ecology",0,0,0,0
 xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing"
