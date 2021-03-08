@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,2,0
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,1,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,0,0,0
@@ -1356,7 +1356,7 @@ Python
 R
 bash","perl
 php", Institute of Environmental Science and Research Limited (ESR),joepio@gmail.com,"Genomics
-Bioinformatics",0,5,1,0
+Bioinformatics",0,5,0,0
 harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",1,4,0,0
 RcSepp,"Python
 C++
@@ -1418,7 +1418,7 @@ ajgates42,python,"c, c++, julia",Northeastern University,ajgates42@gmail.com,"ne
 zedtaha,R and C#,Matlab and Java,"Faculty of Law, Economics and Management of Jendouba, Tunisia",zedtaha@gmail.com,Econometrics,0,0,0,0
 https://bitbucket.org/petar/,Python,LaTeX,"Faculty of Technical Sciences, University of Novi Sad",petarmaric@uns.ac.rs,"web development, metaprogramming,   software design, web spiders, parsers, scientific computing, numerical analysis",0,0,0,0
 asntech,"Python, R, PHP",,"NCMM, University of Oslo, Norway",aziz.khan@ncmm.uio.no,"gene regulation, machine learning, enhancer biology",0,0,0,0
-zonca,Python,C,"University of California, San Diego",zonca@sdsc.edu,"Cosmology, Astrophysics",0,3,2,1
+zonca,Python,C,"University of California, San Diego",zonca@sdsc.edu,"Cosmology, Astrophysics",0,3,1,1
 DanielLenz,Python,,NASA JPL/Caltech,mail@daniellenz.org,"Astronomy/Astrophysics
 Physics
 Machine Learning/Deep Learning",0,2,0,0
@@ -1583,7 +1583,7 @@ Fortran",University of California Davis,rene.gassmoeller@mailbox.org,"Geodynamic
 Geosciences
 High-perfomance computing
 Finite-element methods
-Particle methods",0,4,3,0
+Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
@@ -2501,7 +2501,7 @@ jonahbenton,"python, clojure, go",None,Independent Consultant,jonah@jonah.com,,0
 PBarmby,Python,C,Western University,pbarmby@uwo.ca,Astrophysics/astronomy,0,0,0,0
 Williamsmj,Python,,Cloudera,mike@mike.place,"Machine learning, data processing esp. astrophysics, visualisation",0,0,0,0
 zaxtax,"Python, Haskell, R",Julia,University of Oxford,zinkov@robots.ox.ac.uk,"machine learning, data science",0,0,0,0
-szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,2,2,0
+szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,2,1,0
 Corbett,"Python, Objective-C","C++,Java",NASA JPL,Corbett@caltech.edu,"Astrophysics, computer security,physics, computer science",0,0,0,0
 smsaladi,"python, R, javascript","C, C++",California Institute of Technology,saladi@caltech.edu,"biology, bioinformatics, biochemistry, biophysics, bioengineering",0,0,0,0
 samvaughan,Python,None,University of Sydney,Sam.vaughan@sydney.edu.au,Astronomy,0,0,0,0
@@ -4924,3 +4924,22 @@ Archaeology
 Human Evolution
 Ecology",0,0,0,0
 xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing"
+abhishekvp,"javascript
+Java
+PHP","C++
+Embedded C",Indian Institute of Technology Bombay,abhishekvpotnis@gmail.com,"web dev tools
+web browser
+remote sensing tools
+geospatial 
+GIS
+semantic web
+knowledge representation
+ontology
+IoT
+HPC
+Embedded HPC"
+Jesusbill,"Python
+Javascript",,Aether Engineering,ipc@aethereng.com,"Structural Engineering
+Seismic Design of Structures
+Wood Structures
+openBIM"
