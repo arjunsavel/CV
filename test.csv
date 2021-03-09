@@ -173,7 +173,7 @@ Systems dynamics",0,8,3,1
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,3,0,0
-gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,3,0
+gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,2,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,1,1,1
@@ -4923,7 +4923,7 @@ Anthropology
 Archaeology
 Human Evolution
 Ecology",0,0,0,0
-xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing"
+xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,0,0,0
 abhishekvp,"javascript
 Java
 PHP","C++
@@ -4937,9 +4937,22 @@ knowledge representation
 ontology
 IoT
 HPC
-Embedded HPC"
+Embedded HPC",0,0,0,0
 Jesusbill,"Python
 Javascript",,Aether Engineering,ipc@aethereng.com,"Structural Engineering
 Seismic Design of Structures
 Wood Structures
 openBIM"
+ankur-gupta,Python,R,"Lead Data Scientist, Salesforce",ankur.gupta.phd@gmail.com,"Machine Learning
+Statistics
+Optimization
+Natural Language Processing
+Deep Learning
+Data Structures
+Distributed Computing
+Algorithms
+Computational Complexity
+Physical Sciences (esp Chemical & Biological Engineering)"
+semiautomaticgit,Python,,Indipendent,ing.congedo.luca@gmail.com,"Remote sensing
+Land cover
+GIS"
