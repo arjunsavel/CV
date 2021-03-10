@@ -349,7 +349,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",0,8,1,0
+[glad to consider anything and will reply quickly if not qualified]",1,9,1,0
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -414,7 +414,7 @@ Geobiology
 Biogeochemistry",1,3,0,0
 tgerke,R,SAS,Moffitt Cancer Center,travis.gerke@moffitt.org,"Epidemiology
 Biostatistics
-Cancer research applications",0,3,0,0
+Cancer research applications",1,4,0,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,1,0
 dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,0,0,0
 cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,0,0,0
@@ -505,7 +505,7 @@ Statistical Computing",0,1,0,0
 borishejblum,R,,Université de Bordeaux,boris.hejblum@u-bordeaux.fr,"Biostatistics
 Bioinformatics
 Epidemiology
-Public Health",0,1,0,0
+Public Health",1,2,0,0
 corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epidemiology, public health",0,0,0,0
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
@@ -890,7 +890,7 @@ Mixed Models
 Bayesian Inference
 Functional Data Analysis
 Dimension Reduction Methods
-Spatial Data Analysis",0,4,0,0
+Spatial Data Analysis",1,5,0,0
 amarkos,R,Matlab,Democritus University of Thrace,amarkos@eled.duth.gr,"Clustering, Dimensionality reducation",0,0,0,0
 sjvrijn,Python,"C
 Java
@@ -4942,7 +4942,7 @@ Jesusbill,"Python
 Javascript",,Aether Engineering,ipc@aethereng.com,"Structural Engineering
 Seismic Design of Structures
 Wood Structures
-openBIM"
+openBIM",0,0,0,0
 ankur-gupta,Python,R,"Lead Data Scientist, Salesforce",ankur.gupta.phd@gmail.com,"Machine Learning
 Statistics
 Optimization
@@ -4952,7 +4952,8 @@ Data Structures
 Distributed Computing
 Algorithms
 Computational Complexity
-Physical Sciences (esp Chemical & Biological Engineering)"
+Physical Sciences (esp Chemical & Biological Engineering)",0,0,0,0
 semiautomaticgit,Python,,Indipendent,ing.congedo.luca@gmail.com,"Remote sensing
 Land cover
 GIS"
+felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning
