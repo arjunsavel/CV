@@ -758,7 +758,7 @@ QUANTUM CHEMISTRY
 MOLECULAR DYNAMICS
 HIGH PERFORMANCE COMPUTING
 APPLICATION FAULT TOLERANCE",0,0,0,0
-nespinoza,"Python, C",Java,Max-Planck-Institut für Astronomie,espinoza@mpia.de,"Astronomy, astrophysics, statistics, astrostatistics",1,5,1,0
+nespinoza,"Python, C",Java,Max-Planck-Institut für Astronomie,espinoza@mpia.de,"Astronomy, astrophysics, statistics, astrostatistics",1,5,0,0
 edoddridge,"Python
 Fortran",,MIT,ewd@mit.edu,"Oceanography
 Geophysical Fluid Dynamics
@@ -1414,7 +1414,7 @@ RF/microwave engineering
 Radio astronomy
 Instrumentation
 SIS mixers",1,3,1,0
-ajgates42,python,"c, c++, julia",Northeastern University,ajgates42@gmail.com,"network science, data science, information theory",0,1,1,0
+ajgates42,python,"c, c++, julia",Northeastern University,ajgates42@gmail.com,"network science, data science, information theory",0,1,0,0
 zedtaha,R and C#,Matlab and Java,"Faculty of Law, Economics and Management of Jendouba, Tunisia",zedtaha@gmail.com,Econometrics,0,0,0,0
 https://bitbucket.org/petar/,Python,LaTeX,"Faculty of Technical Sciences, University of Novi Sad",petarmaric@uns.ac.rs,"web development, metaprogramming,   software design, web spiders, parsers, scientific computing, numerical analysis",0,0,0,0
 asntech,"Python, R, PHP",,"NCMM, University of Oslo, Norway",aziz.khan@ncmm.uio.no,"gene regulation, machine learning, enhancer biology",0,0,0,0
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",0,3,3,0
+tidyverse",0,3,2,0
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -4955,5 +4955,6 @@ Computational Complexity
 Physical Sciences (esp Chemical & Biological Engineering)",0,0,0,0
 semiautomaticgit,Python,,Indipendent,ing.congedo.luca@gmail.com,"Remote sensing
 Land cover
-GIS"
+GIS",0,0,0,0
 felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning
+jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming"
