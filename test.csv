@@ -945,7 +945,7 @@ C#
 Processing
 Haskell
 Idriss",Independent,daan.v.berkel.1980+joss@gmail.om,"Mathematics
-Computer Science",0,2,1,0
+Computer Science",1,3,1,0
 adavidzh,"Python
 C
 C++","Java
@@ -3114,7 +3114,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",0,1,1,0
+Data handling",1,2,1,0
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -3151,7 +3151,7 @@ chemo-mechanical
 multiphysics
 multiscale",0,3,3,1
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,1,0
-GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",1,1,0,0
+GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,1
 rchg,"Python
 Fortran
 Julia","Bash
@@ -4168,7 +4168,7 @@ javascript",,"Florida International University, Department of Psychology",kbott0
 Neuroimaging
 Psychology
 Data science",1,2,1,0
-chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,0,0,0
+chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",1,1,0,0
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",0,0,0,0
 mherman09,Fortran,"Python
 HTML/CSS","California State University, Bakersfield",matthew.w.herman@gmail.com,"Geophysics
@@ -4362,7 +4362,7 @@ linear algebra
 topological data analysis
 geometric data analysis
 unsupervised machine learning
-dimensionality reduction",1,1,0,0
+dimensionality reduction",0,1,1,1
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
 ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,3,3,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
@@ -4681,7 +4681,7 @@ Knowledge Representation",0,0,0,0
 amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science",0,0,0,0
 esteinig,"Python
 Rust
-R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,0,0,0
+R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",1,1,0,0
 JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",1,1,0,0
 ghislainv,"R
 Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
@@ -4956,5 +4956,6 @@ Physical Sciences (esp Chemical & Biological Engineering)",0,0,0,0
 semiautomaticgit,Python,,Indipendent,ing.congedo.luca@gmail.com,"Remote sensing
 Land cover
 GIS",0,0,0,0
-felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning
+felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning,0,0,0,0
 jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming"
+db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves"
