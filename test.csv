@@ -3817,7 +3817,7 @@ tmaric,"C++
 python",Matlab,Technical University of Darmstadt,maric@mma.tu-darmstadt.de,"numerical methods for multiphase flows
 computational geometry
 high-performance computing 
-software design",0,0,0,0
+software design",1,1,0,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
 Earth System Modeling",0,1,1,1
@@ -4111,7 +4111,7 @@ Brain-Computer-Interface
 Brain Stimulation",0,1,0,0
 julianpistorius,"Python, Elm, Shell",,,julianp@arizona.edu,"Pipelines, workflows, web services, scripts, containers, automation, infrastructure",0,0,0,0
 marvinjonathcn,R and Python,"Javascript, HTML",,marvinjqs@gmail.com,"Environmental data science, climate modeling, 
-pest modeling",0,1,1,1
+pest modeling",0,1,1,0
 humanfactors,R,Python,,michael.d.wilson@curtin.edu.au,"Cognitive Psychology
 Human Factors
 Behavioural Science
@@ -4331,7 +4331,7 @@ Sequencing",0,1,1,1
 richelbilderbeek,"R
 C++",C,"MIMY, GBB, University of Groningen",richel@richelbilderbeek.nl,"Phylogenetics
 Immunology",0,0,0,0
-tscheypidi,R,"PHP, HTML, CSS",Potsdam Institute for Climate Impact Research (PIK),dietrich@pik-potsdam.de,"Climate Science, Land Use/Agriculture, Reproducible Research",1,2,1,1
+tscheypidi,R,"PHP, HTML, CSS",Potsdam Institute for Climate Impact Research (PIK),dietrich@pik-potsdam.de,"Climate Science, Land Use/Agriculture, Reproducible Research",1,2,1,0
 RDastgh1,"R
 Matlab","Python
 Java",Johns Hopkins Medical Institute,rdastgh1@jhmi.edu,"GUI Design
@@ -4957,5 +4957,6 @@ semiautomaticgit,Python,,Indipendent,ing.congedo.luca@gmail.com,"Remote sensing
 Land cover
 GIS",0,0,0,0
 felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning,0,0,0,0
-jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming"
+jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming",0,0,0,0
 db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves"
+levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@tamu.edu,"scientific machine learning, deep learning"
