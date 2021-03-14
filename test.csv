@@ -55,7 +55,7 @@ lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, parti
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
 effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,1,0
-stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",1,6,1,0
+stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,2,1
 fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms visualizations, game theory, mathematics",0,1,0,0
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
@@ -1051,7 +1051,7 @@ Library and information science",0,0,0,0
 fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, biostatistics",0,0,0,0
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
-stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",1,6,1,0
+stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,2,1
 vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,2,0,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
@@ -1154,7 +1154,7 @@ camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of 
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
-neuroimaging",0,7,3,1
+neuroimaging",0,7,3,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,4,2
@@ -1287,7 +1287,7 @@ optimal control",1,1,0,0
 utf,Python,,Lawrence Berkeley National Laboratory,alexganose@googlemail.com,"Materials Science
 Computational chemistry
 Chemistry
-Density functional theory",0,2,1,0
+Density functional theory",0,2,0,0
 afrendeiro,"Python
 R",,CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences,afrendeiro@gmail.com,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -2479,7 +2479,7 @@ R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
 Scholarly communications",0,0,0,0
-DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,3,2,1
+DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,3,2,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
 smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"computational biology, bioinformatics",0,0,0,0
@@ -2773,7 +2773,7 @@ torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisat
 Graph Theory
 Shortest Path Problems
 Column Generation
-Linear Programming",1,1,0,0
+Linear Programming",0,1,1,1
 sarathsp06,"Go
 Python
 Javascript","Javascript
@@ -4037,7 +4037,7 @@ sylvaticus,Julia,"Python, C++",,antonello@lobianco.org,"Machine Learning, Social
 www.github.com/bhajay,"C, C++, Fortran, QT, Python, Matlab, Mathematica",,,ajaybh@berkeley.edu,"Computational contact mechanics, computational fracture mechanics, computational mechanics, FEM, CFD",0,0,0,0
 rgerum,Python,javascript,,richard.gerum@protonmail.com,"image analysis, plotting, deep learning",0,0,0,0
 josiahparry,R,,,josiah.parry@gmail.com,"web scraping, apis, sociology, political science, social science, urban studies, open data, data packages, general purpose R work",0,0,0,0
-torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",1,1,0,0
+torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",0,1,1,1
 cxwx,"C++
 python",,,chenxu@ihep.ac.cn,"astronomy
 cosmic ray
@@ -4958,5 +4958,6 @@ Land cover
 GIS",0,0,0,0
 felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Learning,0,0,0,0
 jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming",0,0,0,0
-db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves"
+db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves",0,0,0,0
 levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@tamu.edu,"scientific machine learning, deep learning"
+blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics"
