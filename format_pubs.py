@@ -19,6 +19,7 @@ spec.loader.exec_module(utf8totex)
 
 JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
+    "arXiv e-prints": "ArXiv",
     "Monthly Notices of the Royal Astronomical Society": "\\mnras",
     "The Astrophysical Journal": "\\apj",
     "The Astronomical Journal": "\\aj",
