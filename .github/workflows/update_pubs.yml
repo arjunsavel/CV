@@ -26,10 +26,12 @@ jobs:
         env:
           ADS_DEV_KEY: ${{secrets.ADS_SECRET}}
         run: |
+          cd scripts
           python scrape_ads.py
           
       - name: Format publications
         run: |
+          cd scripts
           python format_pubs.py
           
       - name: Committing changes

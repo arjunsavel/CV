@@ -25,10 +25,12 @@ jobs:
         env:
           SHEETS_SECRET: ${{ secrets.SHEETS_API_KEY }}
         run: |
+          cd scripts
           python scrape_joss.py "$SHEETS_SECRET"
           
       - name: Write the number of JOSS reviews
         run: |
+          cd scripts
           python write_joss.py
           
       - name: Committing changes
