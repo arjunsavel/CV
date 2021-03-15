@@ -43,7 +43,7 @@ def format_pub(args):
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            others = len(pubs['authors']) - 4
+            others = len(pub['authors']) - 4
             fmt += "\\ (\\& {{{0}}} other co-authors, incl.\\ \\textbf{Savel, Arjun})".format(others)
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
