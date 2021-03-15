@@ -24,6 +24,7 @@ JOURNAL_MAP = {
     "The Astronomical Journal": "\\aj",
     "Publications of the Astronomical Society of the Pacific": "\\pasp",
     "IAU General Assembly": "IAU",
+    "Astronomy and Astrophysics": "\\aanda",
     "American Astronomical Society Meeting Abstracts": "AAS",
 }
 
