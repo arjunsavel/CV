@@ -55,7 +55,7 @@ def format_pub(args):
     if pub["doi"] is not None:
         fmt += ", \\doi{{{0}}}{{{1}}}".format(pub["doi"], pub["title"])
     else:
-        fmt += ", " + pub["title"]
+        fmt += ", \\emph{{{0}}}".format(pub["title"])
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(
