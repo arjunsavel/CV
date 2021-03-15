@@ -113,7 +113,7 @@ if __name__ == "__main__":
     nfirst = sum(1 for p in pubs if "Savel" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
-    hindex = sum(c >= i for i, c in enumerate(cites))
+    hindex = sum(c > i for i, c in enumerate(cites))
 
     summary = (
         "refereed: {1} / first author: {2} / citations: {3} / "
