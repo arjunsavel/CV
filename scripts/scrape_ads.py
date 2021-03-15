@@ -85,5 +85,7 @@ def get_papers(author):
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 if __name__ == "__main__":
-    get_papers('Savel, Arjun Baliga')
+    paper_dict = get_papers('Savel, Arjun Baliga')
+    with open("../data/ads_scrape.json", "w") as f:
+        json.dump(test_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
     

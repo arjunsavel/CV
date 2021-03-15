@@ -3,7 +3,7 @@
 
 \documentclass[12pt,letterpaper]{article}
 
-\input{cvstyle}
+\input{supp_tex/cvstyle}
 
 \begin{document}\thispagestyle{empty}\sloppy\sloppypar\raggedbottom
 \centering
@@ -31,19 +31,18 @@
 
 \end{list}
 
-% todo: actually scrape pubs
-% todo: scrape h-index
+
   \cvheading{PUBLICATIONS}
-  \input{pubs_summary}
+  \input{supp_tex/pubs_summary}
 
   \cvheading{Refereed publications}
   \begin{list}{}{\cvlist}
-    \input{pubs_ref}
+    \input{supp_tex/pubs_ref}
   \end{list}
 
   \cvheading{Preprints} %\& white papers
   \begin{list}{}{\cvlist}
-    \input{pubs_unref}
+    \input{supp_tex/pubs_unref}
   \end{list}
 
 
@@ -60,21 +59,6 @@
 
 \end{list}
 
-
-\ifdefined\withpubs
-    \cvheading{Publications}
-    \input{pubs_summary}
-
-    \cvheading{Refereed publications}
-    \begin{list}{}{\cvlist}
-    \input{pubs_ref}
-    \end{list}
-
-    \cvheading{Preprints}
-    \begin{list}{}{\cvlist}
-    \input{pubs_unref}
-    \end{list}
-\fi
 
 \cvheading{SCIENCE TALKS AND POSTERS}
 \begin{list}{}{\cvlist}
@@ -115,9 +99,6 @@
 
 \end{list}
 
-% \ifdefined\withpubs
-%     \newpage
-% \fi
 
 \cvheading{TEACHING EXPERIENCE}
 \begin{list}{}{\cvlist}

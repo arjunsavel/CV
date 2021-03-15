@@ -91,7 +91,7 @@ def format_pub(args):
 
 
 if __name__ == "__main__":
-    with open("ads_scrape.json", "r") as f:
+    with open("../data/ads_scrape.json", "r") as f:
         pubs = json.load(f)
     
 
@@ -120,14 +120,14 @@ if __name__ == "__main__":
         "refereed: {1} / first author: {2} / citations: {3} / "
         "h-index: {4} ({0})"
     ).format(date.today(), npapers, nfirst, ncitations, hindex)
-    with open("pubs_summary.tex", "w") as f:
+    with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
 
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
 
-    with open("pubs_ref.tex", "w") as f:
+    with open("../supp_tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
-    with open("pubs_unref.tex", "w") as f:
+    with open("../supp_tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
         
