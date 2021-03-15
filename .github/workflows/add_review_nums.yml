@@ -1,12 +1,12 @@
-name: Docs
+name: Add JOSS Reviews
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs twice a day
-    - cron:  '*/60 */12 * * *'
+   - cron:  '*/60 */24 * * *'
 jobs:
   notebooks:
-    name: "Build the notebooks for the docs"
+    name: "Scrape and add JOSS reviews"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.7.6
 
       - name: Install dependencies
         run: |
@@ -23,9 +23,9 @@ jobs:
           
       - name: Scrape the number of JOSS reviews
         env:
-          SHEETS_SECRET: ${{ secrets.SHEETS_SECRET }}
+          SHEETS_SECRET: ${{ secrets.SHEETS_API_KEY }}
         run: |
-          python scrape_joss.py SHEETS_SECRET
+          python scrape_joss.py "$SHEETS_SECRET"
           
       - name: Write the number of JOSS reviews
         run: |
