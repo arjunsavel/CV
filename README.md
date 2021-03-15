@@ -1,4 +1,5 @@
 # CV
+[![Add JOSS Reviews](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml)
 
 Arjun Savel's CV, [linked with Overleaf](https://www.overleaf.com/). See the compiled version on the [corresponding website](https://arjunsavel.github.io/).
 
