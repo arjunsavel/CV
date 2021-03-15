@@ -34,4 +34,4 @@ jobs:
       - name: Committing changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Running tutorial notebooks on newest release
+          commit_message: Scrape and add JOSS reviews
