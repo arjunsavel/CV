@@ -43,8 +43,9 @@ def format_pub(args):
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            others = len(pubs['authors']) - 4
-            fmt += "\\ (\\& {{{0}}} other co-authors, incl.\\ \\textbf{Savel, Arjun})".format(others)
+            others = len(pub['authors']) - 4
+            fmt += "\\ ({{{0}}} other co-authors, ".format(others)
+            fmt += "incl.\\ \\textbf{Savel, Arjun})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -116,10 +117,14 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
 
+#     summary = (
+#         "refereed: {1} / first author: {2} / citations: {3} / "
+#         "h-index: {4} ({0})"
+#     ).format(date.today(), npapers, nfirst, ncitations, hindex)
     summary = (
-        "refereed: {1} / first author: {2} / citations: {3} / "
-        "h-index: {4} ({0})"
-    ).format(date.today(), npapers, nfirst, ncitations, hindex)
+        "citations: {1} / "
+        "h-index: {2} ({0})"
+    ).format(date.today(), ncitations, hindex)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
 
