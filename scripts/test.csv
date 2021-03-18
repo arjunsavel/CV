@@ -272,7 +272,7 @@ Computational biology",0,0,0,0
 rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,1,1
 milesmcbain,"R, Javascript",SQL,Australian Centre of Excellence for Mathematics and Statistics (ACEMS),miles.mcbain@gmail.com,data science,0,0,0,0
 mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,1,0
-adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",1,1,0,0
+adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",0,1,1,1
 jhollist,R,,US EPA,hollister.jeff@epa.gov,"Ecology
 Environmental Science
 Geospatial
@@ -824,7 +824,7 @@ vyasr,"Python
 C++
 C","R
 Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,3,0,0
-arosen93,Python,MATLAB,Northwestern University,rosen@u.northwestern.edu,"Computational chemistry, quantum chemistry, thermodynamics and kinetics, chemical engineering",1,3,1,0
+arosen93,Python,MATLAB,Northwestern University,rosen@u.northwestern.edu,"Computational chemistry, quantum chemistry, thermodynamics and kinetics, chemical engineering",0,3,2,1
 rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western Reserve University",raoul.wadhwa@case.edu,"Medicine/Health
 Biostatistics/Epidemiology
 Topological data analysis
@@ -863,7 +863,7 @@ Chemical engineering
 Automatic differentiation",1,5,0,0
 AksanBA,"Python
 R",,,brian.akperi@gmail.com,,0,0,0,0
-lucydot,Python,,Imperial College London,lucywhalley@gmail.com,Computational materials science,1,4,0,0
+lucydot,Python,,Imperial College London,lucywhalley@gmail.com,Computational materials science,0,4,1,1
 vincentarelbundock,R,,Université de Montréal,vincent.arel-bundock@umontreal.ca,social science,0,0,0,0
 JohnCoene,R,,World Economic Forum,jcoenep@gmail.com,"visualisation, htmlwidgets, networks, data cleaning, keras",0,2,0,0
 stulacy,"R
@@ -1401,7 +1401,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,1,2,1,1
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,1,2,1,0
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",1,2,1,0
@@ -2414,7 +2414,7 @@ Bayesian machine learning
 Financial data science
 Financial machine learning
 Probabilistic programming
-Quantitative finance",0,0,0,0
+Quantitative finance",1,1,0,0
 amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
@@ -3171,7 +3171,7 @@ R
 Julia",Javascrip,University of Bambey Alioun Diop,panda.constantin@gmail.com,"Machine Learning ,  Healthcare",0,0,0,0
 mikerspencer,R,,Scotland's Rural College,spencer.mike.r@gmail.com,"Social science
 Environmental science
-Spatial/GIS",2,2,0,0
+Spatial/GIS",1,2,1,1
 scleveland,"Javascript
 Python
 Ruby",,University of Hawaii,seanbc@hawaii.edu,"Cyberinfrastructure
@@ -3427,7 +3427,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",1,1,0,0
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,1,2,1,1
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,1,2,1,0
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -4964,12 +4964,20 @@ blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"
 zoometh,"R
 Python",,ASM-CNRS UMR 5140 Université Montpellier,thomashuet7@gmail.com,"Graph Theory
 Network Analysis",0,0,0,0
-@fdmatoz,"c++, cuda, python",,"Institute of Theoretical Physics, University of Warsaw",daniel.matoz@fuw.edu.pl,"Active Matter, Statistical Physics, Elasticity and Geometry"
+fdmatoz,"c++, cuda, python",,"Institute of Theoretical Physics, University of Warsaw",daniel.matoz@fuw.edu.pl,"Active Matter, Statistical Physics, Elasticity and Geometry",0,0,0,0
 patrickcgray,python,"R
 Julia
 bash",Duke University Marine Lab,patrick.c.gray@duke.edu,"remote sensing
 oceanography
 geospatial analysis
 scientific computing for earth sciences
-machine learning"
+machine learning",0,0,0,0
 colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics
+https://github.com/waldeyr,"Python
+R","Python
+R",Instituto Federal de Goiás,waldeyr.mendes@ifg.edu.br,"Biology
+Bioinformatics
+Computational Biology"
+Ziqi-Li,python,,University of Illinois,liziqi1992@gmail.com,"spatial analysis
+GIS
+mapping"
