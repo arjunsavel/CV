@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",1,6,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,13,1,0
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",1,14,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,1,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,1,0
@@ -494,7 +494,7 @@ CFD
 Aerodynamics",0,1,0,0
 jboynyc,Python,,University of Amsterdam,jboy@uva.nl,social science,0,0,0,0
 noamross,R,"C++ and Javascript, but within the context of R packages",EcoHealth Alliance,noam.ross@gmail.com,"epidemiology, web APIs, computational methods",0,0,0,0
-jrosen48,R,,Michigan State University,jrosen@msu.edu,Educational research,0,2,1,0
+jrosen48,R,,Michigan State University,jrosen@msu.edu,Educational research,0,2,0,0
 chlalanne,"R
 Stata","Python
 Julia
@@ -966,7 +966,7 @@ Physics
 Profiling and performance optimisation",0,2,0,0
 mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,2,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
-wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,2,0
+wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,2,1,0
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
 Digital Humanities (?)
 Software Sustainability",0,0,0,0
@@ -1792,7 +1792,7 @@ Fortran
 Swift
 Julia","C
 C++
-Bash",Los Alamos National Laboratory,livingston@lanl.gov,"Physics, terrestrial/sub-terrestrial geophysics, scientific visualization (2D/3D), unstructured / unstructured meshing, Delaunay triangulations, Voronoi tessellations",0,2,1,0
+Bash",Los Alamos National Laboratory,livingston@lanl.gov,"Physics, terrestrial/sub-terrestrial geophysics, scientific visualization (2D/3D), unstructured / unstructured meshing, Delaunay triangulations, Voronoi tessellations",0,2,0,0
 mikejohnson51,R,,University of California Santa Barbara,jmj00@ucsb.edu,"GIS, spatial data, climate and hydrology",0,0,0,0
 mskwark,"Python
 Julia
@@ -2292,7 +2292,7 @@ caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@
 dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,0,0,0
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
-Data Cleaning",0,2,2,0
+Data Cleaning",0,2,1,0
 KristinaRiemer,R,,University of Arizona,kristinariemer@email.arizona.edu,"Ecology
 Biology
 Agriculture",0,0,0,0
@@ -2363,7 +2363,7 @@ Java
 PHP",New York University,remi.rampin@nyu.edu,"engineering
 computer science
 databases
-reproducibility",1,2,0,0
+reproducibility",2,3,0,0
 Evan1415,"Fortran 
 Python",,King's College London,sheridev@tcd.ie,"Many body condensed matter physics
 Solid state physics",0,0,0,0
@@ -3346,7 +3346,7 @@ Diagnostic classification models
 Cognitive diagnostic models
 Latent class (profile) analysis
 Item response theory
-Structural Equation Modeling",0,2,2,0
+Structural Equation Modeling",0,2,1,0
 jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
@@ -4131,7 +4131,7 @@ Graph Theory
 Network Biology
 Single-cell analysis
 Parallel Computing/HPC
-(bio)Statistical Analysis",0,0,0,0
+(bio)Statistical Analysis",1,1,0,0
 TomKellyGenetics,"R
 Python
 Bash
@@ -4139,7 +4139,7 @@ Shell","Julia
 MATLAB/Octave
 Wolfram/Mathematica
 Rust",,tom.kelly@riken.jp,"Bioinformatics
-Graph theory",0,0,0,0
+Graph theory",1,1,0,0
 aponsero,"Python, R",,,aponsero@email.arizona.edu,Bioinformatics,0,0,0,0
 alexrockhill,Python,"C, R, MATLAB, JavaScript",University of Oregon,aprockhill@mailbox.org,"neuroscience
 human physiology
@@ -4972,12 +4972,17 @@ oceanography
 geospatial analysis
 scientific computing for earth sciences
 machine learning",0,0,0,0
-colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics
-https://github.com/waldeyr,"Python
+colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics,0,0,0,0
+waldeyr,"Python
 R","Python
 R",Instituto Federal de Goiás,waldeyr.mendes@ifg.edu.br,"Biology
 Bioinformatics
-Computational Biology"
+Computational Biology",0,0,0,0
 Ziqi-Li,python,,University of Illinois,liziqi1992@gmail.com,"spatial analysis
 GIS
 mapping"
+@myxie,Python,"C/C++, Java",University of Western Australia,ryan.bunney@research.uwa.edu.au,"Computer Science, Data Science, Physics, Software Tooling"
+BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Computational biology and bioinformatics
+pzarabadip,Python,,Research Associate - University of Bath,pzp22@bath.ac.uk,"Chemistry
+Physical Chemistry
+Molecular Simulation"
