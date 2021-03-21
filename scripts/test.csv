@@ -50,7 +50,7 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",2,8,0,0
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,8,1,1
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,1,0,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
@@ -396,7 +396,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",2,3,1,0
+Software Testing",2,3,0,0
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -2584,7 +2584,7 @@ iskandr,Python,"OCaml
 C++",Icahn School of Medicine at Mount Sinai,alex@openvax.org,"Genomics
 Computational immunology
 Machine learning",0,0,0,0
-danieledipompeo,Java,"Python, Elixir",University of L'Aquila,Daniele.dipompeo@univaq.it,"Performance, Model-Driven Engineering, software refactoring",0,1,1,0
+danieledipompeo,Java,"Python, Elixir",University of L'Aquila,Daniele.dipompeo@univaq.it,"Performance, Model-Driven Engineering, software refactoring",0,1,0,0
 markziemann,"R
 Shell/Bash",,Deakin University,m.ziemann@deakin.edu.au,"Genomics
 Document analysis",0,0,0,0
@@ -4272,7 +4272,7 @@ prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João P
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",0,0,0,0
 ramisetti,"C
 C++
-Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,1,1,0,0
+Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,1
 JackTyson,"Python, C, C++, Matlab",,University of Southampton,jack@mirrorpark.net,"Nanotechnology, Optics, Physics, Electronic Engineering",0,0,0,0
 BjornFJohansson,Python,,University of Minho,bjorn_johansson@bio.uminho.pt,bioinformatics,0,0,0,0
 kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University College London",leevi.kerkela@protonmail.com,MRI,0,0,0,0
@@ -4986,3 +4986,12 @@ BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Comput
 pzarabadip,Python,,Research Associate - University of Bath,pzp22@bath.ac.uk,"Chemistry
 Physical Chemistry
 Molecular Simulation"
+maximtrp,"Python
+R
+Golang
+Javascript","C++
+C
+Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
+Machine learning
+Data science
+Bioinformatics"
