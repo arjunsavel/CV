@@ -34,7 +34,7 @@ mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, D
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
-kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,8,1,1
+kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,8,1,0
 pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC",0,2,0,0
 arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,1,0
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
@@ -76,7 +76,7 @@ sbinet,Go,,IN2P3,binet@cern.ch,"High Energy Physics, file formats",0,0,0,0
 abhishekbajpayee,"Python
 C++","Matlab
 Fortran
-C",Massachusetts Institute of Technology,ab9@mit.edu,"Image Processing, Computer Vision, Fluid Dynamics, Fluid Flow Imaging",0,3,0,0
+C",Massachusetts Institute of Technology,ab9@mit.edu,"Image Processing, Computer Vision, Fluid Dynamics, Fluid Flow Imaging",1,4,0,0
 yxqd,Python,,Oak Ridge National Lab,jiao.lin@gmail.com,Neutron data analysis,0,2,0,0
 dangunter,Python,C,Lawrence Berkeley National Laboratory,dkgunter@lbl.gov,"Middleware
 Web UIs
@@ -248,7 +248,7 @@ amabdallah,"Matlab
 Python",,Utah State University,amabdallah@aggiemail.usu.edu,,0,0,0,0
 IgorBaratta,"Python
 Matlab",C++,Federal University of Minas GeraisIgorBaratta,baratta@ufmg.br,"Computational Electromagnetics
-Finite Element Methods",1,4,1,0
+Finite Element Methods",0,4,2,1
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,0,0,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
@@ -924,7 +924,7 @@ C++","Java
 C",Polytechnique Montreal,nicolas.saunier@polymtl.ca,"artificial intelligence
 machine learning
 computer vision
-transportation",0,0,0,0
+transportation",1,1,0,0
 wholmgren,Python,,University of Arizona,william.holmgren@gmail.com,"renewable energy, atmospheric sciences",0,1,1,0
 sahilseth,R Python Bash,js ,MD Anderson Cancer Center,sseth.research@gmail.com,"Computational biology
 Genomics
@@ -1690,7 +1690,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",3,7,3,1
+Structural Dynamics",2,7,4,2
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,2,1,0
 shreyasbapat,"Python
@@ -4994,10 +4994,17 @@ C
 Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
 Machine learning
 Data science
-Bioinformatics"
+Bioinformatics",0,0,0,0
 hofmannu,"C++
 CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
 Biomedical engineering
 Image reconstruction
 Simulations"
+oalii,python,,"Laboratoire Reproduction et Développement des Plantes, Univ Lyon, ENS de Lyon, UCB Lyon 1, CNRS, INRA, F-69342, Lyon, France 69364 LYON Cedex 07, France.",olivier.ali@inria.fr,"finite element methods
+biophysics modeling
+boundary value problems"
+https://github.com/felipeZ,Python Rust C++,Haskell,Netherlands eScience Center,tifonzafel@gmail.com,computational chemistry materials science
+zeroset,"C++, Python",,Research Centre Jülich,mail@zeroset.dev,"Scientific Computing, Simulation Software, High Performance Computing, Parallel Computing, Template Meta Programming, Multi Agent Simulation, Research Software"
+atismer,"c++
+python",fortran,Dr.-Ing.,alexander.tismer@ihs.uni-stuttgart.de,"computational fluid dynamics, optimization, hydraulic machinery"
