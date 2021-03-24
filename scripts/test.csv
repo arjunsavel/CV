@@ -644,7 +644,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,5,2,2
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,5,2,1
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1587,7 +1587,7 @@ Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",3,4,0,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",4,5,0,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -5000,11 +5000,11 @@ CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
 Biomedical engineering
 Image reconstruction
-Simulations"
+Simulations",0,0,0,0
 oalii,python,,"Laboratoire Reproduction et Développement des Plantes, Univ Lyon, ENS de Lyon, UCB Lyon 1, CNRS, INRA, F-69342, Lyon, France 69364 LYON Cedex 07, France.",olivier.ali@inria.fr,"finite element methods
 biophysics modeling
-boundary value problems"
-https://github.com/felipeZ,Python Rust C++,Haskell,Netherlands eScience Center,tifonzafel@gmail.com,computational chemistry materials science
-zeroset,"C++, Python",,Research Centre Jülich,mail@zeroset.dev,"Scientific Computing, Simulation Software, High Performance Computing, Parallel Computing, Template Meta Programming, Multi Agent Simulation, Research Software"
+boundary value problems",0,0,0,0
+felipeZ,Python Rust C++,Haskell,Netherlands eScience Center,tifonzafel@gmail.com,computational chemistry materials science,1,1,0,0
+zeroset,"C++, Python",,Research Centre Jülich,mail@zeroset.dev,"Scientific Computing, Simulation Software, High Performance Computing, Parallel Computing, Template Meta Programming, Multi Agent Simulation, Research Software",0,1,1,0
 atismer,"c++
 python",fortran,Dr.-Ing.,alexander.tismer@ihs.uni-stuttgart.de,"computational fluid dynamics, optimization, hydraulic machinery"
