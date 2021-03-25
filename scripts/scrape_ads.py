@@ -86,6 +86,7 @@ def get_papers(author):
 
 if __name__ == "__main__":
     paper_dict = get_papers('Savel, Arjun Baliga')
+    print(paper_dict)
     with open("../data/ads_scrape.json", "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
     
