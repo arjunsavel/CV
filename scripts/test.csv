@@ -50,7 +50,7 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,8,1,1
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",2,9,1,1
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,1,0,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
@@ -291,7 +291,7 @@ lebebr01,R,,University of Iowa ,lebebr01@gmail.com,"Social science, education, s
 Maczokni ,R,,University of Manchester ,reka.solymosi@manchester.ac.uk,"Criminology, transport studies, urban geography, smart cities ",0,0,0,0
 jkarreth,R,,Ursinus College,jkarreth@ursinus.edu,"Bayesian statistics
 Postestimation
-Data visualization",0,2,1,1
+Data visualization",0,2,1,0
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
 tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",1,2,0,0
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,0
@@ -1102,7 +1102,7 @@ johnsamuelwrites,"C
 Python
 Java
 PHP",Javascript,CPE Lyon,john.samuel@cpe.fr,"Data Science
-Data visualization",0,1,0,0
+Data visualization",1,2,0,0
 schalkdaniel,R,C++,Ludwig Maximilians University Munich,schalkdaniel242@gmail.com,Machine Learning,0,1,0,0
 dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,3,1,0
 taqtiqa-mark,"R
@@ -1600,7 +1600,7 @@ Quantum Mechanics",0,1,0,0
 trashbirdecology,R,,University of Nebraska-Lincoln,jessicaleighburnett@gmail.com,"Ecology
 Ecological modelling
 Ecological statistics
-Applied statistics",0,1,1,1
+Applied statistics",0,1,1,0
 xoolive,"Python
 OCaml","R
 Scala
@@ -2602,7 +2602,7 @@ martinfleis,Python,,University of Strathclyde,martin@martinfleischmann.net,"Geog
 Urban morphology
 Network analysis
 Geospatial
-GIS",1,2,1,0
+GIS",1,2,0,0
 Nheyer,"Python,C++,R",,California State University Monterey Bay,nheyer@csumb.edu,"Genomics, mathematics",0,0,0,0
 mbdemoraes/moafs,"Blocks
 Python",,UNICAMP - MASTER,daiolive81@gmail.com,Technology in Education,0,0,0,0
