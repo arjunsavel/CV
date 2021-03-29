@@ -86,7 +86,7 @@ graphical user interface
 parallelization
 MPI
 climate science
-earth sciences",0,9,3,1
+earth sciences",0,9,2,1
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
 soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,6,1,1
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
@@ -3040,7 +3040,7 @@ Optimization
 Geospatial data processing
 Wind turbine simulation
 Solar PV simulation
-Parallel computing",0,1,1,0
+Parallel computing",0,1,0,0
 emptymalei,Python,,Saloodo!,leima.137@gmail.com,"Data Science
 Computational Neuroscience
 Astrophysics
