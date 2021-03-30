@@ -86,7 +86,7 @@ graphical user interface
 parallelization
 MPI
 climate science
-earth sciences",0,9,2,1
+earth sciences",0,9,2,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
 soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,6,1,1
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
@@ -2107,9 +2107,9 @@ machine learning
 molecular dynamics
 enhanced sampling
 biophysics",0,2,1,0
-pythonpanda2,Python,-,ARGONNE NATIONAL LABORATORY,cet.ganesh@gmail.com,"MATERIAL SCIENCE, BIOPHYSICS",0,1,1,1
+pythonpanda2,Python,-,ARGONNE NATIONAL LABORATORY,cet.ganesh@gmail.com,"MATERIAL SCIENCE, BIOPHYSICS",0,1,1,0
 SuperKam91,"Python, C++, Fortran",Bash Shell Script,University of Cambridge,kj316@mrao.cam.ac.uk,"Bayesian Inference, MCMC, Statistics, Machine Learning",0,0,0,0
-pythonpanda2,Python,,ARGONNE NATIONAL LABORATORY,gsivaraman@anl.gov,"Computational Material Science, Data Science, Materials Informatics, Cheminformatics, Biophysics",0,1,1,1
+pythonpanda2,Python,,ARGONNE NATIONAL LABORATORY,gsivaraman@anl.gov,"Computational Material Science, Data Science, Materials Informatics, Cheminformatics, Biophysics",0,1,1,0
 tuchandra,Python,,None,me@tusharc.dev,"computational science
 data science
 machine learning
