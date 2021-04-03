@@ -4418,7 +4418,7 @@ performance analysis
 development tools
 security
 web development
-internet of things",1,1,0,0
+internet of things",2,2,0,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,1
 rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,2,1,1
 kullrich,"R
@@ -5034,7 +5034,13 @@ Aerodynamics
 Multiphysics Simulation",0,0,0,0
 abotzki,Python,,VIB,alexander.botzki@vib.be,Bioinformatics,0,0,0,0
 darioizzo,C++ python,,European Space Agency,dario.izzo@esa.int,"Genetic programming, artificial intelligence, orbital mechanics",0,0,0,0
-dcassol,R,"python, bash",University of California,danicassol@gmail.com,bioinformatics
-htwangtw,Python,,University of Sussex,htwangtw@gmail.com,"Neuroimaging, data workflow, file format"
-Anaphory,"Python3, Rust",Java,Universität Zürich,gereon.kaiping@geo.uzh.ch,"Comparative linguistis, Bayesian phylogenetics, Dialectology"
+dcassol,R,"python, bash",University of California,danicassol@gmail.com,bioinformatics,0,1,1,0
+htwangtw,Python,,University of Sussex,htwangtw@gmail.com,"Neuroimaging, data workflow, file format",0,0,0,0
+Anaphory,"Python3, Rust",Java,Universität Zürich,gereon.kaiping@geo.uzh.ch,"Comparative linguistis, Bayesian phylogenetics, Dialectology",0,0,0,0
 s-bessey,"Python, R",julia,Brown University School of Public Health,sam_bessey@brown.edu,"epidemiology, public health"
+abetusk,C,"Javascript
+Python
+Perl
+Bash
+SQL",None,abetusk@gmail.com,"Mathematics
+Computer Science"
