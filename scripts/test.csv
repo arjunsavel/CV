@@ -371,7 +371,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,1,1
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,8,1,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,2,1
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,1,0
 pdebuyl,"Python
 Fortran","C
@@ -3776,7 +3776,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",1,2,1,0
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,2,2,1
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -3842,7 +3842,7 @@ berenger-eu,C++,C,Inria,berenger.bramas@inria.fr,"HPC
 parallelization
 vectorization
 GPU
-FMM",0,0,0,0
+FMM",1,1,0,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,0,0,0
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,1,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
@@ -5037,7 +5037,7 @@ darioizzo,C++ python,,European Space Agency,dario.izzo@esa.int,"Genetic programm
 dcassol,R,"python, bash",University of California,danicassol@gmail.com,bioinformatics,0,1,1,0
 htwangtw,Python,,University of Sussex,htwangtw@gmail.com,"Neuroimaging, data workflow, file format",0,0,0,0
 Anaphory,"Python3, Rust",Java,Universität Zürich,gereon.kaiping@geo.uzh.ch,"Comparative linguistis, Bayesian phylogenetics, Dialectology",0,0,0,0
-s-bessey,"Python, R",julia,Brown University School of Public Health,sam_bessey@brown.edu,"epidemiology, public health"
+s-bessey,"Python, R",julia,Brown University School of Public Health,sam_bessey@brown.edu,"epidemiology, public health",0,0,0,0
 abetusk,C,"Javascript
 Python
 Perl
