@@ -770,7 +770,7 @@ VB.NET
 PHP",,Assistant Professor (Computer Science and Applications) SEMCOM,jaynanavati@gmail.com,"Software Engineering
 Relational Database Management Systems
 Data Structures
-Web-based Applications",0,1,1,1
+Web-based Applications",0,1,1,0
 henrik227,Python,Julia,"AICES, RWTH Aachen University",barthels@aices.rwth-aachen.de,"symbolic computations
 pattern matching
 program generation
@@ -1077,7 +1077,7 @@ HPC
 Web Platforms
 Finite Element Methods
 Optimization
-Computer Geometry",1,11,1,0
+Computer Geometry",1,11,0,0
 ajmalkoti, MATLAB,"C, FORTRAN, PYTHON",CSIR-National Geophysical Research Institute,ajmalkoti@gmail.com,"Earth Science, Geophysics, Seismic wave propagation",0,0,0,0
 dghoshal-lbl,"Python
 C
@@ -1822,7 +1822,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",0,3,3,0
+simulation technology",0,3,2,0
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -1875,7 +1875,7 @@ Signal Processing",0,0,0,0
 maurov,Python,,"Univ. Grenoble Alpes, CNRS, IRD, Irstea, Météo France, OSUG, FAME, 38000 Grenoble, France",mauro.rovezzi@esrf.fr,"X-ray spectroscopy
 X-ray optics",0,0,0,0
 kellykochanski,"Python, Matlab","Fortran90, Julia",University of Colorado Boulder,kelly.kochanski@gmail.com,"Earth and climate science (preferred: geomorphology, snow science, hydrology)",1,1,0,0
-mado89,"Java, C++, Python, R","JavaScript, TypeScript",University of Vienna,martin.dobiasch@univie.ac.at,"Software Engineering, Sport Science, Software Verification",0,2,1,1
+mado89,"Java, C++, Python, R","JavaScript, TypeScript",University of Vienna,martin.dobiasch@univie.ac.at,"Software Engineering, Sport Science, Software Verification",0,2,1,0
 will-rowe,"Go
 C
 Python
@@ -2752,7 +2752,7 @@ Proteomics",0,0,0,0
 celliern,Python,"Julia
 Scilab",Université Savoie Mont-Blanc,contact@nicolas-cellier.net,"computational fluid dynamic
 reproducible research
-data science",0,1,1,0
+data science",0,1,0,0
 louiejtaylor,"Python
 snakemake",R,University of Pennsylvania,louist@upenn.edu,bioinformatics,0,0,0,0
 tresoldi,"Python
@@ -3190,7 +3190,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",0,3,3,0
+applied mathematics (numerical integration of ODEs, etc.)",0,3,2,0
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 hanayik,Python,"MATLAB
 Javascript","University of Oxford, Wellcome Center for Integrative Neuroimaging",taylor.hanayik@ndcn.ox.ac.uk,"MRI processing
