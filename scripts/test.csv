@@ -4611,7 +4611,7 @@ Knowledge extraction
 Ontologies
 Bioinformatics
 Data integration
-Machine Learning / Artificial Intelligence",1,1,0,0
+Machine Learning / Artificial Intelligence",0,1,1,1
 jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
 Machine Learning
 Signal Processing
@@ -4673,7 +4673,7 @@ gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics",0,0,0,0
-LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",1,1,0,0
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,1,1
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
 cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
@@ -5044,3 +5044,4 @@ Perl
 Bash
 SQL",None,abetusk@gmail.com,"Mathematics
 Computer Science"
+mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ..."
