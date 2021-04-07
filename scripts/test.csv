@@ -4168,7 +4168,7 @@ javascript",,"Florida International University, Department of Psychology",kbott0
 Neuroimaging
 Psychology
 Data science",1,2,1,0
-chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",1,1,0,0
+chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,1,1
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",0,0,0,0
 mherman09,Fortran,"Python
 HTML/CSS","California State University, Bakersfield",matthew.w.herman@gmail.com,"Geophysics
@@ -4419,8 +4419,8 @@ development tools
 security
 web development
 internet of things",2,2,0,0
-salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,1
-rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,2,1,1
+salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,0
+rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,2,1,0
 kullrich,"R
 python",,Max Planck Institute for Evolutionary Biology,ullrich@evolbio.mpg.de,"bioinformatics
 computational biology
@@ -4681,7 +4681,7 @@ Knowledge Representation",0,0,0,0
 amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science",0,0,0,0
 esteinig,"Python
 Rust
-R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",1,1,0,0
+R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,1,1,1
 JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",1,1,0,0
 ghislainv,"R
 Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
@@ -5043,5 +5043,29 @@ Python
 Perl
 Bash
 SQL",None,abetusk@gmail.com,"Mathematics
-Computer Science"
+Computer Science",0,0,0,0
 mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ..."
+aguspesce,"Spanish
+English",Python,CONICET,pesce.agustina@gmail.com,"Geophysics
+Processing, modeling, and visualizing geophysical data"
+crvernon,"python
+R",julia,Pacific Northwest National Laboratory,chris.vernon@pnnl.gov,"geospatial
+ecology
+data science
+social sciences
+integrated assessment
+land use and land cover change
+hydrology
+population dynamics"
+jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning
+BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics"
+https://github.com/Komalharini237,"Python
+Perl
+C++
+MySQL","Linux
+Biopython
+BioPerl
+Java","Guru Nanak Khalsa College, Mumbai",kharinirt237@gmail.com,"Bioinformatics
+Coding
+Desktop Applications"
+dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics"
