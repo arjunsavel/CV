@@ -935,7 +935,7 @@ Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia Nati
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
 joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,1,0
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
-arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,1,1
+arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,1,0
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
 dvberkel,"Rust
 Elm
@@ -2865,7 +2865,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",1,2,1,1
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,2,2,2
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3026,7 +3026,7 @@ Data Science
 Machine Learning
 HPC",0,2,2,0
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,1,0
-mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",1,3,2,1
+mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,3,2
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
 amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
@@ -3377,7 +3377,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",1,2,1,1
+Statistical Computing",0,2,2,2
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,0,0,0
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -4151,7 +4151,7 @@ Fortran",Oak Ridge National Laboratory,mcdonnellmt@ornl.gov,"Materials Science
 Computational Chemistry
 Neutron Scattering
 Molecular Dynamics
-Web Applications",0,1,1,1
+Web Applications",0,1,1,0
 williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",1,1,0,0
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,0,0,0
@@ -5068,20 +5068,20 @@ BioPerl
 Java","Guru Nanak Khalsa College, Mumbai",kharinirt237@gmail.com,"Bioinformatics
 Coding
 Desktop Applications",0,0,0,0
-dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics"
-stephendavidgregory,R,BUGS,"Salmon & Trout Research Centre, GWCT, UK",stephendavidgregory@gmail.com,Ecological modelling
+dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",0,0,0,0
+stephendavidgregory,R,BUGS,"Salmon & Trout Research Centre, GWCT, UK",stephendavidgregory@gmail.com,Ecological modelling,0,0,0,0
 paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
 (Geo/water) chemistry
 Aquatic science
-Geographic information systems (GIS)"
-nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics"
-https://github.com/jingpengw,"python
+Geographic information systems (GIS)",0,0,0,0
+nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics",0,0,0,0
+jingpengw,"python
 C++
 Julia",,Flatiron Institute,jwu@flatironinstitute.org,"Image Analysis
 Connectome
-Deep Learning"
-kwstat,R,,Corteva Agriscience,kw.stat@gmail.com,Statistics
+Deep Learning",0,0,0,0
+kwstat,R,,Corteva Agriscience,kw.stat@gmail.com,Statistics,0,0,0,0
 vsangelidakis,"Matlab
 Python
 C++","Octave
@@ -5092,5 +5092,7 @@ Discrete element method
 Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
-Contact mechanics"
+Contact mechanics",0,0,0,0
 msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics"
+DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis"
+https://github.com/Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning"
