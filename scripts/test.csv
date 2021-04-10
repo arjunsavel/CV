@@ -200,7 +200,7 @@ C
 Python",,"Imperial College London, University of Bath",jarvist.frost@ic.ac.uk,"Computational Physics
 Monte-Carlo
 Tight-Binding
-Path-Integrals",1,3,0,0
+Path-Integrals",0,3,1,1
 mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,2,0
 aokad,python,Javascript,University of Tokyo,aiokada@hgc.jp,Visualization,0,1,0,0
 tupi,python,latex,CERFACS,roy.pamphile@gmail.com,"data science
@@ -1042,7 +1042,7 @@ LaTeX
 Sphinx (documentation engine)
 Markdown
 Markup languages",0,2,0,0
-thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,1,0,0
+thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",1,2,0,0
 sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,0
 fsteeg,Java,Scala,Hochschulbibliothekszentrum NRW (hbz),steeg@hbz-nrw.de,"Web technology
 Linked data
@@ -2173,7 +2173,7 @@ Python",0,0,0,0
 akm12k16,Python,,,akm12k16@gmail.com,"Electromagnetic, Astronomy",0,0,0,0
 rodogi,python,R,Insituto Nacional de Medicina Genómica,rodgdor@gmail.com,"network theory
 computational genomics",0,0,0,0
-sambitdash,"Julia, C, C++",Python,Lenatics Solutions Pvt. Ltd. ,sambitdash@gmail.com,"Machine Learning, Software Engineering, Programming",1,1,0,0
+sambitdash,"Julia, C, C++",Python,Lenatics Solutions Pvt. Ltd. ,sambitdash@gmail.com,"Machine Learning, Software Engineering, Programming",0,1,1,1
 github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc.",0,0,0,0
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
@@ -2527,7 +2527,7 @@ C",,Montana State University,upulee.kanewala@montana.edu,,0,0,0,0
 fruzsinaagocs,"Python, C++",C,"University of Cambridge (Kavli Institute for Cosmology, Cavendish Astrophysics)",fa325@cam.ac.uk,"numerical integration, numerical solution of ODEs",0,1,1,0
 devanshkv,python,"All Machine learning backends, CUDA, Shell",West Virginia University,da0017@mix.wvu.edu,"Machine learning, High Performance Computing, Astronomical Pipelines",0,0,0,0
 rth,Python,Rust,Symerio,roman.yurchak@gmail.com,"Machine learning, natural language processing, high energy density physics",0,0,0,0
-sambitdash,"Julia, C, C++","Java, Python",Lenatics Solutions Pvt. Ltd.,sambitdash@gmail.com,"Software Engg., Programming, NLP",1,1,0,0
+sambitdash,"Julia, C, C++","Java, Python",Lenatics Solutions Pvt. Ltd.,sambitdash@gmail.com,"Software Engg., Programming, NLP",0,1,1,1
 timothydmorton,python,,University of Southern California,tim.morton@gmail.com,"Astronomy, physics, statistics",0,0,0,0
 7omasz,"Python
 Java",,Pfizer,tomasz.adamusiak@gmail.com,"medicine
@@ -3565,7 +3565,7 @@ Chemistry
 Chemical Engineering",0,0,0,0
 johanneswerner,"Python
 R",,"Department of Biological Oceanography, Leibniz Institute of Baltic Sea Research",johannes.werner@io-warnemuende.de,"bioinformatics
-(in the field of microbial ecology/environmental microbiology)",0,1,1,1
+(in the field of microbial ecology/environmental microbiology)",0,1,1,0
 e-dub,Python,,Free University of Bozen-Bolzano,erich.wehrle@unibz.it,"Mechanical engineering, numerical optimization, design optimization, vibrations, structural mechanics",0,1,1,1
 fwitte,Python,,Research assistant at Flensburg University of Applied Sciences,joss@witte.sh,"Thermodynamics, Thermal Engineering, Power Plant Design and Simulation",0,1,1,0
 calum-chamberlain,Python,,Victoria University of Wellington,calum.chamberlain@vuw.ac.nz,"Seismology
@@ -4502,7 +4502,7 @@ Dynamical Systems",0,0,0,0
 Alaterre,Python,,InstaDeep,alexandre.laterre@gmail.com,Machine learning,0,0,0,0
 znicholls,Python,Fortan90,"Australian-German Climate & Energy College, University of Melbourne",zebedee.nicholls@climate-energy-college.org,"Climate modelling
 Atmospheric sciences",0,0,0,0
-elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,1,0,0
+elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",1,2,0,0
 kelly-sovacool,"R
 Python",,University of Michigan,sovacool@umich.edu,"Bioinformatics
 Computational Biology
@@ -5093,6 +5093,19 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",0,0,0,0
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics"
-DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis"
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,0,0,0
+DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",0,0,0,0
 https://github.com/Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning"
+willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
+Climate
+Energy systems
+Sensitivity analysis"
+https://github.com/yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
+Deep Learning
+AI
+Machine Learning
+Remote Sensing
+Feature Selection
+Feature Extraction
+Optimization
+Generative Adverserial Networks"
