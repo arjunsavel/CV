@@ -621,7 +621,7 @@ Mathematics
 Biomedical Engineering
 Machine Learning
 Computer Vision
-Heat Transfer",0,8,2,0
+Heat Transfer",0,8,1,0
 gpkc,Python,"C++
 C
 MATLAB",Universidade Federal de Pernambuco,gpkc@cin.ufpe.br,"High Performance Computing
@@ -1478,7 +1478,7 @@ Model frameworks
 Social Models
 Quantitative Archaeology
 Oceanography",0,2,1,0
-srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,3,0
+srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,2,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
 CMake
@@ -5095,11 +5095,11 @@ Solid body statics & dynamics
 Contact mechanics",0,0,0,0
 msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,0,0,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",0,0,0,0
-https://github.com/Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning"
+Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,0,0,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
 Climate
 Energy systems
-Sensitivity analysis"
+Sensitivity analysis",0,1,1,1
 https://github.com/yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
 Deep Learning
 AI
@@ -5109,3 +5109,30 @@ Feature Selection
 Feature Extraction
 Optimization
 Generative Adverserial Networks"
+https://github.com/fserva,"python
+FORTRAN
+bash","C
+IDL",Consiglio Nazionale delle Ricerche,federico.serva@artov.ismar.cnr.it,"Earth sciences
+Climatology
+Geophysical data analysis"
+valyome,"Python, JS",R,"Software Engineer, Data @ Ampush",vyolovski@gmail.com,"data science, visualization, statistical packages, libraries, software architecture"
+arunmano121,Python,bash,,arunmanohar@yahoo.com,"visualization
+software
+python
+bash
+nondestructive testing
+structural health monitoring"
+arunmano121,"python
+bash",,,arunmanohar@yahoo.com,"Data Analytics
+Artificial Intelligence
+Big Data
+Statistical Modeling
+Analytics
+Regression
+Machine Learning
+Deep Learning
+Neural Networks
+Gradient Boosting
+Nondestructive Testing
+Structural Health Monitoring
+Python"
