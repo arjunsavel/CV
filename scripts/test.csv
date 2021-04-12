@@ -349,7 +349,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",1,9,1,0
+[glad to consider anything and will reply quickly if not qualified]",0,9,2,1
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -890,7 +890,7 @@ Mixed Models
 Bayesian Inference
 Functional Data Analysis
 Dimension Reduction Methods
-Spatial Data Analysis",1,5,0,0
+Spatial Data Analysis",0,5,1,1
 amarkos,R,Matlab,Democritus University of Thrace,amarkos@eled.duth.gr,"Clustering, Dimensionality reducation",0,0,0,0
 sjvrijn,Python,"C
 Java
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,0,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",2,3,1,0
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,3,2,1
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -4418,7 +4418,7 @@ performance analysis
 development tools
 security
 web development
-internet of things",2,2,0,0
+internet of things",1,2,1,1
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,0
 rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,2,1,0
 kullrich,"R
@@ -5100,7 +5100,7 @@ willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
 Climate
 Energy systems
 Sensitivity analysis",0,1,1,1
-https://github.com/yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
+yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
 Deep Learning
 AI
 Machine Learning
@@ -5108,20 +5108,20 @@ Remote Sensing
 Feature Selection
 Feature Extraction
 Optimization
-Generative Adverserial Networks"
-https://github.com/fserva,"python
+Generative Adverserial Networks",0,0,0,0
+fserva,"python
 FORTRAN
 bash","C
 IDL",Consiglio Nazionale delle Ricerche,federico.serva@artov.ismar.cnr.it,"Earth sciences
 Climatology
-Geophysical data analysis"
-valyome,"Python, JS",R,"Software Engineer, Data @ Ampush",vyolovski@gmail.com,"data science, visualization, statistical packages, libraries, software architecture"
+Geophysical data analysis",0,0,0,0
+valyome,"Python, JS",R,"Software Engineer, Data @ Ampush",vyolovski@gmail.com,"data science, visualization, statistical packages, libraries, software architecture",0,0,0,0
 arunmano121,Python,bash,,arunmanohar@yahoo.com,"visualization
 software
 python
 bash
 nondestructive testing
-structural health monitoring"
+structural health monitoring",0,0,0,0
 arunmano121,"python
 bash",,,arunmanohar@yahoo.com,"Data Analytics
 Artificial Intelligence
@@ -5136,3 +5136,7 @@ Gradient Boosting
 Nondestructive Testing
 Structural Health Monitoring
 Python"
+jonjoncardoso,"Python
+R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
+Graph theory
+Clustering"
