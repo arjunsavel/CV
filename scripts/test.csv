@@ -717,7 +717,7 @@ Programming Language Runtimes
 Virtualization
 Compilers",0,0,0,0
 neuromusic,Python,,Allen Institute for Brain Science,justin.kiggins@gmail.com,"Neuroscience
-Psychology",0,0,0,0
+Psychology",1,1,0,0
 JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,1,0
 rlizzo,"Python
 C++",,University at Buffalo,rizzo242@gmail.com,"Medical Imaging
@@ -2094,7 +2094,7 @@ Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
 Phylogenetics",0,0,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
-njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,2,2,0
+njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",1,3,2,0
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
@@ -4462,7 +4462,7 @@ Quantum Chemistry
 Electronic structure methods
 Atomistic simulations",1,1,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
-Remote Sensing applications",0,0,0,0
+Remote Sensing applications",1,1,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
 omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",1,1,0,0
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
@@ -4971,7 +4971,7 @@ bash",Duke University Marine Lab,patrick.c.gray@duke.edu,"remote sensing
 oceanography
 geospatial analysis
 scientific computing for earth sciences
-machine learning",0,0,0,0
+machine learning",1,1,0,0
 colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics,0,0,0,0
 waldeyr,"Python
 R","Python
@@ -5139,8 +5139,10 @@ Python",0,0,0,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering"
+Clustering",0,0,0,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
 Statistics"
+https://github.com/RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering"
+@sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools"
