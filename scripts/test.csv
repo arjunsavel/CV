@@ -2844,7 +2844,7 @@ DNA Sequence Analysis
 Conservation
 Ecological Informatics",0,1,1,0
 mnf2014,python,,octo technologies,marisa.faraggi@gmail.com,"physics, machine Learning, material science",0,0,0,0
-Nachootal,Ruby,C,Oss enthusiast and telecommunications engineer,nachootal@gmail.com,"Embedded firmware, web, rails, processes",0,0,0,0
+Nachootal,Ruby,C,Oss enthusiast and telecommunications engineer,nachootal@gmail.com,"Embedded firmware, web, rails, processes",1,1,0,0
 satish-annigeri,"Python, Scilab, Julia, C/C++",Fortran 77,KLE Technological University,satish@bvb.edu,"Numerical colorations, Civil engineering, Structural engineering, Computer Aided Design",0,0,0,0
 druvus,"python
 R",perl,Swedish Defence Research Agency,andreas.sjodin@gmail.com,"Sequencing
@@ -2919,7 +2919,7 @@ statistics",0,2,2,0
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
 Data Visualization
-GUIs (Qt)",0,1,1,0
+GUIs (Qt)",0,1,0,0
 joglekara,"Python
 C++","C
 FORTRAN
@@ -3032,7 +3032,7 @@ amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
 Quantum Mechanics
 Molecular Dynamics
-Electronic Structure",0,2,2,0
+Electronic Structure",0,2,1,0
 dsryberg,Python,"C++
 Julia
 Javascript","Forschungszentrum Juelich, IEK-3",s.ryberg@fz-juelich.de,"Energy system modelling
@@ -3132,7 +3132,7 @@ jayten,"FORTRAN 90
 Python",,"Indian Institute of Technology Madras, India",jayten010@gmail.com,"Computational Fluid Dynamics
 Transition modeling
 LES/RANS simulation",1,1,0,0
-fccoelho,Python,"Javascript, D",Fundação Getulio Vargas,fccoelho@gmail.com,"Math, statistics, NLP, machine learning",0,1,1,0
+fccoelho,Python,"Javascript, D",Fundação Getulio Vargas,fccoelho@gmail.com,"Math, statistics, NLP, machine learning",0,1,0,0
 shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data visualization
 computing education
 software engineering
@@ -3292,7 +3292,7 @@ wave propagation in solids
 impact mechanics",0,0,0,0
 marcoapintoo,"Nim, Java, C++, Python, R",Matlab/Octave,Oslo Metropolitan University,marcop@oslomet.no,"Signal processing, time series, statistical software",0,0,0,0
 dotsdl,Python,,,dotsdl@gmail.com,"Computational Chemistry
-Computational Biophysics",0,1,1,0
+Computational Biophysics",0,1,0,0
 madvn,Python,C++,"Indiana University, Bloomington",madvncv@gmail.com,"Neuroscience
 Neural Networks
 Information theory
@@ -4828,7 +4828,7 @@ Ruby",World Bank,gabrielusvicente@gmail.com,"Applied Mathematics
 Physics
 Optimization
 Machine Learning
-Artificial Intelligence",0,0,0,0
+Artificial Intelligence",1,1,0,0
 OloOcki,Python,,"Chair of Photogrammetry and Remote Sensing, Technical University of Munich",olaf.wysocki@tum.de,"GIS, Photogrammetry, Remote Sensing, Geomatics",0,0,0,0
 saurabh-khanna,"Python
 R",,"PhD Candidate, Stanford University",saurabhkhanna@stanford.edu,"Algorithmic bias, knowledge diversity, social networks",0,0,0,0
@@ -4985,7 +4985,7 @@ myxie,Python,"C/C++, Java",University of Western Australia,ryan.bunney@research.
 BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Computational biology and bioinformatics,0,0,0,0
 pzarabadip,Python,,Research Associate - University of Bath,pzp22@bath.ac.uk,"Chemistry
 Physical Chemistry
-Molecular Simulation",0,0,0,0
+Molecular Simulation",1,1,0,0
 maximtrp,"Python
 R
 Golang
@@ -5143,6 +5143,19 @@ Clustering",0,0,0,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
-Statistics"
-https://github.com/RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering"
+Statistics",0,0,0,0
+RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering",0,0,0,0
 @sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools"
+aaronpeikert,"R
+Julia",,Max Planck Institute for Human Development,peikert@mpib-berlin.mpg.de,"machine learning
+- model selection
+- structural equation modelling
+- multimodel inference
+- hierarchical data
+
+open science
+- reproducibility
+- dynamic document generation
+- containers
+- version control"
+aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine"
