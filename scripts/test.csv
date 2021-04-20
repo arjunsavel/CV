@@ -3149,7 +3149,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,3,3,1
+multiscale",1,4,3,1
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,1
 rchg,"Python
@@ -3642,7 +3642,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,3,3,1
+plasticity",1,4,3,1
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -5173,6 +5173,8 @@ mkorvink,"R, Java, SQL",,Premier Healthcare Alliance,michael_korvink@premierinc.
 twesleyb,"R
 Python",Julia,Duke University,twesleyb10@gmail.com,"Neuroscience
 Cell Biology
-Community Detection in Graphs"
-tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics
+Community Detection in Graphs",0,0,0,0
+tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,0,0,0
 villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection"
+jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences"
+cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines"
