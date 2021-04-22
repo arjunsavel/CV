@@ -179,7 +179,7 @@ Ecology
 Environmental Sciences",0,1,1,1
 jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,1,0,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
-Molecular Simulation",0,4,1,1
+Molecular Simulation",0,4,1,0
 kczimm,"go
 python","matlab
 octave",Marquette University,kevinczimmerman@gmail.com,"signal processing
@@ -860,7 +860,7 @@ Matlab",Western University ,cdegroo5@uwo.ca,"Computational fluid dynamics (CFD)
 Mathematical modelling
 Mechanical engineering
 Chemical engineering
-Automatic differentiation",1,5,0,0
+Automatic differentiation",0,5,1,1
 AksanBA,"Python
 R",,,brian.akperi@gmail.com,,0,0,0,0
 lucydot,Python,,Imperial College London,lucywhalley@gmail.com,Computational materials science,0,4,1,1
@@ -1003,7 +1003,7 @@ Ruby
 Elixir",,,mahmoud@openconnective.org,,0,0,0,0
 devdess,Python,C++,Université Laval,sylvain.dessureault.1@ulaval.ca,"Artificial intelligence, competitive programming, algorithms, IoT, app dev",0,0,0,0
 foeroyingur,"Fortran
-Python",,"Hylleraas Centre for Quantum Molecular Sciences, UiT The Arctic University of Norway",jogvan.m.olsen@uit.no,Computational chemistry,0,1,1,1
+Python",,"Hylleraas Centre for Quantum Molecular Sciences, UiT The Arctic University of Norway",jogvan.m.olsen@uit.no,Computational chemistry,0,1,1,0
 hobu,"C++, python","C, Basic, Ruby, JavaScript",Self,howard@hobu.co,Spatial or geo stuff,0,0,0,0
 martlj,"C, python, matlab",C++,The Francis Crick Institute,martin.jones@crick.ac.uk,"Physics, biology, image processing",0,0,0,0
 azneto,python,,Embrapa,azneto@gmail.com,bioinformatics,0,2,0,0
@@ -3131,7 +3131,7 @@ Formal Methods",0,0,0,0
 jayten,"FORTRAN 90
 Python",,"Indian Institute of Technology Madras, India",jayten010@gmail.com,"Computational Fluid Dynamics
 Transition modeling
-LES/RANS simulation",1,1,0,0
+LES/RANS simulation",0,1,1,1
 fccoelho,Python,"Javascript, D",Fundação Getulio Vargas,fccoelho@gmail.com,"Math, statistics, NLP, machine learning",0,1,0,0
 shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data visualization
 computing education
@@ -4853,7 +4853,7 @@ pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg
 rafaelab,"C++
 Python","C
 Julia",Radboud University Nijmegen,8rafael@gmail.com,"Astroparticle Physics
-High-Energy Astrophysics",0,0,0,0
+High-Energy Astrophysics",1,1,0,0
 apwheele,"python
 R","Stata
 SPSS",HMS,apwheele@gmail.com,"social science, criminology",0,0,0,0
@@ -5160,7 +5160,7 @@ open science
 - version control",0,0,0,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
-Particle physics",0,0,0,0
+Particle physics",1,1,0,0
 tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,0,0,0
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
@@ -5177,17 +5177,21 @@ Community Detection in Graphs",0,0,0,0
 tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,0,0,0
 villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",0,0,0,0
 jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,0,0,0
-cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines"
-https://github.com/wxwx1993,R,"SQL
+cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines",0,0,0,0
+wxwx1993,R,"SQL
 Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
 Data Science
 Machine Learning
 Causal Inference
-Epidemiology"
-https://github.com/Naeemkh,"Python 
+Epidemiology",0,0,0,0
+Naeemkh,"Python 
 R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
 Machine Learning
-Applied Science (Geophysics)"
-salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization"
+Applied Science (Geophysics)",0,0,0,0
+salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization",0,0,0,0
 janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Materials Science, computational molecular science"
+zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
+single cell
+spatial omics"
+@BioAlvaro,R,,Institute of Physiology of the Czech Academy of Science,alvaro.sanchez@fgu.cas.cz,"Proteomics, Genomics"
