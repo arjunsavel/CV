@@ -904,7 +904,7 @@ dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Scienc
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
-williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,1,1
+williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,1,0
 nyutal,Python,Java,Yahoo! Research ,yutal.nadav@gmail.com,,0,0,0,0
 federeghe,"C, C++","Python, MATLAB",Politecnico di Milano,federico.reghenzani@polimi.it,"Real-Time Computing, Embedded Systems, Operating Systems, WCET analyses.",0,0,0,0
 pankajkmishra,MATLAB,Fortran 90,"Department of Mathematics, Hong Kong Baptist Univerisy",pankajkmishra01@gmail.com,"Meshless Methods 
@@ -1299,7 +1299,7 @@ Instrumentation
 Optics",1,3,1,0
 igarizio,Python,,,iacopo.garizio@gmail.com,"Economics
 Game theory
-Matching algorithms",0,2,0,0
+Matching algorithms",1,3,0,0
 holtgrewe,"Python
 Rust","C/C++
 Java
@@ -1587,7 +1587,7 @@ Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",4,5,0,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",5,6,0,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -2346,7 +2346,7 @@ andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,0,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,1,0,0
-kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,0,0,0
+kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",1,1,0,0
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,2,0
 Jpata,"Python, C++",Julia,Caltech,Joosep.pata@cern.ch,"Particle physics, data processing, statistics, machine learning",0,0,0,0
@@ -2565,7 +2565,7 @@ Machine Learning
 Deep Learning",0,1,0,0
 prateekiiest,Python,"Java, C++",Microsoft Research India,prateekkol21@gmail.com,"Machine Learning, Data Mining",0,0,0,0
 github.com/leonardojaneis,"Java, Node.js, Python, C, C++, JavaScript",PHP and Assembly,University of Campinas - UNICAMP,leonardojaneis@gmail.com,"Parallel programming, distributed systems, complex data, pattern recognition, biometrics and database",0,0,0,0
-potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,1,0,0
+potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",1,2,0,0
 cultpenguin,"python
 matlab",,"Department of Geoscience, Aarhus University, Denmark",tmeha@geo.au.dk,"geophysics
 sampling
@@ -3937,7 +3937,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,1,1
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,1,1,1
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,2,1,1
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -5194,16 +5194,18 @@ janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Material
 zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
 single cell
 spatial omics",0,0,0,0
-@BioAlvaro,R,,Institute of Physiology of the Czech Academy of Science,alvaro.sanchez@fgu.cas.cz,"Proteomics, Genomics"
+BioAlvaro,R,,Institute of Physiology of the Czech Academy of Science,alvaro.sanchez@fgu.cas.cz,"Proteomics, Genomics",0,0,0,0
 alberto-battistel,Matlab,Python,"Institute of Technical Medicine (ITeM), Furtwangen University (HFU), Jakob-Kienzle-Strasse 17, 78054 Villingen-Schwenningen, Deutschland",alberto.battistel@rub.de,"Impedance spectroscopy
 impedance tomography
 data analysis
 harmonic analysis
 microwave imaging
-electrochemistry"
+electrochemistry",0,0,0,0
 rvhonorato,Python,,Utrecht University,rvhonorato@gmail.com,"Molecular modeling
 Macromolecular docking
 Molecular dynamics
 Computational biology
 Structural Biology
 Bioinformatics"
+sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics"
+tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS"
