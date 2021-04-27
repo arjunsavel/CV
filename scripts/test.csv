@@ -224,7 +224,7 @@ Data Manipulation",0,2,1,1
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
-System Biology",0,2,1,1
+System Biology",0,2,1,0
 diegoenry,"Fortran
 BASH
 Python","HTML
@@ -3550,7 +3550,7 @@ Symbolic Regression
 Genetic Programming",0,1,1,0
 deep07004,Python,"C, fortran90",Indian National Center for Ocean Information Services,dipankar.s@incois.gov.in,Seismology,0,0,0,0
 sappelhoff,Python,,"Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",stefan.appelhoff@mailbox.org,"- Neuroscience with focus on electrophysiology (EEG, MEG, iEEG, ...)",0,1,1,0
-meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",0,1,1,1
+meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",0,1,1,0
 pwernette,"C++
 Python
 R",,U.S. Geological Survey,pwernette@usgs.gov,"Coastal Geology
@@ -3661,7 +3661,7 @@ Lesaffre,R,Python and C++,Accenture,alainlesaffre@hotmail.com,Data Science for I
 abotzki,"Python
 R",,"VIB Bioinformatics Core, VIB",alexander.botzki@vib.be,"Structural Bioinformatics
 Cheminformatics",0,0,0,0
-meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",0,1,1,1
+meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",0,1,1,0
 Logological,"C, bash, Java, LaTeX",,Austrian Research Institute for Artificial Intelligence,tristan.miller@ofai.at,"natural language processing, computational linguistics, computational humour",0,0,0,0
 alaingdl,IDL/GDL/FL,c/c++,CNRS & Observatoire de Paris,alain.coulais@obspm.fr,Astronomy,0,0,0,0
 rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",0,1,1,0
@@ -3975,7 +3975,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,1
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,1,1,1
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,1,1,0
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -5208,6 +5208,7 @@ Computational biology
 Structural Biology
 Bioinformatics",0,0,0,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
-tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS"
+tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,0,0,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
 Smoothed particle hydrodynamics"
+joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')"
