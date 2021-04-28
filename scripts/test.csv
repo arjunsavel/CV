@@ -92,7 +92,7 @@ soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics"
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
-jwuttke,"C++, Ruby","C, Python",Forschungszentrum Jülich GmbH,j.wuttke@fz-juelich.de,"Physics, especially condensed matter, spectroscopy, scattering, diffraction",0,1,0,0
+jwuttke,"C++, Ruby","C, Python",Forschungszentrum Jülich GmbH,j.wuttke@fz-juelich.de,"Physics, especially condensed matter, spectroscopy, scattering, diffraction",1,2,0,0
 ajank,"R
 C/C++
 TeX/LaTeX",,"European Molecular Biology Laboratory, Heidelberg, Germany",aleksander.jankowski@embl.de,"bioinformatics
@@ -271,7 +271,7 @@ a-slide,Python ,,EMBL-EBI ,aleg@ebi.ac.uk ,"Bioinformatics
 Computational biology",0,0,0,0
 rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,1,0
 milesmcbain,"R, Javascript",SQL,Australian Centre of Excellence for Mathematics and Statistics (ACEMS),miles.mcbain@gmail.com,data science,0,0,0,0
-mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,1,0
+mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,0,0
 adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",0,1,1,1
 jhollist,R,,US EPA,hollister.jeff@epa.gov,"Ecology
 Environmental Science
@@ -2700,7 +2700,7 @@ Python",,Max Planck Institute for Heart and Lung Research,jens.preussner@mpi-bn.
 Bioinformatics
 Single-cell biology
 Cancer biology
-Data Science",0,2,2,0
+Data Science",0,2,1,0
 carleshf,"python
 R","javascript
 java",The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG),carles.hernandez@cnag.crg.eu,"bioinformatics
@@ -5210,5 +5210,5 @@ Bioinformatics",0,0,0,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,0,0,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
-Smoothed particle hydrodynamics"
+Smoothed particle hydrodynamics",0,1,1,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')"
