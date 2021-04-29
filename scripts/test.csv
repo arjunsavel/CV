@@ -543,7 +543,7 @@ darrendahly,R,,University College Cork,ddahly@ucc.ie,"Biostats
 Epidemiology",0,0,0,0
 dhaine,R,Stata,Freelance consultant,denis.haine@gmail.com,Epidemiology,0,0,0,0
 tomfaulkenberry,R,Python,Tarleton State University,faulkenberry@tarleton.edu,"Psychology
-Biostatistics",0,5,2,0
+Biostatistics",0,5,1,0
 joongsup,R,,AT&T,jaylee@att.com,"Statistical process control, R work flow with other big data tools",0,0,0,0
 Gweissman,"R, Python",,"Perelman School of Medicine, University of Pennsylvania",gary.weissman@uphs.upenn.edu,"Medicine, clinical informatics, predictive models, NLP",0,0,0,0
 Suresh-lab,"R, C++, Matlab, C","Python, Perl, Java ",Johns Hopkins University ,ksuresh2@jhmi.edu,"Medicine, especially processing of microscopic images, analysis of sequencing data, statistical modeling",0,0,0,0
@@ -697,7 +697,7 @@ R",University of Leeds,a.p.smith@leeds.ac.uk,Numerical algorithms,0,1,0,0
 jeremyklein,"Python
 Cache Objectscript
 Javascript",Java,,jeremy.joseph.klein@gmail.com,Healthcare/ HealthIT,0,0,0,0
-ViniciusBRodrigues,R and Latex,Lua,Instituto Federal de Educação - Ouro Preto (IFMG-OP),viniciusbrbio@gmail.com,"Ecology, behaviour ecology, statistics",0,2,0,0
+ViniciusBRodrigues,R and Latex,Lua,Instituto Federal de Educação - Ouro Preto (IFMG-OP),viniciusbrbio@gmail.com,"Ecology, behaviour ecology, statistics",1,3,0,0
 malramsay64,"Python
 Cython",,The University of Sydney,malramsay64@gmail.com,"Chemistry
 Molecular Dynamics",0,4,1,0
@@ -1157,7 +1157,7 @@ magnetic resonance imaging
 neuroimaging",0,7,3,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
-JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,3,2
+JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,2
 ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,1,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
@@ -2886,7 +2886,7 @@ Javascript","Prolog
 Ruby
 Go",Arizona State University,douglas.g.moore@asu.edu,"Physics
 Applied Mathematics
-Biology",0,1,1,1
+Biology",0,1,1,0
 arbennett,"Python
 Fortran
 Julia
@@ -3762,7 +3762,7 @@ keurfonluu,Python,Fortran,Berkeley Lab,keurfonluu@outlook.com,Geophysics,0,0,0,0
 marcjwilliams1,"R
 julia",python,Memorial Sloan Kettering Cancer Center,marcjwilliams1@gmail.com,"Bioinformatics
 Computational Biology
-Bayesian Inference",1,2,1,1
+Bayesian Inference",1,2,1,0
 ldominguezruben,Python,Matlab,Universidad Nacional del Litoral,ldominguez@fich.unl.edu.ar,"Hydraulics, earth landforms and processes, geomorphology",0,0,0,0
 bastinrobin,Python,Go,CleverInsight,bastinrobins@gmail.com,Data Science,0,0,0,0
 Athanasiamo,"R
@@ -5212,3 +5212,5 @@ tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geograp
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
 Smoothed particle hydrodynamics",0,1,1,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')"
+jacobmerson,"C++,Python",,Rensselaer Polytechnic Institute,mersoj@rpi.edu,"high performance computing (HPC), computer science, GPU, biomechanics, fibrous materials"
+ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse problems,  pattern recognition"
