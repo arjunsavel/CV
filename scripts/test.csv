@@ -3014,7 +3014,7 @@ fitting
 optimization
 multivariate analysis
 statistical analysis",0,1,1,0
-hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,2,1
+hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,2,0
 atanikan,"Python
 Java
 R
@@ -5214,6 +5214,6 @@ Smoothed particle hydrodynamics",0,1,1,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",0,0,0,0
 jacobmerson,"C++,Python",,Rensselaer Polytechnic Institute,mersoj@rpi.edu,"high performance computing (HPC), computer science, GPU, biomechanics, fibrous materials",0,0,0,0
 ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse problems,  pattern recognition",0,0,0,0
-askerdb,"python, R",,"University of California, San Diego",abrejnrod@health.ucsd.edu,Bioinformatics in metagenomics and metabolomics
-https://github.com/feilin-flexcompute?tab=repositories,c++,,Flexcompute Inc,jiafeilin1990@gmail.com
+askerdb,"python, R",,"University of California, San Diego",abrejnrod@health.ucsd.edu,Bioinformatics in metagenomics and metabolomics,0,0,0,0
+feilin-flexcompute?tab=repositories,c++,,Flexcompute Inc,jiafeilin1990@gmail.com,,0,0,0,0
 @MrMallIronmaker,R,Python,Stanford University,mrmillr@stanford.edu,"3D data, virtual reality, data visualization"
