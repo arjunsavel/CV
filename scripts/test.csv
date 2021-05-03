@@ -598,7 +598,7 @@ ha0ye,R,C++ (probably in the context of Rcpp),University of Florida,hao.ye@weeco
 matthiaslein,Python,"Fortran, C",Victoria University of Wellington,matthias.lein@vuw.ac.nz,Computational Chemistry,0,0,0,0
 rasbt,pythoj,,University of Wisconsin-Madison (Assistant Professor of Statistics),mail@sebastianraschka.com,"deep learning, machine learning, statistics, computational biology",0,3,0,0
 aj2duncan,"R (including R Markdown, Bookdown and Shiny)",,Inverness College UHI (email: andrew.duncan.ic@uhi.ac.uk),andrew@aj2duncan.com,"Mathematics (including network analysis)
-Epidemiology (disease spread through networks, mathematical models)",0,3,1,0
+Epidemiology (disease spread through networks, mathematical models)",0,3,0,0
 siravan,"Python, C++, julia","C, javascript",Emory University,siravan@emory.edu,Computational cardiology,0,0,0,0
 trp07,Python,"C
 Java",Freelance,phillipstr@gmail.com,"Aerospace Engineering
@@ -707,7 +707,7 @@ Physics
 Statistics
 Machine Learning
 High Performance Computing",0,7,0,0
-strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",0,6,1,0
+strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",0,6,0,0
 smattr,"Python
 C
 C++","Haskell
@@ -4259,7 +4259,7 @@ CDO","Mathematica
 Python
 C++",Pacific Northwest National Laboratory,kalyn.dorheim@pnnl.gov,"Climate
 Biology
-Ecology",1,1,0,0
+Ecology",0,1,1,1
 abigailsnyder,"R
 Matlab",,Pacific Northwest National Laboratory,abigail.snyder@pnnl.gov,"Earth system science
 Climate impacts
@@ -4878,7 +4878,7 @@ Medical Imaging",1,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,0,0,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",2,2,0,0
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,2,1,1
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -5217,3 +5217,4 @@ ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse prob
 askerdb,"python, R",,"University of California, San Diego",abrejnrod@health.ucsd.edu,Bioinformatics in metagenomics and metabolomics,0,0,0,0
 feilin-flexcompute?tab=repositories,c++,,Flexcompute Inc,jiafeilin1990@gmail.com,,0,0,0,0
 @MrMallIronmaker,R,Python,Stanford University,mrmillr@stanford.edu,"3D data, virtual reality, data visualization"
+aaa34169,python,"R, matlab,",Nantes Hospital,fabien.leboeuf@chu-nantes.fr,"gait analysis, motion capture"
