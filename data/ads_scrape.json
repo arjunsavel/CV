@@ -133,6 +133,33 @@
     "year": "2021"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Deming, Drake",
+      "Fu, Guangwei",
+      "Greene, Thomas P.",
+      "Henry, Gregory W.",
+      "Ih, Jegug",
+      "Kempton, Eliza M. -R.",
+      "Knutson, Heather A.",
+      "Louie, Dana Renee",
+      "Moses, Julianne I.",
+      "Savel, Arjun Baliga",
+      "Sheppard, Kyle",
+      "Zhang, Michael"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 1633,
+    "pub": "JWST Proposal. Cycle 1",
+    "pubdate": "2021-03-00",
+    "title": "A Deep Molecular Survey of HD 189733b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1633D",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.12790",
     "authors": [
       "Cloutier, R.",
