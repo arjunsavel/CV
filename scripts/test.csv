@@ -1786,7 +1786,7 @@ Networking
 Distributed Computing",0,0,0,0
 jramirezcr,"Fortran, C++, CUDA",Python,,ingenmec.jrc@gmail.com,Computational Fluid Dynamics,0,0,0,0
 mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",1,1,0,0
-hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,1,1
+hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,1,0
 daniellivingston,"Python
 Fortran
 Swift
@@ -5216,5 +5216,16 @@ jacobmerson,"C++,Python",,Rensselaer Polytechnic Institute,mersoj@rpi.edu,"high 
 ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse problems,  pattern recognition",0,0,0,0
 askerdb,"python, R",,"University of California, San Diego",abrejnrod@health.ucsd.edu,Bioinformatics in metagenomics and metabolomics,0,0,0,0
 feilin-flexcompute?tab=repositories,c++,,Flexcompute Inc,jiafeilin1990@gmail.com,,0,0,0,0
-@MrMallIronmaker,R,Python,Stanford University,mrmillr@stanford.edu,"3D data, virtual reality, data visualization"
+MrMallIronmaker,R,Python,Stanford University,mrmillr@stanford.edu,"3D data, virtual reality, data visualization",0,0,0,0
 aaa34169,python,"R, matlab,",Nantes Hospital,fabien.leboeuf@chu-nantes.fr,"gait analysis, motion capture"
+rosecers,"Python
+Java
+Javascript","Bash / Unix
+Scheme",École Polytechnique Fédérale de Lausanne,rose.cersonsky@epfl.ch,"Molecular Dynamics
+Statistical Physics
+Materials Science"
+https://github.com/benjaminbolling,"Python
+MatLab","C++
+Julia",European Spallation Source ERIC,benjaminbolling@icloud.com,"General physics and mathematics
+Various algorithms"
+peterakirk,"Python, R, MATLAB",Bash,"Institute of Cognitive Neuroscience, University College London",p.kirk@ucl.ac.uk,"fMRI, neuroimaging, psychophysiology, respiration, heart rate variability"
