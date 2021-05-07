@@ -1,5 +1,36 @@
 [
   {
+    "arxiv": "2105.01994",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-05-00",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&}amp; other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210501994F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.01726",
     "authors": [
       "Rodriguez, Joseph E.",
