@@ -1265,7 +1265,7 @@ Genomics
 Biostatistics",0,2,0,0
 Juanlu001,Python,Fortran,Unaffiliated,juanlu001@gmail.com,"Orbital Mechanics, Astrodynamics, Aerospace Engineering",0,3,0,0
 lmcinnes,Python,C (not C++),Tutte Institute for Mathematics and Computing,leland.mcinnes@gmail.com,"Clustering, Dimension reduction, Topological Data Analysis",0,2,0,0
-vissarion,C/C++,"R, Python","University of Athens, Greece",fisikop@gmail.com,"Scientific Computing, Mathematical Software, Computational Geometry/Algebra, Optimization, Algorithms",0,2,1,0
+vissarion,C/C++,"R, Python","University of Athens, Greece",fisikop@gmail.com,"Scientific Computing, Mathematical Software, Computational Geometry/Algebra, Optimization, Algorithms",1,3,1,0
 homonecloco,"Ruby
 R
 SQL","C
@@ -1587,7 +1587,7 @@ Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",5,6,0,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",6,7,0,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -1610,7 +1610,7 @@ Data Science
 Machine Learning
 Optimisation Research
 Geographic Information Systems",0,1,0,0
-wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"heliophysics, space science, astrophysics, machine learning",1,1,0,0
+wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"Solar Physics, heliophysics, space science, astrophysics, machine learning",1,1,0,0
 giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,1,0,0
 gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
@@ -1874,7 +1874,7 @@ Optimization
 Signal Processing",0,0,0,0
 maurov,Python,,"Univ. Grenoble Alpes, CNRS, IRD, Irstea, Météo France, OSUG, FAME, 38000 Grenoble, France",mauro.rovezzi@esrf.fr,"X-ray spectroscopy
 X-ray optics",0,0,0,0
-kellykochanski,"Python, Matlab","Fortran90, Julia",University of Colorado Boulder,kelly.kochanski@gmail.com,"Earth and climate science (preferred: geomorphology, snow science, hydrology)",1,1,0,0
+kellykochanski,"Python, Matlab","Fortran90, Julia",University of Colorado Boulder,kelly.kochanski@gmail.com,"Earth and climate science (preferred: geomorphology, snow science, hydrology)",0,1,1,1
 mado89,"Java, C++, Python, R","JavaScript, TypeScript",University of Vienna,martin.dobiasch@univie.ac.at,"Software Engineering, Sport Science, Software Verification",0,2,1,0
 will-rowe,"Go
 C
@@ -2432,7 +2432,7 @@ python",,"University of the Philippines Los Banos, College of Veterinary Medicin
 genomics
 user interface",0,0,0,0
 santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, gravity, magnetics, inversion.",0,2,0,0
-eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,1
+eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,1,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
 smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,0,0,0
@@ -2897,7 +2897,7 @@ Ecology
 Meteorology
 Climate science
 Information theory
-Statistical methods",1,3,2,0
+Statistical methods",0,3,3,1
 uludag/,"C, Java, Python",JavaScript,Software Developer,mahmut.uludag@kaust.edu.sa,Bioinformatics,0,0,0,0
 kanekalla,"R
 Python",,Northwestern University,kishore.anekalla@northestern.edu,"Bioinformatics
@@ -5228,5 +5228,10 @@ benjaminbolling,"Python
 MatLab","C++
 Julia",European Spallation Source ERIC,benjaminbolling@icloud.com,"General physics and mathematics
 Various algorithms",0,0,0,0
-peterakirk,"Python, R, MATLAB",Bash,"Institute of Cognitive Neuroscience, University College London",p.kirk@ucl.ac.uk,"fMRI, neuroimaging, psychophysiology, respiration, heart rate variability"
+peterakirk,"Python, R, MATLAB",Bash,"Institute of Cognitive Neuroscience, University College London",p.kirk@ucl.ac.uk,"fMRI, neuroimaging, psychophysiology, respiration, heart rate variability",0,0,0,0
 balos1,"C, C++",Python,Lawrence Livermore National Laboratory,balos1@llnl.gov,Mathematical software
+ricardogando,python,,Observatorio Nacional,ogando@on.br,"astronomy
+astrophysics"
+amygalanter,"Python
+R",,U.S. Geological Survey,agalanter@usgs.gov,"Data Science
+Earth Science"
