@@ -41,7 +41,7 @@ fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",1,2,0,0
 benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",1,7,0,0
-moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,1
+moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
 hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,1,0
@@ -370,7 +370,7 @@ C++
 C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineering
 Web Development
 Machine Learning
-Distributed Systems",0,2,1,1
+Distributed Systems",0,2,1,0
 mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,2,1
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
@@ -657,7 +657,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",0,4,0,0
+Solar",1,5,0,0
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,1,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -1388,7 +1388,7 @@ MPI
 OpenMP
 Validation
 Testing",0,0,0,0
-jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,2,0,0
+jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",1,3,0,0
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
 rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,1,0
 EduPH,"Python
@@ -2501,7 +2501,7 @@ jonahbenton,"python, clojure, go",None,Independent Consultant,jonah@jonah.com,,0
 PBarmby,Python,C,Western University,pbarmby@uwo.ca,Astrophysics/astronomy,0,0,0,0
 Williamsmj,Python,,Cloudera,mike@mike.place,"Machine learning, data processing esp. astrophysics, visualisation",0,0,0,0
 zaxtax,"Python, Haskell, R",Julia,University of Oxford,zinkov@robots.ox.ac.uk,"machine learning, data science",0,0,0,0
-szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,2,1,0
+szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",1,3,1,0
 Corbett,"Python, Objective-C","C++,Java",NASA JPL,Corbett@caltech.edu,"Astrophysics, computer security,physics, computer science",0,0,0,0
 smsaladi,"python, R, javascript","C, C++",California Institute of Technology,saladi@caltech.edu,"biology, bioinformatics, biochemistry, biophysics, bioengineering",0,0,0,0
 samvaughan,Python,None,University of Sydney,Sam.vaughan@sydney.edu.au,Astronomy,0,0,0,0
@@ -3534,7 +3534,7 @@ Java
 Elixir","University of Maryland, College Park",jayaram.kancherla@gmail.com,"biological data visualization
 bioinformatics
 data management
-data structures",0,2,0,0
+data structures",1,3,0,0
 lee-seon-woo,Python,C++,Inha University,x21999@inha.edu,"DeepLearning
 Abnormal Detection
 Object Detection
@@ -3610,7 +3610,7 @@ Semantic Web
 Linked Data
 Fuzzy Logic
 Continuous Integration
-Software Quality",0,2,2,1
+Software Quality",0,2,2,0
 datakid,"Bash, python",,University of New South Wales,datakid@gmail.com,"Bioinformatics, systems administration",0,0,0,0
 urbanophile,"Python
 R",,University of New South Wales,contact.matt.gibson@gmail.com,"machine learning
@@ -4464,7 +4464,7 @@ Atomistic simulations",1,1,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",1,1,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
-omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",1,1,0,0
+omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,1,1,1
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
 wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic",0,0,0,0
 navdeep-G,"Python, R, Java","C,C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, statistics",0,0,0,0
@@ -5234,10 +5234,13 @@ ricardogando,python,,Observatorio Nacional,ogando@on.br,"astronomy
 astrophysics",0,0,0,0
 amygalanter,"Python
 R",,U.S. Geological Survey,agalanter@usgs.gov,"Data Science
-Earth Science"
+Earth Science",0,0,0,0
 matt-graham,Python,"Julia
 Matlab",University College London,matthew.m.graham@gmail.com,"Computational statistics
 Approximate inference
 Probabilistic programming
 Numerical simulation
 Monte Carlo methods"
+mariobecerra,R,"Python
+C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
+Choice modeling"
