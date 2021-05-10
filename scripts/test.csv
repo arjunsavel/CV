@@ -293,7 +293,7 @@ jkarreth,R,,Ursinus College,jkarreth@ursinus.edu,"Bayesian statistics
 Postestimation
 Data visualization",0,2,1,0
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
-tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",1,2,0,0
+tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,2,1,1
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,0
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
@@ -5240,7 +5240,14 @@ Matlab",University College London,matthew.m.graham@gmail.com,"Computational stat
 Approximate inference
 Probabilistic programming
 Numerical simulation
-Monte Carlo methods"
+Monte Carlo methods",0,0,0,0
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
 Choice modeling"
+I don't have GitHub.,"Phyton
+Matlab","Phyton
+Matlab",Universidad Central de Chile,gcarreno@iee.org,"Clinica Biomechanics
+Sports Biomechanics
+Human Gait
+Surface Electromyography
+Sport Sciences"
