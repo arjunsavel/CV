@@ -39,7 +39,7 @@ pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC"
 arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,1,0
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
-nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",1,2,0,0
+nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",0,2,1,1
 benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",1,7,0,0
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
@@ -404,7 +404,7 @@ Docker
 giscience
 gis
 geospatial data science
-geostatistics",1,2,0,0
+geostatistics",0,2,1,1
 bovee,"Python
 Rust","Javascript
 Julia
@@ -1149,7 +1149,7 @@ ManuelaS,MATLAB,"python, R",Royal College of Surgeons in Ireland,manuelasalvucci
 SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & Max Planck Institute for the Science of Human History,simon@simon.net.nz,"phylogenetics
 historical/comparative linguistics
 cultural evolution",0,0,0,0
-jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",1,2,0,0
+jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,2,1,1
 camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,1,0,0
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
@@ -2602,7 +2602,7 @@ martinfleis,Python,,University of Strathclyde,martin@martinfleischmann.net,"Geog
 Urban morphology
 Network analysis
 Geospatial
-GIS",1,2,0,0
+GIS",0,2,1,1
 Nheyer,"Python,C++,R",,California State University Monterey Bay,nheyer@csumb.edu,"Genomics, mathematics",0,0,0,0
 mbdemoraes/moafs,"Blocks
 Python",,UNICAMP - MASTER,daiolive81@gmail.com,Technology in Education,0,0,0,0
@@ -3260,7 +3260,7 @@ Javascript","Java
 C++",Indian Institute of Technology Bombay,rajatshinde@iitb.ac.in,"Geospatial Applications Development
 Geoinformatics
 Deep learning
-Remote Sensing",1,1,0,0
+Remote Sensing",0,1,1,1
 a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,1,0
 github,Python,Java,Montana State University,indika.kahanda@montana.edu,"Bioinformatics
 Biomedical Informatics
@@ -3861,7 +3861,7 @@ justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aache
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,1,0,0
-marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",1,1,0,0
+marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,1,1,1
 mattkram,Python,"C++, Fortran",,matthew.robert.kramer@gmail.com,"Hydrodynamics, fluid mechanics, fluid-structure interaction, time series analysis",0,0,0,0
 regivm,python,sas,,regivm@yahoo.com,"Analytics, Machine Learning",0,0,0,0
 myxie,"Python
@@ -3970,7 +3970,7 @@ Vue",,,jdalzatec@unal.edu.co,"Physics
 Web development
 Numerical methods
 Web scraping
-Linear Algebra",1,1,0,0
+Linear Algebra",0,1,1,1
 JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,1
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
@@ -4592,7 +4592,7 @@ Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,0,0,0
 spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,0,0,0
-rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",1,1,0,0
+rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,1,1,1
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
 Bioinformatics
@@ -5243,7 +5243,7 @@ Numerical simulation
 Monte Carlo methods",0,0,0,0
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
-Choice modeling"
+Choice modeling",0,0,0,0
 I don't have GitHub.,"Phyton
 Matlab","Phyton
 Matlab",Universidad Central de Chile,gcarreno@iee.org,"Clinica Biomechanics
@@ -5251,3 +5251,20 @@ Sports Biomechanics
 Human Gait
 Surface Electromyography
 Sport Sciences"
+garrett-m-smith,"Python
+R","Julia
+Stan
+Octave/Matlab",University of Potsdam,gasmith@uni-potsdam.de,"Cognitive science
+Psycholinguistics
+Linguistics
+Dynamical systems
+Stochastic processes"
+https://github.com/isabel-campos-plasencia,C,,Spanish National Research Council,isabel.campos@csic.es,"Physics, Biology, Mathematics"
+astanziola,"Python
+Matlab",,University College London,astanziola@ucl.ac.uk,"Machine learning
+Acoustics
+Signal Processing
+Image Processing
+Simulation
+Differentiable programming"
+ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API"
