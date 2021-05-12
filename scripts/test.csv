@@ -54,7 +54,7 @@ djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecolog
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,1,0,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
-effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,1,0
+effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,0,0
 stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,2,1
 fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms visualizations, game theory, mathematics",0,1,0,0
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,1,0
@@ -124,7 +124,7 @@ nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
 machine learning applied to astronomy",0,1,0,0
-stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,6,1,1
+stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,6,1,0
 ThomasA,Python,Matlab,Aalborg University,tha@es.aau.dk,"Signal processing, image processing, compressed sensing, signal/image reconstruction",0,2,0,0
 dhhagan,python,"julia, R, c++",MIT,dhagan@mit.edu,"Atmospheric Science, ML",0,4,0,0
 biswapriyamisra,R,,Texas Biomedical Research Institute,bbmisraccb@gmail.com,"Metabolomics, LC-MS, GC-MS, mass spectrometry, pathways, networks",0,1,0,0
@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,1,0
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,0,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,0,0,0
@@ -1169,7 +1169,7 @@ systematics
 taxonomy
 evolution
 palaeontology",0,0,0,0
-peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",0,1,0,0
+peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",1,2,0,0
 MikeHeiber,C++,,Northwestern University,heiber@mailaps.org,"materials science, polymers, semiconductor physics, kinetics, organic electronics",0,0,0,0
 melissawm,"Python, Julia, Fortran, MATLAB",,Federal University of Santa Catarina - Brazil,melissa.mendonca@ufsc.br,"Mathematics, Documentation, LaTeX",0,2,0,0
 kpeeters,"C++, Python",,Durham University,kasper.peeters@durham.ac.uk,"Physics, maths, computer algebra",0,0,0,0
@@ -1764,7 +1764,7 @@ SQL",,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
 genomics
 health analytics
 wearables data
-",0,1,1,1
+",0,1,1,0
 junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.com,Ecology,0,0,0,0
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",0,1,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
@@ -2545,7 +2545,7 @@ computational biology
 sensors
 reproducible research
 markdown/Rmd/family
-machine learning",0,1,1,1
+machine learning",0,1,1,0
 g,"C
 python",,,as@as.cr,,0,0,0,0
 professoralkmin,"Java
@@ -2914,7 +2914,7 @@ acoustics
 numerical analysis
 machine learning
 data science
-statistics",0,2,2,0
+statistics",0,2,1,0
 1313e,Python,,"Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia",ellert_vandervelden@outlook.com,"Bayesian Statistics
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
@@ -3300,7 +3300,7 @@ Optimization methods",0,0,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
-coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,2,2,0
+coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,2,1,0
 lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,0,0,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
@@ -5250,7 +5250,7 @@ Matlab",Universidad Central de Chile,gcarreno@iee.org,"Clinica Biomechanics
 Sports Biomechanics
 Human Gait
 Surface Electromyography
-Sport Sciences"
+Sport Sciences",0,0,0,0
 garrett-m-smith,"Python
 R","Julia
 Stan
@@ -5258,13 +5258,14 @@ Octave/Matlab",University of Potsdam,gasmith@uni-potsdam.de,"Cognitive science
 Psycholinguistics
 Linguistics
 Dynamical systems
-Stochastic processes"
-https://github.com/isabel-campos-plasencia,C,,Spanish National Research Council,isabel.campos@csic.es,"Physics, Biology, Mathematics"
+Stochastic processes",0,0,0,0
+isabel-campos-plasencia,C,,Spanish National Research Council,isabel.campos@csic.es,"Physics, Biology, Mathematics",0,0,0,0
 astanziola,"Python
 Matlab",,University College London,astanziola@ucl.ac.uk,"Machine learning
 Acoustics
 Signal Processing
 Image Processing
 Simulation
-Differentiable programming"
+Differentiable programming",0,0,0,0
 ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API"
+sbfnk,R,,London School of Hygiene & Tropical Medicine,sebastian.funk@lshtm.ac.uk,"Bioinformatics, biostatistics, epidemiology"
