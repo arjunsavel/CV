@@ -666,7 +666,7 @@ juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) St
 fdroessler,Python,,Data Scientist in Industry,roessler.fd@gmail.com,"Molecular Dynamics Simulation
 Computational Chemistry
 Agent Based Models",0,1,0,0
-khaors,R,", Matlab, Fortran, Python",Universidad Pedagogica y Tecnologica de colombia,khaors@gmail.com,"Environmental modeling, Hydrogeology, Geostatistics",0,2,1,0
+khaors,R,", Matlab, Fortran, Python",Universidad Pedagogica y Tecnologica de colombia,khaors@gmail.com,"Environmental modeling, Hydrogeology, Geostatistics",0,2,0,0
 motib,"Prolog, Ada","Python, Java",Weizmann Institute of Science,moti.ben.ari@gmail.com,"Educational software, mathematical logic",0,1,0,0
 semacu,"Python
 R",,"University of Cambridge, UK",sermarcue@gmail.com,"Bioinformatics
@@ -1090,7 +1090,7 @@ machine learning",0,1,1,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,0,0
-gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,1,0,0
+gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",1,2,0,0
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
@@ -1150,7 +1150,7 @@ SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & 
 historical/comparative linguistics
 cultural evolution",0,0,0,0
 jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,2,1,1
-camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,1,0,0
+camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",1,2,0,0
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
@@ -4853,7 +4853,7 @@ pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg
 rafaelab,"C++
 Python","C
 Julia",Radboud University Nijmegen,8rafael@gmail.com,"Astroparticle Physics
-High-Energy Astrophysics",1,1,0,0
+High-Energy Astrophysics",0,1,1,1
 apwheele,"python
 R","Stata
 SPSS",HMS,apwheele@gmail.com,"social science, criminology",0,0,0,0
@@ -5160,7 +5160,7 @@ open science
 - version control",0,0,0,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
-Particle physics",1,1,0,0
+Particle physics",0,1,1,1
 tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,0,0,0
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
@@ -5267,5 +5267,10 @@ Signal Processing
 Image Processing
 Simulation
 Differentiable programming",0,0,0,0
-ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API"
+ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API",0,0,0,0
 sbfnk,R,,London School of Hygiene & Tropical Medicine,sebastian.funk@lshtm.ac.uk,"Bioinformatics, biostatistics, epidemiology"
+@kylebeggs,"Julia
+Python","C++
+FORTRAN",University of Central Florida,kbeggs07@knights.ucf.edu,"Mechanical/Aerospace Engineering
+Data-driven Engineering
+Optimization"
