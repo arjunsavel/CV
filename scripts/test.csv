@@ -883,7 +883,7 @@ JavaScript","University of Michigan, Department of Computational Medicine & Bioi
 Genomics
 Bioinformatics
 Big Data
-Structural Variation",0,4,2,0
+Structural Variation",0,4,1,0
 fabian-s,R,C++,LMU Munich (Stats Department),fabian.scheipl@googlemail.com,"Linear Models
 Additive Models
 Mixed Models
@@ -2860,7 +2860,7 @@ lbugnon,Python,"Matlab/octave
 C++","sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence",lbugnon@sinc.unl.edu.ar,"Bioinformatics
 Machine Learning
 Signal/image processing
-Biomedical signals",0,2,1,1
+Biomedical signals",0,2,1,0
 Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOAM
 Multiphase flow
 CFD
@@ -3857,7 +3857,7 @@ Julia
 R",,Shahid Beheshti University,amir.h.hadian@gmail.com,"Cognitive Sciences
 Scientific Computing
 Brain Data Analysis",0,0,0,0
-justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,2,1
+justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,2,0
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,1,0,0
@@ -4385,7 +4385,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",1,2,1,1
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",1,2,1,0
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -5268,7 +5268,7 @@ Image Processing
 Simulation
 Differentiable programming",0,0,0,0
 ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API",0,0,0,0
-sbfnk,R,,London School of Hygiene & Tropical Medicine,sebastian.funk@lshtm.ac.uk,"Bioinformatics, biostatistics, epidemiology"
+sbfnk,R,,London School of Hygiene & Tropical Medicine,sebastian.funk@lshtm.ac.uk,"Bioinformatics, biostatistics, epidemiology",0,0,0,0
 @kylebeggs,"Julia
 Python","C++
 FORTRAN",University of Central Florida,kbeggs07@knights.ucf.edu,"Mechanical/Aerospace Engineering
