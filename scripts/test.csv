@@ -30,7 +30,7 @@ conradsnicta,C++,,,,"machine learning, pattern recognition, computer vision",0,1
 Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epigenetics",0,0,0,0
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
 Funnelfiasco,Python,Bash,,,"Linux, CLI tools",0,0,0,0
-mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",1,1,0,0
+mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,1,1
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
@@ -2414,7 +2414,7 @@ Bayesian machine learning
 Financial data science
 Financial machine learning
 Probabilistic programming
-Quantitative finance",1,1,0,0
+Quantitative finance",0,1,1,1
 amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
@@ -2435,7 +2435,7 @@ santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, 
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,1,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
-smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,0,0,0
+smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",1,1,0,0
 OopsAllErrors,"Python
 Matlab",IDL (no active license),National Geospatial-Intelligence Agency,johnjmandel@gmail.com,"Remote Sensing
 Image Processing
@@ -3300,7 +3300,7 @@ Optimization methods",0,0,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
-coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,2,1,0
+coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",1,3,1,0
 lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,0,0,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
@@ -4152,7 +4152,7 @@ Computational Chemistry
 Neutron Scattering
 Molecular Dynamics
 Web Applications",0,1,1,0
-williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",1,1,0,0
+williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,1
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,0,0,0
 miketuri,"Perl
@@ -5274,3 +5274,5 @@ Python","C++
 FORTRAN",University of Central Florida,kbeggs07@knights.ucf.edu,"Mechanical/Aerospace Engineering
 Data-driven Engineering
 Optimization"
+navdeep-G,"Python, R, Java","Java, R",H2O.ai,mr.navdeepgill@gmail.com,Machine learning
+bmoradi93,Python,C++,Robotics and Machine Vision Developer,behnammoradi026@gmail.com,"Model Predictive Control, Robotic Operating Systems(ROS), Deep Learning, Computer Vision, Motion Planning"
