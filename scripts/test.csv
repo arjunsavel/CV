@@ -2300,7 +2300,7 @@ ThomDietrich,"python
 r
 bash",,,thomas@nurzen.de,,0,0,0,0
 benjaminpope,Python,,New York University,benjamin.pope@nyu.edu,"astronomy
-astrophysics",0,1,1,0
+astrophysics",1,2,1,0
 adrn,Python,"Cython
 if necessary, C",Flatiron Institute,adrianmpw@gmail.com,"astronomy
 general open-source",0,0,0,0
@@ -2687,7 +2687,7 @@ materials informatics
 physical chemistry
 inorganic chemistry
 mathematical modeling",0,0,0,0
-grburgess,"python, c++, Stan, FORTRAN",,Max-Planck Institute for Extraterrestrial Physics,jburgess@mpe.mpg.de,astrophysics,0,1,1,0
+grburgess,"python, c++, Stan, FORTRAN",,Max-Planck Institute for Extraterrestrial Physics,jburgess@mpe.mpg.de,astrophysics,1,2,1,0
 nmoran,"Python
 Julia
 C
@@ -3573,7 +3573,7 @@ Geophysics
 Earthquake Science",0,0,0,0
 hadware,Python,C,CoML,hadrien.titeux@ens.fr,"Machine Learning
 NLP
-Audio processing",0,0,0,0
+Audio processing",1,1,0,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",0,2,2,0
@@ -3972,7 +3972,7 @@ Numerical methods
 Web scraping
 Linear Algebra",0,1,1,1
 JBorrow,"python
-C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,1
+C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
 elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,1,1,0
@@ -4181,7 +4181,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,1,1,0
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",1,2,1,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -4281,7 +4281,7 @@ wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Desi
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
 tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",0,2,2,2
 otre99,"C++, Python, QML/Qt",,Universidad Nacional Autónoma de México,roberto.cruz.rdg@gmail.com,"Numerical Modeling, Image Processing, Machine Learning, Computer Vision",0,0,0,0
-arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,1,1,1
+arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,1,1,0
 trettenbrein,R,Python,Max Planck Institute for Human Cognitive & Brain Sciences,trettenbrein@cbs.mpg.de,"cognitive science, linguistics, psychology of language, neuroscience of language",0,0,0,0
 no,english,,To read book,rashidaakter5288@gmail.com,General surgery,0,0,0,0
 not sure what you mean,"i do not want program, i would like to review papers",n/a,social sciences,aklepakova@gmail.com,"processes, continuous improvement, quality, social sciences, public administration, business administration, sales, procurement, QMA",0,0,0,0
@@ -4682,7 +4682,7 @@ amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learn
 esteinig,"Python
 Rust
 R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,1,1,1
-JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",1,1,0,0
+JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",0,1,1,1
 ghislainv,"R
 Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
 Community ecology
@@ -4768,7 +4768,7 @@ Optimization",0,0,0,0
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
-phonetics",0,0,0,0
+phonetics",1,1,0,0
 gdancik,"R
 Python","C/C++
 Java",Eastern Connecticut State University,dancikg@easternct.edu,Bioinformatics,0,0,0,0
@@ -4848,7 +4848,7 @@ matthewfeickert,"Python
 C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,1,0,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
-FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",1,1,0,0
+FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,1,1
 pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg.de,Bioinformatics,0,0,0,0
 rafaelab,"C++
 Python","C
@@ -5269,10 +5269,26 @@ Simulation
 Differentiable programming",0,0,0,0
 ateucher,R,,Province of British Columbia,andy.teucher@gmail.com,"spatial, data access, REST API",0,0,0,0
 sbfnk,R,,London School of Hygiene & Tropical Medicine,sebastian.funk@lshtm.ac.uk,"Bioinformatics, biostatistics, epidemiology",0,0,0,0
-@kylebeggs,"Julia
+kylebeggs,"Julia
 Python","C++
 FORTRAN",University of Central Florida,kbeggs07@knights.ucf.edu,"Mechanical/Aerospace Engineering
 Data-driven Engineering
-Optimization"
-navdeep-G,"Python, R, Java","Java, R",H2O.ai,mr.navdeepgill@gmail.com,Machine learning
+Optimization",0,0,0,0
+navdeep-G,"Python, R, Java","Java, R",H2O.ai,mr.navdeepgill@gmail.com,Machine learning,0,0,0,0
 bmoradi93,Python,C++,Robotics and Machine Vision Developer,behnammoradi026@gmail.com,"Model Predictive Control, Robotic Operating Systems(ROS), Deep Learning, Computer Vision, Motion Planning"
+@thelinuxmaniac,"C
+C++
+Python
+HTML/CSS/Javascript
+R
+Lua
+Java","Android app development platform
+Linux shell scripting
+Matlab/Octave
+Tensorflow/Pytorch development platform",University of Oxford,adutta@robots.ox.ac.uk,"Computer Vision
+Machine Learning
+Computer Graphics
+User Experience/User Interface
+Linux
+Software Engineering"
+none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes
