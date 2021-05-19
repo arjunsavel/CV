@@ -40,7 +40,7 @@ arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",0,2,1,1
-benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",1,7,0,0
+benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,1,1
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
@@ -657,7 +657,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",1,5,0,0
+Solar",0,5,1,1
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,1,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -3543,7 +3543,7 @@ Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
 Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",0,2,2,0
-zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,0,1,1,0
+zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,1,2,1,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
 Symbolic Regression
@@ -4883,7 +4883,7 @@ cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
 Mesh Datastructure
-Parallel Programming",0,0,0,0
+Parallel Programming",1,1,0,0
 a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,0,0,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,0,0,0
@@ -5005,7 +5005,7 @@ oalii,python,,"Laboratoire Reproduction et Développement des Plantes, Univ Lyon
 biophysics modeling
 boundary value problems",0,0,0,0
 felipeZ,Python Rust C++,Haskell,Netherlands eScience Center,tifonzafel@gmail.com,computational chemistry materials science,0,1,1,1
-zeroset,"C++, Python",,Research Centre Jülich,mail@zeroset.dev,"Scientific Computing, Simulation Software, High Performance Computing, Parallel Computing, Template Meta Programming, Multi Agent Simulation, Research Software",0,1,1,0
+zeroset,"C++, Python",,Research Centre Jülich,mail@zeroset.dev,"Scientific Computing, Simulation Software, High Performance Computing, Parallel Computing, Template Meta Programming, Multi Agent Simulation, Research Software",1,2,1,0
 atismer,"c++
 python",fortran,Dr.-Ing.,alexander.tismer@ihs.uni-stuttgart.de,"computational fluid dynamics, optimization, hydraulic machinery",0,0,0,0
 juliensiebert,Python,,Fraunhofer IESE,julien.siebert@iese.fraunhofer.de,"Data mining, Machine learning",0,0,0,0
@@ -5044,7 +5044,7 @@ Perl
 Bash
 SQL",None,abetusk@gmail.com,"Mathematics
 Computer Science",0,0,0,0
-mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ...",0,0,0,0
+mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ...",1,1,0,0
 aguspesce,"Spanish
 English",Python,CONICET,pesce.agustina@gmail.com,"Geophysics
 Processing, modeling, and visualizing geophysical data",0,0,0,0
@@ -5291,5 +5291,5 @@ Computer Graphics
 User Experience/User Interface
 Linux
 Software Engineering",0,0,0,0
-none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes
+none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes,0,0,0,0
 msharifian,Fortran,"C++, CUDA",Postdoctoral Research Associate,m.sharifian@sheffield.ac.uk,Computational Hydraulics
