@@ -598,7 +598,7 @@ ha0ye,R,C++ (probably in the context of Rcpp),University of Florida,hao.ye@weeco
 matthiaslein,Python,"Fortran, C",Victoria University of Wellington,matthias.lein@vuw.ac.nz,Computational Chemistry,0,0,0,0
 rasbt,pythoj,,University of Wisconsin-Madison (Assistant Professor of Statistics),mail@sebastianraschka.com,"deep learning, machine learning, statistics, computational biology",0,3,0,0
 aj2duncan,"R (including R Markdown, Bookdown and Shiny)",,Inverness College UHI (email: andrew.duncan.ic@uhi.ac.uk),andrew@aj2duncan.com,"Mathematics (including network analysis)
-Epidemiology (disease spread through networks, mathematical models)",0,3,0,0
+Epidemiology (disease spread through networks, mathematical models)",1,4,0,0
 siravan,"Python, C++, julia","C, javascript",Emory University,siravan@emory.edu,Computational cardiology,0,0,0,0
 trp07,Python,"C
 Java",Freelance,phillipstr@gmail.com,"Aerospace Engineering
@@ -1042,7 +1042,7 @@ LaTeX
 Sphinx (documentation engine)
 Markdown
 Markup languages",0,2,0,0
-thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",1,2,0,0
+thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,2,1,1
 sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,0
 fsteeg,Java,Scala,Hochschulbibliothekszentrum NRW (hbz),steeg@hbz-nrw.de,"Web technology
 Linked data
@@ -1848,7 +1848,7 @@ Python
 C
 Pascal",C++,University of Bristol,david.barton@bristol.ac.uk,"Applied mathematics
 Dynamical systems
-Differential equations",0,3,1,0
+Differential equations",0,3,0,0
 javalosp,Python,Fortran,"Department of Earth Science and Engineering, Imperial College London",jea4117@ic.ac.uk,"Numerical modelling
 CFD",0,0,0,0
 MatthewFlamm,Python,"MATLAB
@@ -2194,7 +2194,7 @@ sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
 dynamics
 numerical methods
-optimization",0,1,1,0
+optimization",0,1,0,0
 breznak,"python
 c++","C
 java
@@ -2289,7 +2289,7 @@ Python
 Verilog
 Bluespec Verilog",,BITS Pilani,f20160378@goa.bits-pilani.ac.in,Computer Architecture,0,0,0,0
 caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,1,0
-dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",1,1,0,0
+dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,1,1,1
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
 Data Cleaning",0,2,1,0
@@ -2450,7 +2450,7 @@ Fipanther,"Python, C++","Fortran, CUDA",UNSW Canberra at the Australian Defence 
 JeffWalton-PSC,"Python, Fortran",C,Paul Smith's College,jwalton@paulsmiths.edu,"Data analysis, remote sensing, image processing, celestial mechanics",0,1,1,0
 christinahedges,Python,"C++
 IDL",Bay Area Environmental Research Institute,christina.l.hedges@nasa.gov,"Astronomy
-Astrophysics",0,2,2,0
+Astrophysics",0,2,1,0
 fhorrobin,"Julia
 Python
 C
@@ -2783,7 +2783,7 @@ Telephony
 Messaging",0,1,1,1
 sthyjuyhtgrf,fdghjh,dfhgjjhg,sedghjhgf,demovrus1985@gmail.com,dfghgtf,0,0,0,0
 aureliocarnero,Python,C++,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
-Cosmology",0,5,3,1
+Cosmology",0,5,2,1
 Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"Geology, machine learning, geophysics",0,0,0,0
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
@@ -3001,7 +3001,7 @@ Neuroscience
 Genomics
 Quantitative Finance",0,0,0,0
 aureliocarnero,"Python, C++",,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
-Astronomy",0,5,3,1
+Astronomy",0,5,2,1
 mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",0,0,0,0
 mbdemoraes,"python
 c
@@ -3104,7 +3104,7 @@ paulotome,c,Common Lisp,none,paulo.jorge.tome@gmail.com,Linux,0,0,0,0
 core-man,C,"Fortran
 Python
 Matlab",Nanyang Technological University,kaka22yao@gmail.com,seismology,0,0,0,0
-Prof-ThiagoOliveira,R,SAS,University of Edinburgh,thiago.paula.oliveira@usp.br,"Statistics, Sports, Agriculture",1,1,0,0
+Prof-ThiagoOliveira,R,SAS,University of Edinburgh,thiago.paula.oliveira@usp.br,"Statistics, Sports, Agriculture",0,1,1,1
 martinju,R,,Norwegian Computing Center,jullum@nr.no,"Statistics, Machine Learning, Explainable AI",0,1,1,1
 WhiteSymmetry,Python,Q#,PhD. Student in Physics at GTU,mkececi@mehmetkececi.com,Quantum Computing,0,0,0,0
 bonh,"Python
@@ -4007,7 +4007,7 @@ Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learni
 ozanerturk,Javascript,"Python
 C#",,ozanerturk17@gmail.com,"concurrency
 simulation",0,0,0,0
-brunaw,"R, Julia, python, c++","stan, JAGS, shiny",,brunadaviesw@gmail.com,"Statistics, machine learning, open research, music information retrieval",0,2,2,1
+brunaw,"R, Julia, python, c++","stan, JAGS, shiny",,brunadaviesw@gmail.com,"Statistics, machine learning, open research, music information retrieval",1,3,2,1
 joewandy,"Python
 JavaScript",R .. maybe,,joe.wandy@glasgow.ac.uk,"Bioinformatics
 Machine learning
@@ -4502,7 +4502,7 @@ Dynamical Systems",0,0,0,0
 Alaterre,Python,,InstaDeep,alexandre.laterre@gmail.com,Machine learning,0,0,0,0
 znicholls,Python,Fortan90,"Australian-German Climate & Energy College, University of Melbourne",zebedee.nicholls@climate-energy-college.org,"Climate modelling
 Atmospheric sciences",0,0,0,0
-elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",1,2,0,0
+elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,2,1,1
 kelly-sovacool,"R
 Python",,University of Michigan,sovacool@umich.edu,"Bioinformatics
 Computational Biology
@@ -5293,3 +5293,6 @@ Linux
 Software Engineering",0,0,0,0
 none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes,0,0,0,0
 msharifian,Fortran,"C++, CUDA",Postdoctoral Research Associate,m.sharifian@sheffield.ac.uk,Computational Hydraulics
+https://github.com/edftercio,Python and Labview,Python and Labview,Universidade Federal de Minas Gerais,edf.tercio@hotmail.com,Neurocience
+OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data"
+@vaneseltine,Python,,University of Michigan,matvan@umich.edu,"sociology, social science, record linkage, data management, SQL"
