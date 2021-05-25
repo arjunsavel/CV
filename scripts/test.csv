@@ -1587,7 +1587,7 @@ Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",6,7,0,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",5,7,1,1
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,6,4,0
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,6,5,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -3514,7 +3514,7 @@ bash
 Objective-C",Python,UFRGS,schnorr@inf.ufrgs.br,"High Performance Computing
 Performance Analysis
 Design of experiments
-Load balancing",1,1,0,0
+Load balancing",0,1,1,1
 iliarasskazov,MATLAB,Fortran,"The Institute of Optics, University of Rochester, USA",il.rasskazov@gmail.com,"Optics
 Photonics
 Light scattering
@@ -3796,7 +3796,7 @@ Latent Variable Modelling
 Process Modelling
 Process Control
 Process Optimization",0,0,0,0
-rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,1,1
+rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,1,0
 sigven,R,Python,"Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway",sigven@ifi.uio.no,"Text mining, bioinformatics, genomics",1,1,0,0
 AhmedArslan,Python; R,,Stanford University,aarslan@stanford.edu,Computational Biology; Bioinformatics,0,0,0,0
 chainsawriot,R,"Lisp
@@ -5314,14 +5314,14 @@ dimensionality reduction
 tidyverse
 Rlang",0,3,2,0
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
-xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision"
-https://github.com/FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
+xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
+FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
 AI
 Data Science
 Risk
 Financial Risk
 Model Development
-Machine Learning"
+Machine Learning",0,0,0,0
 szkafander,"Python, Matlab, Julia","C#, Javascript",Associate Professor,toth.pal@uni-miskolc.hu,"signal processing
 machine vision
 artificial intelligence
@@ -5330,4 +5330,16 @@ statistics
 data analysis
 computational fluid dynamics
 optimization
-energy"
+energy",0,0,0,0
+https://github.com/arunmano121,Python,,SAS Institute,arunmano121@outlook.com,"Structural Engineering
+Nondestructive Testing
+Structural Health Monitoring
+Defect Detection and Quantification
+Machine Learning
+Neural Networks
+Deep Learning
+Regression
+Classification
+Statistical Modeling
+Class Imbalance"
+d,sd,xd,anser,6262@bfm.com,s
