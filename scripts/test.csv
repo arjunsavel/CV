@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,1
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,8,2,1
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,8,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -644,7 +644,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,5,2,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,5,2,0
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1157,7 +1157,7 @@ magnetic resonance imaging
 neuroimaging",0,7,3,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
-JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,1
+JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
 ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,1,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
@@ -1501,7 +1501,7 @@ Multi-physics frameworks & applications
 Legacy application refactoring tools
 Parallel & PGAS runtimes/RTLs
 Package Managers
-MacOS tools & Utilities",0,3,0,0
+MacOS tools & Utilities",1,4,0,0
 mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science, web APIs, statistics",0,2,0,0
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",0,3,2,0
+tidyverse",1,4,2,0
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -5312,7 +5312,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",0,3,2,0
+Rlang",1,4,2,0
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -5331,7 +5331,7 @@ data analysis
 computational fluid dynamics
 optimization
 energy",0,0,0,0
-https://github.com/arunmano121,Python,,SAS Institute,arunmano121@outlook.com,"Structural Engineering
+arunmano121,Python,,SAS Institute,arunmano121@outlook.com,"Structural Engineering
 Nondestructive Testing
 Structural Health Monitoring
 Defect Detection and Quantification
@@ -5341,5 +5341,13 @@ Deep Learning
 Regression
 Classification
 Statistical Modeling
-Class Imbalance"
+Class Imbalance",0,0,0,0
 d,sd,xd,anser,6262@bfm.com,s
+@michaelberks,"C++
+Python
+Matlab",,University of Manchester,michael.berks@manchester.ac.uk,"Medical imaging
+Image processing
+Compute vision
+Machine learning/AI applied to images
+General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)"
+VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis"
