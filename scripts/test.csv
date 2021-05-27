@@ -1611,7 +1611,7 @@ Machine Learning
 Optimisation Research
 Geographic Information Systems",0,1,0,0
 wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"Solar Physics, heliophysics, space science, astrophysics, machine learning",1,1,0,0
-giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,1,0,0
+giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",2,2,0,0
 gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
 social networks
@@ -2094,7 +2094,7 @@ Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
 Phylogenetics",0,0,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
-njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",1,3,1,0
+njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,2,1
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
@@ -3399,7 +3399,7 @@ bayesian methods
 civil engineering 
 environmental engineering 
 control
-networks",0,0,0,0
+networks",1,1,0,0
 pratikvn,"C++
 C","R
 shell
@@ -5342,12 +5342,15 @@ Regression
 Classification
 Statistical Modeling
 Class Imbalance",0,0,0,0
-d,sd,xd,anser,6262@bfm.com,s
-@michaelberks,"C++
+d,sd,xd,anser,6262@bfm.com,s,0,0,0,0
+michaelberks,"C++
 Python
 Matlab",,University of Manchester,michael.berks@manchester.ac.uk,"Medical imaging
 Image processing
 Compute vision
 Machine learning/AI applied to images
-General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)"
+General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",0,0,0,0
 VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis"
+https://github.com/jenniferdavid,"python
+C++","JS
+C",University of the West of England,jenniferdavid87@gmail.com,mobile robots
