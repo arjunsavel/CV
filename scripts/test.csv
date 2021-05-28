@@ -1981,8 +1981,8 @@ Python",Java,International Institute of Information Technology Hyderabad,rtwkagg
 Open Advocacy & Publishing
 Diversity & Inclusion
 New Software Technologies 
-Ethical AI",0,0,0,0
-ritwikagarwal,"C,C++","Python,Java",International institute of information technology,aritwik93@gmail.com,"Sustainable development,Open Source development,new programing languages,Ethical AI, Developments in C/C++",0,0,0,0
+Ethical AI",1,1,0,0
+ritwikagarwal,"C,C++","Python,Java",International institute of information technology,aritwik93@gmail.com,"Sustainable development,Open Source development,new programing languages,Ethical AI, Developments in C/C++",1,1,0,0
 kostunin,Python,"C++
 Bash
 Mathematica
@@ -2067,7 +2067,7 @@ Haskell",ROR,IIIT Hyderabad,rtwkaggarwal@gmail.com,"ICT
 Emerging Technologies
 Advancement in programming Languages
 Use of AI and open source in Climate Change
-Open Source Software",0,0,0,0
+Open Source Software",1,1,0,0
 natir,"Rust
 Python
 C++
@@ -3721,7 +3721,7 @@ Finite element/volume methods",0,1,1,0
 samuelduchesne,python,C#,Massachusetts Institute of Technology,samueld@mit.edu,"Building Energy Modeling
 Solar Energy
 District Energy Modeling
-Energy Hub Optimization",0,1,1,0
+Energy Hub Optimization",1,2,1,0
 xiaoya,c,python,ECNU,22@qq.com,software,0,0,0,0
 test,C,,test,test@test.com,sorry it a test for my understanding,0,0,0,0
 ShiyongYu-cloud,"MATLAB
@@ -5350,7 +5350,10 @@ Image processing
 Compute vision
 Machine learning/AI applied to images
 General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",0,0,0,0
-VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis"
+VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis",0,0,0,0
 https://github.com/jenniferdavid,"python
 C++","JS
 C",University of the West of England,jenniferdavid87@gmail.com,mobile robots
+karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++
+No,C,Java,Foss,mohammedruman402@gmail.com,Mysore
+ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics"
