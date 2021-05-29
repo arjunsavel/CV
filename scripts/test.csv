@@ -553,7 +553,7 @@ Infectious Disease",0,0,0,0
 kdirek,"R, Python, SQL","Perl, Bash",University College London,k.direk@ucl.ac.uk,All,0,0,0,0
 rosap,R,,University of Manchester ,Rosa.parisi@manchester.ac.uk,"Epidemiology, biostatistics ",0,0,0,0
 jean997,R,Python,University of Chicago,jeanm@uchicago.edu,"Biostatistics, genetics, genomics",0,0,0,0
-alexpghayes,I develop in R. I use Python but don't do Python package development.,None,Rice University,alexpghayes@gmail.com,"I'm interested in making sure that R packages for modelling have useful and intuitive interfaces and documentation. I'm not interested in double checking theory and correctness, but making sure that a new user can quickly and easily get the results they want.",1,3,0,0
+alexpghayes,I develop in R. I use Python but don't do Python package development.,None,Rice University,alexpghayes@gmail.com,"I'm interested in making sure that R packages for modelling have useful and intuitive interfaces and documentation. I'm not interested in double checking theory and correctness, but making sure that a new user can quickly and easily get the results they want.",0,3,1,1
 seaaan,R,,University of Washington,seaaan@gmail.com,"Life sciences (especially techniques like PCR, flow cytometry, sequencing, ELISA), data visualization",0,0,0,0
 ibontama,R,Python,Postdoc in Department of Statistics of Harvard University,ibontama@gmail.com,Epidemiology,0,0,0,0
 JCH936,"Python
@@ -966,7 +966,7 @@ Physics
 Profiling and performance optimisation",0,2,0,0
 mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,2,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
-wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",1,3,1,0
+wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,3,2,1
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
 Digital Humanities (?)
 Software Sustainability",0,0,0,0
@@ -1111,7 +1111,7 @@ Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,0,0,0
-marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",1,3,1,0
+marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,2,1
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -3346,7 +3346,7 @@ Diagnostic classification models
 Cognitive diagnostic models
 Latent class (profile) analysis
 Item response theory
-Structural Equation Modeling",1,3,1,0
+Structural Equation Modeling",0,3,2,1
 jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
@@ -5351,9 +5351,10 @@ Compute vision
 Machine learning/AI applied to images
 General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",0,0,0,0
 VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis",0,0,0,0
-https://github.com/jenniferdavid,"python
+jenniferdavid,"python
 C++","JS
-C",University of the West of England,jenniferdavid87@gmail.com,mobile robots
-karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++
-No,C,Java,Foss,mohammedruman402@gmail.com,Mysore
+C",University of the West of England,jenniferdavid87@gmail.com,mobile robots,0,0,0,0
+karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++,0,0,0,0
+No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics"
+flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems"
