@@ -39,6 +39,9 @@ def format_pub(args):
         if "Savel" in pub["authors"][i]
     ][0]
     pub["authors"][n] = "\\textbf{Savel, Arjun}"
+    
+    pub_title = pub["title"].replace('&', '\&') # for latex literal interp.
+    
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
@@ -55,9 +58,9 @@ def format_pub(args):
     fmt += ", {0}".format(pub["year"])
 
     if pub["doi"] is not None:
-        fmt += ", \\doi{{{0}}}{{{1}}}".format(pub["doi"], pub["title"])
+        fmt += ", \\doi{{{0}}}{{{1}}}".format(pub["doi"], pub_title)
     else:
-        fmt += ", \\emph{{{0}}}".format(pub["title"])
+        fmt += ", \\emph{{{0}}}".format(pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(
