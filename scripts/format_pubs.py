@@ -86,10 +86,10 @@ def format_pub(args):
             pub["url"], pub["citations"]
         )
         
-    elif pub["url"] is not None and pub["citations"] == 0: 
-        fmt += " [\\href{{{0}}}]".format(
-                pub["url"]
-        )
+    #elif pub["url"] is not None and pub["citations"] == 0: 
+    #   fmt += " [\\href{{{0}}}]".format(
+    #          pub["url"]
+    # )
 
     return fmt
 
