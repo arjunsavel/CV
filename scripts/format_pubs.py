@@ -40,7 +40,7 @@ def format_pub(args):
     ][0]
     pub["authors"][n] = "\\textbf{Savel, Arjun}"
     
-    pub_title = pub["title"].replace('&', '\&') # for latex literal interp.
+    pub_title = pub["title"].replace('{\\&}amp;', '\&') # for latex literal interp.
     
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:4])
