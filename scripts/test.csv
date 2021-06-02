@@ -3137,7 +3137,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,2,1,0
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,3,1,0
 yangbai90,"fortran
 cpp
 c
@@ -5057,7 +5057,7 @@ integrated assessment
 land use and land cover change
 hydrology
 population dynamics",1,1,0,0
-jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,1,1,1
+jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,1,2,1,1
 BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,1,0,0
 Komalharini237,"Python
 Perl
@@ -5360,6 +5360,12 @@ ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,0,0,0
-https://github.com/mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification"
-https://github.com/felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics"
+mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
+felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,0,0,0
 tanho63,R,,,tan@tanho.ca
+none,R,matlab,IFREMER,Nicolas.raillard@ifremer.fr,"Statistical modeling
+Extreme values
+Machine Learning
+Time Series
+Spatial Statistics
+Spatio-temporal models"
