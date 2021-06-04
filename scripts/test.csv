@@ -176,7 +176,7 @@ solid state physics",0,3,0,0
 gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,2,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
-Environmental Sciences",0,1,1,1
+Environmental Sciences",0,1,1,0
 jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,1,0,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
 Molecular Simulation",0,4,1,0
@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",0,2,1,1
+Data Manipulation",0,2,1,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -3820,7 +3820,7 @@ high-performance computing
 software design",1,1,0,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",1,2,1,1
+Earth System Modeling",1,2,1,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -3937,7 +3937,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,1,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,2,1,1
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,2,1,0
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -4064,7 +4064,7 @@ zhaowei0566,"Python
 MATLAB
 C++",,,weizhao@vt.edu,"Finite Element Method
 Optimization
-Aircraft Design",0,1,1,1
+Aircraft Design",0,1,1,0
 zztin,"Python
 snakemake",,,litingchen16@gmail.com,"Biology, sequencing, alignment, voice recognition",0,0,0,0
 hbaniecki,"R
@@ -4111,7 +4111,7 @@ Brain-Computer-Interface
 Brain Stimulation",0,1,0,0
 julianpistorius,"Python, Elm, Shell",,,julianp@arizona.edu,"Pipelines, workflows, web services, scripts, containers, automation, infrastructure",0,0,0,0
 marvinjonathcn,R and Python,"Javascript, HTML",,marvinjqs@gmail.com,"Environmental data science, climate modeling, 
-pest modeling",0,1,1,0
+pest modeling",1,2,1,0
 humanfactors,R,Python,,michael.d.wilson@curtin.edu.au,"Cognitive Psychology
 Human Factors
 Behavioural Science
@@ -5368,9 +5368,11 @@ Extreme values
 Machine Learning
 Time Series
 Spatial Statistics
-Spatio-temporal models"
+Spatio-temporal models",0,0,0,0
 wcwitt,"Python
 C++
 Fortran",,University of Cambridge,witt.chuck@gmail.com,"Electronic structure
-Materials science"
+Materials science",0,0,0,0
 https://github.com/Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc."
+@alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
+Climate / Weather"
