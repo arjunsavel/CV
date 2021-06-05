@@ -1923,7 +1923,7 @@ Ice Nucleation
 Phase Transitions
 Computational Geometry
 Graph Theory
-Computational Optics",0,4,1,0
+Computational Optics",0,4,0,0
 N/A,"JavaScript
 Python",C# (C- Sharp),COMPUTER/NETWORK,MOHSEN.MOJRI@GMAIL.COM,Networking/Data science,0,0,0,0
 pratibhajagnere,Python,SQL,Python developer from last 10 years,pratibhajagnere@gmail.com,"Cyber security
@@ -2939,7 +2939,7 @@ Python
 Rust","C 
 Julia 
 Fortran",EPFL,guillaume.fraux@epfl.ch,"Computational/Theoretical Chemistry
-Material Science",0,1,1,0
+Material Science",0,1,0,0
 jordanperr,Python,"C, Java, Javascript, R",National Renewable Energy Laboratory (nrel.gov),jordan.perr-sauer@nrel.gov,"Data Analysis, Applied Mathematics, Energy Systems",0,1,1,0
 cheloff,"R
 Python",,UTC,marceloamores61@gmail.com,"Environmental & Earth Sciences
@@ -5373,6 +5373,11 @@ wcwitt,"Python
 C++
 Fortran",,University of Cambridge,witt.chuck@gmail.com,"Electronic structure
 Materials science",0,0,0,0
-https://github.com/Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc."
+Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 @alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather"
+@dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience"
+jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
+Network Analysis"
+crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
+Machine Learning"
