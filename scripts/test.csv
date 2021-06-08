@@ -261,7 +261,7 @@ Bioinformatics
 Protein Science",0,5,2,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
-zfurnas,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
+alexanderfurnas ,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
 mvdh7,MATLAB,,University of East Anglia,m.p.humphreys@cantab.net,Oceanography,0,1,0,0
 cimentadaj,R,,PhD candidate Pompeu Fabra University,cimentadaj@gmail.com,Social Sciences/Data Wrangling,0,0,0,0
 dpolychr,R,Python,Genomics England,dpolychr@gmail.com,"Computational Biology
@@ -2037,7 +2037,7 @@ Geophysics",0,0,0,0
 inakleinbottle,"Python
 Rust","C
 C++
-MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,1,2,0,0
+MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,0,2,1,1
 mdehollander,python,,Netherlands Institute of Ecology (NIOO-KNAW),m.dehollander@nioo.knaw.nl,"bioinformatics
 metagenomics",0,0,0,0
 abhishektha,Python,MATLAB,University of Colorado Boulder,abhishektha@gmail.com,"Biomechanics
@@ -4874,7 +4874,7 @@ PyTorch
 TensorFlow
 HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
 Machine Learning
-Medical Imaging",1,1,0,0
+Medical Imaging",0,1,1,1
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,0,0,0
@@ -5093,7 +5093,7 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",0,0,0,0
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",1,1,0,0
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,1,1,1
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",0,0,0,0
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,0,0,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
@@ -5383,3 +5383,6 @@ crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.
 Machine Learning",0,0,0,0
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas"
+noah80,"C#
+Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Modelling
+lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science"
