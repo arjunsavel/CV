@@ -2796,7 +2796,7 @@ arthur-e,Python,Javascript,"University of Montana, Numerical Terradynamic Simula
 geography
 remote sensing
 earth science
-environmental science",0,0,0,0
+environmental science",1,1,0,0
 mseri,"Ocaml, python, julia, rust","C, javascript",University of Groningen,m.seri@rug.nl,"System programming, numerical analysis",0,0,0,0
 ieyjzhou,C++,C,"Department of Industrial Engineering, Pusan National University",y.j.zhou.g@gmail.com,Game theory,0,0,0,0
 BARCELONA,"java, node, scala",rust,PERU,mupao@gmail.com,www.upao.pe,0,0,0,0
@@ -5382,7 +5382,10 @@ Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
 Machine Learning",0,0,0,0
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
-0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas"
+0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
-Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Modelling
+Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Modelling,0,0,0,0
 lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science"
+cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
+APIs
+Text analysis"
