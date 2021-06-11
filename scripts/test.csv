@@ -16,7 +16,7 @@ khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, comp
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,0,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
-alex-konovalov,GAP,"Python, C",,,mathematics,0,4,2,0
+alex-konovalov,GAP,"Python, C",,,mathematics,0,4,1,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
 xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,3,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
@@ -1452,7 +1452,7 @@ ChrisDowning,Python,,Amazon Web Services,chrisdowning250@gmail.com,"HPC
 Chemistry
 Materials Science",0,0,0,0
 alvarolopez,Python,,Spanish National Research Council,aloga@ifca.unican.esS,"Scientific Computing, Distributed Computing, REST APIs, Computer Science",0,1,1,0
-ethan-nelson,"Python, Fortran, Javascript","Matlab, HTML, IDL","Jet Propulsion Laboratory, California Institute of Technology",enelson@jpl.nasa.gov,"Atmospheric science, volunteered geographic information",0,1,1,0
+ethan-nelson,"Python, Fortran, Javascript","Matlab, HTML, IDL","Jet Propulsion Laboratory, California Institute of Technology",enelson@jpl.nasa.gov,"Atmospheric science, volunteered geographic information",0,1,0,0
 mbkumar,"Python
 C/C++
 Fortran",,University of Delaware,mbkumar@gmail.com,"Materials Science
@@ -1587,7 +1587,7 @@ Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,1,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",4,7,2,2
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",3,7,2,2
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,6,5,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,7,5,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2478,7 +2478,7 @@ dhimmel,Python,"Cypher
 R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
-Scholarly communications",0,0,0,0
+Scholarly communications",1,1,0,0
 DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",1,4,2,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
@@ -4390,7 +4390,7 @@ AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
 FAIR research
-General-purpose tools",1,1,0,0
+General-purpose tools",0,1,0,0
 emdupre,"Python
 JavaScript",,McGill University,elizabethm.dupre@gmail.com,"Neuroscience
 Machine learning",0,1,1,0
@@ -5024,7 +5024,7 @@ genetics
 genomics
 text processing
 typesetting
-visualisation",0,0,0,0
+visualisation",1,1,0,0
 justinsgray,"python
 julia","C++
 C",NASA Glenn Research Center,justin.s.gray@gmail.com,"Numerical Optimization
@@ -5388,8 +5388,8 @@ Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Model
 lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science",0,0,0,0
 cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
 APIs
-Text analysis"
-https://github.com/SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics"
+Text analysis",0,0,0,0
+SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics",0,0,0,0
 hechth,"Python
 C++
 R
@@ -5399,6 +5399,10 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy"
-shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics"
+Galaxy",0,0,0,0
+shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 @hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology"
+https://github.com/magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
+Deep Learning
+Image Analysis"
+No,Management,Finance,"HOD and Associate Professor, Department of MBA, Lingaraj Appa Engineering College Bidar",bhadrappabhavimani@gmail.com,"Finance, Banking, Accounting, Taxation, Economics, Business"
