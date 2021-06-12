@@ -1477,7 +1477,7 @@ Matlab",Helmholtz-Zentrum Geesthacht,carsten.lemmen@hzg.de,"Ecological Modeling
 Model frameworks
 Social Models
 Quantitative Archaeology
-Oceanography",0,2,1,0
+Oceanography",1,3,1,0
 srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,1,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
@@ -2479,7 +2479,7 @@ R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
 Scholarly communications",1,1,0,0
-DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",1,4,2,0
+DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,3,1
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
 smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"computational biology, bioinformatics",0,0,0,0
@@ -2761,7 +2761,7 @@ Lua
 Go",JavaScript,Max Planck Institute for the Science of Human History,tresoldi@shh.mpg.de,"Linguistics
 Literature
 Social Sciences
-Phylogenetics",0,1,1,0
+Phylogenetics",1,2,1,0
 htugcas,"IDL, python",,Krakow Pedagogical University,tugcasener@gmail.com,"astronomy, astrophysics",0,0,0,0
 ngoiz,"Python
 Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
@@ -3151,7 +3151,7 @@ chemo-mechanical
 multiphysics
 multiscale",1,4,3,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,1,0
-GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,1
+GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,0
 rchg,"Python
 Fortran
 Julia","Bash
@@ -3272,7 +3272,7 @@ jmansour,"Python
 C
 C++",Fortran,Monash University,john.mansour@monash.edu,"Applied Geophysics
 Scientific Python
-Fluid Dynamics",1,1,0,0
+Fluid Dynamics",0,1,1,1
 chekoduadarsh,"Python
 C++
 C","Java
@@ -4362,7 +4362,7 @@ linear algebra
 topological data analysis
 geometric data analysis
 unsupervised machine learning
-dimensionality reduction",0,1,1,1
+dimensionality reduction",0,1,1,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
 ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,2,2
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
@@ -4777,7 +4777,7 @@ stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
 Bioinformatics
 Cancer biology
 transcriptomics
-tidyverse",0,0,0,0
+tidyverse",1,1,0,0
 sea-bass,"Python
 MATLAB
 C++",,Massachusetts Institute of Technology,sebas.a.castro@gmail.com,"Robotics
@@ -4790,7 +4790,7 @@ Control Systems",0,0,0,0
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
-Tidyverse",0,0,0,0
+Tidyverse",1,1,0,0
 xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
@@ -5211,7 +5211,7 @@ sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data pro
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,0,0,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
 Smoothed particle hydrodynamics",0,1,1,0
-joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",1,1,0,0
+joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",0,1,1,1
 jacobmerson,"C++,Python",,Rensselaer Polytechnic Institute,mersoj@rpi.edu,"high performance computing (HPC), computer science, GPU, biomechanics, fibrous materials",0,0,0,0
 ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse problems,  pattern recognition",0,0,0,0
 askerdb,"python, R",,"University of California, San Diego",abrejnrod@health.ucsd.edu,Bioinformatics in metagenomics and metabolomics,0,0,0,0
@@ -5401,8 +5401,8 @@ metabolomics
 building information modelling
 Galaxy",0,0,0,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
-@hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology"
-https://github.com/magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
+hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
+magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
 Deep Learning
-Image Analysis"
+Image Analysis",0,0,0,0
 No,Management,Finance,"HOD and Associate Professor, Department of MBA, Lingaraj Appa Engineering College Bidar",bhadrappabhavimani@gmail.com,"Finance, Banking, Accounting, Taxation, Economics, Business"
