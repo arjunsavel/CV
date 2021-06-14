@@ -55,7 +55,7 @@ lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, parti
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
 effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,0,0
-stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,1,1
+stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,1,0
 fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms visualizations, game theory, mathematics",0,1,0,0
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,0,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
@@ -1051,7 +1051,7 @@ Library and information science",0,0,0,0
 fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, biostatistics",0,0,0,0
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
-stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,1,1
+stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,1,0
 vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,2,0,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
@@ -2536,7 +2536,7 @@ ontologies
 clinical informatics",0,0,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,1,0,0
-faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",2,4,2,0
+faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,3,1
 dvanic,"R
 python
 bash",javascript,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
@@ -2773,7 +2773,7 @@ torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisat
 Graph Theory
 Shortest Path Problems
 Column Generation
-Linear Programming",0,1,1,1
+Linear Programming",0,1,1,0
 sarathsp06,"Go
 Python
 Javascript","Javascript
@@ -4037,7 +4037,7 @@ sylvaticus,Julia,"Python, C++",,antonello@lobianco.org,"Machine Learning, Social
 www.github.com/bhajay,"C, C++, Fortran, QT, Python, Matlab, Mathematica",,,ajaybh@berkeley.edu,"Computational contact mechanics, computational fracture mechanics, computational mechanics, FEM, CFD",0,0,0,0
 rgerum,Python,javascript,,richard.gerum@protonmail.com,"image analysis, plotting, deep learning",0,0,0,0
 josiahparry,R,,,josiah.parry@gmail.com,"web scraping, apis, sociology, political science, social science, urban studies, open data, data packages, general purpose R work",0,0,0,0
-torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",0,1,1,1
+torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",0,1,1,0
 cxwx,"C++
 python",,,chenxu@ihep.ac.cn,"astronomy
 cosmic ray
@@ -4199,7 +4199,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,0,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",0,2,2,1
+Security",0,2,2,0
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -5405,4 +5405,9 @@ hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marin
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
 Deep Learning
 Image Analysis",0,0,0,0
-No,Management,Finance,"HOD and Associate Professor, Department of MBA, Lingaraj Appa Engineering College Bidar",bhadrappabhavimani@gmail.com,"Finance, Banking, Accounting, Taxation, Economics, Business"
+No,Management,Finance,"HOD and Associate Professor, Department of MBA, Lingaraj Appa Engineering College Bidar",bhadrappabhavimani@gmail.com,"Finance, Banking, Accounting, Taxation, Economics, Business",0,0,0,0
+@prvst,"GO
+Perl
+R",,University of Michigan,prvst@protonmail.com,"Bioinformatics
+Computational Biology
+Proteomics"
