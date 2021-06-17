@@ -1371,7 +1371,7 @@ Machine Learning",0,0,0,0
 symmy596,Python,Fortran,University of Bath,ars44@bath.ac.uk,"Materials Science, Chemistry, Physics",0,1,0,0
 seabbs,R,LiBBi,University of Bristol,contact@samabbott.co.uk,"Public Health, Epidemiology, Mathematical Modelling, Reproducible Research",0,2,0,0
 sunhwan,Python,Javascript,"Qulab, Inc",sunhwanj@gmail.com,Science,0,1,0,0
-morganericsson,"Python, C","Java, Julia",Linnaeus University,morganericsson@gmail.com,"Computer Science, High-performance computing, software engineering",0,1,0,0
+morganericsson,"Python, C","Java, Julia",Linnaeus University,morganericsson@gmail.com,"Computer Science, High-performance computing, software engineering",1,2,0,0
 dgurkan (main contributions in bitbucket.org/uh-netlab),python,,university of houston,dgurkan@uh.edu,computer networking,0,0,0,0
 jmkim,"Shell
 C
@@ -1650,7 +1650,7 @@ lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierar
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
 Geophysical exploration",0,0,0,0
-iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",0,1,0,0
+iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",1,2,0,0
 sptennak,Python,"Java
 C++
 R",,sumudutennakoon@gmail.com,"Machine Learning
@@ -2533,7 +2533,7 @@ timothydmorton,python,,University of Southern California,tim.morton@gmail.com,"A
 Java",,Pfizer,tomasz.adamusiak@gmail.com,"medicine
 bioinformatics
 ontologies
-clinical informatics",0,0,0,0
+clinical informatics",1,1,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,1,0,0
 faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,3,1
@@ -2914,7 +2914,7 @@ acoustics
 numerical analysis
 machine learning
 data science
-statistics",0,2,1,0
+statistics",1,3,1,0
 1313e,Python,,"Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia",ellert_vandervelden@outlook.com,"Bayesian Statistics
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
@@ -3739,7 +3739,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",1,3,2,0
+data science",0,3,3,1
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,1,1,0
 manojrege,"Python
@@ -5406,10 +5406,13 @@ magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
 Deep Learning
 Image Analysis",0,0,0,0
 No,Management,Finance,"HOD and Associate Professor, Department of MBA, Lingaraj Appa Engineering College Bidar",bhadrappabhavimani@gmail.com,"Finance, Banking, Accounting, Taxation, Economics, Business",0,0,0,0
-@prvst,"GO
+prvst,"GO
 Perl
 R",,University of Michigan,prvst@protonmail.com,"Bioinformatics
 Computational Biology
-Proteomics"
-oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning"
+Proteomics",0,0,0,0
+oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning",0,0,0,0
 @vavrines,Julia,Fortran,Karlsruhe Institute of Technology,tianbaixiao@gmail.com,Computational Physics
+kaniket1234,"Java, Python",Python,"Principal Architect, QA",aniketkulkarni007@gmail.com,"Software Development
+Software Testing and Automation"
+github. com/dridk,"python, c++",,CHRU Brest,sacha@labsquare.org,"bioinformatics, medicine, genetics"
