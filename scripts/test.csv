@@ -1935,7 +1935,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,1
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,2,0,0
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,2,1,1
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",1,3,0,0
 nniiicc,"R
 Python
@@ -3576,7 +3576,7 @@ NLP
 Audio processing",1,1,0,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
-Power systems",0,2,2,0
+Power systems",0,2,1,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,1,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,2,0
@@ -5415,6 +5415,17 @@ oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.
 vavrines,Julia,Fortran,Karlsruhe Institute of Technology,tianbaixiao@gmail.com,Computational Physics,0,0,0,0
 kaniket1234,"Java, Python",Python,"Principal Architect, QA",aniketkulkarni007@gmail.com,"Software Development
 Software Testing and Automation",0,0,0,0
-github. com/dridk,"python, c++",,CHRU Brest,sacha@labsquare.org,"bioinformatics, medicine, genetics"
-kaheetonaa,Python,R,,kuquanghuylcb@gmail.com,"urban, GIS, networkx, landscape"
+github. com/dridk,"python, c++",,CHRU Brest,sacha@labsquare.org,"bioinformatics, medicine, genetics",0,0,0,0
+kaheetonaa,Python,R,,kuquanghuylcb@gmail.com,"urban, GIS, networkx, landscape",0,0,0,0
 edrictam,"Python, R, MATLAB, Swift",Objective C,Duke University,edric.tam@duke.edu,"Statistics, Machine Learning, Quantitative Finance, Computational Biology"
+88d52bdba0366127fffca9dfa93895,Python,,"CHArt Laboratory EA 4004, Ecole Pratique des Hautes Etudes, PSL Université Paris",xtuanta@gmail.com,"Data
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Financial Data Science"
+nickbearman,"R
+VBA",Python,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk,"GIS
+Spatial Data
+Geospatial Data
+Teaching
+Education"
