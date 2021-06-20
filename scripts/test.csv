@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,1
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,8,2,0
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,9,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -4369,7 +4369,7 @@ ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,
 Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
-Numerical analysis",1,1,0,0
+Numerical analysis",2,2,0,0
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,0,0,0
 smutao/,"Python
 Fortran
@@ -5417,15 +5417,17 @@ kaniket1234,"Java, Python",Python,"Principal Architect, QA",aniketkulkarni007@gm
 Software Testing and Automation",0,0,0,0
 github. com/dridk,"python, c++",,CHRU Brest,sacha@labsquare.org,"bioinformatics, medicine, genetics",0,0,0,0
 kaheetonaa,Python,R,,kuquanghuylcb@gmail.com,"urban, GIS, networkx, landscape",0,0,0,0
-edrictam,"Python, R, MATLAB, Swift",Objective C,Duke University,edric.tam@duke.edu,"Statistics, Machine Learning, Quantitative Finance, Computational Biology"
+edrictam,"Python, R, MATLAB, Swift",Objective C,Duke University,edric.tam@duke.edu,"Statistics, Machine Learning, Quantitative Finance, Computational Biology",0,0,0,0
 88d52bdba0366127fffca9dfa93895,Python,,"CHArt Laboratory EA 4004, Ecole Pratique des Hautes Etudes, PSL Université Paris",xtuanta@gmail.com,"Data
 Machine Learning
 Deep Learning
 Artificial Intelligence
-Financial Data Science"
+Financial Data Science",0,0,0,0
 nickbearman,"R
 VBA",Python,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk,"GIS
 Spatial Data
 Geospatial Data
 Teaching
 Education"
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory"
+rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing"
