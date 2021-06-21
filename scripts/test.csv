@@ -50,7 +50,7 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,9,2,2
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",1,9,2,1
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",1,2,0,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
@@ -316,7 +316,7 @@ C++","Python
 ",university of Birmingham,lavecchia.carolina@gmail.com,"Biomechanics
 Robotics
 ",0,0,0,0
-JesperDramsch,Python,,DTU,jdram@dtu.dk,Seismic,0,2,1,0
+JesperDramsch,Python,,DTU,jdram@dtu.dk,Seismic,0,2,0,0
 rowanc1,"python
 javascript","matlab
 julia",Seequent,rowanc1@gmail.com,"Geophysics
@@ -411,7 +411,7 @@ Julia
 Nim","One Codex, San Francisco",rbovee@gmail.com,"Bioinformatics
 Mass Spectrometry
 Geobiology
-Biogeochemistry",1,3,0,0
+Biogeochemistry",2,4,0,0
 tgerke,R,SAS,Moffitt Cancer Center,travis.gerke@moffitt.org,"Epidemiology
 Biostatistics
 Cancer research applications",0,4,1,1
@@ -718,7 +718,7 @@ Virtualization
 Compilers",0,0,0,0
 neuromusic,Python,,Allen Institute for Brain Science,justin.kiggins@gmail.com,"Neuroscience
 Psychology",1,1,0,0
-JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,1,0
+JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,0,0
 rlizzo,"Python
 C++",,University at Buffalo,rizzo242@gmail.com,"Medical Imaging
 Image Segmentation
@@ -2273,7 +2273,7 @@ Data Science
 Ecology",0,1,1,1
 supark87,Python,,Bioinformatics fellow,subinpark@gatech.edu,NGS/Genome analysis,0,0,0,0
 jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"Geoscience
-Geology",0,1,1,0
+Geology",0,1,0,0
 castelao,"Python
 Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
@@ -2354,7 +2354,7 @@ karinlag,python,"java
 R",Norwegian Veterinary Institute,karin.lagesen@gmail.com,"bioinformatics
 microbial genomics",0,1,0,0
 santoshmh,"Python, C++",IDL,Arizona State University,santosh.harish@asu.edu,Astronomy/Astrophysics,0,0,0,0
-martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,0,1,1,0
+martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,0,1,0,0
 remram44,"Python
 C
 C++
@@ -2808,7 +2808,7 @@ dcassol,R,"bash
 python",University of California Riverside,danielac@ucr.edu,"Bioinformatics
 software development
 gene expression
-data analysis",0,1,1,0
+data analysis",0,1,0,0
 emilyriederer,R,,,emilyriederer@gmail.com,"statistics, machine learning, economics, visualization",0,0,0,0
 no,C# Angular Javascript Scala Big Data Java,C C++ PYTHON SWIFT,IQVIA,aarumug86@gmail.com,Sotware,0,0,0,0
 fneum,"python
@@ -2897,7 +2897,7 @@ Ecology
 Meteorology
 Climate science
 Information theory
-Statistical methods",0,3,3,1
+Statistical methods",0,3,2,1
 uludag/,"C, Java, Python",JavaScript,Software Developer,mahmut.uludag@kaust.edu.sa,Bioinformatics,0,0,0,0
 kanekalla,"R
 Python",,Northwestern University,kishore.anekalla@northestern.edu,"Bioinformatics
@@ -3340,7 +3340,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",0,2,1,0
+    - Sequence alignment",0,2,0,0
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -3434,7 +3434,7 @@ Simulation,
 Artificial Intelligence,
 Machine Learning,
 Time Series Forecasting",0,0,0,0
-ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",1,7,4,0
+ejhigson,Python,,Cambridge University PhD,ejhigson@gmail.com,"Bayesian statistics, sampling, MCMC, nested sampling, astrophysics",1,7,3,0
 kyq,"C++ 
 Matlab",,University of Edinburgh,e.valero@ed.ac.uk,"computer vision
 construction informatics
@@ -3452,7 +3452,7 @@ reinforcement learning
 meta learning
 optimization",0,0,0,0
 stevemacenski,"C++, python",,Samsung Research,stevenmacenski@gmail.com,robotics,0,0,0,0
-ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",1,7,4,0
+ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",1,7,3,0
 zethson,"Python, Java, Kotlin","Groovy, C++, html, css",Quantitative Biology Center Tübingen,lukas.heumos@posteo.net,"bioinformatics, machine learning, data science",0,0,0,0
 slayoo,Python,C++,"Jagiellonian University, Kraków, Poland",sylwester.arabas@uj.edu.pl,"differential equations, atmospheric science, Monte-Carlo methods",0,0,0,0
 No,"FORTRAN(OpenMP, MPI, CUDA)",Python,"INO-CNR BEC Center, University of Trento, Italy",arko.roy@unitn.it,Computer codes in Physics,0,0,0,0
@@ -3770,7 +3770,7 @@ bash",matlab,"LCBC, University of Oslo",a.m.mowinckel@psykologi.uio.no,"Neuroima
 API
 Visualisation
 Data munging
-Psychology",0,1,1,0
+Psychology",0,1,0,0
 samhforbes,R,Python,University of East Anglia,samuel.h.forbes@gmail.com,"Eye tracking, psychology",0,2,2,0
 dhrubajyoti98,"C
 C++","Java
@@ -4272,7 +4272,7 @@ prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João P
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",0,0,0,0
 ramisetti,"C
 C++
-Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,1
+Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,0
 JackTyson,"Python, C, C++, Matlab",,University of Southampton,jack@mirrorpark.net,"Nanotechnology, Optics, Physics, Electronic Engineering",0,0,0,0
 BjornFJohansson,Python,,University of Minho,bjorn_johansson@bio.uminho.pt,bioinformatics,0,0,0,0
 kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University College London",leevi.kerkela@protonmail.com,MRI,0,0,0,0
@@ -5034,7 +5034,7 @@ Aerodynamics
 Multiphysics Simulation",0,0,0,0
 abotzki,Python,,VIB,alexander.botzki@vib.be,Bioinformatics,0,0,0,0
 darioizzo,C++ python,,European Space Agency,dario.izzo@esa.int,"Genetic programming, artificial intelligence, orbital mechanics",0,0,0,0
-dcassol,R,"python, bash",University of California,danicassol@gmail.com,bioinformatics,0,1,1,0
+dcassol,R,"python, bash",University of California,danicassol@gmail.com,bioinformatics,0,1,0,0
 htwangtw,Python,,University of Sussex,htwangtw@gmail.com,"Neuroimaging, data workflow, file format",0,0,0,0
 Anaphory,"Python3, Rust",Java,Universität Zürich,gereon.kaiping@geo.uzh.ch,"Comparative linguistis, Bayesian phylogenetics, Dialectology",0,0,0,0
 s-bessey,"Python, R",julia,Brown University School of Public Health,sam_bessey@brown.edu,"epidemiology, public health",0,0,0,0
@@ -5428,6 +5428,6 @@ VBA",Python,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions
 Spatial Data
 Geospatial Data
 Teaching
-Education"
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory"
+Education",0,0,0,0
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,0,0,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing"
