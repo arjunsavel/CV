@@ -22,7 +22,7 @@ xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
-Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",0,7,0,0
+Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",1,8,0,0
 ctb,Python,C/C++,,,"bioinformatics, genomics, infrastructure, testing",0,3,0,0
 rmflight,R,Python,,,Bioinformatics,0,2,0,0
 luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,0,0
@@ -248,7 +248,7 @@ amabdallah,"Matlab
 Python",,Utah State University,amabdallah@aggiemail.usu.edu,,0,0,0,0
 IgorBaratta,"Python
 Matlab",C++,Federal University of Minas GeraisIgorBaratta,baratta@ufmg.br,"Computational Electromagnetics
-Finite Element Methods",0,4,1,1
+Finite Element Methods",0,4,1,0
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,0,0,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
@@ -1077,7 +1077,7 @@ HPC
 Web Platforms
 Finite Element Methods
 Optimization
-Computer Geometry",1,12,1,1
+Computer Geometry",2,13,1,1
 ajmalkoti, MATLAB,"C, FORTRAN, PYTHON",CSIR-National Geophysical Research Institute,ajmalkoti@gmail.com,"Earth Science, Geophysics, Seismic wave propagation",0,0,0,0
 dghoshal-lbl,"Python
 C
@@ -1506,7 +1506,7 @@ mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science,
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
 Earth and Planetary Sciences
-Geophysical Fluid Dynamics",0,1,1,0
+Geophysical Fluid Dynamics",0,1,0,0
 osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,3,1,1
 ksunden,"Python
 C
@@ -1586,7 +1586,7 @@ Finite-element methods
 Particle methods",0,4,2,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
-geoscience",0,1,1,0
+geoscience",0,1,0,0
 adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",3,7,2,2
 davidbeckingsale,C++,"C
 Fortran
@@ -1690,7 +1690,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",1,7,3,1
+Structural Dynamics",1,7,3,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,2,1,0
 shreyasbapat,"Python
@@ -1792,7 +1792,7 @@ Fortran
 Swift
 Julia","C
 C++
-Bash",Los Alamos National Laboratory,livingston@lanl.gov,"Physics, terrestrial/sub-terrestrial geophysics, scientific visualization (2D/3D), unstructured / unstructured meshing, Delaunay triangulations, Voronoi tessellations",0,2,0,0
+Bash",Los Alamos National Laboratory,livingston@lanl.gov,"Physics, terrestrial/sub-terrestrial geophysics, scientific visualization (2D/3D), unstructured / unstructured meshing, Delaunay triangulations, Voronoi tessellations",1,3,0,0
 mikejohnson51,R,,University of California Santa Barbara,jmj00@ucsb.edu,"GIS, spatial data, climate and hydrology",0,0,0,0
 mskwark,"Python
 Julia
@@ -3406,7 +3406,7 @@ shell
 CMake",Karlsruhe Institute of Technology,pratik.nayak@kit.edu,"Numerical Linear Algebra
 Computational Fluid Dynamics
 High Performance Computing
-Finite Element Methods",0,2,2,1
+Finite Element Methods",1,3,2,1
 brianjimenez,"Python
 C",,Postdoctoral Research and RSE at Utrecht University,br.jimenezgarcia@gmail.com,"Computational biology
 Computational chemistry
@@ -3627,7 +3627,7 @@ Matlab",Karlsruhe Institute of Technology,pratikvn@protonmail.com,"High Performa
 GPU computing
 Computational Fluid dynamics
 Finite Element Methods
-Numerical Linear Algebra",0,2,2,1
+Numerical Linear Algebra",1,3,2,1
 rowlandm,Any,any,University of Melbourne,rowland.h.mosbergen@gmail.com,"Bioinformatics, systems and data viz",0,1,1,0
 Colindaven,"Python, bash, Java",,Hannover Medical School,colindaven@hotmail.com,"Genomics, epigenomics, long reads, snv calling",0,0,0,0
 dspelaez,Python,Fortran,University College Dublin,daniel.pelaez-zapata@ucdconnect.ie,Physical Oceanography,0,0,0,0
@@ -5430,5 +5430,9 @@ Geospatial Data
 Teaching
 Education",0,0,0,0
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,0,0,0
-rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing"
+rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing
+vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning"
+zen-juen,"R
+Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology"
+KAClough,"C, C++, Python","Fortran, Mathematica, Matlab",University of Oxford,katy.a.clough@gmail.com,"Numerical relativity, General relativity, Relativistic astrophysics, Astroparticle physics"
