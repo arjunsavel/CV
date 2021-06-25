@@ -396,7 +396,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",2,3,0,0
+Software Testing",1,3,1,1
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -2189,7 +2189,7 @@ EtienneCmb,Python,,"Aix-Marseille University, Institut de Neurosciences de la Ti
 statistics
 information theory
 neuroscience",0,1,1,1
-matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",0,0,0,0
+matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",1,1,0,0
 sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
 dynamics
@@ -2768,7 +2768,7 @@ Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
 Aeroelasticity
 Aircraft Design
 Structural Dynamics
-Aerodynamics",0,0,0,0
+Aerodynamics",1,1,0,0
 torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisation
 Graph Theory
 Shortest Path Problems
@@ -4369,7 +4369,7 @@ ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,
 Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
-Numerical analysis",2,2,0,0
+Numerical analysis",1,2,1,1
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,0,0,0
 smutao/,"Python
 Fortran
@@ -4712,7 +4712,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",0,0,0,0
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",1,1,0,0
 prasantapal,"C
 C++ 
 Mathematica
@@ -5240,7 +5240,7 @@ Matlab",University College London,matthew.m.graham@gmail.com,"Computational stat
 Approximate inference
 Probabilistic programming
 Numerical simulation
-Monte Carlo methods",0,0,0,0
+Monte Carlo methods",1,1,0,0
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
 Choice modeling",0,0,0,0
@@ -5330,7 +5330,7 @@ statistics
 data analysis
 computational fluid dynamics
 optimization
-energy",0,0,0,0
+energy",1,1,0,0
 arunmano121,Python,,SAS Institute,arunmano121@outlook.com,"Structural Engineering
 Nondestructive Testing
 Structural Health Monitoring
@@ -5380,7 +5380,7 @@ dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconsci
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
-Machine Learning",0,0,0,0
+Machine Learning",1,1,0,0
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
@@ -5435,7 +5435,7 @@ Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiolo
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
 zen-juen,"R
 Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology",0,0,0,0
-KAClough,"C, C++, Python","Fortran, Mathematica, Matlab",University of Oxford,katy.a.clough@gmail.com,"Numerical relativity, General relativity, Relativistic astrophysics, Astroparticle physics"
+KAClough,"C, C++, Python","Fortran, Mathematica, Matlab",University of Oxford,katy.a.clough@gmail.com,"Numerical relativity, General relativity, Relativistic astrophysics, Astroparticle physics",0,0,0,0
 benjaminbolling,"Python
 MatLab","C++
 Java
@@ -5445,3 +5445,4 @@ Visual Basic",European Spallation Source ERIC,benjaminbolling@icloud.com,"Gener
 Chemistry (mainly materials chemistry)
 Mathematics
 Physics"
+https://github.com/JoyMitra,"Python, Java, C, Groovy, Ruby","Haskell, Kotlin, JavaScript, C++",Stony Brook University,joymitro1989@gmail.com,"Software Engineering, Security, Privacy, Programming Languages, Data Visualization,"
