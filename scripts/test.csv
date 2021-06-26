@@ -2536,7 +2536,7 @@ ontologies
 clinical informatics",1,1,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,1,0,0
-faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,3,1
+faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,2,1
 dvanic,"R
 python
 bash",javascript,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
@@ -3820,7 +3820,7 @@ high-performance computing
 software design",1,1,0,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",1,2,1,0
+Earth System Modeling",0,2,2,1
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -4491,7 +4491,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",1,1,0,0
+renewable energy",0,1,1,1
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -4888,7 +4888,7 @@ a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlo
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,0,0,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,0,0,0
-JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",1,1,0,0
+JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,1
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,0,0,0
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,0,0,0
 Yuri-M-Dias,"R
@@ -5056,7 +5056,7 @@ social sciences
 integrated assessment
 land use and land cover change
 hydrology
-population dynamics",1,1,0,0
+population dynamics",0,1,1,1
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,1,2,1,1
 BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,1,0,0
 Komalharini237,"Python
@@ -5444,5 +5444,23 @@ SQL
 Visual Basic",European Spallation Source ERIC,benjaminbolling@icloud.com,"General Algorithms
 Chemistry (mainly materials chemistry)
 Mathematics
-Physics"
+Physics",0,0,0,0
 https://github.com/JoyMitra,"Python, Java, C, Groovy, Ruby","Haskell, Kotlin, JavaScript, C++",Stony Brook University,joymitro1989@gmail.com,"Software Engineering, Security, Privacy, Programming Languages, Data Visualization,"
+DrMarc,Python,,"Institute of Biology, Leipzig University",marcs@uni-leipzig.de,"sound
+spatial hearing
+psychoacoustics
+neuroimaging
+EEG
+signal processing"
+erik-whiting,"Python
+Ruby
+Java
+C#
+PHP","SQL
+JavaScript
+Perl",University of Houston - Clear Lake,erik@erikwhiting.com,"Software Testing
+Software Architecture
+Information Systems
+Databases"
+rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
+Agent Based Simulation"
