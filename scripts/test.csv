@@ -4567,7 +4567,7 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music",1,1,0,0
+Computers in Art, Design, and Music",0,1,1,1
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
@@ -4812,7 +4812,7 @@ cloud systems
 cloud computing
 distributed systems
 Operating systems
-compilers",1,1,0,0
+compilers",0,1,1,1
 jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
@@ -5464,3 +5464,4 @@ Information Systems
 Databases",1,1,0,0
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
 Agent Based Simulation"
+@PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics"
