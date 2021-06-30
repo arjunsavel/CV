@@ -491,7 +491,7 @@ Python",Matlab,Apeira Technologies,c.lemaitre@apeira-technologies.fr,"Computer V
 Data minirg
 Machine Learning
 CFD
-Aerodynamics",0,1,0,0
+Aerodynamics",1,2,0,0
 jboynyc,Python,,University of Amsterdam,jboy@uva.nl,social science,0,0,0,0
 noamross,R,"C++ and Javascript, but within the context of R packages",EcoHealth Alliance,noam.ross@gmail.com,"epidemiology, web APIs, computational methods",0,0,0,0
 jrosen48,R,,Michigan State University,jrosen@msu.edu,Educational research,0,2,0,0
@@ -1097,7 +1097,7 @@ Petrophysics
 Geomechanics",0,0,0,0
 kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,3,0,0
 myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",0,3,1,0
-ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",0,2,1,0
+ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",0,2,0,0
 johnsamuelwrites,"C
 Python
 Java
@@ -3192,10 +3192,6 @@ general data science
 visualizations
 applied mathematics (numerical integration of ODEs, etc.)",0,3,2,0
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
-hanayik,Python,"MATLAB
-Javascript","University of Oxford, Wellcome Center for Integrative Neuroimaging",taylor.hanayik@ndcn.ox.ac.uk,"MRI processing
-Image Analysis
-Graphical User Interfaces (GUIs)",0,0,0,0
 N/A,C++,"C, Fortran",IBM Research,vkal@ibm.com,"Numerical Linear Algebra, AI",0,0,0,0
 hmenager,"Python
 Javascript",Java,Institut Pasteur,herve.menager@gmail.com,"Software Tools
@@ -3399,7 +3395,7 @@ bayesian methods
 civil engineering 
 environmental engineering 
 control
-networks",1,1,0,0
+networks",2,2,0,0
 pratikvn,"C++
 C","R
 shell
@@ -3450,7 +3446,7 @@ Monte Carlo",0,0,0,0
 seba-1511,Python,,University of Southern California,seb.arnold@usc.edu,"machine learning
 reinforcement learning
 meta learning
-optimization",0,0,0,0
+optimization",1,1,0,0
 stevemacenski,"C++, python",,Samsung Research,stevenmacenski@gmail.com,robotics,0,0,0,0
 ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",1,7,3,0
 zethson,"Python, Java, Kotlin","Groovy, C++, html, css",Quantitative Biology Center Tübingen,lukas.heumos@posteo.net,"bioinformatics, machine learning, data science",0,0,0,0
@@ -3542,7 +3538,7 @@ Image Processing
 Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
-Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",0,2,2,0
+Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",1,3,2,0
 zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,1,2,1,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
@@ -3579,7 +3575,7 @@ Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"E
 Power systems",0,2,1,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,1,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
-nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,2,0
+nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,1,0
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,0
 mberacochea,"python
 cwl
@@ -4724,7 +4720,7 @@ Gnuplot",Brown University,prasanta.pal@gmail.com,"Algorithms
 Statistical analysis
 Image processing
 Data science
-Realtime system",0,0,0,0
+Realtime system",1,1,0,0
 diegomcarvalho,"c++
 Python
 Julia
@@ -5349,7 +5345,7 @@ Matlab",,University of Manchester,michael.berks@manchester.ac.uk,"Medical imagin
 Image processing
 Compute vision
 Machine learning/AI applied to images
-General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",0,0,0,0
+General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",1,1,0,0
 VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis",0,0,0,0
 jenniferdavid,"python
 C++","JS
@@ -5463,5 +5459,8 @@ Software Architecture
 Information Systems
 Databases",1,1,0,0
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
-Agent Based Simulation"
-@PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics"
+Agent Based Simulation",0,0,0,0
+PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
+junghans,C++,Python,Los Alamos National Laboratory,junghans@votca.org,"Molecular simulations
+coarse-graining"
+@11michalis11,Python,"R, VBA",Cardiff University,PanayidesM@cardiff.ac.uk,"Mathematics, Operational Research, Game Theory, Statistics, Python"
