@@ -201,7 +201,7 @@ Python",,"Imperial College London, University of Bath",jarvist.frost@ic.ac.uk,"C
 Monte-Carlo
 Tight-Binding
 Path-Integrals",0,3,1,1
-mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,2,0
+mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,1,0
 aokad,python,Javascript,University of Tokyo,aiokada@hgc.jp,Visualization,0,1,0,0
 tupi,python,latex,CERFACS,roy.pamphile@gmail.com,"data science
 machine learning
@@ -945,7 +945,7 @@ C#
 Processing
 Haskell
 Idriss",Independent,daan.v.berkel.1980+joss@gmail.om,"Mathematics
-Computer Science",1,3,1,0
+Computer Science",1,3,0,0
 adavidzh,"Python
 C
 C++","Java
@@ -1388,7 +1388,7 @@ MPI
 OpenMP
 Validation
 Testing",0,0,0,0
-jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",1,3,0,0
+jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,3,1,1
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
 rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,1,0
 EduPH,"Python
@@ -1396,7 +1396,7 @@ R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
 Algebraic Topology
 Machine Learning
-Deep Learning",0,3,0,0
+Deep Learning",1,4,0,0
 bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
@@ -1816,7 +1816,7 @@ Java","Department of Infectious Diseases, Monash University",michael.lydeamore@m
 Computational biology
 Bayesian statistics/inference
 Data science
-Machine learning",0,1,0,0
+Machine learning",1,2,0,0
 chouj,MATLAB,None,"The State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences",xuchi@scsio.ac.cn,Oceanography,0,0,0,0
 snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute of Medical Science,s.nikumbh@imperial.ac.uk,"Bioinformatics/computational biology, machine learning for other domains as well",0,0,0,0
 mstimberg,"Python
@@ -1862,7 +1862,7 @@ Python
 ",Matlab,Universidad de Sevilla,epaluzo@us.es,"Machine learning
 Topological Data Analysis
 Computational Topology
-Mathematics",0,3,0,0
+Mathematics",1,4,0,0
 vitorsr,"GNU Octave
 MATLAB
 Octave
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,7,4,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",3,8,4,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2238,7 +2238,7 @@ javascript
 Database
 Web Programming
 Algorithms
-Network Science",0,1,1,0
+Network Science",0,1,0,0
 fhg,java,c++,11,kwjian0329@gmail.com,,0,0,0,0
 amitkumarj441,"Python, C++, Scala ",Rust,University of Bedfordshire,amitkumarj441@gmail.com,"Machine Learning, Deep Learning, Quantum Mechanics, Quantum Cognition, Information Retrieval, NLP, Medical Imaging, Computer Vision",0,0,0,0
 vbaliga,R,,"Dept. of Zoology, University of British Columbia",vbaliga@zoology.ubc.ca,"r-packages
@@ -2501,7 +2501,7 @@ jonahbenton,"python, clojure, go",None,Independent Consultant,jonah@jonah.com,,0
 PBarmby,Python,C,Western University,pbarmby@uwo.ca,Astrophysics/astronomy,0,0,0,0
 Williamsmj,Python,,Cloudera,mike@mike.place,"Machine learning, data processing esp. astrophysics, visualisation",0,0,0,0
 zaxtax,"Python, Haskell, R",Julia,University of Oxford,zinkov@robots.ox.ac.uk,"machine learning, data science",0,0,0,0
-szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",1,3,1,0
+szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,3,2,1
 Corbett,"Python, Objective-C","C++,Java",NASA JPL,Corbett@caltech.edu,"Astrophysics, computer security,physics, computer science",0,0,0,0
 smsaladi,"python, R, javascript","C, C++",California Institute of Technology,saladi@caltech.edu,"biology, bioinformatics, biochemistry, biophysics, bioengineering",0,0,0,0
 samvaughan,Python,None,University of Sydney,Sam.vaughan@sydney.edu.au,Astronomy,0,0,0,0
@@ -3150,7 +3150,7 @@ phase-field
 chemo-mechanical
 multiphysics
 multiscale",1,4,3,0
-kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,1,0
+kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,2,0,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,0
 rchg,"Python
 Fortran
@@ -3530,7 +3530,7 @@ Java
 Elixir","University of Maryland, College Park",jayaram.kancherla@gmail.com,"biological data visualization
 bioinformatics
 data management
-data structures",1,3,0,0
+data structures",0,3,1,1
 lee-seon-woo,Python,C++,Inha University,x21999@inha.edu,"DeepLearning
 Abnormal Detection
 Object Detection
@@ -3840,7 +3840,7 @@ vectorization
 GPU
 FMM",0,1,1,1
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,0,0,0
-adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,1,1,0
+adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",1,2,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
 Assembly tools",0,0,0,0
@@ -3971,7 +3971,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,1,1,0
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",1,2,1,0
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -5357,7 +5357,7 @@ flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander 
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,0,0,0
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
-felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,0,0,0
+felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",1,1,0,0
 tanho63,R,,,tan@tanho.ca,,0,0,0,0
 none,R,matlab,IFREMER,Nicolas.raillard@ifremer.fr,"Statistical modeling
 Extreme values
@@ -5468,17 +5468,19 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",0,0,0,0
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps"
-adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology"
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,0,0,0
+adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
-Deep Learning (pytorch/tensorflow)"
+Deep Learning (pytorch/tensorflow)",0,0,0,0
 mikapfl,"Python, SQL","bash, shell",Potsdam Institute for Climate Impact Research (PIK),mika.pflueger@pik-potsdam.de,"Climate Policy
 Green-House Gas Emissions
 Climate Change
-Research Data Management"
+Research Data Management",0,1,0,0
 robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning"
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education"
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics"
