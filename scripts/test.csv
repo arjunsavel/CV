@@ -1,7 +1,7 @@
 username,Preferred Programming Languages,Other Programming Languages,affiliation,email,Domains/topic areas you are comfortable reviewing,Active reviews,Review count(all time),Review count(last year),Review count(last quarter)
 ----------------------,----------------------,----------------------,----------------------,----------------------,----------------------
 tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0,6,2,1
-desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",1,6,0,0
+desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",2,7,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
 amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,1
@@ -13,7 +13,7 @@ krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinforma
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
 khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",2,4,1,0
-ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,0,0,0
+ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
 alex-konovalov,GAP,"Python, C",,,mathematics,0,4,1,0
@@ -371,7 +371,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,1,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,2,1
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,2,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
 Fortran","C
@@ -2501,7 +2501,7 @@ jonahbenton,"python, clojure, go",None,Independent Consultant,jonah@jonah.com,,0
 PBarmby,Python,C,Western University,pbarmby@uwo.ca,Astrophysics/astronomy,0,0,0,0
 Williamsmj,Python,,Cloudera,mike@mike.place,"Machine learning, data processing esp. astrophysics, visualisation",0,0,0,0
 zaxtax,"Python, Haskell, R",Julia,University of Oxford,zinkov@robots.ox.ac.uk,"machine learning, data science",0,0,0,0
-szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,3,2,1
+szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,3,1,1
 Corbett,"Python, Objective-C","C++,Java",NASA JPL,Corbett@caltech.edu,"Astrophysics, computer security,physics, computer science",0,0,0,0
 smsaladi,"python, R, javascript","C, C++",California Institute of Technology,saladi@caltech.edu,"biology, bioinformatics, biochemistry, biophysics, bioengineering",0,0,0,0
 samvaughan,Python,None,University of Sydney,Sam.vaughan@sydney.edu.au,Astronomy,0,0,0,0
@@ -3767,12 +3767,12 @@ API
 Visualisation
 Data munging
 Psychology",0,1,0,0
-samhforbes,R,Python,University of East Anglia,samuel.h.forbes@gmail.com,"Eye tracking, psychology",0,2,2,0
+samhforbes,R,Python,University of East Anglia,samuel.h.forbes@gmail.com,"Eye tracking, psychology",0,2,1,0
 dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,2,2,1
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,2,2,0
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -3895,7 +3895,7 @@ Materials Science
 Quantum Mechanics
 Condensed Matter Science
 High Performance Computing",1,1,0,0
-pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,0,0,0
+pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",1,1,0,0
 ldes89150,python,python,,ldes89150@gmail.com,"optics, physics",0,0,0,0
 schroedtert,"C++
 Python",Java,,tobias.schroedter@rwth-aachen.de,"Pedestrians dynamics
@@ -4298,7 +4298,7 @@ sayakpaul,Python,JavaScript,Deep Learning Associate at PyImageSearch,spsayakpaul
 villaa,"C, C++, Python, Fortran",None,University of Colorado Denver,anthony.villano@ucdenver.edu,"dark matter, neutrons, Geant4 simulation",0,0,0,0
 pmeier,Python,Matlab,"inIT - Institute Industrial IT, Technische Hochschule Ostwestfalen-Lippe (TH-OWL)",philip.meier@th-owl.de,"Machine Learning
 Deep Learning
-Neural Style Transfer",0,0,0,0
+Neural Style Transfer",1,1,0,0
 alaingdl,"IDL/GDL, c/c++",,"LERMA, CNRS & Observatoire de Paris, France",alain.coulais@obspm.fr,astronomy,0,0,0,0
 jifarquharson,Python,"LabVIEW
 TeX
@@ -5054,7 +5054,7 @@ land use and land cover change
 hydrology
 population dynamics",0,1,1,1
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,1,2,1,1
-BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,1,0,0
+BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",2,2,0,0
 Komalharini237,"Python
 Perl
 C++
@@ -5481,6 +5481,8 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning"
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education"
+Machine Learning",0,0,0,0
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,0,0,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics"
+neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
+Machine Learning"
