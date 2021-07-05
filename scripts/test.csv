@@ -2425,7 +2425,7 @@ zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/as
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",0,1,1,0
-da5nsy,MATLAB,,UCL,dannygarside@outlook.com,"Colour vision, colorimetry",0,0,0,0
+da5nsy,MATLAB,,UCL,dannygarside@outlook.com,"Colour vision, colorimetry",1,1,0,0
 dr-xenia,"Python, MATLAB, bash",,University of Bonn,Xkobeleva@gmail.com,"Neuroimaging, Medicine, Neurology",0,0,0,0
 darwinbandoy,"bash
 python",,"University of the Philippines Los Banos, College of Veterinary Medicine",drbandoy@ucdavis.edu,"usability
@@ -4587,7 +4587,7 @@ Plasma Physics
 Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,0,0,0
-spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,0,0,0
+spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",1,1,0,0
 rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,1,1,1
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
@@ -5483,6 +5483,6 @@ C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@
 Neuroscience
 Machine Learning",0,0,0,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,0,0,0
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics"
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,0,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning"
