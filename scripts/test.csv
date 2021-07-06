@@ -1334,7 +1334,7 @@ Regression",0,0,0,0
 andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey.smelter@gmail.com,"Bioinformatics, Software Engineering",0,2,0,0
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
-sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,2,0
+sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,1,0
 standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",1,3,0,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
@@ -3884,7 +3884,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,0,0,0
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,1,0,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,0,0,0
 mturiansky,"Python
 Fortran
@@ -4607,7 +4607,7 @@ Knowledge extraction
 Ontologies
 Bioinformatics
 Data integration
-Machine Learning / Artificial Intelligence",0,1,1,1
+Machine Learning / Artificial Intelligence",0,1,1,0
 jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
 Machine Learning
 Signal Processing
@@ -4669,7 +4669,7 @@ gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics",0,0,0,0
-LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,1,1
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,1,0
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
 cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
@@ -5290,7 +5290,7 @@ Software Engineering",0,0,0,0
 none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes,0,0,0,0
 msharifian,Fortran,"C++, CUDA",Postdoctoral Research Associate,m.sharifian@sheffield.ac.uk,Computational Hydraulics,0,0,0,0
 edftercio,Python and Labview,Python and Labview,Universidade Federal de Minas Gerais,edf.tercio@hotmail.com,Neurocience,0,0,0,0
-OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",0,0,0,0
+OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",1,1,0,0
 vaneseltine,Python,,University of Michigan,matvan@umich.edu,"sociology, social science, record linkage, data management, SQL",0,0,0,0
 AnantHariharan1996,"Matlab,Python,Julia",Fortran,Brown University,anant_hariharan@brown.edu,"Geophysics,Seismology,Geology,Inverse Theory",0,0,0,0
 struckma,"R, Java, JavaScript, SQL","C++, C, PERL, Pascal, Prolog, Assembler, Python","Community Medicine, University Medicine Greifswald",stephan.struckmann@uni-greifswald.de,"Gene Regulation, PPI, DNA Conservation, Data Quality, Medical Studies, Drug Discovery",0,0,0,0
@@ -5425,7 +5425,7 @@ Spatial Data
 Geospatial Data
 Teaching
 Education",0,0,0,0
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,0,0,0
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",2,2,0,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,1,1,0,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
