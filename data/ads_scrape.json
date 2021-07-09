@@ -1,5 +1,38 @@
 [
   {
+    "arxiv": "2107.03349",
+    "authors": [
+      "May, Erin M.",
+      "Komacek, Thaddeus D.",
+      "Stevenson, Kevin B.",
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Malik, Matej",
+      "Ih, Jegug",
+      "Mansfield, Megan",
+      "Savel, Arjun B.",
+      "Deming, Drake",
+      "Desert, Jean-Michel",
+      "Feng, Y. Katherina",
+      "Fortney, Jonathan J.",
+      "Kataria, Tiffany",
+      "Lewis, Nikole",
+      "Morley, Caroline",
+      "Rauscher, Emily",
+      "Showman, Adam"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-07-00",
+    "title": "Spitzer phase curve observations and circulation models of the inflated ultra-hot Jupiter WASP-76b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210703349M",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
