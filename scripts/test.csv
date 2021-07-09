@@ -563,7 +563,7 @@ Java",Python,"Data Engineer, Zalando SE",stb@satybald.com,"Big Data, Data Engine
 timClicks,"Python
 Rust",,DOT Loves Data,joss@timmcnamara.co.nz,"Data Science
 Text Mining",0,4,0,0
-wdecoster,Python,,VIB Center for Molecular Neurology,decosterwouter@gmail.com,"Genetics, gene expression, sequencing",0,0,0,0
+wdecoster,Python,,VIB Center for Molecular Neurology,decosterwouter@gmail.com,"Genetics, gene expression, sequencing",1,1,0,0
 ziotom78,"C
 C++
 Fortran
@@ -2865,7 +2865,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,2,2,1
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,2,2,0
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3026,7 +3026,7 @@ Data Science
 Machine Learning
 HPC",0,2,2,0
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,1,0
-mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,3,1
+mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,3,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
 amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
@@ -3373,7 +3373,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",0,2,2,1
+Statistical Computing",0,2,2,0
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,0,0,0
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -3409,7 +3409,7 @@ Computational chemistry
 Artificial Intelligence
 HPC",0,0,0,0
 yes,"python, c++",,University of Michigan,liangtianisu@gmail.com,"computational thermodynamics and kinetics, Monte Carlo method, atomistic simulation",0,0,0,0
-hungpham2017,"Python, C++",Fortran,"University of Minnesota, Twin Cities",pqh3.14@gmail.com,"materials science, chemistry, crystallography",0,0,0,0
+hungpham2017,"Python, C++",Fortran,"University of Minnesota, Twin Cities",pqh3.14@gmail.com,"materials science, chemistry, crystallography",1,1,0,0
 kauedesousa,R,,Inland Norway University & Bioversity International,k.desousa@cgiar.org,"Spatial, Agriculture, Data munging",0,0,0,0
 SabbirSaleh,C,C++,"City University, Dhaka",saleh.sabbir.aiub@gmail.com,"Software Engineering
 AGILE
@@ -4317,7 +4317,7 @@ fortran",N/A,UMBC/NASA GSFC,stefano.bertone@umbc.edu,"astronomy
 planetary sciences
 orbit determination
 space geodesy",0,0,0,0
-jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,0,0,0,0
+jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,1,1,0,0
 xie186,Python,"R
 Perl
 Javascript",Purdue University,xie186@purdue.edu,"Bioinformatics
@@ -5135,7 +5135,7 @@ Python",1,1,0,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",0,0,0,0
+Clustering",1,1,0,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
