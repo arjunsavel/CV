@@ -200,7 +200,7 @@ C
 Python",,"Imperial College London, University of Bath",jarvist.frost@ic.ac.uk,"Computational Physics
 Monte-Carlo
 Tight-Binding
-Path-Integrals",0,3,1,1
+Path-Integrals",0,3,1,0
 mkhorton,Python,,"University of California Berkeley, Lawrence Berkeley National Lab",mkhorton@lbl.gov,"Materials science, emphasis on materials modeling/simulation, physics, chemistry",0,7,1,0
 aokad,python,Javascript,University of Tokyo,aiokada@hgc.jp,Visualization,0,1,0,0
 tupi,python,latex,CERFACS,roy.pamphile@gmail.com,"data science
@@ -349,7 +349,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",0,9,2,1
+[glad to consider anything and will reply quickly if not qualified]",0,9,1,1
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -1769,7 +1769,7 @@ junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",0,1,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",1,1,0,0
-EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,1,1,0
+EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,1,2,1,0
 streeve,"Python
 C++","Matlab
 C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,1,0
@@ -2173,7 +2173,7 @@ Python",0,0,0,0
 akm12k16,Python,,,akm12k16@gmail.com,"Electromagnetic, Astronomy",0,0,0,0
 rodogi,python,R,Insituto Nacional de Medicina Genómica,rodgdor@gmail.com,"network theory
 computational genomics",0,0,0,0
-sambitdash,"Julia, C, C++",Python,Lenatics Solutions Pvt. Ltd. ,sambitdash@gmail.com,"Machine Learning, Software Engineering, Programming",0,1,1,1
+sambitdash,"Julia, C, C++",Python,Lenatics Solutions Pvt. Ltd. ,sambitdash@gmail.com,"Machine Learning, Software Engineering, Programming",0,1,1,0
 github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc.",0,0,0,0
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
@@ -2527,7 +2527,7 @@ C",,Montana State University,upulee.kanewala@montana.edu,,0,0,0,0
 fruzsinaagocs,"Python, C++",C,"University of Cambridge (Kavli Institute for Cosmology, Cavendish Astrophysics)",fa325@cam.ac.uk,"numerical integration, numerical solution of ODEs",0,1,1,0
 devanshkv,python,"All Machine learning backends, CUDA, Shell",West Virginia University,da0017@mix.wvu.edu,"Machine learning, High Performance Computing, Astronomical Pipelines",0,0,0,0
 rth,Python,Rust,Symerio,roman.yurchak@gmail.com,"Machine learning, natural language processing, high energy density physics",0,0,0,0
-sambitdash,"Julia, C, C++","Java, Python",Lenatics Solutions Pvt. Ltd.,sambitdash@gmail.com,"Software Engg., Programming, NLP",0,1,1,1
+sambitdash,"Julia, C, C++","Java, Python",Lenatics Solutions Pvt. Ltd.,sambitdash@gmail.com,"Software Engg., Programming, NLP",0,1,1,0
 timothydmorton,python,,University of Southern California,tim.morton@gmail.com,"Astronomy, physics, statistics",0,0,0,0
 7omasz,"Python
 Java",,Pfizer,tomasz.adamusiak@gmail.com,"medicine
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",1,4,2,0
+tidyverse",1,4,1,0
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",0,1,1,1
+renewable energy",1,2,1,1
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -5308,7 +5308,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",1,4,2,0
+Rlang",1,4,1,0
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -5481,7 +5481,7 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning",0,0,0,0
+Machine Learning",1,1,0,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,0,0,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,0,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
@@ -5493,3 +5493,4 @@ Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroima
 Structural Biology
 NMR
 Computational Biology"
+karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models"
