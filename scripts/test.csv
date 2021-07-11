@@ -796,7 +796,7 @@ Robotics
 Navigation
 AI
 Data Analysis
-Control",0,3,1,0
+Control",0,3,0,0
 amabdallah,"Matlab, Python",,Utah State University,amabdallah@aggiemail.usu.edu,water resources,0,0,0,0
 FaustinCarter,Python,"Igor, Matlab, LabView",Argonne National Laboratory,faustin.carter@gmail.com,"Condensed matter physics, astrophysics, detector physics, data visualization",0,3,0,0
 djsaunde,Python,"Java
@@ -1645,7 +1645,7 @@ BarryDeCicco,"R, SAS",SQL,Self,bdecicco2001@yahoo.com,"Statistics, statistical a
 phckopper,"Python
 C","Javascript
 C++",Universidade Federal do Rio Grande do Sul,pedro.kopper@ufrgs.br,"Embedded Systems
-Computer Vision",0,1,1,0
+Computer Vision",0,1,0,0
 lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierarchical models, SEMs)",0,0,0,0
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
@@ -2100,7 +2100,7 @@ Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
 Acquisition and reconstruction methods",0,0,0,0
 dilawar,"Python
-C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,0,0,0,0
+C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,1,1,0,0
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
 numerical methods
 machine learning
@@ -3013,8 +3013,8 @@ physics
 fitting
 optimization
 multivariate analysis
-statistical analysis",0,1,1,0
-hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,2,0
+statistical analysis",0,1,0,0
+hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,1,0
 atanikan,"Python
 Java
 R
@@ -3214,7 +3214,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",1,2,1,0
+Finite Element Analysis",0,2,2,1
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",1,1,0,0
@@ -3573,7 +3573,7 @@ Audio processing",0,1,1,1
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",0,2,1,0
-katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,1,0
+katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,0,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,1,0
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,0
@@ -3673,7 +3673,7 @@ Condensed matter physics",0,0,0,0
 evaristor,Python,R,"Grupo de Ecología y Conservación de Islas, A.C.",evaristo.rojas@islas.org.mx,"Mathematics
 Physics
 Oceanography
-Ecology",0,1,1,0
+Ecology",0,1,0,0
 ihrke,"Python, R, C","C++, MATLAB, Perl",UiT - The Arctic University of Norway,matthias.mittner@uit.no,"statistics, psychology, neuroscience, signal-analysis",0,0,0,0
 pedro-teles-fonseca,R,,ISEG Lisbon School of Economics and Management,pmtf89@hotmail.com,"Statistics, econometrics, Bayesian inference",0,0,0,0
 galessiorob,Python SQL Ruby,SQL,GitHub,alessio.gabriela@gmail.com,Data Science Data Engineering,0,0,0,0
@@ -5179,7 +5179,7 @@ Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
 Data Science
 Machine Learning
 Causal Inference
-Epidemiology",0,0,0,0
+Epidemiology",1,1,0,0
 Naeemkh,"Python 
 R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
@@ -5372,7 +5372,7 @@ Materials science",0,0,0,0
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
-dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",0,0,0,0
+dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",1,1,0,0
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
@@ -5468,7 +5468,7 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",0,0,0,0
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,0,0,0
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",1,1,0,0
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
@@ -5492,5 +5492,6 @@ Julia
 Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroimaging
 Structural Biology
 NMR
-Computational Biology"
+Computational Biology",0,0,0,0
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models"
+luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning"
