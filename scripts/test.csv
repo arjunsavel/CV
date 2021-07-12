@@ -162,7 +162,7 @@ PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
 Text Mining
 XML
-Database",0,3,2,0
+Database",0,3,1,0
 alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,3,0,0
 jsgalan,"Python
 ","Matlab
@@ -349,7 +349,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",0,9,1,1
+[glad to consider anything and will reply quickly if not qualified]",0,9,1,0
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -890,7 +890,7 @@ Mixed Models
 Bayesian Inference
 Functional Data Analysis
 Dimension Reduction Methods
-Spatial Data Analysis",0,5,1,1
+Spatial Data Analysis",0,5,1,0
 amarkos,R,Matlab,Democritus University of Thrace,amarkos@eled.duth.gr,"Clustering, Dimensionality reducation",0,0,0,0
 sjvrijn,Python,"C
 Java
@@ -964,7 +964,7 @@ Java",,Yandex,lisitsyn.s.o@gmail.com,machine learning,0,0,0,0
 StewMH,"C++, Python",,"Particle Physics Department, Rutherford Appleton Laboratory, ATLAS experiment CERN",stewart.martin-haugh@stfc.ac.uk,"Mathematical libraries
 Physics
 Profiling and performance optimisation",0,2,0,0
-mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,2,0
+mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,1,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
 wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,3,2,1
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,0,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,3,3,2
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,3,3,1
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -1616,7 +1616,7 @@ gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
 social networks
 phylogenetics
-statistics",0,4,1,0
+statistics",0,4,0,0
 avik-pal,"Julia
 Python
 C","C++
@@ -4414,7 +4414,7 @@ performance analysis
 development tools
 security
 web development
-internet of things",1,2,1,1
+internet of things",1,2,1,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,1,0
 rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,0,2,2,1
 kullrich,"R
@@ -5395,7 +5395,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",0,0,0,0
+Galaxy",1,1,0,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5493,5 +5493,6 @@ Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroima
 Structural Biology
 NMR
 Computational Biology",0,0,0,0
-karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models"
+karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
 luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning"
+Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology
