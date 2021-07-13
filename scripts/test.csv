@@ -6,7 +6,7 @@ wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
 amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,1
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
-nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,8,0,0
+nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,9,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
 rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,9,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
@@ -177,7 +177,7 @@ gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsior
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,1,1,0
-jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,1,0,0
+jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",1,2,0,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
 Molecular Simulation",0,4,1,0
 kczimm,"go
@@ -1477,7 +1477,7 @@ Matlab",Helmholtz-Zentrum Geesthacht,carsten.lemmen@hzg.de,"Ecological Modeling
 Model frameworks
 Social Models
 Quantitative Archaeology
-Oceanography",1,3,1,0
+Oceanography",0,3,2,1
 srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,1,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
@@ -2761,7 +2761,7 @@ Lua
 Go",JavaScript,Max Planck Institute for the Science of Human History,tresoldi@shh.mpg.de,"Linguistics
 Literature
 Social Sciences
-Phylogenetics",1,2,1,0
+Phylogenetics",0,2,2,1
 htugcas,"IDL, python",,Krakow Pedagogical University,tugcasener@gmail.com,"astronomy, astrophysics",0,0,0,0
 ngoiz,"Python
 Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
@@ -5494,5 +5494,10 @@ Structural Biology
 NMR
 Computational Biology",0,0,0,0
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
-luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning"
+luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning",0,0,0,0
 Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology
+ekorudiawan,Python,"C
+C++
+C#",Politeknik Negeri Batam,ekorudiawan@polibatam.ac.id,"robotics
+computer vision"
+rmarkello,Python,,McGill University,rossmarkello@gmail.com,"neuroscience, neuroimaging, MRI"
