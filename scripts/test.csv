@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,9,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",2,4,0,0
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,4,1,1
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -621,7 +621,7 @@ Mathematics
 Biomedical Engineering
 Machine Learning
 Computer Vision
-Heat Transfer",0,8,1,0
+Heat Transfer",1,9,1,0
 gpkc,Python,"C++
 C
 MATLAB",Universidade Federal de Pernambuco,gpkc@cin.ufpe.br,"High Performance Computing
@@ -758,7 +758,7 @@ QUANTUM CHEMISTRY
 MOLECULAR DYNAMICS
 HIGH PERFORMANCE COMPUTING
 APPLICATION FAULT TOLERANCE",0,0,0,0
-nespinoza,"Python, C",Java,Max-Planck-Institut für Astronomie,espinoza@mpia.de,"Astronomy, astrophysics, statistics, astrostatistics",1,5,0,0
+nespinoza,"Python, C",Java,Max-Planck-Institut für Astronomie,espinoza@mpia.de,"Astronomy, astrophysics, statistics, astrostatistics",0,5,1,1
 edoddridge,"Python
 Fortran",,MIT,ewd@mit.edu,"Oceanography
 Geophysical Fluid Dynamics
@@ -1720,7 +1720,7 @@ jiangyuinsar,"matlab, python",julia,University of Liverpool,Yu.Jiang@liverpool.a
 (2) Tectonics: repeating earthquakes, earthquake swarm",0,0,0,0
 natpt,"C, C++",,Samsung,soohong.park@samsung.com,"Networking, Cloud, Data, IoT",0,0,0,0
 matloff,"R, Python","C, C++, Java, Intel assembler, bash, etc.","UC Davis, CS Dept. (formerly Stat Dept.)",matloff@cs.ucdavis.edu,"statistics, machine learning, pure math",0,0,0,0
-CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",0,0,0,0
+CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",1,1,0,0
 fcdimitr,"C/C++
 MATLAB",Julia,Aristotle University of Thessaloniki,fcdimitr@auth.gr,"Parallel computing
 Numerical analysis",0,0,0,0
@@ -2788,7 +2788,7 @@ Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
 Bioinformatics",0,0,0,0
-CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,0,0,0
+CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",1,1,0,0
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
 stochastic programming",0,1,0,0
@@ -4629,7 +4629,7 @@ Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay"
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology,0,0,0,0
 frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering,0,0,0,0
-destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering",0,0,0,0
+destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering",1,1,0,0
 thomaspinder,"Python
 Julia
 R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
@@ -5070,7 +5070,7 @@ paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
 (Geo/water) chemistry
 Aquatic science
-Geographic information systems (GIS)",0,0,0,0
+Geographic information systems (GIS)",1,1,0,0
 nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics",0,0,0,0
 jingpengw,"python
 C++
@@ -5355,7 +5355,7 @@ No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",1,1,0,0
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
-richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,0,0,0
+richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",1,1,0,0
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
 felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",1,1,0,0
 tanho63,R,,,tan@tanho.ca,,0,0,0,0
@@ -5495,9 +5495,13 @@ NMR
 Computational Biology",0,0,0,0
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
 luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning",0,0,0,0
-Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology
+Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology,0,0,0,0
 ekorudiawan,Python,"C
 C++
 C#",Politeknik Negeri Batam,ekorudiawan@polibatam.ac.id,"robotics
-computer vision"
-rmarkello,Python,,McGill University,rossmarkello@gmail.com,"neuroscience, neuroimaging, MRI"
+computer vision",0,0,0,0
+rmarkello,Python,,McGill University,rossmarkello@gmail.com,"neuroscience, neuroimaging, MRI",0,0,0,0
+Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@ucsb.edu,"Statistics for Risk, finance and insurance"
+hannesUlrich,"Java
+Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
+FHIR"
