@@ -2800,7 +2800,7 @@ environmental science",1,1,0,0
 mseri,"Ocaml, python, julia, rust","C, javascript",University of Groningen,m.seri@rug.nl,"System programming, numerical analysis",0,0,0,0
 ieyjzhou,C++,C,"Department of Industrial Engineering, Pusan National University",y.j.zhou.g@gmail.com,Game theory,0,0,0,0
 BARCELONA,"java, node, scala",rust,PERU,mupao@gmail.com,www.upao.pe,0,0,0,0
-jwbuurlage,C++,"Python, Rust","CWI, Amsterdam",janwillembuurlage@gmail.com,"numerical linear algebra, imaging science, tomography,",0,1,1,0
+jwbuurlage,C++,"Python, Rust","CWI, Amsterdam",janwillembuurlage@gmail.com,"numerical linear algebra, imaging science, tomography,",0,1,0,0
 TomasBeuzen,python,"R
 Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",1,1,0,0
 xin-huang,"Python, Java, R",Perl,University of Arizona,xinhuang@email.arizona.edu,"Population genetics, Genomics, Computational biology",0,2,2,0
@@ -3207,7 +3207,7 @@ Matlab","Python
 Julia",University of North Carolina at Chapel Hill,shuang9@email.unc.edu,"complex data analysis
 stats
 image analysis
-sequence analysis",0,1,1,0
+sequence analysis",0,1,0,0
 MohmedSoudy,"R, Python, C, C++, C#","R, Python","Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357",Mohmedsoudy2009@gmail.com,"Bioinformatics, Proteomics, Machine learning , Deep learning",0,0,0,0
 RMeli,"Python, C++",Fortran,University of Oxford,rocco.meli@biodtp.ox.ac.uk,"Computational Chemistry, Computational Biochemistry, Cheminformatics, Deep Learning",0,0,0,0
 kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",1,1,0,0
@@ -5501,7 +5501,8 @@ C++
 C#",Politeknik Negeri Batam,ekorudiawan@polibatam.ac.id,"robotics
 computer vision",0,0,0,0
 rmarkello,Python,,McGill University,rossmarkello@gmail.com,"neuroscience, neuroimaging, MRI",0,0,0,0
-Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@ucsb.edu,"Statistics for Risk, finance and insurance"
+Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@ucsb.edu,"Statistics for Risk, finance and insurance",0,0,0,0
 hannesUlrich,"Java
 Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
 FHIR"
+obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences"
