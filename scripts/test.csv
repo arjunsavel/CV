@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",2,7,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,1,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,1
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,9,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
@@ -169,7 +169,7 @@ jsgalan,"Python
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
 Machine learning
 Bioinformatics
-Systems dynamics",0,8,3,0
+Systems dynamics",0,8,2,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,3,0,0
@@ -2780,7 +2780,7 @@ Javascript","Javascript
 PHP",,sarathsp06@gmail.com,"Web API
 Networking
 Telephony
-Messaging",0,1,1,1
+Messaging",0,1,1,0
 sthyjuyhtgrf,fdghjh,dfhgjjhg,sedghjhgf,demovrus1985@gmail.com,dfghgtf,0,0,0,0
 aureliocarnero,Python,C++,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
 Cosmology",0,5,2,0
@@ -4127,7 +4127,7 @@ Graph Theory
 Network Biology
 Single-cell analysis
 Parallel Computing/HPC
-(bio)Statistical Analysis",0,1,1,1
+(bio)Statistical Analysis",0,1,1,0
 TomKellyGenetics,"R
 Python
 Bash
@@ -4135,7 +4135,7 @@ Shell","Julia
 MATLAB/Octave
 Wolfram/Mathematica
 Rust",,tom.kelly@riken.jp,"Bioinformatics
-Graph theory",0,1,1,1
+Graph theory",0,1,1,0
 aponsero,"Python, R",,,aponsero@email.arizona.edu,Bioinformatics,0,0,0,0
 alexrockhill,Python,"C, R, MATLAB, JavaScript",University of Oregon,aprockhill@mailbox.org,"neuroscience
 human physiology
@@ -4344,7 +4344,7 @@ HPC
 Astronomy",0,1,1,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,1,1,0
-yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,1,1
+yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,1,0
 pr4deepr,"Python, ImageJ Macro",Groovy (basic or beginner),Monash University,pradeep.rajasekhar@gmail.com,"Bioimage analysis, image processing, microscopy, data processing, visualisation, machine learning",0,0,0,0
 Bsingstad,Python,,University of Oslo,bjorn_sing@hotmail.com,Signal processing and Machine learning (in medical applications),0,0,0,0
 jonathanschilling,"Java, Python, Fortran, C, C++",Matlab,Max-Planck-Institute for Plasma Physics,jonathan.schilling@ipp.mpg.de,"numerics, data analysis, modeling, communication with hardware",0,0,0,0
@@ -5504,5 +5504,10 @@ rmarkello,Python,,McGill University,rossmarkello@gmail.com,"neuroscience, neuroi
 Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@ucsb.edu,"Statistics for Risk, finance and insurance",0,0,0,0
 hannesUlrich,"Java
 Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
-FHIR"
+FHIR",0,0,0,0
 obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences"
+weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences
+TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health"
+MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics"
+bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com,"Physics, Materials Science, Chemical Engineering, Mathematical Modeling, Data Science, Machine Learning"
+https://github.com/kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning"
