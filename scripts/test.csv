@@ -1942,7 +1942,7 @@ Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
 So-Cool,Python,Prolog,University of Bristol,k.sokol@bristol.ac.uk,"Artificial Intelligence
 Machine Learning",0,0,0,0
-shah314,Java,C++,Johns Hopkins University,sshah100@jhu.edu,"optimization, genetic algorithms, machine learning, data science, applied mathematics",0,1,1,0
+shah314,Java,C++,Johns Hopkins University,sshah100@jhu.edu,"optimization, genetic algorithms, machine learning, data science, applied mathematics",0,1,0,0
 pachamaltese,R,C++,PUC Chile,mvargas@dcc.uchile.cl,"econometrics, reproducible research, APIs",0,0,0,0
 jcarpent,C++,Python,INRIA,justin.carpentier@inria.fr,"Robotics
 Optimization
@@ -2248,7 +2248,7 @@ biomechanics
 evolution
 phylogenetics
 phylogenetic comparative methods",0,1,0,0
-Ohjeah,Python,Python,Ambrosys GmbH,markus.quade@gmail.com,"Machine Learning, Symbolic Regression, Physics",0,1,1,0
+Ohjeah,Python,Python,Ambrosys GmbH,markus.quade@gmail.com,"Machine Learning, Symbolic Regression, Physics",0,1,0,0
 mahmoudibrahim,"R
 Java","Bash
 HTML",RWTH Aachen University,mmibrahim@pm.me,"Bioinformatics
@@ -2292,7 +2292,7 @@ caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@
 dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,1,1,1
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
-Data Cleaning",0,2,1,0
+Data Cleaning",0,2,0,0
 KristinaRiemer,R,,University of Arizona,kristinariemer@email.arizona.edu,"Ecology
 Biology
 Agriculture",0,0,0,0
@@ -3026,7 +3026,7 @@ Data Science
 Machine Learning
 HPC",0,2,2,0
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,1,0
-mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,3,0
+mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,2,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
 amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
@@ -3481,7 +3481,7 @@ AnjaliSandip/,"Python, Fortran, Matlab, Bash",C,University of North Dakota,asand
 Path2Genome,"R，Perl, Python",shell,path2genome.org,ms_mail@163.com,"biological
 medical",0,0,0,0
 Domdfcoding,Python,,Staffordshire University,dominic@davis-foster.co.uk,"Sciences, especially chemistry",0,0,0,0
-jdmoorman,python,,UCLA Department of Mathematics,jacob@moorman.me,linear algebra,0,1,1,1
+jdmoorman,python,,UCLA Department of Mathematics,jacob@moorman.me,linear algebra,0,1,1,0
 billchenxi,"Python, R","C++, Matlab",University of Kentucky,billchenxi@gmail.com,"Machine learning, Data science",0,0,0,0
 x,x,x,x,x@x.com,x,0,0,0,0
 SebastianoF,Python,"go, rust",Independent researcher,sebastiano.ferraris@gmail.com,"medical imaging
@@ -3543,7 +3543,7 @@ zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,1,2,1
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
 Symbolic Regression
-Genetic Programming",0,1,1,0
+Genetic Programming",0,1,0,0
 deep07004,Python,"C, fortran90",Indian National Center for Ocean Information Services,dipankar.s@incois.gov.in,Seismology,0,0,0,0
 sappelhoff,Python,,"Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",stefan.appelhoff@mailbox.org,"- Neuroscience with focus on electrophysiology (EEG, MEG, iEEG, ...)",1,2,1,0
 meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",0,1,1,0
@@ -4150,7 +4150,7 @@ Molecular Dynamics
 Web Applications",0,1,1,0
 williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,1
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
-sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,0,0,0
+sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",1,1,0,0
 miketuri,"Perl
 C
 C++
@@ -4708,7 +4708,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",1,1,0,0
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",2,2,0,0
 prasantapal,"C
 C++ 
 Mathematica
@@ -5510,5 +5510,6 @@ weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences,0,
 TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",0,0,0,0
 MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics",0,0,0,0
 bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com,"Physics, Materials Science, Chemical Engineering, Mathematical Modeling, Data Science, Machine Learning",0,0,0,0
-https://github.com/kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning"
+kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning",0,0,0,0
 Gggg,Ffg,,Gggg,fggg@ghg.com,Gggg
+github.com/aju100,Python,terraform,,ajutamang10@outlook.com,devops
