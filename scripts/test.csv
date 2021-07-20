@@ -3840,7 +3840,7 @@ vectorization
 GPU
 FMM",0,1,1,1
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,0,0,0
-adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",1,2,1,0
+adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,2,1
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
 Assembly tools",0,0,0,0
@@ -3971,7 +3971,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,1,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",1,2,1,0
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,2,2,1
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -5513,3 +5513,4 @@ bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com
 kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning",0,0,0,0
 Gggg,Ffg,,Gggg,fggg@ghg.com,Gggg,0,0,0,0
 github.com/aju100,Python,terraform,,ajutamang10@outlook.com,devops
+wiljnich; wiljnichepa,"Python, R","Extensions to R/Python - notebooks, scripting, visualization (Shiny, Dash, etc.)",US Environmental  Protection Agency,wiljnich@gmail.com,"Environmental programming, visualization, climate, prediction/forecasting, hazardous waste, government, public access/FOIA"
