@@ -1396,7 +1396,7 @@ R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
 Algebraic Topology
 Machine Learning
-Deep Learning",1,4,0,0
+Deep Learning",0,4,1,1
 bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
@@ -1816,7 +1816,7 @@ Java","Department of Infectious Diseases, Monash University",michael.lydeamore@m
 Computational biology
 Bayesian statistics/inference
 Data science
-Machine learning",1,2,0,0
+Machine learning",0,2,1,1
 chouj,MATLAB,None,"The State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences",xuchi@scsio.ac.cn,Oceanography,0,0,0,0
 snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute of Medical Science,s.nikumbh@imperial.ac.uk,"Bioinformatics/computational biology, machine learning for other domains as well",0,0,0,0
 mstimberg,"Python
@@ -1862,7 +1862,7 @@ Python
 ",Matlab,Universidad de Sevilla,epaluzo@us.es,"Machine learning
 Topological Data Analysis
 Computational Topology
-Mathematics",1,4,0,0
+Mathematics",0,4,1,1
 vitorsr,"GNU Octave
 MATLAB
 Octave
@@ -3545,7 +3545,7 @@ Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
 Symbolic Regression
 Genetic Programming",0,1,0,0
 deep07004,Python,"C, fortran90",Indian National Center for Ocean Information Services,dipankar.s@incois.gov.in,Seismology,0,0,0,0
-sappelhoff,Python,,"Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",stefan.appelhoff@mailbox.org,"- Neuroscience with focus on electrophysiology (EEG, MEG, iEEG, ...)",1,2,1,0
+sappelhoff,Python,,"Center for Adaptive Rationality, Max Planck Institute for Human Development, Berlin, Germany",stefan.appelhoff@mailbox.org,"- Neuroscience with focus on electrophysiology (EEG, MEG, iEEG, ...)",0,2,2,1
 meenakshi-kushwaha,R,,"University of Washington (alumna), ILK Labs",meenakshi.kushwaha@gmail.com,"Public health, environmental healthy, epidemiology, air quality",0,1,1,0
 pwernette,"C++
 Python
@@ -5512,5 +5512,13 @@ MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data 
 bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com,"Physics, Materials Science, Chemical Engineering, Mathematical Modeling, Data Science, Machine Learning",0,0,0,0
 kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning",0,0,0,0
 Gggg,Ffg,,Gggg,fggg@ghg.com,Gggg,0,0,0,0
-github.com/aju100,Python,terraform,,ajutamang10@outlook.com,devops
-wiljnich; wiljnichepa,"Python, R","Extensions to R/Python - notebooks, scripting, visualization (Shiny, Dash, etc.)",US Environmental  Protection Agency,wiljnich@gmail.com,"Environmental programming, visualization, climate, prediction/forecasting, hazardous waste, government, public access/FOIA"
+github.com/aju100,Python,terraform,,ajutamang10@outlook.com,devops,0,0,0,0
+wiljnich; wiljnichepa,"Python, R","Extensions to R/Python - notebooks, scripting, visualization (Shiny, Dash, etc.)",US Environmental  Protection Agency,wiljnich@gmail.com,"Environmental programming, visualization, climate, prediction/forecasting, hazardous waste, government, public access/FOIA",0,0,0,0
+bgyori,Python,,Harvard Medical School,benjamin_gyori@hms.harvard.edu,"Systems biology, bioinformatics, mathematical modeling"
+ftarlaci,Python,C++,OpenTeams,fatmatarlaciphd@gmail.com,"Artificial Intelligence, Natural Language Processing, Machine Learning"
+rogeriojorge,"Python, C++, Mathematica, Matlab",Fortran,"Max-Planck Institute for Plasma Physics, Greifswald, Germany",rogeriodejesusjorge@gmail.com,"Physics, Plasma Physics, Nuclear Fusion"
+hknd23,"R
+Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Science
+Statistics
+Mixture Models
+Spatial Statistics"
