@@ -163,7 +163,7 @@ Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language P
 Text Mining
 XML
 Database",0,3,1,0
-alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,3,0,0
+alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",1,4,0,0
 jsgalan,"Python
 ","Matlab
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
@@ -1901,7 +1901,7 @@ sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
-Physics (plasmas, especially)",0,1,1,0
+Physics (plasmas, especially)",1,2,1,0
 clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
@@ -1971,7 +1971,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",0,1,1,0
+model selection",1,2,1,0
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -2459,7 +2459,7 @@ Fortran
 Rust",Go,"Astronomy and Astrophysics, University of Toronto",horrobin@astro.utoronto.ca,"Astrophysical simulations or data analysis.
 Statistical methods for data modelling in physics.
 Computational fluiddynamics, solid body dynamics, geophysical modelling.",0,0,0,0
-matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,0,1,1,0
+matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,1,2,1,0
 axel-loewe,"C++, Python",PHP,"Karlsruhe Institute of Technology (KIT), Institute of Biomedical Engineering",axel.loewe@kit.edu,"Biomedical, Machine Learning",0,0,0,0
 lukassnoek,Python,Bash,University of Amsterdam,lukassnoek@gmail.com,"Neuroimaging (MRI, EEG), psychophysics, face recognition/perception",0,0,0,0
 Remi-Gau,matlab,,"Institute of research in Psychology, Univertsité catholique de Louvain, Belgium",remi.gau@gmail.com,neuroimaging,0,0,0,0
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",0,4,2,1
+tidyverse",1,5,2,1
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -3137,7 +3137,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,3,2,1
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,4,2,1
 yangbai90,"fortran
 cpp
 c
@@ -3297,7 +3297,7 @@ diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
 coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,2,1
-lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,0,0,0
+lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,1,1,0,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
 aebergl,MATLAB,,Moffitt Cancer Center,anders.berglund@moffitt.org,Bioinformatics,0,0,0,0
@@ -5308,7 +5308,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",0,4,2,1
+Rlang",1,5,2,1
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -5521,5 +5521,7 @@ hknd23,"R
 Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Science
 Statistics
 Mixture Models
-Spatial Statistics"
+Spatial Statistics",0,0,0,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms"
+helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical Engineering, Space Engineering, Classical Mechanics"
+Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu
