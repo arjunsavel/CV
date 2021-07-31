@@ -1,5 +1,30 @@
 [
   {
+    "arxiv": "2107.14223",
+    "authors": [
+      "Murakami, Yukei S.",
+      "Jennings, Connor",
+      "Hoffman, Andrew M.",
+      "Sunseri, James",
+      "Baer-Way, Raphael",
+      "Stahl, Benjamin E.",
+      "Savel, Arjun B.",
+      "Altunin, Ivan",
+      "Girish, Nachiket",
+      "Filippenko, Alexei V."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-07-00",
+    "title": "PIPS, an advanced platform for period detection in time series -- I. Fourier-likelihood periodogram and application to RR Lyrae Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210714223M",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2107.03349",
     "authors": [
       "May, Erin M.",
