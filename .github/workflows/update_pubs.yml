@@ -4,7 +4,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs once a day
-   - cron:  '*/60 */24 */1 * *'
+   - cron:  '*/60 3/24 */1 * *'
 jobs:
   notebooks:
     name: "Scrape and update publications"
@@ -33,6 +33,8 @@ jobs:
         run: |
           cd scripts
           python format_pubs.py
+          
+      - run: git pull
           
       - name: Committing changes
         uses: stefanzweifel/git-auto-commit-action@v4
