@@ -4255,7 +4255,7 @@ CDO","Mathematica
 Python
 C++",Pacific Northwest National Laboratory,kalyn.dorheim@pnnl.gov,"Climate
 Biology
-Ecology",0,1,1,1
+Ecology",0,1,1,0
 abigailsnyder,"R
 Matlab",,Pacific Northwest National Laboratory,abigail.snyder@pnnl.gov,"Earth system science
 Climate impacts
@@ -4874,7 +4874,7 @@ Medical Imaging",0,1,1,1
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,0,0,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,2,1,1
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,2,1,0
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -5206,7 +5206,7 @@ Bioinformatics",0,0,0,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",1,1,0,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
-Smoothed particle hydrodynamics",0,1,1,0
+Smoothed particle hydrodynamics",0,1,0,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",0,1,1,1
 jacobmerson,"C++,Python",,Rensselaer Polytechnic Institute,mersoj@rpi.edu,"high performance computing (HPC), computer science, GPU, biomechanics, fibrous materials",0,0,0,0
 ononak,"Matlab, C++",C#,Aselsan Inc.,ononak@gmail.com,"ECG imaging, inverse problems,  pattern recognition",0,0,0,0
@@ -5545,6 +5545,6 @@ python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, comput
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
-Adaptive Optics"
-github.com/George-Gou,"python,C++",C,,goujianing19@mails.ucas.ac.cn,Gravity geodesy
+Adaptive Optics",0,0,0,0
+github.com/George-Gou,"python,C++",C,,goujianing19@mails.ucas.ac.cn,Gravity geodesy,0,0,0,0
 JYProjs,Python,,"School of Medicine, Case Western Reserve University",james.yu@case.edu,"Medicine, Machine Learning, Text Processing"
