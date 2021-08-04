@@ -1747,7 +1747,7 @@ Microarray
 NGS
 Next Generation Sequecning",0,1,0,0
 nearinj,"R, Java, Python",,Dalhousie University,jc235601@dal.ca,Metagenomics,0,0,0,0
-rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",0,1,0,0
+rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",1,2,0,0
 sharad.jash,"C,C++,Python,java,shell scripting,PHP",,Institute For Plasma Research,sharad.jash@ipr.res.in,"Network security,web and application data ",0,0,0,0
 colleeneb,"Fortran
 C
@@ -3808,7 +3808,7 @@ Python","PHP
 C",University of Birmingham,l.slater.1@bham.ac.uk,"Ontology
 Text mining
 Clinical informatics
-Semantic web",0,0,0,0
+Semantic web",1,1,0,0
 tmaric,"C++
 python",Matlab,Technical University of Darmstadt,maric@mma.tu-darmstadt.de,"numerical methods for multiphase flows
 computational geometry
@@ -4479,7 +4479,7 @@ Signal Processing
 Mineral Physics",0,1,0,0
 iammix,Python,,Aristotle University Of Thessaloniki,k.mixios@gmail.com,"Applied Mechanics
 Finite Element Method
-Structural Analysis",0,1,1,0
+Structural Analysis",1,2,1,0
 josehd,Python,,,josehd@cio.mx,"Optics
 Mathematics",0,0,0,0
 sabinomaggi,"Fortran, Python, R","Mathematica, AWK, bash",CNR National Research Council,sabino.maggi@cnr.it,"physics/solid state/superconductivity
@@ -4586,7 +4586,7 @@ Fortran",Haskell,University of Oslo,sigvald@marebakken.com,"Computational Physic
 Plasma Physics
 Numerical Methods
 Finite Element Method
-Particle-In-Cell",0,0,0,0
+Particle-In-Cell",1,1,0,0
 spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",1,1,0,0
 rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,1,1,1
 qpmnguyen,"R
@@ -5548,3 +5548,9 @@ Laser
 Adaptive Optics",0,0,0,0
 github.com/George-Gou,"python,C++",C,,goujianing19@mails.ucas.ac.cn,Gravity geodesy,0,0,0,0
 JYProjs,Python,,"School of Medicine, Case Western Reserve University",james.yu@case.edu,"Medicine, Machine Learning, Text Processing"
+tpoisot,Julia,"R
+Python",Université de Montréal,timothee.poisot@umontreal.ca,"ecology
+graph theory
+machine learning
+epidemiology
+computational biology"
