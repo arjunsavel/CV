@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,9,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,9,2,0
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,3,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -2536,7 +2536,7 @@ ontologies
 clinical informatics",1,1,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,1,0,0
-faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,2,1
+faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,1,1
 dvanic,"R
 python
 bash",javascript,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
@@ -5053,7 +5053,7 @@ integrated assessment
 land use and land cover change
 hydrology
 population dynamics",0,1,1,1
-jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,2,2
+jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,2,1
 BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",2,2,0,0
 Komalharini237,"Python
 Perl
@@ -5104,7 +5104,7 @@ Remote Sensing
 Feature Selection
 Feature Extraction
 Optimization
-Generative Adverserial Networks",0,1,1,1
+Generative Adverserial Networks",0,1,1,0
 fserva,"python
 FORTRAN
 bash","C
@@ -5554,3 +5554,5 @@ graph theory
 machine learning
 epidemiology
 computational biology"
+michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction"
+Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing"
