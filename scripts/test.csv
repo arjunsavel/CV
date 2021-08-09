@@ -2363,7 +2363,7 @@ Java
 PHP",New York University,remi.rampin@nyu.edu,"engineering
 computer science
 databases
-reproducibility",2,3,0,0
+reproducibility",1,3,0,0
 Evan1415,"Fortran 
 Python",,King's College London,sheridev@tcd.ie,"Many body condensed matter physics
 Solid state physics",0,0,0,0
@@ -2724,7 +2724,7 @@ PHP
 C#","JavaScript
 SQL
 PLSQL",Researcher,alexssandrofc@gmail.com,"Convolutional Neural Network
-Deep Learning",1,1,0,0
+Deep Learning",0,1,0,0
 rcannood,"R
 Scala","Java
 C++",VIB - Ghent University,robrecht.cannoodt@gmail.com,"Bioinformatics
@@ -4460,7 +4460,7 @@ Atomistic simulations",1,1,0,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,1,1
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
-omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,1,1,1
+omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,1,1,0
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
 wsdookadr,"Python,Perl,Maxima,Maple maybe",anything that I can grasp/understand,I don't have an affiliation,stefan.petrea@gmail.com,"combinatorics,algebra mainly. maybe at an undergraduate level, but I don't discount the possibility of digging deeper into a topic",0,0,0,0
 navdeep-G,"Python, R, Java","C,C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, statistics",0,0,0,0
@@ -5557,9 +5557,9 @@ computational biology",0,1,1,0
 michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction",0,0,0,0
 Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing",0,0,0,0
 Metafrancois,R,,University of Liège,francois.leonard@uliege.be,"methodology, statistics, meta-research, statistical power, behavioral neurosciences, psychology, psychopharmacology",0,0,0,0
-https://github.com/dridk,python,Qt/C++,"CHRU Brest, Hôpital Morvan, Laboratoire de Génétique Moléculaire, Brest, France",sacha@labsquare.org,"genetics
+dridk,python,Qt/C++,"CHRU Brest, Hôpital Morvan, Laboratoire de Génétique Moléculaire, Brest, France",sacha@labsquare.org,"genetics
 bioinformatics
-medicine"
+medicine",0,0,0,0
 lankasaicharan,"Python
 TCL
 Shell
