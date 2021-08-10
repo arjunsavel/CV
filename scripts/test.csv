@@ -293,7 +293,7 @@ jkarreth,R,,Ursinus College,jkarreth@ursinus.edu,"Bayesian statistics
 Postestimation
 Data visualization",0,2,1,0
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
-tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,2,1,1
+tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,2,1,0
 pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,0
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
@@ -3884,7 +3884,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,1,0,0
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,1
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,0,0,0
 mturiansky,"Python
 Fortran
@@ -5420,12 +5420,12 @@ Deep Learning
 Artificial Intelligence
 Financial Data Science",0,0,0,0
 nickbearman,"R
-VBA",Python,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk,"GIS
+VBA",,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk,"GIS
 Spatial Data
 Geospatial Data
 Teaching
 Education",0,0,0,0
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",1,2,1,1
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,2
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,1,1,0,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
@@ -5564,3 +5564,19 @@ lankasaicharan,"Python
 TCL
 Shell
 C",,EDA CAD Intern,lankasaicharan123@gmail.com,"VLSI CAD, Python applications, Docker applications"
+Give me jobs,Hindi,Hindi,Shajahanpur,thakurabhisheksingh414@gmail.com,Ok
+@thejasvibr,Python,R,"Centre for  the Advanced Study of Collective Behaviour, Konstanz",thejasvib@gmail.com,"acoustics 
+bioacoustics 
+behaviour
+acoustic tracking 
+video tracking"
+trappitsch,Python,,Brandeis University,reto@brandeis.edu,"Cosmochemistry, Astrophysics (Stellar Nucleosynthesis & Galactic Chemical Evolution)"
+bobturneruk,"Python
+MATLAB
+R",,University of Sheffield,r.d.turner@sheffield.ac.uk,"Machine Learning
+Image Analysis
+Data Engineering
+Good Software Engineering Practises
+Docker"
+https://github.com/fAndreuzzi,Python,"Java, Dart, C",SISSA,andreuzzi.francesco@gmail.com,"Graph theory, Set theory, CFD, ROM, Dynamical systems"
+kelseydcooper,R,Python,Indiana University,keldcoop@gmail.com,"Climate change, aerospace, weather, water, biodiversity, citizen science, policy, public administration, data analysis, regulation, international development, economic development, education, workforce, research and development, federal grants, government"
