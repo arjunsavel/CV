@@ -1720,7 +1720,7 @@ jiangyuinsar,"matlab, python",julia,University of Liverpool,Yu.Jiang@liverpool.a
 (2) Tectonics: repeating earthquakes, earthquake swarm",0,0,0,0
 natpt,"C, C++",,Samsung,soohong.park@samsung.com,"Networking, Cloud, Data, IoT",0,0,0,0
 matloff,"R, Python","C, C++, Java, Intel assembler, bash, etc.","UC Davis, CS Dept. (formerly Stat Dept.)",matloff@cs.ucdavis.edu,"statistics, machine learning, pure math",0,0,0,0
-CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",1,1,0,0
+CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",0,1,1,1
 fcdimitr,"C/C++
 MATLAB",Julia,Aristotle University of Thessaloniki,fcdimitr@auth.gr,"Parallel computing
 Numerical analysis",0,0,0,0
@@ -2122,7 +2122,7 @@ remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neuroscien
 tomalrussell,"Python
 JavaScript",,University of Oxford,tom.russell@ouce.ox.ac.uk,"Geography
 Visualisation
-Network science",0,0,0,0
+Network science",1,1,0,0
 mcsitter,Python,,University of Cologne,msitter@smail.uni-koeln.de,,0,0,0,0
 joaorodrigues,"Python
 BASH
@@ -2788,7 +2788,7 @@ Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
 Bioinformatics",0,0,0,0
-CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",1,1,0,0
+CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,1,1,1
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
 stochastic programming",0,1,0,0
@@ -4849,7 +4849,7 @@ pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg
 rafaelab,"C++
 Python","C
 Julia",Radboud University Nijmegen,8rafael@gmail.com,"Astroparticle Physics
-High-Energy Astrophysics",0,1,1,1
+High-Energy Astrophysics",0,1,1,0
 apwheele,"python
 R","Stata
 SPSS",HMS,apwheele@gmail.com,"social science, criminology",0,0,0,0
@@ -4882,7 +4882,7 @@ Mesh Datastructure
 Parallel Programming",1,1,0,0
 a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,0,0,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
-justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,0,0,0
+justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",1,1,0,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,0,0,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,1
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,0,0,0
@@ -5095,7 +5095,7 @@ Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology 
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
 Climate
 Energy systems
-Sensitivity analysis",0,1,1,0
+Sensitivity analysis",1,2,1,0
 yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
 Deep Learning
 AI
@@ -5156,7 +5156,7 @@ open science
 - version control",0,0,0,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
-Particle physics",0,1,1,1
+Particle physics",0,1,1,0
 tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,0,0,0
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
@@ -5384,7 +5384,7 @@ Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Model
 lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science",0,0,0,0
 cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
 APIs
-Text analysis",1,1,0,0
+Text analysis",2,2,0,0
 SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics",1,1,0,0
 hechth,"Python
 C++
@@ -5459,7 +5459,7 @@ Software Architecture
 Information Systems
 Databases",1,1,0,0
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
-Agent Based Simulation",0,0,0,0
+Agent Based Simulation",1,1,0,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
 junghans,C++,Python,Los Alamos National Laboratory,junghans@votca.org,"Molecular simulations
 coarse-graining",0,0,0,0
@@ -5588,3 +5588,4 @@ Unfitted / Immersed Finite Element Methods",0,0,0,0
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
 TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science"
+https://github.com/Jose-Augusto-C-M,"Python, LaTeX, JavaScript, VBA.","Python, JavaScript",Universidade federal de mato grosso do sul - UFMS - Brazil,jose.a@ufms.br,"Remote sensing, machine learning, water, WFE Nexus."
