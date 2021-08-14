@@ -1728,7 +1728,7 @@ qasdadasd,jav,asdadd,dasdasd,asdasdasdasd@adasda.com,asdasd,0,0,0,0
 jlincbio,"Perl
 R",C,Chiba Cancer Center,linjason@chiba-cc.jp,"Genomics
 General computational biology",0,1,0,0
-szhorvat,"C++, C, Mathematica, Wolfram Language","Python, MATLAB, R",Center for Systems Biology Dresden,szhorvat@gmail.com,"biophysics, neuroscience, network science, graph theory, physics of complex systems",0,1,0,0
+szhorvat,"C++, C, Mathematica, Wolfram Language","Python, MATLAB, R",Center for Systems Biology Dresden,szhorvat@gmail.com,"biophysics, neuroscience, network science, graph theory, physics of complex systems",1,2,0,0
 VivekTodur,"C
 C++
 Perl
@@ -5011,7 +5011,7 @@ C++",,"Institute of Environmental Physics, University of Heidelberg, Germany",yu
 Network Models
 Theoretical Ecology
 Modelling Frameworks
-Data Processing Pipelines",0,0,0,0
+Data Processing Pipelines",1,1,0,0
 baileythegreen,"Python
 bash
 LaTeX",,University of Strathclyde,baileythegreen@gmail.com,"bioinformatics
@@ -5135,7 +5135,7 @@ Python",0,1,1,1
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",2,2,0,0
+Clustering",1,2,1,1
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
@@ -5424,7 +5424,7 @@ VBA",,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk
 Spatial Data
 Geospatial Data
 Teaching
-Education",0,0,0,0
+Education",1,1,0,0
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,2
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,1,1,0,0
@@ -5587,5 +5587,15 @@ Discontinuous Galerkin Methods
 Unfitted / Immersed Finite Element Methods",0,0,0,0
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
-TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science"
+TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,0,0,0
 https://github.com/Jose-Augusto-C-M,"Python, LaTeX, JavaScript, VBA.","Python, JavaScript",Universidade federal de mato grosso do sul - UFMS - Brazil,jose.a@ufms.br,"Remote sensing, machine learning, water, WFE Nexus."
+jonatanalvelid,"Python
+MATLAB",,KTH Royal Institute of Technology,jonatan.alvelid@gmail.com,"Microscopy
+Image analysis
+Data plotting"
+bricoletc,"C
+C++
+Python
+JavaScript
+Scheme",Java,EMBL-EBI,letcher.brice@yahoo.com,"Bioinformatics
+Computational Biology"
