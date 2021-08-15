@@ -30,7 +30,7 @@ conradsnicta,C++,,,,"machine learning, pattern recognition, computer vision",0,1
 Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epigenetics",0,0,0,0
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
 Funnelfiasco,Python,Bash,,,"Linux, CLI tools",0,0,0,0
-mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,1,1
+mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,1,0
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
@@ -1128,7 +1128,7 @@ Rust",UC Berkeley,rijard.barnes@gmail.com,"Geoscience
 Ecology
 Evolutionary Biology
 High-performance computing
-Computer science",1,3,1,1
+Computer science",0,3,2,2
 vc1492a,Python,"R
 JavaScript",NASA Jet Propulsion Laboratory,vc@valentino.io,"Anomaly Detection
 Natural Language Processing
@@ -2414,7 +2414,7 @@ Bayesian machine learning
 Financial data science
 Financial machine learning
 Probabilistic programming
-Quantitative finance",0,1,1,1
+Quantitative finance",0,1,1,0
 amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
@@ -4148,7 +4148,7 @@ Computational Chemistry
 Neutron Scattering
 Molecular Dynamics
 Web Applications",0,1,1,0
-williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,1
+williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,0
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",1,1,0,0
 miketuri,"Perl
@@ -4277,7 +4277,7 @@ wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Desi
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
 tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",0,2,2,0
 otre99,"C++, Python, QML/Qt",,Universidad Nacional Autónoma de México,roberto.cruz.rdg@gmail.com,"Numerical Modeling, Image Processing, Machine Learning, Computer Vision",0,0,0,0
-arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,1,1,0
+arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",1,2,1,0
 trettenbrein,R,Python,Max Planck Institute for Human Cognitive & Brain Sciences,trettenbrein@cbs.mpg.de,"cognitive science, linguistics, psychology of language, neuroscience of language",0,0,0,0
 no,english,,To read book,rashidaakter5288@gmail.com,General surgery,0,0,0,0
 not sure what you mean,"i do not want program, i would like to review papers",n/a,social sciences,aklepakova@gmail.com,"processes, continuous improvement, quality, social sciences, public administration, business administration, sales, procurement, QMA",0,0,0,0
@@ -4883,7 +4883,7 @@ Parallel Programming",1,1,0,0
 a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,0,0,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",1,1,0,0
-vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,0,0,0
+vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",1,1,0,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,1
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,0,0,0
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,0,0,0
@@ -5376,7 +5376,7 @@ dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconsci
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
-Machine Learning",0,1,1,1
+Machine Learning",1,2,1,1
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
@@ -5588,11 +5588,11 @@ Unfitted / Immersed Finite Element Methods",0,0,0,0
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
 TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,0,0,0
-https://github.com/Jose-Augusto-C-M,"Python, LaTeX, JavaScript, VBA.","Python, JavaScript",Universidade federal de mato grosso do sul - UFMS - Brazil,jose.a@ufms.br,"Remote sensing, machine learning, water, WFE Nexus."
+Jose-Augusto-C-M,"Python, LaTeX, JavaScript, VBA.","Python, JavaScript",Universidade federal de mato grosso do sul - UFMS - Brazil,jose.a@ufms.br,"Remote sensing, machine learning, water, WFE Nexus.",0,0,0,0
 jonatanalvelid,"Python
 MATLAB",,KTH Royal Institute of Technology,jonatan.alvelid@gmail.com,"Microscopy
 Image analysis
-Data plotting"
+Data plotting",0,0,0,0
 bricoletc,"C
 C++
 Python
