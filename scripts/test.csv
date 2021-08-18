@@ -100,7 +100,7 @@ regulatory genomics
 machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
-Geophysics",0,1,0,0
+Geophysics",1,2,0,0
 CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,1,0
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
@@ -451,7 +451,7 @@ Web/Internet Services/Standards/Protocols",0,2,0,0
 dlagrava,"Python
 C++","Java
 Perl",University of Canterbury,dlagrava@gmail.com,"Computational Fluid Dynamics
-Numerical methods",1,4,0,0
+Numerical methods",0,4,1,1
 zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",0,5,2,0
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
@@ -1357,7 +1357,7 @@ R
 bash","perl
 php", Institute of Environmental Science and Research Limited (ESR),joepio@gmail.com,"Genomics
 Bioinformatics",0,5,0,0
-harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",1,4,0,0
+harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",0,4,1,1
 RcSepp,"Python
 C++
 C#
@@ -2420,7 +2420,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,2,2,0
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,2,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -3137,7 +3137,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,4,2,1
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",2,5,2,1
 yangbai90,"fortran
 cpp
 c
@@ -4366,7 +4366,7 @@ Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
 Numerical analysis",1,2,1,1
-step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,0,0,0
+step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",1,1,0,0
 smutao/,"Python
 Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
@@ -4990,7 +4990,7 @@ C
 Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
 Machine learning
 Data science
-Bioinformatics",0,1,1,1
+Bioinformatics",1,2,1,1
 hofmannu,"C++
 CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
@@ -5607,3 +5607,4 @@ Python",,"Renaissance Computing Institute, University of North Carolina",gaurav@
 Biology
 RDF
 JSON-LD"
+https://github.com/metelkin,"JavaScript, Julia","R, Matlab",InSysBio LLC,evgeny.metelkin@gmail.com,"Systems Biology, Quantitative Systems Pharmacology, Optimization, Biological modeling software"
