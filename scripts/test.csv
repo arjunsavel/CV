@@ -40,7 +40,7 @@ arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",0,2,1,0
-benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,1,1
+benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,1,0
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
@@ -258,7 +258,7 @@ R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.a
 Genomics
 Computational Biology
 Bioinformatics
-Protein Science",0,5,2,0
+Protein Science",0,5,1,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
 alexanderfurnas ,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
@@ -621,7 +621,7 @@ Mathematics
 Biomedical Engineering
 Machine Learning
 Computer Vision
-Heat Transfer",1,9,1,0
+Heat Transfer",1,9,0,0
 gpkc,Python,"C++
 C
 MATLAB",Universidade Federal de Pernambuco,gpkc@cin.ufpe.br,"High Performance Computing
@@ -657,7 +657,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",0,5,1,1
+Solar",0,5,1,0
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,1,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -1640,7 +1640,7 @@ Computer Science
 Algorithmics",0,1,0,0
 olivertomic,Python,R,Norwegian University of Life Sciences,olivertomic@zoho.com,"chemometrics
 machine learning
-multivariate statistics",0,1,1,0
+multivariate statistics",0,1,0,0
 BarryDeCicco,"R, SAS",SQL,Self,bdecicco2001@yahoo.com,"Statistics, statistical analysis",0,1,0,0
 phckopper,"Python
 C","Javascript
@@ -3006,7 +3006,7 @@ mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrolog
 mbdemoraes,"python
 c
 java",c++,School of Technology - University of Campinas,matheuzmoraes@gmail.com,"data streams
-machine learning",0,3,2,0
+machine learning",0,3,1,0
 DingXuefeng,"C++
 python",,Princeton University,xuefengd@princeton.edu,"astro-particle physics
 physics
@@ -3785,7 +3785,7 @@ marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and N
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
 daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,2,0
 lachlangrose,"python
-c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,0,0,0,0
+c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,1,1,0,0
 skradha26,"c++, java, javascript",,University of Notre Dame,sradha@nd.edu,"decentralized identities, blockchain",0,0,0,0
 danaraujocr,Python,"C++, matlab",Université Laval,daniel.rodrigues.2@ulaval.ca,"Chemical Engineering
 Latent Variable Modelling 
@@ -5395,7 +5395,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",1,1,0,0
+Galaxy",2,2,0,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5606,5 +5606,5 @@ Perl
 Python",,"Renaissance Computing Institute, University of North Carolina",gaurav@ggvaidya.com,"Evolutionary Biology
 Biology
 RDF
-JSON-LD"
+JSON-LD",0,0,0,0
 https://github.com/metelkin,"JavaScript, Julia","R, Matlab",InSysBio LLC,evgeny.metelkin@gmail.com,"Systems Biology, Quantitative Systems Pharmacology, Optimization, Biological modeling software"
