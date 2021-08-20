@@ -900,7 +900,7 @@ Data Science
 Machine Learning",1,4,0,0
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,0
-dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,4,0,0
+dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",1,5,0,0
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
@@ -1042,7 +1042,7 @@ LaTeX
 Sphinx (documentation engine)
 Markdown
 Markup languages",0,2,0,0
-thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,2,1,1
+thomakra,"Python, Matlab",,UiT the Arctic University of Norway,thomakra@gmail.com,"Image processing, computer vision, machine learning, radar",0,2,1,0
 sauln,Python,"C++, Javascript",Washington State University,nat@saulgill.com,"Topological Data Analysis, Machine Learning, User Interfaces",0,1,1,0
 fsteeg,Java,Scala,Hochschulbibliothekszentrum NRW (hbz),steeg@hbz-nrw.de,"Web technology
 Linked data
@@ -2289,7 +2289,7 @@ Python
 Verilog
 Bluespec Verilog",,BITS Pilani,f20160378@goa.bits-pilani.ac.in,Computer Architecture,0,0,0,0
 caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,1,0
-dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,1,1,1
+dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,1,1,0
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
 Data Cleaning",0,2,0,0
@@ -2467,7 +2467,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",0,3,2,1
+visualisation",1,4,2,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,0,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -3104,7 +3104,7 @@ paulotome,c,Common Lisp,none,paulo.jorge.tome@gmail.com,Linux,0,0,0,0
 core-man,C,"Fortran
 Python
 Matlab",Nanyang Technological University,kaka22yao@gmail.com,seismology,0,0,0,0
-Prof-ThiagoOliveira,R,SAS,University of Edinburgh,thiago.paula.oliveira@usp.br,"Statistics, Sports, Agriculture",0,1,1,1
+Prof-ThiagoOliveira,R,SAS,University of Edinburgh,thiago.paula.oliveira@usp.br,"Statistics, Sports, Agriculture",0,1,1,0
 martinju,R,,Norwegian Computing Center,jullum@nr.no,"Statistics, Machine Learning, Explainable AI",0,1,1,0
 WhiteSymmetry,Python,Q#,PhD. Student in Physics at GTU,mkececi@mehmetkececi.com,Quantum Computing,0,0,0,0
 bonh,"Python
@@ -4195,7 +4195,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,0,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",0,2,2,0
+Security",1,3,2,0
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -4498,7 +4498,7 @@ Dynamical Systems",0,0,0,0
 Alaterre,Python,,InstaDeep,alexandre.laterre@gmail.com,Machine learning,0,0,0,0
 znicholls,Python,Fortan90,"Australian-German Climate & Energy College, University of Melbourne",zebedee.nicholls@climate-energy-college.org,"Climate modelling
 Atmospheric sciences",0,0,0,0
-elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,2,1,1
+elektrobohemian,"Python, Java","JavaScript, (C++)",Berlin School of Economics and Law,david.zellhoefer@hwr-berlin.de,"GLAM, Information Retrieval, Multimedia Retrieval",0,2,1,0
 kelly-sovacool,"R
 Python",,University of Michigan,sovacool@umich.edu,"Bioinformatics
 Computational Biology
@@ -5467,7 +5467,7 @@ coarse-graining",0,0,0,0
 anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kist@fau.de,"Neuroscience
 Image processing
 Deep Learning
-Artificial Intelligence",0,0,0,0
+Artificial Intelligence",1,1,0,0
 hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",1,1,0,0
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
@@ -5608,3 +5608,4 @@ Biology
 RDF
 JSON-LD",0,0,0,0
 https://github.com/metelkin,"JavaScript, Julia","R, Matlab",InSysBio LLC,evgeny.metelkin@gmail.com,"Systems Biology, Quantitative Systems Pharmacology, Optimization, Biological modeling software"
+NBEKTAS,Python,Matlab,PhD cendidate,nurullahbektas@hotmail.com
