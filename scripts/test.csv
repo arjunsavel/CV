@@ -1335,7 +1335,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,1,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",1,3,0,0
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,3,1,1
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1772,7 +1772,7 @@ mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neu
 EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,1,2,0,0
 streeve,"Python
 C++","Matlab
-C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,1,0
+C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,0,0
 lauravana,R,,WU Vienna University of Economics and Business,laura.vana@wu.ac.at,"Statistical modeling, quantitative finance",0,0,0,0
 joao-lima,"C
 C++
@@ -1936,7 +1936,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,3,1,1
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",1,3,0,0
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,1
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -5352,7 +5352,7 @@ C++","JS
 C",University of the West of England,jenniferdavid87@gmail.com,mobile robots,0,0,0,0
 karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++,0,0,0,0
 No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
-ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",1,1,0,0
+ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,1
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",1,1,0,0
@@ -5610,10 +5610,20 @@ JSON-LD",0,0,0,0
 metelkin,"JavaScript, Julia","R, Matlab",InSysBio LLC,evgeny.metelkin@gmail.com,"Systems Biology, Quantitative Systems Pharmacology, Optimization, Biological modeling software",0,0,0,0
 NBEKTAS,Python,Matlab,PhD cendidate,nurullahbektas@hotmail.com,,0,0,0,0
 metelkin,"JavaScript, Julia","R, Matlab",InSysBio LLC,evgeny.metelkin@gmail.com,"Mathematical Biology, Quantitative Systems Pharmacology, Systems Biology, Identifiability",0,0,0,0
-@sridhar0605,"Python
+sridhar0605,"Python
 R
 Rust",,Washington University School Of Medicine At St Louis,sridhar0605@gmail.com,"Bioinformatics
 Genomics
 Computational Biology
-Bioinformatics Workflows"
+Bioinformatics Workflows",0,0,0,0
 wincowgerDEV,"R, HTML","Python, CSS","University of California, Riverside",wcowg001@ucr.edu,"Data Science, Machine Learning, Environmental Science, River transport processes"
+peanutfun,"C++
+Python
+CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg University, Germany",lukas.riedel@iwr.uni-heidelberg.de,"Computational Physics
+Finite Element Methods
+Complex Adaptive Systems
+Data Assimilation
+Ordinary & Partial Differential Equations"
+gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization"
+@ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities"
+gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance"
