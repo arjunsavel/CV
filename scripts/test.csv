@@ -44,7 +44,7 @@ benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducib
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
-hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,1,0
+hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,0,0
 sgrieve,"C++, Python",C,,,"geoscience, environmental science, hydrology, GIS, spatial analysis",0,5,0,0
 arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary differential equations, GPU computing",0,3,0,0
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
@@ -70,7 +70,7 @@ kellieotto,"R
 Python",,UC Berkeley Department of Statistics/Berkeley Institute for Data Science,kellieotto@berkeley.edu,"Frequentist statistics
 Machine learning
 Data tidying/manipulation
-Data visualization",0,7,0,0
+Data visualization",1,8,0,0
 AnsleyManke,Fortran/ C,Ferret command line syntax,"Pacific Marine Environmental Laboratory, NOAA",ansley.b.manke@noaa.gov,,0,1,0,0
 sbinet,Go,,IN2P3,binet@cern.ch,"High Energy Physics, file formats",0,0,0,0
 abhishekbajpayee,"Python
@@ -1848,7 +1848,7 @@ Python
 C
 Pascal",C++,University of Bristol,david.barton@bristol.ac.uk,"Applied mathematics
 Dynamical systems
-Differential equations",1,4,0,0
+Differential equations",0,4,1,1
 javalosp,Python,Fortran,"Department of Earth Science and Engineering, Imperial College London",jea4117@ic.ac.uk,"Numerical modelling
 CFD",0,0,0,0
 MatthewFlamm,Python,"MATLAB
@@ -2094,7 +2094,7 @@ Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
 Phylogenetics",0,0,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
-njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,2,1
+njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,2,0
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
@@ -2189,7 +2189,7 @@ EtienneCmb,Python,,"Aix-Marseille University, Institut de Neurosciences de la Ti
 statistics
 information theory
 neuroscience",0,1,1,0
-matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",2,2,0,0
+matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",1,2,1,1
 sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
 dynamics
@@ -2930,7 +2930,7 @@ Numerical Methods
 Electromagnetics",1,1,0,0
 s0nata,Java,"prolog, python",EPFL,s0nata@protonmail.com,"Software Engineering
 Natural Language Processing",0,0,0,0
-petroniocandido,"Python, Java, C#","C, C++",Instituto Federal do Norte de Minas Gerais - IFNMG,petronio.candido@ifnmg.edu.br,"Forecasting, Fuzzy Systems, Evolutionary Algorithms, Neural Networks",0,1,1,0
+petroniocandido,"Python, Java, C#","C, C++",Instituto Federal do Norte de Minas Gerais - IFNMG,petronio.candido@ifnmg.edu.br,"Forecasting, Fuzzy Systems, Evolutionary Algorithms, Neural Networks",0,1,0,0
 seisman,"C
 Python",,Michigan State University,tiandong@msu.edu,"Geophysics
 Seismology",0,3,1,0
@@ -3210,7 +3210,7 @@ image analysis
 sequence analysis",0,1,0,0
 MohmedSoudy,"R, Python, C, C++, C#","R, Python","Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357",Mohmedsoudy2009@gmail.com,"Bioinformatics, Proteomics, Machine learning , Deep learning",0,0,0,0
 RMeli,"Python, C++",Fortran,University of Oxford,rocco.meli@biodtp.ox.ac.uk,"Computational Chemistry, Computational Biochemistry, Cheminformatics, Deep Learning",0,0,0,0
-kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",1,1,0,0
+kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",0,1,1,1
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
@@ -4264,7 +4264,7 @@ statistical modeling
 numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
 sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,1,0
-prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,0,0,0
+prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",1,1,0,0
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",0,0,0,0
 ramisetti,"C
 C++
@@ -4708,7 +4708,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",2,2,0,0
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",1,2,1,1
 prasantapal,"C
 C++ 
 Mathematica
@@ -5236,7 +5236,7 @@ Matlab",University College London,matthew.m.graham@gmail.com,"Computational stat
 Approximate inference
 Probabilistic programming
 Numerical simulation
-Monte Carlo methods",2,2,0,0
+Monte Carlo methods",1,2,1,1
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
 Choice modeling",0,0,0,0
@@ -5633,15 +5633,15 @@ python",pytorch,Massachusetts Institute of Technology,jiweiqi10@gmail.com,"diffe
 combustion
 chemical kinetics
 machine learning",0,0,0,0
-@dinngoman,Fortran,"Matlab, Labview, R, Forth",University of New South Wales,n.lambropoulos@unsw.edu.au,"materials, engineering, chemistry, physics"
-https://github.com/SaumikDana,"Python
+dinngoman,Fortran,"Matlab, Labview, R, Forth",University of New South Wales,n.lambropoulos@unsw.edu.au,"materials, engineering, chemistry, physics",0,0,0,0
+SaumikDana,"Python
 C++
 Fortran",,University of Southern California,saumik@utexas.edu,"Geology, Geophysics, Earth Surface Dynamics, Hydrology, Landslides, Natural Hazards, Terrain Analysis 
 Computational Science and Engineering, Geophysics, High-performance Computing 
 Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming 
 Mechanics, computational science, biomechanics, computational oncology, applied mathematics 
-Applied Math, Numerical Optimization, Numerical Linear Algebra, Fortran, Python, MATLAB, Julia, Teaching"
-sgeorge91,"Python, R","C++, Julia",University College London,sandip.varkey@gmail.com,"Time series analysis, Time domain astronomy, Nonlinear dynamics, Complex systems, Complex networks, Psychometrics"
+Applied Math, Numerical Optimization, Numerical Linear Algebra, Fortran, Python, MATLAB, Julia, Teaching",0,0,0,0
+sgeorge91,"Python, R","C++, Julia",University College London,sandip.varkey@gmail.com,"Time series analysis, Time domain astronomy, Nonlinear dynamics, Complex systems, Complex networks, Psychometrics",0,0,0,0
 luciorq,"R
 Shell Scripting
 Python","Rust
@@ -5654,8 +5654,8 @@ Systems Biology
 HPC infrastructure
 Ansible based tools
 Infrastructure as code
-Programmable Infrastructure"
-joewandy,"Python, javascript","R, java, matlab","Glasgow Polyomics, University of Glasgow",joe.wandy@glasgow.ac.uk,"metabolomics, bioinformatics, omics integration, machine learning"
+Programmable Infrastructure",0,0,0,0
+joewandy,"Python, javascript","R, java, matlab","Glasgow Polyomics, University of Glasgow",joe.wandy@glasgow.ac.uk,"metabolomics, bioinformatics, omics integration, machine learning",0,0,0,0
 @tbsexton,"python
 coconut-lang
 latex","R
@@ -5672,3 +5672,4 @@ Reliability Engineering
 Prognostics & Health Monitoring
 Informed Machine Learning
 Natural Language Processing"
+steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology
