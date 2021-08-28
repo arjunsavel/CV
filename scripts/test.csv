@@ -1154,7 +1154,7 @@ camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of 
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
-neuroimaging",0,7,3,0
+neuroimaging",0,7,2,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
@@ -1198,7 +1198,7 @@ gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiom
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
 matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,1,0
 chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,1,1,0,0
-jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",1,1,0,0
+jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,1,1,1
 PingjunChen,Python,C++,University of Florida,chenpingjun@gmx.com,"machine learning
 biomedical image analysis
 computational pathology",0,2,0,0
@@ -2311,7 +2311,7 @@ Dark Matter
 Particle Physics",0,2,2,0
 hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",0,3,1,0
 aasensio,"Python, Fortran, IDL",,Instituto de Astrofísica de Canarias,aasensio@iac.es,Solar physics,0,0,0,0
-olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,1,0
+olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,0,0
 Suchitakulkarni,Python,,Austrian academy of sciences,suchita.kulkarni@gmail.com,Particle physics,0,0,0,0
 warrickball,"Python
 Fortran",,"School of Physics and Astronomy, University of Birmingham",W.H.Ball@bham.ac.uk,"Stellar modelling
@@ -2421,7 +2421,7 @@ Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,2,0
-zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,2,0
+zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,1,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",0,1,0,0
@@ -2479,7 +2479,7 @@ R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
 Scholarly communications",0,1,1,1
-DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,3,1
+DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,2,1
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
 smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"computational biology, bioinformatics",0,0,0,0
@@ -3574,7 +3574,7 @@ robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",1,3,1,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,0,0
-olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,1,0
+olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,0,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,1,0
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,0
 mberacochea,"python
@@ -5656,7 +5656,7 @@ Ansible based tools
 Infrastructure as code
 Programmable Infrastructure",0,0,0,0
 joewandy,"Python, javascript","R, java, matlab","Glasgow Polyomics, University of Glasgow",joe.wandy@glasgow.ac.uk,"metabolomics, bioinformatics, omics integration, machine learning",0,0,0,0
-@tbsexton,"python
+tbsexton,"python
 coconut-lang
 latex","R
 julia
@@ -5671,5 +5671,5 @@ Manufacturing Systems
 Reliability Engineering
 Prognostics & Health Monitoring
 Informed Machine Learning
-Natural Language Processing"
+Natural Language Processing",0,0,0,0
 steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology
