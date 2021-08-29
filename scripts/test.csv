@@ -553,7 +553,7 @@ Infectious Disease",0,0,0,0
 kdirek,"R, Python, SQL","Perl, Bash",University College London,k.direk@ucl.ac.uk,All,0,0,0,0
 rosap,R,,University of Manchester ,Rosa.parisi@manchester.ac.uk,"Epidemiology, biostatistics ",0,0,0,0
 jean997,R,Python,University of Chicago,jeanm@uchicago.edu,"Biostatistics, genetics, genomics",0,0,0,0
-alexpghayes,I develop in R. I use Python but don't do Python package development.,None,Rice University,alexpghayes@gmail.com,"I'm interested in making sure that R packages for modelling have useful and intuitive interfaces and documentation. I'm not interested in double checking theory and correctness, but making sure that a new user can quickly and easily get the results they want.",0,3,1,1
+alexpghayes,I develop in R. I use Python but don't do Python package development.,None,Rice University,alexpghayes@gmail.com,"I'm interested in making sure that R packages for modelling have useful and intuitive interfaces and documentation. I'm not interested in double checking theory and correctness, but making sure that a new user can quickly and easily get the results they want.",0,3,1,0
 seaaan,R,,University of Washington,seaaan@gmail.com,"Life sciences (especially techniques like PCR, flow cytometry, sequencing, ELISA), data visualization",0,0,0,0
 ibontama,R,Python,Postdoc in Department of Statistics of Harvard University,ibontama@gmail.com,Epidemiology,0,0,0,0
 JCH936,"Python
@@ -966,7 +966,7 @@ Physics
 Profiling and performance optimisation",0,2,0,0
 mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,0,3,1,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
-wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,3,1,1
+wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,3,1,0
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
 Digital Humanities (?)
 Software Sustainability",0,0,0,0
@@ -1111,7 +1111,7 @@ Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,0,0,0
-marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,2,1
+marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,2,0
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -2486,7 +2486,7 @@ smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"comp
 Lachlangrose,Python,,Monash university,lachlan.grose@gmail.com,Geosciences,0,0,0,0
 simmonsja,python,matlab,UNSW Sydney,jasimmons22@gmail.com,"coastal
 coastal geomorphology",0,0,0,0
-dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,1,1,0
+dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",1,2,1,0
 pharshalp,"Python, Matlab",,The Pennsylvania State University,pharshalp@gmail.com,"Acoustics, Vibrations",0,0,0,0
 spacechemist,python,SQL,,khanhmai@creighton.edu,,0,0,0,0
 TGuillerme,R,,The University of Queensland,guillert@tcd.ie,Macroevolution,0,0,0,0
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",1,5,1,1
+tidyverse",0,5,1,1
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -3002,7 +3002,7 @@ Genomics
 Quantitative Finance",0,0,0,0
 aureliocarnero,"Python, C++",,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
 Astronomy",0,5,1,0
-mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",1,1,0,0
+mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",0,1,0,0
 mbdemoraes,"python
 c
 java",c++,School of Technology - University of Campinas,matheuzmoraes@gmail.com,"data streams
@@ -3073,7 +3073,7 @@ Mathematica",,Perimeter Institute for Theoretical Physics,schnetter@gmail.com,as
 proycon,"Python, C++, Rust",Javascript,Radboud University Nijmegen,proycon@anaproy.nl,Natural Language Processing (NLP),0,1,0,0
 chrisleaman,python,,University of New South Wales,c.leaman@unsw.edu.au,"coastal geomorphology
 coastal engineering
-beach erosion",0,1,0,0
+beach erosion",1,2,0,0
 suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",0,0,0,0
 kokan,"C++
 C",Go,,kokaipeter@gmail.com,"Compiler
@@ -3342,7 +3342,7 @@ Diagnostic classification models
 Cognitive diagnostic models
 Latent class (profile) analysis
 Item response theory
-Structural Equation Modeling",0,3,1,1
+Structural Equation Modeling",0,3,1,0
 jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
@@ -4563,7 +4563,7 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music",1,2,1,1
+Computers in Art, Design, and Music",0,2,2,2
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
@@ -5172,7 +5172,7 @@ Cell Biology
 Community Detection in Graphs",0,0,0,0
 tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,0,0,0
 villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",0,0,0,0
-jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",1,1,0,0
+jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,1,0,0
 cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines",0,0,0,0
 wxwx1993,R,"SQL
 Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
@@ -5308,7 +5308,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",1,5,1,1
+Rlang",0,5,1,1
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -5673,3 +5673,4 @@ Prognostics & Health Monitoring
 Informed Machine Learning
 Natural Language Processing",0,0,0,0
 steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology
+not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications"
