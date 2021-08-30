@@ -717,7 +717,7 @@ Programming Language Runtimes
 Virtualization
 Compilers",0,0,0,0
 neuromusic,Python,,Allen Institute for Brain Science,justin.kiggins@gmail.com,"Neuroscience
-Psychology",1,1,0,0
+Psychology",0,1,1,1
 JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,0,0
 rlizzo,"Python
 C++",,University at Buffalo,rizzo242@gmail.com,"Medical Imaging
@@ -5672,5 +5672,5 @@ Reliability Engineering
 Prognostics & Health Monitoring
 Informed Machine Learning
 Natural Language Processing",0,0,0,0
-steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology
+steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,0,0,0,0
 not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications"
