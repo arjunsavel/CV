@@ -4192,7 +4192,7 @@ TLCFEM,C++,"C
 Fortran
 Go
 MATLAB
-Python",University of Canterbury,tlcfem@gmail.com,FEM,0,0,0,0
+Python",University of Canterbury,tlcfem@gmail.com,FEM,1,1,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
 Security",1,3,2,0
@@ -4900,7 +4900,7 @@ OLAP/Data Cubes",0,0,0,0
 Balaje,"C++
 MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Method
 Fluid Structure Interaction
-Virtual Element Methods",0,0,0,0
+Virtual Element Methods",1,1,0,0
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science",0,0,0,0
 georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",1,1,0,0
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
@@ -5674,3 +5674,4 @@ Informed Machine Learning
 Natural Language Processing",0,0,0,0
 steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,0,0,0,0
 not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications"
+@mingzehuang,R,Python,Texas A& M University,mingzehuang@gmail.com,"Computational Statistics, Machine Learning,  Big Data, Computational Social Science and Finance."
