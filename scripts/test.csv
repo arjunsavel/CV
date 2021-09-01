@@ -2354,7 +2354,7 @@ karinlag,python,"java
 R",Norwegian Veterinary Institute,karin.lagesen@gmail.com,"bioinformatics
 microbial genomics",0,1,0,0
 santoshmh,"Python, C++",IDL,Arizona State University,santosh.harish@asu.edu,Astronomy/Astrophysics,0,0,0,0
-martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,0,1,0,0
+martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,1,2,0,0
 remram44,"Python
 C
 C++
@@ -3838,7 +3838,7 @@ berenger-eu,C++,C,Inria,berenger.bramas@inria.fr,"HPC
 parallelization
 vectorization
 GPU
-FMM",0,1,1,1
+FMM",0,1,1,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",1,1,0,0
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,2,1
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
@@ -4381,7 +4381,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,2,1
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,2,0
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -5153,7 +5153,7 @@ open science
 - reproducibility
 - dynamic document generation
 - containers
-- version control",0,0,0,0
+- version control",1,1,0,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
 Particle physics",0,1,1,0
@@ -5468,7 +5468,7 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",1,1,0,0
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",1,1,0,0
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",2,2,0,0
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
@@ -5673,5 +5673,6 @@ Prognostics & Health Monitoring
 Informed Machine Learning
 Natural Language Processing",0,0,0,0
 steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,0,0,0,0
-not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications"
+not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications",0,0,0,0
 @mingzehuang,R,Python,Texas A& M University,mingzehuang@gmail.com,"Computational Statistics, Machine Learning,  Big Data, Computational Social Science and Finance."
+makyol,Python,"R, Scala",Middle East Technical University,akyol.mehmet@metu.edu.tr,"Remote Sensing, Deep Learning, Machine Learning, Data Mining"
