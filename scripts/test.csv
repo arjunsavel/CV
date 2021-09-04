@@ -1477,7 +1477,7 @@ Matlab",Helmholtz-Zentrum Geesthacht,carsten.lemmen@hzg.de,"Ecological Modeling
 Model frameworks
 Social Models
 Quantitative Archaeology
-Oceanography",0,3,2,1
+Oceanography",0,3,1,1
 srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,0,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
@@ -1591,7 +1591,7 @@ adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,
 davidbeckingsale,C++,"C
 Fortran
 Python
-",Lawrence Livermore National Laboratory,beckingsale1@llnl.gov,High-Performance Computing,0,1,1,0
+",Lawrence Livermore National Laboratory,beckingsale1@llnl.gov,High-Performance Computing,0,1,0,0
 shivupa,"Python
 C++",,University of Pittsburgh,shu8@pitt.edu,"Chemistry
 Chemical Physics
@@ -2131,7 +2131,7 @@ davidbeckingsale,C++,"C
 Fortran
 Python",Lawrence Livermore National Laboratory,beckingsale1@llnl.gov,"Parallel programming models
 Scientific software
-GPUs",0,1,1,0
+GPUs",0,1,0,0
 amrithasuresh,Python ,,"Postdoc, Entomology and Nematology, University of Florida",Suresh.pannersel@ufl.edu,,0,0,0,0
 mhetrerajat,Python,,,mhetrerajat@gmail.com,"Reinforcement Learning, Recommendation Engines, Collaborative Filtering, Deep Learning",0,0,0,0
 RedDevil91,python,,,b.attila91@gmail.com,,0,0,0,0
@@ -5688,3 +5688,4 @@ Cognitive Engineering
 Financial Fraud Detection",0,0,0,0
 MAnalytics,R,,"Manchester Metropolitan University, UK",m.adepeju@mmu.ac.uk,"GIS, Geocomputation, Crime",0,0,0,0
 diegomoreiracarvalho,"Python, C, C++, go, Julia","Pascal, Modula-2",Federal Centre for Technological Education of Rio de Janeiro - Cefet/RJ,d.carvalho@ieee.org,"Distributed Systems, Data Mining, OO, Workflow, Micro services, Artificial intelligence"
+@varlottaang,"Javascript, Python, Julia",,,angvarlotta@gmail.com,"web development, data science, data ethics"
