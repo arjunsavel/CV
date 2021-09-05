@@ -1154,7 +1154,7 @@ camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of 
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
-neuroimaging",0,7,2,0
+neuroimaging",0,7,1,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
@@ -1540,7 +1540,7 @@ Natural Language Processing
 Computer Vision
 Data Visualization",0,0,0,0
 dhuppenkothen,Python,,University o Washington,dhuppenk@uw.edu,"Astronomy, statistics, data science",0,0,0,0
-mfroeling,Mathematica,Matlab,University medical center Utrecht,m.froeling@gmail.com,Medical imaging and processing,0,1,1,0
+mfroeling,Mathematica,Matlab,University medical center Utrecht,m.froeling@gmail.com,Medical imaging and processing,0,1,0,0
 will-rowe,"Go
 Python",C,UKRI,will.rowe@stfc.ac.uk,"Bioinformatics
 Microbial Genomics",0,1,0,0
@@ -4163,7 +4163,7 @@ R
 javascript",,"Florida International University, Department of Psychology",kbott006@fiu.edu,"Neuroinformatics
 Neuroimaging
 Psychology
-Data science",1,2,1,0
+Data science",1,2,0,0
 chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,1,0
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",0,0,0,0
 mherman09,Fortran,"Python
@@ -4833,7 +4833,7 @@ Deep Learning
 Image Classification
 Time Series Data
 Astrophysics
-Cosmology",2,2,0,0
+Cosmology",1,2,1,1
 zgxn,"C
 C++
 Fortran","Python
@@ -5376,7 +5376,7 @@ dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconsci
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
-Machine Learning",2,3,1,1
+Machine Learning",1,3,2,2
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
@@ -5687,5 +5687,9 @@ Julia",IBM,gregoire.cattan@ibm.com,"Human-Computer Interfaces
 Cognitive Engineering
 Financial Fraud Detection",0,0,0,0
 MAnalytics,R,,"Manchester Metropolitan University, UK",m.adepeju@mmu.ac.uk,"GIS, Geocomputation, Crime",0,0,0,0
-diegomoreiracarvalho,"Python, C, C++, go, Julia","Pascal, Modula-2",Federal Centre for Technological Education of Rio de Janeiro - Cefet/RJ,d.carvalho@ieee.org,"Distributed Systems, Data Mining, OO, Workflow, Micro services, Artificial intelligence"
+diegomoreiracarvalho,"Python, C, C++, go, Julia","Pascal, Modula-2",Federal Centre for Technological Education of Rio de Janeiro - Cefet/RJ,d.carvalho@ieee.org,"Distributed Systems, Data Mining, OO, Workflow, Micro services, Artificial intelligence",0,0,0,0
 @varlottaang,"Javascript, Python, Julia",,,angvarlotta@gmail.com,"web development, data science, data ethics"
+@ruillercoaster,"python 
+julia","c++
+matlab",California Institute of Technology,rccheng@caltech.edu,"vegetation remote sensing
+environmental science"
