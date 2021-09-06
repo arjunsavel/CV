@@ -209,7 +209,7 @@ surrogate model
 design of experiments
 statistics
 computational fluid dynamics",0,0,0,0
-josephhardinee,"Python, Matlab, C",,Pacific Northwest National Laboratory,joseph.hardin@pnnl.gov,"Atmospheric Science, Machine Learning, Radar, Digital Signal Processing",0,2,1,0
+josephhardinee,"Python, Matlab, C",,Pacific Northwest National Laboratory,joseph.hardin@pnnl.gov,"Atmospheric Science, Machine Learning, Radar, Digital Signal Processing",0,2,0,0
 Datseris,Julia,,Max Planck Institute for Dynamics and Self-Organization,datseris.george@gmail.com,"Chaos Theory
 Nonlinear Dynamics
 Complex Systems
@@ -1896,7 +1896,7 @@ cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
-mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,1,0
+mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
 sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",4,9,3,0
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
@@ -1951,7 +1951,7 @@ feddelegrand7,R,,National Higher School of Statistics and Applied Economics (ENS
 Economics 
 Data Envelopment Analysis 
 Banking",0,0,0,0
-martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",0,4,2,2
+martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",0,4,2,1
 czxa,"R
 Stata","Python
 Latex","Shandong University, China",czxjnu@163.com,"Economics
@@ -4149,7 +4149,7 @@ Neutron Scattering
 Molecular Dynamics
 Web Applications",0,1,1,0
 williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,0
-Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,1,0
+Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,0,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",1,1,0,0
 miketuri,"Perl
 C
@@ -5688,8 +5688,10 @@ Cognitive Engineering
 Financial Fraud Detection",0,0,0,0
 MAnalytics,R,,"Manchester Metropolitan University, UK",m.adepeju@mmu.ac.uk,"GIS, Geocomputation, Crime",0,0,0,0
 diegomoreiracarvalho,"Python, C, C++, go, Julia","Pascal, Modula-2",Federal Centre for Technological Education of Rio de Janeiro - Cefet/RJ,d.carvalho@ieee.org,"Distributed Systems, Data Mining, OO, Workflow, Micro services, Artificial intelligence",0,0,0,0
-@varlottaang,"Javascript, Python, Julia",,,angvarlotta@gmail.com,"web development, data science, data ethics"
+varlottaang,"Javascript, Python, Julia",,,angvarlotta@gmail.com,"web development, data science, data ethics",0,0,0,0
 @ruillercoaster,"python 
 julia","c++
 matlab",California Institute of Technology,rccheng@caltech.edu,"vegetation remote sensing
 environmental science"
+@ayaanhossain,python,,Penn State University,ain.hoss07@gmail.com,"Bioinformatics, Genomics, Synthetic Biology"
+rashti-alireza,"C, Python, Bash",,Florida Atlantic University,arashti2016@fau.edu,"Numerical relativity, Computational physics"
