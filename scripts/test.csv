@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",2,7,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,0,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,2,0
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,9,0,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
@@ -156,7 +156,7 @@ machine learning",0,7,0,0
 ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",1,1,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
-Sowftware characterisation and profiling",0,5,1,1
+Sowftware characterisation and profiling",0,5,1,0
 linuxscout,Python,"C++
 PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
@@ -1401,7 +1401,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,2,1
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,2,0
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",1,2,0,0
@@ -3423,7 +3423,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",0,1,1,1
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,2,1
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,2,0
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -5689,9 +5689,12 @@ Financial Fraud Detection",0,0,0,0
 MAnalytics,R,,"Manchester Metropolitan University, UK",m.adepeju@mmu.ac.uk,"GIS, Geocomputation, Crime",0,0,0,0
 diegomoreiracarvalho,"Python, C, C++, go, Julia","Pascal, Modula-2",Federal Centre for Technological Education of Rio de Janeiro - Cefet/RJ,d.carvalho@ieee.org,"Distributed Systems, Data Mining, OO, Workflow, Micro services, Artificial intelligence",0,0,0,0
 varlottaang,"Javascript, Python, Julia",,,angvarlotta@gmail.com,"web development, data science, data ethics",0,0,0,0
-@ruillercoaster,"python 
+ruillercoaster,"python 
 julia","c++
 matlab",California Institute of Technology,rccheng@caltech.edu,"vegetation remote sensing
-environmental science"
-@ayaanhossain,python,,Penn State University,ain.hoss07@gmail.com,"Bioinformatics, Genomics, Synthetic Biology"
+environmental science",0,0,0,0
+ayaanhossain,python,,Penn State University,ain.hoss07@gmail.com,"Bioinformatics, Genomics, Synthetic Biology",0,0,0,0
 rashti-alireza,"C, Python, Bash",,Florida Atlantic University,arashti2016@fau.edu,"Numerical relativity, Computational physics"
+aliaksei135,"C++
+Python
+Java",,University of Southampton,a.pilko@soton.ac.uk,"Aerospace, Unmanned Vehicles"
