@@ -1822,7 +1822,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",0,3,1,0
+simulation technology",0,3,0,0
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -3190,7 +3190,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",0,3,1,0
+applied mathematics (numerical integration of ODEs, etc.)",0,3,0,0
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 N/A,C++,"C, Fortran",IBM Research,vkal@ibm.com,"Numerical Linear Algebra, AI",0,0,0,0
 hmenager,"Python
@@ -3820,7 +3820,7 @@ Earth System Modeling",0,2,2,1
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
-Python",,Universidad Politécnica de Cartagena (UPCT),avigueras.rodriguez@upct.es,"Urban Hydraulic, Wind power, Hydropower, CFD",0,1,1,0
+Python",,Universidad Politécnica de Cartagena (UPCT),avigueras.rodriguez@upct.es,"Urban Hydraulic, Wind power, Hydropower, CFD",0,1,0,0
 ajoer,Python,,University of Amsterdam,a.jorgensen@uva.nl,"Social science, digital humanities, Natural language processing, data engineering",0,0,0,0
 Jgeller112,R Python,NA,Rutgers Univerisy,jason.geller1@rutgers.edu,Eye tracking Pupillometry,0,0,0,0
 tpeulen,Python,C/C++,University of California San Francisco,thomas-otavio.peulen@ucsf.edu,"Biophysics
@@ -4185,7 +4185,7 @@ C++
 C","MySQL
 JAVA","Birla Institute of Technology and Science Pilani, K. K. Birla Goa Campus",divhet163@gmail.com,"Deep Learning
 Machine Learning
-Data Science",0,1,1,1
+Data Science",1,2,1,1
 Rlucas7,Python C C++ JavaScript Scala R,,Amazon,rlucas7@vt.edu,Statistics Optimization and Machine Learning,0,0,0,0
 ajquinn,"Python, Matlab","Bash/Shell, R, JavaScript",University of Oxford,andrew.quinn@psych.ox.ac.uk,"Electrophysiology methods (MEG/EEG etc), Frequency analysis, Time-series analysis, Oscillations, Linear & Nonlinear dynamical systems",0,0,0,0
 TLCFEM,C++,"C
@@ -4298,7 +4298,7 @@ sayakpaul,Python,JavaScript,Deep Learning Associate at PyImageSearch,spsayakpaul
 villaa,"C, C++, Python, Fortran",None,University of Colorado Denver,anthony.villano@ucdenver.edu,"dark matter, neutrons, Geant4 simulation",0,0,0,0
 pmeier,Python,Matlab,"inIT - Institute Industrial IT, Technische Hochschule Ostwestfalen-Lippe (TH-OWL)",philip.meier@th-owl.de,"Machine Learning
 Deep Learning
-Neural Style Transfer",1,1,0,0
+Neural Style Transfer",2,2,0,0
 alaingdl,"IDL/GDL, c/c++",,"LERMA, CNRS & Observatoire de Paris, France",alain.coulais@obspm.fr,astronomy,0,0,0,0
 jifarquharson,Python,"LabVIEW
 TeX
@@ -4551,7 +4551,7 @@ Het-Shah,"Python
 C++
 C",JAVA,"BITS Pilani, K. K. Birla Goa Campus",divhet163@gmail.com,"Machine Learning
 Deep Learning 
-Computer Vision",0,1,1,1
+Computer Vision",1,2,1,1
 lutzhamel,"C
 Python
 R
@@ -5507,7 +5507,7 @@ Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
 FHIR",0,0,0,0
 obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",0,0,0,0
 weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences,0,0,0,0
-TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",0,0,0,0
+TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",1,1,0,0
 MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics",0,0,0,0
 bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com,"Physics, Materials Science, Chemical Engineering, Mathematical Modeling, Data Science, Machine Learning",0,0,0,0
 kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning",0,0,0,0
