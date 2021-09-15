@@ -1478,7 +1478,7 @@ Model frameworks
 Social Models
 Quantitative Archaeology
 Oceanography",0,3,1,1
-srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,3,0,0
+srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",1,4,0,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
 CMake
@@ -1506,7 +1506,7 @@ mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science,
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
 Earth and Planetary Sciences
-Geophysical Fluid Dynamics",1,2,0,0
+Geophysical Fluid Dynamics",0,2,1,1
 osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,3,1,0
 ksunden,"Python
 C
@@ -3737,7 +3737,7 @@ scientific computing
 computational science
 data science",0,3,3,1
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
-govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,1,1,0
+govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",1,2,1,0
 manojrege,"Python
 Java
 Terraform
@@ -4316,7 +4316,7 @@ steo85it,"python
 fortran",N/A,UMBC/NASA GSFC,stefano.bertone@umbc.edu,"astronomy
 planetary sciences
 orbit determination
-space geodesy",1,1,0,0
+space geodesy",0,1,1,1
 jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,1,1,0,0
 xie186,Python,"R
 Perl
@@ -4450,7 +4450,7 @@ Python
 MATLAB","C++
 Python
 MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
-Mesh Generation",0,0,0,0
+Mesh Generation",1,1,0,0
 awvwgk,"Fortran
 Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
@@ -5711,5 +5711,6 @@ NodeJS
 C#
 Rust
 (Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,0,1,1,1
-Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com
-SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis"
+Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
+SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,0,0,0
+@mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science"
