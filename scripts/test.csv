@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,3,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,4,1,1
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",2,5,1,1
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -1901,7 +1901,7 @@ sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
-Physics (plasmas, especially)",0,2,2,1
+Physics (plasmas, especially)",0,2,1,1
 clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
@@ -1935,7 +1935,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,3,1,1
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,3,1,0
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,1
 nniiicc,"R
 Python
@@ -2420,7 +2420,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,2,0
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,1,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,1,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -5070,7 +5070,7 @@ paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
 (Geo/water) chemistry
 Aquatic science
-Geographic information systems (GIS)",1,1,0,0
+Geographic information systems (GIS)",0,1,1,1
 nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics",0,0,0,0
 jingpengw,"python
 C++
@@ -5355,7 +5355,7 @@ No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,1
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
-richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",1,1,0,0
+richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,1
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
 felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,1,1,1
 tanho63,R,,,tan@tanho.ca,,0,0,0,0
@@ -5407,7 +5407,7 @@ Perl
 R",,University of Michigan,prvst@protonmail.com,"Bioinformatics
 Computational Biology
 Proteomics",0,0,0,0
-oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning",0,0,0,0
+oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning",1,1,0,0
 vavrines,Julia,Fortran,Karlsruhe Institute of Technology,tianbaixiao@gmail.com,Computational Physics,0,0,0,0
 kaniket1234,"Java, Python",Python,"Principal Architect, QA",aniketkulkarni007@gmail.com,"Software Development
 Software Testing and Automation",0,0,0,0
@@ -5719,9 +5719,9 @@ sinaahmadi,Python,,Insight Centre for Data Analytics,ahmadi.sina@outlook.com,"na
 computational linguistics
 semantic web
 linked data
-language technology"
+language technology",0,0,0,0
 dm807cam,R,,University of Cambridge,dm807@cam.ac.uk,"ecology
 earth sciences
 raster/image analysis
-element/ion data analysis"
+element/ion data analysis",0,0,0,0
 fawda123,R,,Tampa Bay Estuary Program,mbeck@tbep.org,"Environmental Science, Aquatic Ecology, Water Quality Monitoring"
