@@ -1971,7 +1971,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",1,2,1,0
+model selection",0,2,2,1
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -3297,7 +3297,7 @@ diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
 coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,2,0
-lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,1,1,0,0
+lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,1
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
 aebergl,MATLAB,,Moffitt Cancer Center,anders.berglund@moffitt.org,Bioinformatics,0,0,0,0
@@ -4456,7 +4456,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",1,1,0,0
+Atomistic simulations",0,1,1,1
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,1,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -4918,7 +4918,7 @@ MCMC based optimizations (e.g., parallel tempering)
 Anthropology
 Archaeology
 Human Evolution
-Ecology",0,0,0,0
+Ecology",1,1,0,0
 xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,0,0,0
 abhishekvp,"javascript
 Java
@@ -5672,7 +5672,7 @@ Reliability Engineering
 Prognostics & Health Monitoring
 Informed Machine Learning
 Natural Language Processing",0,0,0,0
-steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,0,0,0,0
+steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,1,1,0,0
 not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications",0,0,0,0
 mingzehuang,R,Python,Texas A& M University,mingzehuang@gmail.com,"Computational Statistics, Machine Learning,  Big Data, Computational Social Science and Finance.",0,0,0,0
 makyol,Python,"R, Scala",Middle East Technical University,akyol.mehmet@metu.edu.tr,"Remote Sensing, Deep Learning, Machine Learning, Data Mining",0,0,0,0
@@ -5725,3 +5725,11 @@ earth sciences
 raster/image analysis
 element/ion data analysis",0,0,0,0
 fawda123,R,,Tampa Bay Estuary Program,mbeck@tbep.org,"Environmental Science, Aquatic Ecology, Water Quality Monitoring"
+@HubLot,Python,"C++
+bash",CNRS,hubert.santuz@ibpc.fr,"molecular dynamics
+computational chemistry
+computational biochemistry"
+tedinburgh,Python,R,University of Cambridge,te269@cam.ac.uk,"Statistics in medicine
+Causal inference
+Information theory
+Survival analysis"
