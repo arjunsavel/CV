@@ -396,7 +396,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",1,3,1,1
+Software Testing",1,3,1,0
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -1390,7 +1390,7 @@ Validation
 Testing",0,0,0,0
 jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,3,1,1
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
-rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,1,0
+rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,0,0
 EduPH,"Python
 R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
@@ -1559,7 +1559,7 @@ JavaScript/CoffeeScript","Golang
 PHP",University of Minnesota,rabdill@umn.edu,"web portals/data visualization
 infrastructure automation
 containerization
-bioinformatics",1,2,0,0
+bioinformatics",2,3,0,0
 brechmos,Python,"Java, C++, C",Space Telescope Science Institute,craig@brechmos.org,"Medical Imaging, Astronomy",0,0,0,0
 kMutagene,F#,,"Computational Systems Biology, TU Kaiserslautern",kevin-schneider@mutagene.de,"Bioinformatics, Computational Biology, other F# projects after taking a first look. ",0,0,0,0
 jeeteshchel,"Java
@@ -1971,7 +1971,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",0,2,2,1
+model selection",0,2,1,1
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -2700,7 +2700,7 @@ Python",,Max Planck Institute for Heart and Lung Research,jens.preussner@mpi-bn.
 Bioinformatics
 Single-cell biology
 Cancer biology
-Data Science",0,2,1,0
+Data Science",0,2,0,0
 carleshf,"python
 R","javascript
 java",The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG),carles.hernandez@cnag.crg.eu,"bioinformatics
@@ -4205,7 +4205,7 @@ florian-rosenthal,"Matlab
 C++",Python,Karlsruhe Institute of Technology,rosenthal@kit.edu,"Signal Processing
 Automatic Control",0,0,0,0
 SvenVanPoucke,Python,RapidMiner,Ziekenhuis Oost-Limburg,svanpoucke@gmail.com,Medicine,0,0,0,0
-telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,1,1,0
+telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,1,0,0
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
@@ -4365,7 +4365,7 @@ ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,
 Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
-Numerical analysis",1,2,1,1
+Numerical analysis",1,2,1,0
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",1,1,0,0
 smutao/,"Python
 Fortran
@@ -5527,7 +5527,7 @@ helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical E
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",1,1,0,0
-1tylermitchell,Python,JavaScript,Locate Press,Tyler@locatepress.com,"Geospatial, big data",0,0,0,0
+1tylermitchell,Python,JavaScript,Locate Press,Tyler@locatepress.com,"Geospatial, big data",1,1,0,0
 alexmascension,Python,R,Biodonostia Health Research Institute,alexmascension@gmail.com,single-cell RNA seq,0,0,0,0
 abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",0,0,0,0
 Ziqian-xia,R,,Nanchang University,Ziqian.research@gmail.com,Environment，Psychometrics，Graphics,0,0,0,0
@@ -5754,18 +5754,18 @@ C++
 Javascript
 HTML
 SQL",Laboratory of Systems Pharmacology Harvard Medical School,ben.gyori@gmail.com,"Biology-related software, Molecular Biology",0,0,0,0
-gdev7,"Python, C++, Fortran90",C,Indian Institute of Technology Kanpur,halderprosun7@gmail.com,"Molecular Simulation, Chemical Engineering, Physical Chemistry"
+gdev7,"Python, C++, Fortran90",C,Indian Institute of Technology Kanpur,halderprosun7@gmail.com,"Molecular Simulation, Chemical Engineering, Physical Chemistry",0,0,0,0
 GaurangTandon,"Python3
 JavaScript (ES6)","C/C++
 Rust","International Institute of Information Technology, Hyderabad",gaurang.tandon@students.iiit.ac.in,"Products that build on general web technologies (web servers/scrapers/frontend/backend)
 
 Userscripts/Chrome extensions
 
-Performance oriented applications (fast Python/C++/Rust, flamegraphs, perf stat)"
+Performance oriented applications (fast Python/C++/Rust, flamegraphs, perf stat)",0,0,0,0
 OlgerSiebinga,Python,"Matlab
 Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interaction
 Driver modelling
-Robotics"
-KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning"
-https://github.com/fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science
+Robotics",0,0,0,0
+KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,0,0,0
+fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,0,0,0,0
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing"
