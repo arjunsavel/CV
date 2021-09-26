@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,3,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",2,5,1,1
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,5,2,2
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",1,6,0,0
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,1
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,0,0,0
@@ -3052,7 +3052,7 @@ motahhir,C,"Python, Matlab","ENSA Fès, USMBA",saad.motahhir@usmba.ac.ma,"Embedd
 felixcremer,Julia,python,Deutsches Zentrum für Luft und Raumfahrt,felix.cremer@dlr.de,"earth observation
 time series",1,2,1,0
 danhey,Python,,University of Sydney,dhey3294@uni.sydney.edu.au,"Astronomy
-Asteroseismology",1,2,1,0
+Asteroseismology",1,2,0,0
 nagellette,Python,,MSc. Geomatics Engineer (PhD Candidate),necipenesgengec@gmail.com,"Spatial analysis
 GIS
 Remote Sensing
@@ -3296,7 +3296,7 @@ Optimization methods",0,0,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
-coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,2,0
+coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,1,0
 lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,1
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
@@ -3816,7 +3816,7 @@ high-performance computing
 software design",0,1,1,1
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",0,2,2,1
+Earth System Modeling",0,2,2,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",1,2,1,1
+renewable energy",1,2,1,0
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -4884,7 +4884,7 @@ a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlo
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,1,1
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",1,1,0,0
-JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,1
+JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,0
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,0,0,0
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,0,0,0
 Yuri-M-Dias,"R
@@ -5052,7 +5052,7 @@ social sciences
 integrated assessment
 land use and land cover change
 hydrology
-population dynamics",0,1,1,1
+population dynamics",0,1,1,0
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,2,1
 BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",2,2,0,0
 Komalharini237,"Python
