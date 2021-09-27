@@ -2,6 +2,39 @@
   {
     "arxiv": null,
     "authors": [
+      "May, Erin M.",
+      "Komacek, Thaddeus D.",
+      "Stevenson, Kevin B.",
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Malik, Matej",
+      "Ih, Jegug",
+      "Mansfield, Megan",
+      "Savel, Arjun B.",
+      "Deming, Drake",
+      "Desert, Jean-Michel",
+      "Feng, Y. Katherina",
+      "Fortney, Jonathan J.",
+      "Kataria, Tiffany",
+      "Lewis, Nikole",
+      "Morley, Caroline",
+      "Rauscher, Emily",
+      "Showman, Adam"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac0e30",
+    "page": 158,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-10-00",
+    "title": "Spitzer Phase-curve Observations and Circulation Models of the Inflated Ultrahot Jupiter WASP-76b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..158M",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Murakami, Yukei S.",
       "Jennings, Connor",
       "Hoffman, Andrew M.",
@@ -770,7 +803,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
