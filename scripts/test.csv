@@ -1501,7 +1501,7 @@ Multi-physics frameworks & applications
 Legacy application refactoring tools
 Parallel & PGAS runtimes/RTLs
 Package Managers
-MacOS tools & Utilities",0,4,1,1
+MacOS tools & Utilities",1,5,1,1
 mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science, web APIs, statistics",0,2,0,0
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
@@ -1666,7 +1666,7 @@ bast,"Python
 Fortran
 C
 C++",Rust,UiT The Arctic University of Norway,radovan.bast@uit.no,"Computational chemistry
-Computational physics",0,1,1,1
+Computational physics",0,1,1,0
 onurvarol,Python,"Matlab, C#, Javascript",Northeastern University,ovarol2005@gmail.com,"Network Science, Machine Learning",0,0,0,0
 jmadera,"Python
 Java
@@ -3467,7 +3467,7 @@ hmacdope,"Python
 FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
-HPC",0,2,2,0
+HPC",0,2,1,0
 simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,0,0,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
@@ -3476,7 +3476,7 @@ Javascript",KTH Royal Institute of Technology,gaborit@kth.se,"Physics
 Numerical methods and simulations",0,0,0,0
 tylerwmarrs,"Python, Java, C, R",,"Matrix Profile Foundation, CRST International",tylerwmarrs@gmail.com,"Scientific computing, machine learning, algorithms, statistics",0,0,0,0
 bblum9,"R, Python, C++, Bash",,Boston University School of Medicine,bblum@bu.edu,"Bioinformatics, Computational Biology, Statistics",0,0,0,0
-mattwthompson,Python,No others at the moment,Open Force Field Initiative/University of Colorado Boulder,mattwthomp@gmail.com,"Scientific Computing, Molecular Simulation, Computational Chemistry",0,1,1,0
+mattwthompson,Python,No others at the moment,Open Force Field Initiative/University of Colorado Boulder,mattwthomp@gmail.com,"Scientific Computing, Molecular Simulation, Computational Chemistry",0,1,0,0
 AnjaliSandip/,"Python, Fortran, Matlab, Bash",C,University of North Dakota,asandip785@gmail.com,"Numerical methods (finite element/finite volume), Optimization, Uncertainty quantification",0,0,0,0
 Path2Genome,"R，Perl, Python",shell,path2genome.org,ms_mail@163.com,"biological
 medical",0,0,0,0
@@ -3569,7 +3569,7 @@ Geophysics
 Earthquake Science",0,0,0,0
 hadware,Python,C,CoML,hadrien.titeux@ens.fr,"Machine Learning
 NLP
-Audio processing",0,1,1,1
+Audio processing",0,1,1,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",1,3,1,0
@@ -4177,7 +4177,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,2,2,1
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,2,2,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -4749,7 +4749,7 @@ Python",,"Physics Department, Sapienza U niversity of Rome",lorenzo.rovigatti@un
 - physical chemistry
 - soft matter
 - chemical physics
-- biophysics",1,2,1,0
+- biophysics",2,3,1,0
 none,"Python, Julia, C, C++",FORTRAN,University of Waterloo,nmabukhdeir@uwaterloo.ca,"fluid mechanics
 particle mechanics
 image processing",0,0,0,0
@@ -4764,7 +4764,7 @@ Optimization",0,0,0,0
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
-phonetics",0,1,1,1
+phonetics",0,1,1,0
 gdancik,"R
 Python","C/C++
 Java",Eastern Connecticut State University,dancikg@easternct.edu,Bioinformatics,0,0,0,0
@@ -5095,7 +5095,7 @@ Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology 
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
 Climate
 Energy systems
-Sensitivity analysis",1,2,1,0
+Sensitivity analysis",0,2,2,1
 yxoos,Python,"Matlab, C++",Rochester Institute of Technology,ah7557@rit.edu,"Data Science
 Deep Learning
 AI
