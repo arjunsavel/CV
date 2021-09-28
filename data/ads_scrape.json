@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2107.03349",
     "authors": [
       "May, Erin M.",
       "Komacek, Thaddeus D.",
@@ -21,7 +21,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -338,39 +338,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2107.03349",
-    "authors": [
-      "May, Erin M.",
-      "Komacek, Thaddeus D.",
-      "Stevenson, Kevin B.",
-      "Kempton, Eliza M. -R.",
-      "Bean, Jacob L.",
-      "Malik, Matej",
-      "Ih, Jegug",
-      "Mansfield, Megan",
-      "Savel, Arjun B.",
-      "Deming, Drake",
-      "Desert, Jean-Michel",
-      "Feng, Y. Katherina",
-      "Fortney, Jonathan J.",
-      "Kataria, Tiffany",
-      "Lewis, Nikole",
-      "Morley, Caroline",
-      "Rauscher, Emily",
-      "Showman, Adam"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-07-00",
-    "title": "Spitzer phase curve observations and circulation models of the inflated ultra-hot Jupiter WASP-76b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210703349M",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2107.14223",
     "authors": [
       "Murakami, Yukei S.",
@@ -415,7 +382,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
