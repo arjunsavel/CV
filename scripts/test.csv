@@ -3895,7 +3895,7 @@ Materials Science
 Quantum Mechanics
 Condensed Matter Science
 High Performance Computing",0,1,1,1
-pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",1,1,0,0
+pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,1,1,1
 ldes89150,python,python,,ldes89150@gmail.com,"optics, physics",0,0,0,0
 schroedtert,"C++
 Python",Java,,tobias.schroedter@rwth-aachen.de,"Pedestrians dynamics
@@ -4841,7 +4841,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,1,0,0
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",0,1,0,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,1,0
@@ -5492,7 +5492,7 @@ Julia
 Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroimaging
 Structural Biology
 NMR
-Computational Biology",1,1,0,0
+Computational Biology",0,1,1,1
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
 luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning",0,0,0,0
 Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology,0,0,0,0
@@ -5773,9 +5773,21 @@ tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@
 allenzhuaz/,"R
 Python",,"Merck & Co., Inc.",yalin.zhu@merck.com,Statistics,0,0,0,0
 kislerdm,"go, python, rust, kotlin, javascript","java, dart, ruby, haskell",-,admin@dkisler.com,"distributed systems, systems design, physics",0,0,0,0
-Anaphory,"Python, Rust",Maybe Java?,"Department of Geography, Universität Zürich",gereon.kaiping@geo.uzh.ch,"Phylogenetics, Language diversity, GIS for digital humanities, spatial analysis"
+Anaphory,"Python, Rust",Maybe Java?,"Department of Geography, Universität Zürich",gereon.kaiping@geo.uzh.ch,"Phylogenetics, Language diversity, GIS for digital humanities, spatial analysis",0,0,0,0
 GeekLogan,Python,Java,University of Michigan,loganaw@umich.edu,"Neuroscience
 Neuroinformatics
 Data Science
 Bioinformatics
 Genomics"
+https://github.com/j3r3m1,"Python
+SQL
+Groovy",,University of Gothenburg,jeremy.bernard@zaclys.net,"Climate
+Energy
+Geographical Information System"
+https://github.com/harshitv09?tab=repositories,Python,,Indian Institute of Technology Roorkee,harshit@ce.iitr.ac.in,"Photogrammetry, Computer Vision, Point cloud, 3D GIS, 3D reconstruction"
+tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de,"Symbolic regression, machine learning, electronic structure, quantum chemistry, condensed matter physics, thermal transport, HTC frameworks"
+kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
+Interpretable Machine Learning
+Natural Language Processing
+Statistics"
+@jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs"
