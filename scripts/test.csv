@@ -258,7 +258,7 @@ R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.a
 Genomics
 Computational Biology
 Bioinformatics
-Protein Science",1,6,1,0
+Protein Science",1,6,0,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
 alexanderfurnas ,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
@@ -883,7 +883,7 @@ JavaScript","University of Michigan, Department of Computational Medicine & Bioi
 Genomics
 Bioinformatics
 Big Data
-Structural Variation",0,4,1,0
+Structural Variation",0,4,0,0
 fabian-s,R,C++,LMU Munich (Stats Department),fabian.scheipl@googlemail.com,"Linear Models
 Additive Models
 Mixed Models
@@ -1371,7 +1371,7 @@ Machine Learning",0,0,0,0
 symmy596,Python,Fortran,University of Bath,ars44@bath.ac.uk,"Materials Science, Chemistry, Physics",0,1,0,0
 seabbs,R,LiBBi,University of Bristol,contact@samabbott.co.uk,"Public Health, Epidemiology, Mathematical Modelling, Reproducible Research",1,3,0,0
 sunhwan,Python,Javascript,"Qulab, Inc",sunhwanj@gmail.com,Science,0,1,0,0
-morganericsson,"Python, C","Java, Julia",Linnaeus University,morganericsson@gmail.com,"Computer Science, High-performance computing, software engineering",1,2,0,0
+morganericsson,"Python, C","Java, Julia",Linnaeus University,morganericsson@gmail.com,"Computer Science, High-performance computing, software engineering",0,2,0,0
 dgurkan (main contributions in bitbucket.org/uh-netlab),python,,university of houston,dgurkan@uh.edu,computer networking,0,0,0,0
 jmkim,"Shell
 C
@@ -1388,7 +1388,7 @@ MPI
 OpenMP
 Validation
 Testing",0,0,0,0
-jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,3,1,1
+jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,3,1,0
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
 rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,0,0
 EduPH,"Python
@@ -2283,7 +2283,7 @@ Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and D
 k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,0,0,0,0
 hiraksarkar,"Python
 C++",C,University of Maryland,hsarkar@cs.umd.edu,"Bioinformatics 
-computational biology",0,0,0,0
+computational biology",1,1,0,0
 chpriyal,"C++
 Python
 Verilog
@@ -2300,7 +2300,7 @@ ThomDietrich,"python
 r
 bash",,,thomas@nurzen.de,,0,0,0,0
 benjaminpope,Python,,New York University,benjamin.pope@nyu.edu,"astronomy
-astrophysics",1,3,2,0
+astrophysics",1,3,1,0
 adrn,Python,"Cython
 if necessary, C",Flatiron Institute,adrianmpw@gmail.com,"astronomy
 general open-source",1,1,0,0
@@ -2501,7 +2501,7 @@ jonahbenton,"python, clojure, go",None,Independent Consultant,jonah@jonah.com,,0
 PBarmby,Python,C,Western University,pbarmby@uwo.ca,Astrophysics/astronomy,0,0,0,0
 Williamsmj,Python,,Cloudera,mike@mike.place,"Machine learning, data processing esp. astrophysics, visualisation",0,0,0,0
 zaxtax,"Python, Haskell, R",Julia,University of Oxford,zinkov@robots.ox.ac.uk,"machine learning, data science",0,0,0,0
-szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,3,1,1
+szorowi1,python,R,Princeton University,zorowitz@princeton.edu,"cognitive modeling, bayesian statistics, fmri, eeg, eyetracking, pupillometry",0,3,1,0
 Corbett,"Python, Objective-C","C++,Java",NASA JPL,Corbett@caltech.edu,"Astrophysics, computer security,physics, computer science",0,0,0,0
 smsaladi,"python, R, javascript","C, C++",California Institute of Technology,saladi@caltech.edu,"biology, bioinformatics, biochemistry, biophysics, bioengineering",0,0,0,0
 samvaughan,Python,None,University of Sydney,Sam.vaughan@sydney.edu.au,Astronomy,0,0,0,0
@@ -2914,7 +2914,7 @@ acoustics
 numerical analysis
 machine learning
 data science
-statistics",1,3,1,0
+statistics",0,3,1,0
 1313e,Python,,"Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia",ellert_vandervelden@outlook.com,"Bayesian Statistics
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
@@ -3530,7 +3530,7 @@ Java
 Elixir","University of Maryland, College Park",jayaram.kancherla@gmail.com,"biological data visualization
 bioinformatics
 data management
-data structures",0,3,1,1
+data structures",0,3,1,0
 lee-seon-woo,Python,C++,Inha University,x21999@inha.edu,"DeepLearning
 Abnormal Detection
 Object Detection
@@ -5089,7 +5089,7 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",0,0,0,0
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,1,1,0
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",1,2,1,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",1,1,0,0
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,0,0,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
@@ -5778,16 +5778,16 @@ GeekLogan,Python,Java,University of Michigan,loganaw@umich.edu,"Neuroscience
 Neuroinformatics
 Data Science
 Bioinformatics
-Genomics"
-https://github.com/j3r3m1,"Python
+Genomics",0,0,0,0
+j3r3m1,"Python
 SQL
 Groovy",,University of Gothenburg,jeremy.bernard@zaclys.net,"Climate
 Energy
-Geographical Information System"
-https://github.com/harshitv09?tab=repositories,Python,,Indian Institute of Technology Roorkee,harshit@ce.iitr.ac.in,"Photogrammetry, Computer Vision, Point cloud, 3D GIS, 3D reconstruction"
-tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de,"Symbolic regression, machine learning, electronic structure, quantum chemistry, condensed matter physics, thermal transport, HTC frameworks"
+Geographical Information System",0,0,0,0
+harshitv09?tab=repositories,Python,,Indian Institute of Technology Roorkee,harshit@ce.iitr.ac.in,"Photogrammetry, Computer Vision, Point cloud, 3D GIS, 3D reconstruction",0,0,0,0
+tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de,"Symbolic regression, machine learning, electronic structure, quantum chemistry, condensed matter physics, thermal transport, HTC frameworks",0,0,0,0
 kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
 Interpretable Machine Learning
 Natural Language Processing
-Statistics"
+Statistics",0,0,0,0
 @jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs"
