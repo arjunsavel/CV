@@ -16,7 +16,7 @@ khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, comp
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
-alex-konovalov,GAP,"Python, C",,,mathematics,0,4,1,0
+alex-konovalov,GAP,"Python, C",,,mathematics,0,4,0,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
 xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,3,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
@@ -774,7 +774,7 @@ Web-based Applications",0,1,1,0
 henrik227,Python,Julia,"AICES, RWTH Aachen University",barthels@aices.rwth-aachen.de,"symbolic computations
 pattern matching
 program generation
-linear algebra",0,3,1,0
+linear algebra",0,3,0,0
 shaunpwilkinson,R,,Victoria University of Wellington,shaunpwilkinson@gmail.com,"ecology and evolution
 phylogenetics
 algorithms
@@ -1090,7 +1090,7 @@ machine learning",0,1,0,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,0,0
-gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",1,2,0,0
+gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,2,1,1
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
@@ -1150,7 +1150,7 @@ SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & 
 historical/comparative linguistics
 cultural evolution",0,0,0,0
 jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,2,1,0
-camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",1,2,0,0
+camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,2,1,1
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
@@ -5791,3 +5791,4 @@ Interpretable Machine Learning
 Natural Language Processing
 Statistics",0,0,0,0
 @jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs"
+Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT
