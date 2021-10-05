@@ -2420,7 +2420,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,1,0
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,0,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,1,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -2819,7 +2819,7 @@ osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkele
 eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,3,2,0
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
-Interstellar medium",0,1,1,0
+Interstellar medium",0,1,0,0
 RealPolitiX,"Python
 MATLAB","Octave
 C++
@@ -5790,5 +5790,18 @@ kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
 Interpretable Machine Learning
 Natural Language Processing
 Statistics",0,0,0,0
-@jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs"
+jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",0,0,0,0
 Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT
+jdreo,"C++
+Python
+Bash",,Institut Pasteur,johann@dreo.fr,"Computational Intelligence
+Evolutionary Computation
+Operation Research
+Metaheuristics
+Optimization"
+inpefess,Python,,"Université Côte d'Azur, CNRS, LJAD, France",boris.shminke@univ-cotedazur.fr,"machine learning
+recommender systems
+automated theorem proving"
+@jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
+Neuroimaging
+Finance"
