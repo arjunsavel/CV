@@ -1174,13 +1174,15 @@ MikeHeiber,C++,,Northwestern University,heiber@mailaps.org,"materials science, p
 melissawm,"Python, Julia, Fortran, MATLAB",,Federal University of Santa Catarina - Brazil,melissa.mendonca@ufsc.br,"Mathematics, Documentation, LaTeX",0,2,0,0
 kpeeters,"C++, Python",,Durham University,kasper.peeters@durham.ac.uk,"Physics, maths, computer algebra",0,0,0,0
 kostadus,C++,CUDA,University of Zaragoza,konstantinos.mountris@gmail.com,Biomedical Engineering,0,0,0,0
-sirsharpest,"python
+AoifeHughes,"python
 MATLAB/Octave
 c
 c++
 R","lisp
 Java
-C#",John Innes Centre,nathan.hughes@jic.ac.uk,"Computational Biology
+C#",John Innes Centre,aoife.hughes@jic.ac.uk,"mathematical modelling
+statistics
+Computational Biology
 Plant Science
 Phenotyping
 Genotyping
@@ -5805,3 +5807,9 @@ automated theorem proving"
 @jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
 Neuroimaging
 Finance"
+yangyushi,"Python
+C++",Matlab,University of Bristol,yy17363@bristol.ac.uk,"Statistical Physics
+Molecular Dynamic
+Monte Carlo
+Computer Vision"
+scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision"
