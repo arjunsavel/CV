@@ -14,7 +14,7 @@ jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
 khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,5,2,2
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
-katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,1,0
+katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,0,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
 alex-konovalov,GAP,"Python, C",,,mathematics,0,4,0,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
@@ -173,7 +173,7 @@ Systems dynamics",0,8,1,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",1,4,0,0
-gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,2,0
+gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,1,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,1,1,0
@@ -355,7 +355,7 @@ AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthel
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
 traversaro,C++,"Modelica
 Octave",Italian Institute of Technology,silvio.traversaro@iit.it,"robotics
-simulation",1,1,0,0
+simulation",0,1,1,1
 paulgovan ,R,JavaScript,GE Renewable Energy,pgovan1@aggienetwork.com,"Data Analysis, Bayesian Methods, Network Analysis",0,0,0,0
 vahtras,"Python
 Fortran",,KTH Royal Institute of Technology,vahtras@kth.se,"Chemistry
@@ -1613,7 +1613,7 @@ Machine Learning
 Optimisation Research
 Geographic Information Systems",0,1,0,0
 wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"Solar Physics, heliophysics, space science, astrophysics, machine learning",1,1,0,0
-giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",2,2,0,0
+giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,2,1,1
 gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
 social networks
@@ -5793,23 +5793,23 @@ Interpretable Machine Learning
 Natural Language Processing
 Statistics",0,0,0,0
 jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",0,0,0,0
-Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT
+Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT,0,0,0,0
 jdreo,"C++
 Python
 Bash",,Institut Pasteur,johann@dreo.fr,"Computational Intelligence
 Evolutionary Computation
 Operation Research
 Metaheuristics
-Optimization"
+Optimization",0,0,0,0
 inpefess,Python,,"Université Côte d'Azur, CNRS, LJAD, France",boris.shminke@univ-cotedazur.fr,"machine learning
 recommender systems
-automated theorem proving"
-@jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
+automated theorem proving",0,0,0,0
+jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
 Neuroimaging
-Finance"
+Finance",0,0,0,0
 yangyushi,"Python
 C++",Matlab,University of Bristol,yy17363@bristol.ac.uk,"Statistical Physics
 Molecular Dynamic
 Monte Carlo
-Computer Vision"
+Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision"
