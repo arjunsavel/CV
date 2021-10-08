@@ -172,7 +172,7 @@ Bioinformatics
 Systems dynamics",0,8,1,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
-solid state physics",1,4,0,0
+solid state physics",0,4,1,1
 gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,1,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
@@ -4659,7 +4659,7 @@ Thermodynamics
 Heat Transfer
 Fuel Cells
 Batteries
-Combustion",1,1,0,0
+Combustion",0,1,1,1
 csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision",0,0,0,0
 jifarquharson,"Python
 G (LabVIEW)
@@ -5813,3 +5813,5 @@ Molecular Dynamic
 Monte Carlo
 Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision"
+no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology
+slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology"
