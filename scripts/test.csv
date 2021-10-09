@@ -61,7 +61,7 @@ oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine lear
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",0,2,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,0,0
 trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",0,9,1,0
-nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",1,7,0,0
+nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,7,1,1
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
 Network Visualisation",0,2,0,0
@@ -390,7 +390,7 @@ condensed matter physics
 materials science
 imaging
 remote sensing",0,2,0,0
-nhejazi,R,"Python, Julia",UC Berkeley,nhejazi@berkeley.edu,"statistics, machine learning, causal inference, computational biology",1,7,0,0
+nhejazi,R,"Python, Julia",UC Berkeley,nhejazi@berkeley.edu,"statistics, machine learning, causal inference, computational biology",0,7,1,1
 JoshKarpel,Python,,University of Wisconsin - Madison,josh.karpel@gmail.com,"Physics / Computational Physics
 Math
 Data Visualization",0,2,0,0
@@ -510,7 +510,7 @@ corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epide
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
 Rmadillo,"R, SQL",,Seattle Children's Hospital,dwight.barry@seattlechildrens.org,"Healthcare, medicine, hospital",0,1,0,0
-klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,1,0
+klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,0,0
 acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",0,6,0,0
 chasemc,R,,University of Illinois at Chicago,cclark42@uic.edu,"Microbiology, biochemistry, analytical chemistry ",0,0,0,0
 barryrowlingson,"R
@@ -707,7 +707,7 @@ Physics
 Statistics
 Machine Learning
 High Performance Computing",0,7,0,0
-strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",1,7,0,0
+strengejacke,R,,University Medical Center Hamburg-Eppendorf,d.luedecke@uke.de,"R coding, Public Health, Epidemiology, Health Care Research, Data Visualization",0,7,1,1
 smattr,"Python
 C
 C++","Haskell
@@ -933,7 +933,7 @@ Machine learning
 Cancer research",0,3,2,0
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
-joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,1,0
+joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,0,0
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
 arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,1,0
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
@@ -1371,7 +1371,7 @@ Visualization
 Graphical User Interfaces
 Machine Learning",0,0,0,0
 symmy596,Python,Fortran,University of Bath,ars44@bath.ac.uk,"Materials Science, Chemistry, Physics",0,1,0,0
-seabbs,R,LiBBi,University of Bristol,contact@samabbott.co.uk,"Public Health, Epidemiology, Mathematical Modelling, Reproducible Research",1,3,0,0
+seabbs,R,LiBBi,University of Bristol,contact@samabbott.co.uk,"Public Health, Epidemiology, Mathematical Modelling, Reproducible Research",0,3,1,1
 sunhwan,Python,Javascript,"Qulab, Inc",sunhwanj@gmail.com,Science,0,1,0,0
 morganericsson,"Python, C","Java, Julia",Linnaeus University,morganericsson@gmail.com,"Computer Science, High-performance computing, software engineering",0,2,0,0
 dgurkan (main contributions in bitbucket.org/uh-netlab),python,,university of houston,dgurkan@uh.edu,computer networking,0,0,0,0
@@ -2461,7 +2461,7 @@ Fortran
 Rust",Go,"Astronomy and Astrophysics, University of Toronto",horrobin@astro.utoronto.ca,"Astrophysical simulations or data analysis.
 Statistical methods for data modelling in physics.
 Computational fluiddynamics, solid body dynamics, geophysical modelling.",0,0,0,0
-matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,1,2,1,0
+matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,0,2,2,1
 axel-loewe,"C++, Python",PHP,"Karlsruhe Institute of Technology (KIT), Institute of Biomedical Engineering",axel.loewe@kit.edu,"Biomedical, Machine Learning",0,0,0,0
 lukassnoek,Python,Bash,University of Amsterdam,lukassnoek@gmail.com,"Neuroimaging (MRI, EEG), psychophysics, face recognition/perception",0,0,0,0
 Remi-Gau,matlab,,"Institute of research in Psychology, Univertsité catholique de Louvain, Belgium",remi.gau@gmail.com,neuroimaging,0,0,0,0
@@ -3928,7 +3928,7 @@ Matlab
 NeuroBS Presentation",,,avakiai@gmail.com,"cognitive neuroscience, experimental psychology, behavioral neuroscience",0,0,0,0
 xyzmjf,"Python (Perl, PHP, C)","PHP, Perl, C",,markf.mail@gmail.com,"Cheminformatics, protein sequence & structure, bioinformatics, molecular simulations.",0,1,0,0
 rosoport,matlab,"c, java, python",,rosoport@gmail.com,"linear algebra, numerical computing, geophysics",0,0,0,0
-TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",0,0,0,0
+TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",1,1,0,0
 sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,1,0
 j-andrews7,"python
 R",bash,,jared.andrews@stjude.org,"Bioinformatics
@@ -4429,7 +4429,7 @@ alessandrobelli,"Php, every variation of C, web languages.",,University of Breme
 john-s-butler-dit,Python,R,TU Dublin,John.s.butler@tudublin.ie,"Computational Neuroscience
 Dynamical Systems
 Numerical Analysis",0,0,0,0
-slim-patchy,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering",0,0,0,0
+slim-patchy,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering",1,1,0,0
 artgoldberg,Python,,Mount Sinai School of Medicine,Arthur.Goldberg@mssm.edu,"Discrete-event simulation
 Dynamical modeling
 Computational biology",0,0,0,0
@@ -5387,7 +5387,7 @@ lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, ma
 cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
 APIs
 Text analysis",1,2,1,1
-SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics",1,1,0,0
+SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics",0,1,1,1
 hechth,"Python
 C++
 R
@@ -5812,6 +5812,6 @@ C++",Matlab,University of Bristol,yy17363@bristol.ac.uk,"Statistical Physics
 Molecular Dynamic
 Monte Carlo
 Computer Vision",0,0,0,0
-scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision"
-no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology
+scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision",0,0,0,0
+no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology,0,0,0,0
 slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology"
