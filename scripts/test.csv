@@ -575,7 +575,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",0,8,2,1
+Statistics",0,8,1,1
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",0,1,0,0
@@ -899,7 +899,7 @@ Optimization
 Data Science
 Machine Learning",1,4,0,0
 lucask07,"Python
-MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,1,0
+MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,0,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",1,5,0,0
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
@@ -980,7 +980,7 @@ bash
 html
 javascript",Universidade Federal do Pará,andremrsantos@gmail.com,"Statistics
 Computational Biology
-Bioinformatics",0,1,1,0
+Bioinformatics",0,1,0,0
 maxscheurer,"Python, C++",Java,University of Heidelberg,maximilian.scheurer@iwr.uni-heidelberg.de,"Computational Chemistry,
 Computational Biophysics, Quantum Chemistry",0,0,0,0
 snastase,Python,,Princeton University,sam.nastase@gmail.com,"Neuroscience
@@ -3216,7 +3216,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",0,2,1,1
+Finite Element Analysis",0,2,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",1,1,0,0
@@ -5815,3 +5815,9 @@ Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision",0,0,0,0
 no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology,0,0,0,0
 slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology"
+@Flowdalic,"C, C++, Java, Scala",,Friedrich-Alexander University Erlangen-Nürnberg (FAU),flow@cs.fau.de,"Operating Systems
+System Software
+Parallel and Concurrent Programming
+Concurrency Platforms
+Communication Protocols and Implementations (XMPP, MQTT)
+Network Protocols and Implementations (DNS, DNSSEC, LDAP)"
