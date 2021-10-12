@@ -341,7 +341,7 @@ Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
 Software Engineering",0,1,0,0
-tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,1,0
+tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,0,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
 data visualization
@@ -871,7 +871,7 @@ Python","Java
 C++",University of York,stuart.lacy@gmail.com,"Epidemiology
 Biostatistics
 Health informatics
-Evolutionary computation",0,4,1,0
+Evolutionary computation",0,4,0,0
 mdpiper,"Python
 IDL
 Fortran","Java
@@ -1111,7 +1111,7 @@ Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,0,0,0
-marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,2,0
+marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,1,0
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -2916,7 +2916,7 @@ acoustics
 numerical analysis
 machine learning
 data science
-statistics",0,3,1,0
+statistics",0,3,0,0
 1313e,Python,,"Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia",ellert_vandervelden@outlook.com,"Bayesian Statistics
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
@@ -3696,7 +3696,7 @@ anawaldila,"Visual Basic
 Matlab
 wxMaxima","Matlab
 C++",Rio de Janeiro State University,anawaldila@hotmail.com,Civil Engineering,0,0,0,0
-dormezil,R,Python,School District of Palm Beach County,stevens.dormezil@palmbeachschools.org,"Data Mining, Learning Analytics, Data Mining, Natural Language Processing",0,1,1,0
+dormezil,R,Python,School District of Palm Beach County,stevens.dormezil@palmbeachschools.org,"Data Mining, Learning Analytics, Data Mining, Natural Language Processing",0,1,0,0
 ma-sadeghi,"Python
 MATLAB",Julia,Postdoctoral Researcher,amin.sadeghi@uwaterloo.ca,"Porous materials
 High performance computing
@@ -5814,7 +5814,7 @@ Monte Carlo
 Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision",0,0,0,0
 no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology,0,0,0,0
-slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology"
+slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology",0,0,0,0
 @Flowdalic,"C, C++, Java, Scala",,Friedrich-Alexander University Erlangen-Nürnberg (FAU),flow@cs.fau.de,"Operating Systems
 System Software
 Parallel and Concurrent Programming
