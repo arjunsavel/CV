@@ -1479,7 +1479,7 @@ Matlab",Helmholtz-Zentrum Geesthacht,carsten.lemmen@hzg.de,"Ecological Modeling
 Model frameworks
 Social Models
 Quantitative Archaeology
-Oceanography",0,3,1,1
+Oceanography",0,3,1,0
 srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",1,4,0,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
@@ -1648,7 +1648,7 @@ phckopper,"Python
 C","Javascript
 C++",Universidade Federal do Rio Grande do Sul,pedro.kopper@ufrgs.br,"Embedded Systems
 Computer Vision",0,1,0,0
-lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierarchical models, SEMs)",0,0,0,0
+lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierarchical models, SEMs)",1,1,0,0
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
 Geophysical exploration",0,0,0,0
@@ -1997,7 +1997,7 @@ Neuroscience
 Blind source separation
 Human brain imaging",0,2,1,0
 tretherington,"Python
-R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,0,0,0
+R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",1,1,0,0
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,0,0
 Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,2,1,0
 mariabnd,R,Python,Currently Steno Diabetes Center Copenhagen,maria@mdunbar.dk,Public Health,0,0,0,0
@@ -2763,7 +2763,7 @@ Lua
 Go",JavaScript,Max Planck Institute for the Science of Human History,tresoldi@shh.mpg.de,"Linguistics
 Literature
 Social Sciences
-Phylogenetics",0,2,2,1
+Phylogenetics",0,2,2,0
 htugcas,"IDL, python",,Krakow Pedagogical University,tugcasener@gmail.com,"astronomy, astrophysics",0,0,0,0
 ngoiz,"Python
 Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
@@ -5356,7 +5356,7 @@ karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development
 No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,1
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
-dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,0,0,0
+dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,1,1,0,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,1
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
 felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,1,1,1
@@ -5815,9 +5815,22 @@ Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision",0,0,0,0
 no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology,0,0,0,0
 slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology",0,0,0,0
-@Flowdalic,"C, C++, Java, Scala",,Friedrich-Alexander University Erlangen-Nürnberg (FAU),flow@cs.fau.de,"Operating Systems
+Flowdalic,"C, C++, Java, Scala",,Friedrich-Alexander University Erlangen-Nürnberg (FAU),flow@cs.fau.de,"Operating Systems
 System Software
 Parallel and Concurrent Programming
 Concurrency Platforms
 Communication Protocols and Implementations (XMPP, MQTT)
-Network Protocols and Implementations (DNS, DNSSEC, LDAP)"
+Network Protocols and Implementations (DNS, DNSSEC, LDAP)",0,0,0,0
+@ccaprani,"python
+C++
+Matlab",,Monash University,colin.caprani@monash.edu,"engineering
+statistics"
+richrobe,Python,Java,"Machine Learning and Data Analytics Lab (MaD Lab), Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",robert.richer@fau.de,"Signal Processing
+Biomedical Signal Processing
+Machine Learning
+Data Science
+Wearable Computing
+Statistics
+Psychology
+Biopsychology"
+puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics"
