@@ -284,7 +284,7 @@ Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
 mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,1
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
-tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,0,0,0
+tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",1,1,0,0
 mdogucu,R,,New College of Florida,mdogucu@ncf.edu,"Statistics, Missing Data, Measurement, Generalized Linear Models, Hierarchical Linear Models, Bayesian Statistics",0,0,0,0
 russellpierce,R,None. ,Zapier,russell.s.pierce@gmail.com,"Statistics, psychology, human factors",0,3,0,0
 lebebr01,R,,University of Iowa ,lebebr01@gmail.com,"Social science, education, statistics, simulation ",0,1,0,0
@@ -1158,7 +1158,7 @@ neuroimaging",0,7,1,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
-ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,1,0,0
+ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",1,2,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
 Electron Microscopy",0,1,0,0
@@ -1406,7 +1406,7 @@ Machine Learning",0,0,0,0
 astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,2,0
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
-gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",1,2,0,0
+gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",0,2,0,0
 brandondube,Python,Javascript,"Retro Refractions, LLC",brandondube@gmail.com,"Optics
 Physics",0,1,0,0
 aslakbergersen,Python,,Simula Research Laboratory,bergersen@gmail.com,"Geometric manipulation
@@ -1612,7 +1612,7 @@ Data Science
 Machine Learning
 Optimisation Research
 Geographic Information Systems",0,1,0,0
-wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"Solar Physics, heliophysics, space science, astrophysics, machine learning",1,1,0,0
+wtbarnes,Python,"C, C++, IDL",Lockheed Martin Solar and Astrophysics Laboratory,will.t.barnes@gmail.com,"Solar Physics, heliophysics, space science, astrophysics, machine learning",0,1,0,0
 giodegas,Python,"C++, Javascrip, Prolog","DISIM University of L'Aquila, Italy",giovanni.degasperis@univaq.it,"Machine learning, logic programming, reinforcement learning, robotics",1,2,1,1
 gvegayon,"R
 Stata",,University of Southern California,g.vegayon@gmail.com,"hpc
@@ -2488,7 +2488,7 @@ smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"comp
 Lachlangrose,Python,,Monash university,lachlan.grose@gmail.com,Geosciences,0,0,0,0
 simmonsja,python,matlab,UNSW Sydney,jasimmons22@gmail.com,"coastal
 coastal geomorphology",0,0,0,0
-dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",1,2,1,0
+dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,2,2,1
 pharshalp,"Python, Matlab",,The Pennsylvania State University,pharshalp@gmail.com,"Acoustics, Vibrations",0,0,0,0
 spacechemist,python,SQL,,khanhmai@creighton.edu,,0,0,0,0
 TGuillerme,R,,The University of Queensland,guillert@tcd.ie,Macroevolution,0,0,0,0
@@ -3075,7 +3075,7 @@ Mathematica",,Perimeter Institute for Theoretical Physics,schnetter@gmail.com,as
 proycon,"Python, C++, Rust",Javascript,Radboud University Nijmegen,proycon@anaproy.nl,Natural Language Processing (NLP),0,1,0,0
 chrisleaman,python,,University of New South Wales,c.leaman@unsw.edu.au,"coastal geomorphology
 coastal engineering
-beach erosion",1,2,0,0
+beach erosion",0,2,1,1
 suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",0,0,0,0
 kokan,"C++
 C",Go,,kokaipeter@gmail.com,"Compiler
@@ -3179,7 +3179,7 @@ Python
 Ruby",,University of Hawaii,seanbc@hawaii.edu,"Cyberinfrastructure
 Bioinformatics",0,0,0,0
 adam-m-jcbs,"python, Fortran, C/C++, CUDA, bash/shell","AWS code, web languages, Go, R",Stony Brook University,adam.m.jcbs@gmail.com,"computational fluid dynamics, gpu acceleration, cloud-native deployments, performance optimization, containerization",0,1,0,0
-macrocosme,python,"html, javascript, c++, cuda, opencl","ASTRON, Netherlands Institute for Radio Astronomy",vohl@astron.nl,"visualisation, image processing, search pipelines (e.g. source finding), modelling, data compression, high performance computing",0,1,1,0
+macrocosme,python,"html, javascript, c++, cuda, opencl","ASTRON, Netherlands Institute for Radio Astronomy",vohl@astron.nl,"visualisation, image processing, search pipelines (e.g. source finding), modelling, data compression, high performance computing",0,1,0,0
 GISerDaiShaoqing,R,Python,"Deparement of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente",dsq1993qingge@163.com,Geography and Spatial Statistics,0,0,0,0
 ABCD,PHP,HTML,LOCATION,JIEKUMAJAYA@GMAIL.COM,BROJOURNAL,0,0,0,0
 cpgr,"C++
@@ -3774,7 +3774,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,2,2,0
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,2,1,0
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -5483,7 +5483,7 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning",1,2,1,1
+Machine Learning",2,3,1,1
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,1,0,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,0,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
@@ -5833,15 +5833,22 @@ Wearable Computing
 Statistics
 Psychology
 Biopsychology",0,0,0,0
-puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics"
-npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology"
+puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",1,1,0,0
+npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology",0,0,0,0
 sebastian-raubach,"Java
 Javascript",,The James Hutton Institute,bazraubach@gmail.com,"Bioinformatics
 Phenotyping
 Plant genetic resources
 Mobile apps
-Visualizations"
+Visualizations",0,0,0,0
 @olejandro,"python
 GAMS
 javascript",,University College Cork,olexandr.balyk@ucc.ie,"energy systems modelling
 scenario analysis"
+@franjoim,R,"Python
+Bash","Department of Psychiatry, University of Florida",franjo@franjo.us,"Genetics
+Epidemiology
+Biostatistics"
+@larnsce,R,,ETH Zurich,lschoebitz@ethz.ch,"Environmental Engineering
+Water, Sanitation, and Hygiene
+Waste Management"
