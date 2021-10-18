@@ -194,7 +194,7 @@ Shell",Peking University,xiongyf@yandex.com,"Machine Learning, Computer Vision, 
 aaronyd,"C
 C++",Python,Technical University of Munich (TUM),aarondingyi@gmail.com,"Networking Systems
 Mobile Wireless Communications",0,0,0,0
-mikapfl,Python,C++,Physikalisch-Technische Bundesanstalt,mika.pflueger@ptb.de,"Physics, especially X-ray, nanophysics, X-ray and neutron scattering techniques, Synchrotrons",1,2,0,0
+mikapfl,Python,C++,Physikalisch-Technische Bundesanstalt,mika.pflueger@ptb.de,"Physics, especially X-ray, nanophysics, X-ray and neutron scattering techniques, Synchrotrons",0,2,1,1
 jarvist,"Julia
 C
 Python",,"Imperial College London, University of Bath",jarvist.frost@ic.ac.uk,"Computational Physics
@@ -395,7 +395,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",1,3,1,0
+Software Testing",0,3,1,0
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -875,7 +875,7 @@ mdpiper,"Python
 IDL
 Fortran","Java
 MATLAB",University of Colorado Boulder,mark.piper@colorado.edu,"Numerical modeling
-Data analysis",1,4,0,0
+Data analysis",0,4,0,0
 betteridiot,Python,"C/C++
 R
 JavaScript","University of Michigan, Department of Computational Medicine & Bioinformatics",mdsherman@betteridiot.tech,"Genetics
@@ -1712,7 +1712,7 @@ ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Me
 Atmospheric Sciences
 Oceanography
 Scientific computing
-Numerical methods",1,3,1,1
+Numerical methods",0,3,2,2
 pitsianis ,"MATLAB, C, C++, FORTRAN, Maple, Mathematica","Julia, Scheme, SML",Aristotle University of Thessaloniki,nikos.pitsianis@eng.auth.gr,"Parallel numerical software, compiler tools, fast transforms, big data",0,0,0,0
 wxy8955gmail.com,Python,,University of Texas at Austin,xywu@utexas.edu,"physics
 scientific instrumentation
@@ -1748,7 +1748,7 @@ Microarray
 NGS
 Next Generation Sequecning",0,1,0,0
 nearinj,"R, Java, Python",,Dalhousie University,jc235601@dal.ca,Metagenomics,0,0,0,0
-rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",1,2,0,0
+rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",0,2,1,1
 sharad.jash,"C,C++,Python,java,shell scripting,PHP",,Institute For Plasma Research,sharad.jash@ipr.res.in,"Network security,web and application data ",0,0,0,0
 colleeneb,"Fortran
 C
@@ -1936,7 +1936,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,3,1,0
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,3,2,1
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,1
 nniiicc,"R
 Python
@@ -3809,7 +3809,7 @@ Python","PHP
 C",University of Birmingham,l.slater.1@bham.ac.uk,"Ontology
 Text mining
 Clinical informatics
-Semantic web",1,1,0,0
+Semantic web",0,1,1,1
 tmaric,"C++
 python",Matlab,Technical University of Darmstadt,maric@mma.tu-darmstadt.de,"numerical methods for multiphase flows
 computational geometry
@@ -3857,7 +3857,7 @@ Brain Data Analysis",0,0,0,0
 justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,2,0
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
-X-Ray Scattering",1,2,0,0
+X-Ray Scattering",0,2,1,1
 marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,1,1,0
 mattkram,Python,"C++, Fortran",,matthew.robert.kramer@gmail.com,"Hydrodynamics, fluid mechanics, fluid-structure interaction, time series analysis",0,0,0,0
 regivm,python,sas,,regivm@yahoo.com,"Analytics, Machine Learning",0,0,0,0
@@ -4638,7 +4638,7 @@ Gaussian processes
 Bayesian machine learning
 Markov Chain Monte-Carlo",0,0,0,0
 halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics",0,0,0,0
-ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",1,3,1,1
+ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",0,3,2,2
 MeHelmy,"Python
 Java
 Go
@@ -5197,7 +5197,7 @@ impedance tomography
 data analysis
 harmonic analysis
 microwave imaging
-electrochemistry",0,0,0,0
+electrochemistry",1,1,0,0
 rvhonorato,Python,,Utrecht University,rvhonorato@gmail.com,"Molecular modeling
 Macromolecular docking
 Molecular dynamics
@@ -5477,14 +5477,14 @@ Deep Learning (pytorch/tensorflow)",0,0,0,0
 mikapfl,"Python, SQL","bash, shell",Potsdam Institute for Climate Impact Research (PIK),mika.pflueger@pik-potsdam.de,"Climate Policy
 Green-House Gas Emissions
 Climate Change
-Research Data Management",1,2,0,0
+Research Data Management",0,2,1,1
 robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",2,3,1,1
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,1,0,0
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,0,0,0
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",1,1,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
 Ahm-hussein,"Python, R",,Rochester institute of technology,ahm6644@rit.edu,"Machine learning, Data science",0,0,0,0
