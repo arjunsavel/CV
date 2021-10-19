@@ -2316,7 +2316,7 @@ olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,As
 Suchitakulkarni,Python,,Austrian academy of sciences,suchita.kulkarni@gmail.com,Particle physics,0,0,0,0
 warrickball,"Python
 Fortran",,"School of Physics and Astronomy, University of Birmingham",W.H.Ball@bham.ac.uk,"Stellar modelling
-Stellar oscillations",0,2,1,1
+Stellar oscillations",0,2,1,0
 jessie-dotson,R,python,NASA,jessie.dotson@nasa.gov,"astrophysics, exoplanets, stellar, asteroids, time series, probabilistic methods",0,1,0,0
 hannorein,"python
 c",,University of Toronto,hanno.rein@utoronto.ca,nbody,0,0,0,0
@@ -2346,7 +2346,7 @@ Chromatin conformation",0,0,0,0
 andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",0,0,0,0
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,0,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
-HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,2,1,1
+HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,2,1,0
 kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",1,2,1,1
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,1,0
@@ -3539,7 +3539,7 @@ Image Processing
 Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
-Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",1,3,2,0
+Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",1,3,1,0
 zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,1,2,0,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
@@ -3814,7 +3814,7 @@ tmaric,"C++
 python",Matlab,Technical University of Darmstadt,maric@mma.tu-darmstadt.de,"numerical methods for multiphase flows
 computational geometry
 high-performance computing 
-software design",0,1,1,1
+software design",0,1,1,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
 Earth System Modeling",0,2,2,0
@@ -5327,7 +5327,7 @@ statistics
 data analysis
 computational fluid dynamics
 optimization
-energy",0,1,1,1
+energy",0,1,1,0
 arunmano121,Python,,SAS Institute,arunmano121@outlook.com,"Structural Engineering
 Nondestructive Testing
 Structural Health Monitoring
@@ -5377,7 +5377,7 @@ dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconsci
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
-Machine Learning",1,3,2,2
+Machine Learning",1,3,2,1
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
@@ -5855,3 +5855,4 @@ parRyserWelch8,"R, Java, Python","C, C++, Go",Open University,pat.ryser-welch@op
 vimalthilak,Python,"C++, C",,vimalthilak@gmail.com,"Machine Learning
  Deep Learning
  Signal Processing"
+mfleschutz,Python,,Munster Technological University,mfleschutz@gmail.com,Sustainable energy
