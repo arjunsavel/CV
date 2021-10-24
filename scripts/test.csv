@@ -1469,7 +1469,7 @@ ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific
 jlincbio,"Perl
 R",C,Chiba Cancer Center,linjason@chiba-cc.jp,"bioinformatics
 genomics",0,1,0,0
-mancellin,Python,"Fortran, Julia",ENS Paris-Saclay,matthieu.ancellin@cmla.ens-cachan.fr,"Fluid dynamics, partial differential equations",0,2,1,0
+mancellin,Python,"Fortran, Julia",ENS Paris-Saclay,matthieu.ancellin@cmla.ens-cachan.fr,"Fluid dynamics, partial differential equations",0,2,0,0
 platipodium,"Fortran
 Python","C
 C++
@@ -3293,7 +3293,7 @@ Computational Biophysics",0,1,0,0
 madvn,Python,C++,"Indiana University, Bloomington",madvncv@gmail.com,"Neuroscience
 Neural Networks
 Information theory
-Optimization methods",0,0,0,0
+Optimization methods",1,1,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
@@ -3886,7 +3886,7 @@ Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,0
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,1
-rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,0,0,0
+rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,1,0,0
 mturiansky,"Python
 Fortran
 Bash/Sh","C/C++
@@ -3913,7 +3913,7 @@ Fortran",,bramwell1@llnl.gov,"Finite element methods
 Nonlinear multiphysics simulation
 High performance computing",0,0,0,0
 tbrown122387,"C++
-R",Python,,trb5me@virginia.edu,"Bayesian statistics, time series, Markov chain Monte Carlo, particle filtering",0,0,0,0
+R",Python,,trb5me@virginia.edu,"Bayesian statistics, time series, Markov chain Monte Carlo, particle filtering",1,1,0,0
 feddelegrand7,R,JavaScript,,ihaddaden.fodeil@gmail.com,R packages that relie on JS libraries,0,0,0,0
 codeling,C++,"C
 Python
@@ -3928,7 +3928,7 @@ NeuroBS Presentation",,,avakiai@gmail.com,"cognitive neuroscience, experimental 
 xyzmjf,"Python (Perl, PHP, C)","PHP, Perl, C",,markf.mail@gmail.com,"Cheminformatics, protein sequence & structure, bioinformatics, molecular simulations.",0,1,0,0
 rosoport,matlab,"c, java, python",,rosoport@gmail.com,"linear algebra, numerical computing, geophysics",0,0,0,0
 TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",1,1,0,0
-sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,1,0
+sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,0,0
 j-andrews7,"python
 R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,1,0
@@ -4264,7 +4264,7 @@ model emulation
 statistical modeling
 numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
-sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,1,0
+sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,0,0
 prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,1
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,1,0,0
 ramisetti,"C
@@ -5874,5 +5874,5 @@ Computational chemistry",0,0,0,0
 kprokopi,Python,C,Aristotle University of Thessaloniki,kprokopi@gmail.com,"Data Science
 Scientific Computing
 Numerical Analysis
-Machine Learning"
+Machine Learning",0,0,0,0
 Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering"
