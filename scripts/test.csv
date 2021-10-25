@@ -1096,7 +1096,7 @@ Petrophysics
 Geomechanics",0,0,0,0
 kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,3,0,0
 myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",0,4,1,1
-ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",1,4,1,1
+ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",1,4,1,0
 johnsamuelwrites,"C
 Python
 Java
@@ -1214,7 +1214,7 @@ melund,"Python
 Xonsh
 AnyScript",C,AnyBody Technology A/S,melund@gmail.com,"Biomechanics
 Musculoskeletal modeling
-Data visualisation",1,5,1,0
+Data visualisation",0,5,2,1
 mufi-ibrahimjee,java,"c++, c",no,mufaddaljamaly2752@gmail.com,hypervisor,0,0,0,0
 darogan,"Python, R, Perl","C, PHP",University of Cambridge (UK),rsh46@cam.ac.uk,"Bioinformatics, Computational Biology",0,1,0,0
 atla5,"python
@@ -2010,7 +2010,7 @@ alcantarar,"MATLAB
 ","Python
 R",University of Colorado Boulder,ryan.alcantara@colorado.edu,"Biomechanics
 Physiology
-Kinesiology",1,1,0,0
+Kinesiology",0,1,1,1
 hope-data-science,R,R,Fudan University,huang.tian-yuan@qq.com,"data science
 data visualization
 scientometrics
@@ -2468,7 +2468,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",0,4,3,2
+visualisation",0,4,3,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,0,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -3115,7 +3115,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",2,3,1,0
+Data handling",2,3,0,0
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -3714,7 +3714,7 @@ kegiljarhus,"Python
 Fortran
 C++","C
 Matlab","Department of Mechanical and Structural Engineering and Materials Science, University of Stavanger, Stavanger, Norway",knut.e.giljarhus@uis.no,"Fluid dynamics
-Finite element/volume methods",0,1,1,0
+Finite element/volume methods",0,1,0,0
 samuelduchesne,python,C#,Massachusetts Institute of Technology,samueld@mit.edu,"Building Energy Modeling
 Solar Energy
 District Energy Modeling
@@ -4342,7 +4342,7 @@ Machine Learning",0,0,0,0
 RobertRosca,"Python
 Julia",,European XFEL,robert.rosca@protonmail.com,"Physics
 HPC
-Astronomy",1,2,1,0
+Astronomy",0,2,2,1
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,1,1,0
 yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,1,0
@@ -5542,7 +5542,7 @@ helgee,"Julia, Python",,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Aerospac
 Mechanical Engineering",1,1,0,0
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,1,0,0
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",0,1,1,1
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
