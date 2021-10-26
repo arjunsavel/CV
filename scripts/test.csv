@@ -1197,7 +1197,7 @@ spatial statistics",0,0,0,0
 jmborr,python,,"Neutrons Scattering Data Sciences, Oak Ridge National Laboratory",borreguero@gmail.com,"proteins, molecular dynamics, computational biology, neutrons, scattering",0,1,0,0
 gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiome, phylogenetics, applied machine learning",0,2,0,0
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
-matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,1,0
+matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,0,0
 chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,1,1,0,0
 jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,1,1,1
 PingjunChen,Python,C++,University of Florida,chenpingjun@gmx.com,"machine learning
@@ -1266,7 +1266,7 @@ Genomics
 Biostatistics",0,2,0,0
 Juanlu001,Python,Fortran,Unaffiliated,juanlu001@gmail.com,"Orbital Mechanics, Astrodynamics, Aerospace Engineering",0,3,0,0
 lmcinnes,Python,C (not C++),Tutte Institute for Mathematics and Computing,leland.mcinnes@gmail.com,"Clustering, Dimension reduction, Topological Data Analysis",0,2,0,0
-vissarion,C/C++,"R, Python","University of Athens, Greece",fisikop@gmail.com,"Scientific Computing, Mathematical Software, Computational Geometry/Algebra, Optimization, Algorithms",0,3,2,1
+vissarion,C/C++,"R, Python","University of Athens, Greece",fisikop@gmail.com,"Scientific Computing, Mathematical Software, Computational Geometry/Algebra, Optimization, Algorithms",0,3,1,1
 homonecloco,"Ruby
 R
 SQL","C
