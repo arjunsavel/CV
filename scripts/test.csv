@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,9,1,1
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,3,1
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,2,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -1584,7 +1584,7 @@ Fortran",University of California Davis,rene.gassmoeller@mailbox.org,"Geodynamic
 Geosciences
 High-perfomance computing
 Finite-element methods
-Particle methods",0,4,1,0
+Particle methods",0,4,0,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,0,0
@@ -1712,7 +1712,7 @@ ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Me
 Atmospheric Sciences
 Oceanography
 Scientific computing
-Numerical methods",0,3,2,2
+Numerical methods",0,3,2,1
 pitsianis ,"MATLAB, C, C++, FORTRAN, Maple, Mathematica","Julia, Scheme, SML",Aristotle University of Thessaloniki,nikos.pitsianis@eng.auth.gr,"Parallel numerical software, compiler tools, fast transforms, big data",0,0,0,0
 wxy8955gmail.com,Python,,University of Texas at Austin,xywu@utexas.edu,"physics
 scientific instrumentation
@@ -2460,7 +2460,7 @@ Fortran
 Rust",Go,"Astronomy and Astrophysics, University of Toronto",horrobin@astro.utoronto.ca,"Astrophysical simulations or data analysis.
 Statistical methods for data modelling in physics.
 Computational fluiddynamics, solid body dynamics, geophysical modelling.",0,0,0,0
-matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,0,2,2,1
+matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,0,2,1,1
 axel-loewe,"C++, Python",PHP,"Karlsruhe Institute of Technology (KIT), Institute of Biomedical Engineering",axel.loewe@kit.edu,"Biomedical, Machine Learning",1,1,0,0
 lukassnoek,Python,Bash,University of Amsterdam,lukassnoek@gmail.com,"Neuroimaging (MRI, EEG), psychophysics, face recognition/perception",0,0,0,0
 Remi-Gau,matlab,,"Institute of research in Psychology, Univertsité catholique de Louvain, Belgium",remi.gau@gmail.com,neuroimaging,0,0,0,0
@@ -2487,7 +2487,7 @@ smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"comp
 Lachlangrose,Python,,Monash university,lachlan.grose@gmail.com,Geosciences,0,0,0,0
 simmonsja,python,matlab,UNSW Sydney,jasimmons22@gmail.com,"coastal
 coastal geomorphology",0,0,0,0
-dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,2,2,1
+dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,2,1,1
 pharshalp,"Python, Matlab",,The Pennsylvania State University,pharshalp@gmail.com,"Acoustics, Vibrations",0,0,0,0
 spacechemist,python,SQL,,khanhmai@creighton.edu,,0,0,0,0
 TGuillerme,R,,The University of Queensland,guillert@tcd.ie,Macroevolution,0,0,0,0
@@ -2804,7 +2804,7 @@ BARCELONA,"java, node, scala",rust,PERU,mupao@gmail.com,www.upao.pe,0,0,0,0
 jwbuurlage,C++,"Python, Rust","CWI, Amsterdam",janwillembuurlage@gmail.com,"numerical linear algebra, imaging science, tomography,",0,1,0,0
 TomasBeuzen,python,"R
 Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",0,1,1,1
-xin-huang,"Python, Java, R",Perl,University of Arizona,xinhuang@email.arizona.edu,"Population genetics, Genomics, Computational biology",0,2,2,0
+xin-huang,"Python, Java, R",Perl,University of Arizona,xinhuang@email.arizona.edu,"Population genetics, Genomics, Computational biology",0,2,1,0
 dcassol,R,"bash
 python",University of California Riverside,danielac@ucr.edu,"Bioinformatics
 software development
@@ -2843,7 +2843,7 @@ Phylogenetics
 Phylogeography
 DNA Sequence Analysis
 Conservation
-Ecological Informatics",0,1,1,0
+Ecological Informatics",0,1,0,0
 mnf2014,python,,octo technologies,marisa.faraggi@gmail.com,"physics, machine Learning, material science",0,0,0,0
 Nachootal,Ruby,C,Oss enthusiast and telecommunications engineer,nachootal@gmail.com,"Embedded firmware, web, rails, processes",0,1,0,0
 satish-annigeri,"Python, Scilab, Julia, C/C++",Fortran 77,KLE Technological University,satish@bvb.edu,"Numerical colorations, Civil engineering, Structural engineering, Computer Aided Design",0,0,0,0
@@ -3577,7 +3577,7 @@ Power systems",1,3,1,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,0,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,0,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,1,0
-rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,2,0
+rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,0,0
 mberacochea,"python
 cwl
 C#",nextflow,EMBL-EBI,mbc@ebi.ac.uk,"Metagenomics
@@ -3920,7 +3920,7 @@ Python
 PHP
 Javascript",,bernhard.froehler@fh-wels.at,"Computed tomography data analysis
 Volume data visualization",0,0,0,0
-p-costa,Fortran,"Python, Matlab",,p.simoes.costa@gmail.com,"Fluid dynamics, High-performance computing",0,1,1,1
+p-costa,Fortran,"Python, Matlab",,p.simoes.costa@gmail.com,"Fluid dynamics, High-performance computing",0,1,1,0
 dalg24,"C++, Python",,,lebrungrandt@ornl.gov,"Geometric search, finite elements, performance portability, particle-based simulations",0,0,0,0
 avakiai,"R
 Matlab
@@ -4564,7 +4564,7 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music",0,2,2,1
+Computers in Art, Design, and Music",1,3,2,1
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
@@ -4638,7 +4638,7 @@ Gaussian processes
 Bayesian machine learning
 Markov Chain Monte-Carlo",0,0,0,0
 halexand,python,shell,Woods Hole Oceanographic Institution,halexander@whoi.edu,"bioinformatics, microbial genomics, genomics, transcriptomics",0,0,0,0
-ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",0,3,2,2
+ashwinvis,Python,"Fortran, Rust, C, C++",Stockholm University,ashwinvis+joss@protonmail.com,"Fluid dynamics, meteorology, atmospheric science, turbulence, numerical methods, high-performance  computing, scientific computing",0,3,2,1
 MeHelmy,"Python
 Java
 Go
@@ -5876,3 +5876,4 @@ Scientific Computing
 Numerical Analysis
 Machine Learning",0,0,0,0
 Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering"
+htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization"
