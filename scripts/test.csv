@@ -119,7 +119,7 @@ Python
 CUDA
 MATLAB","Julia
 Mathematica",Lawrence Berkeley National Labs,loriordan@lbl.gov,"Quantum dynamics PDE (Schrodinger, Gross-Pitaevskii, etc.)
-Accelerator numerics (GPU, KNL)",1,3,1,0
+Accelerator numerics (GPU, KNL)",1,3,0,0
 nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
@@ -162,7 +162,7 @@ PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
 Text Mining
 XML
-Database",0,4,2,1
+Database",0,4,1,1
 alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",1,4,0,0
 jsgalan,"Python
 ","Matlab
@@ -822,7 +822,7 @@ hugoribeiro,Python,,,hugodea.ribeiro@gmail.com,,0,0,0,0
 vyasr,"Python
 C++
 C","R
-Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,3,0,0
+Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",1,4,0,0
 arosen93,Python,MATLAB,Northwestern University,rosen@u.northwestern.edu,"Computational chemistry, quantum chemistry, thermodynamics and kinetics, chemical engineering",0,3,1,0
 rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western Reserve University",raoul.wadhwa@case.edu,"Medicine/Health
 Biostatistics/Epidemiology
@@ -1898,7 +1898,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",3,9,3,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",3,9,2,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2179,7 +2179,7 @@ github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc."
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
 Data Science
-Natural Language Processing",0,2,1,0
+Natural Language Processing",0,2,0,0
 lixiaodong,"Java
 C#
 Javascript
@@ -2603,7 +2603,7 @@ martinfleis,Python,,University of Strathclyde,martin@martinfleischmann.net,"Geog
 Urban morphology
 Network analysis
 Geospatial
-GIS",0,3,2,1
+GIS",0,3,2,0
 Nheyer,"Python,C++,R",,California State University Monterey Bay,nheyer@csumb.edu,"Genomics, mathematics",0,0,0,0
 mbdemoraes/moafs,"Blocks
 Python",,UNICAMP - MASTER,daiolive81@gmail.com,Technology in Education,0,0,0,0
@@ -2695,7 +2695,7 @@ C
 C++","Java
 PHP",NUI Galway,niall@niallmoran.net,"Condensed matter physics
 Quantum information
-Machine Learning",0,1,1,0
+Machine Learning",0,1,0,0
 jenzopr,"R
 Python",,Max Planck Institute for Heart and Lung Research,jens.preussner@mpi-bn.mpg.de,"Computational biology
 Bioinformatics
@@ -2803,7 +2803,7 @@ ieyjzhou,C++,C,"Department of Industrial Engineering, Pusan National University"
 BARCELONA,"java, node, scala",rust,PERU,mupao@gmail.com,www.upao.pe,0,0,0,0
 jwbuurlage,C++,"Python, Rust","CWI, Amsterdam",janwillembuurlage@gmail.com,"numerical linear algebra, imaging science, tomography,",0,1,0,0
 TomasBeuzen,python,"R
-Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",0,1,1,1
+Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",0,1,1,0
 xin-huang,"Python, Java, R",Perl,University of Arizona,xinhuang@email.arizona.edu,"Population genetics, Genomics, Computational biology",0,2,1,0
 dcassol,R,"bash
 python",University of California Riverside,danielac@ucr.edu,"Bioinformatics
@@ -3003,7 +3003,7 @@ Genomics
 Quantitative Finance",0,0,0,0
 aureliocarnero,"Python, C++",,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
 Astronomy",0,5,1,0
-mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",0,1,0,0
+mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrology, hydraulics, signal processing, anomaly detection, controls, embedded systems",1,2,0,0
 mbdemoraes,"python
 c
 java",c++,School of Technology - University of Campinas,matheuzmoraes@gmail.com,"data streams
@@ -5875,5 +5875,6 @@ kprokopi,Python,C,Aristotle University of Thessaloniki,kprokopi@gmail.com,"Data 
 Scientific Computing
 Numerical Analysis
 Machine Learning",0,0,0,0
-Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering"
+Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering",0,0,0,0
 htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization"
+arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Informatics, Medical Informatics, Machine Learning in Healthcare"
