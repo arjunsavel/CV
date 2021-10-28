@@ -75,6 +75,30 @@
     "year": "2021"
   },
   {
+    "arxiv": "2109.00163",
+    "authors": [
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Malik, Matej",
+      "Komacek, Thaddeus D.",
+      "Bean, Jacob L.",
+      "May, Erin M.",
+      "Stevenson, Kevin B.",
+      "Mansfield, Megan",
+      "Rauscher, Emily"
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-08-00",
+    "title": "No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210900163S",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.12790",
     "authors": [
       "Cloutier, Ryan",
@@ -177,30 +201,6 @@
     "pubdate": "2021-08-00",
     "title": "PIPS: Period detection and Identification Pipeline Suite",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft08019M",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2109.00163",
-    "authors": [
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Malik, Matej",
-      "Komacek, Thaddeus D.",
-      "Bean, Jacob L.",
-      "May, Erin M.",
-      "Stevenson, Kevin B.",
-      "Mansfield, Megan",
-      "Rauscher, Emily"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-08-00",
-    "title": "No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210900163S",
     "volume": null,
     "year": "2021"
   },
@@ -499,7 +499,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
