@@ -3150,7 +3150,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,4,2,1
+multiscale",0,4,2,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,1
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,0
 rchg,"Python
@@ -3576,7 +3576,7 @@ Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"E
 Power systems",1,3,0,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,0,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,0,0
-nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,1,0
+nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,0,0
 rly,"Python, Matlab",,Lawrence Berkeley National Lab,rly@lbl.gov,"Neuroscience, biological sciences",0,2,0,0
 mberacochea,"python
 cwl
@@ -3639,7 +3639,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,4,2,1
+plasticity",0,4,2,0
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -3841,7 +3841,7 @@ vectorization
 GPU
 FMM",0,1,1,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",1,1,0,0
-adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,2,0
+adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
 Assembly tools",0,0,0,0
@@ -5878,5 +5878,7 @@ Machine Learning",0,0,0,0
 Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering",0,0,0,0
 htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",1,1,0,0
 arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Informatics, Medical Informatics, Machine Learning in Healthcare",0,0,0,0
-appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics"
+appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics",0,0,0,0
 yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com
+ebezzam,Python,"MATLAB
+C++",École polytechnique fédérale de Lausanne,eric.bezzam@epfl.ch,"Audio signal processing, ultrasound, optical wave propagation, signal processing"
