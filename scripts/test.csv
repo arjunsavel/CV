@@ -1090,7 +1090,7 @@ mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarr
 computer science
 machine learning",0,2,0,0
 gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,2,1,1
-chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,1,0
+chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,0,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
 Geomechanics",0,0,0,0
@@ -2278,7 +2278,7 @@ Geology",0,1,0,0
 castelao,"Python
 Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
-Machine Learning",0,1,1,0
+Machine Learning",0,1,0,0
 agisga,"R
 Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)",alexej.go@gmail.com,"Statistics, Machine Learning, Deep Learning, Medical Imaging",0,2,1,0
 k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,0,0,0,0
@@ -5879,6 +5879,6 @@ Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology,
 htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",1,1,0,0
 arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Informatics, Medical Informatics, Machine Learning in Healthcare",0,0,0,0
 appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics",0,0,0,0
-yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com
+yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com,,0,0,0,0
 ebezzam,Python,"MATLAB
 C++",École polytechnique fédérale de Lausanne,eric.bezzam@epfl.ch,"Audio signal processing, ultrasound, optical wave propagation, signal processing"
