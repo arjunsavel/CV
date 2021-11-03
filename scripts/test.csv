@@ -2436,7 +2436,7 @@ santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, 
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,1,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
-smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",1,2,1,0
+smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,1
 OopsAllErrors,"Python
 Matlab",IDL (no active license),National Geospatial-Intelligence Agency,johnjmandel@gmail.com,"Remote Sensing
 Image Processing
@@ -4178,7 +4178,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,2,2,0
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,2,1,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -4299,7 +4299,7 @@ sayakpaul,Python,JavaScript,Deep Learning Associate at PyImageSearch,spsayakpaul
 villaa,"C, C++, Python, Fortran",None,University of Colorado Denver,anthony.villano@ucdenver.edu,"dark matter, neutrons, Geant4 simulation",0,0,0,0
 pmeier,Python,Matlab,"inIT - Institute Industrial IT, Technische Hochschule Ostwestfalen-Lippe (TH-OWL)",philip.meier@th-owl.de,"Machine Learning
 Deep Learning
-Neural Style Transfer",2,2,0,0
+Neural Style Transfer",1,2,0,0
 alaingdl,"IDL/GDL, c/c++",,"LERMA, CNRS & Observatoire de Paris, France",alain.coulais@obspm.fr,astronomy,0,0,0,0
 jifarquharson,Python,"LabVIEW
 TeX
