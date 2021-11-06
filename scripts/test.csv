@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,9,1,1
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,2,1
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,9,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -2349,7 +2349,7 @@ ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",o
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,1,3,1,0
 kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,2
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
-ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,1,0
+ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,0,0
 Jpata,"Python, C++",Julia,Caltech,Joosep.pata@cern.ch,"Particle physics, data processing, statistics, machine learning",0,0,0,0
 karinlag,python,"java
 R",Norwegian Veterinary Institute,karin.lagesen@gmail.com,"bioinformatics
@@ -5888,12 +5888,12 @@ Bayesian Statistics
 Spatial Statistics
 R packages",0,0,0,0
 Alisyaifudin/alisyaifudin.github.io,Python,JavaScript,ITB,muhammad.ali.syaifudin@hotmail.com,Astrophysics,0,0,0,0
-@mps9506,R,,Texas A&M AgriLife Research,michael.schramm@ag.tamu.edu,"Environmental Science
-Water Quality"
-sestelo,R,,"Dep. Statistics and O.R, University of Vigo",sestelo@uvigo.es,"data analysis, regression,  bootstrap, testing procedures, survival analysis,etc"
+mps9506,R,,Texas A&M AgriLife Research,michael.schramm@ag.tamu.edu,"Environmental Science
+Water Quality",0,0,0,0
+sestelo,R,,"Dep. Statistics and O.R, University of Vigo",sestelo@uvigo.es,"data analysis, regression,  bootstrap, testing procedures, survival analysis,etc",0,0,0,0
 1mikegrn,"Python, C, Go",,Crunch Cloud Analytics,michael@michaelgreen.dev,"Materials Science
 Chemistry
-Cheminformatics"
+Cheminformatics",0,0,0,0
 KedoKudo,"Python
 C++
 Cuda
