@@ -2422,7 +2422,7 @@ Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,0,0
-zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,1,0
+zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",1,2,0,0
@@ -3661,7 +3661,7 @@ Cheminformatics",0,0,0,0
 meenakshi-kushwaha,R,,"ILK Labs, University of Washington",meenakshi.kushwaha@gmail.com,"Environmental Health, Air Quality, Data Visualization, Epidemiology",0,1,1,0
 Logological,"C, bash, Java, LaTeX",,Austrian Research Institute for Artificial Intelligence,tristan.miller@ofai.at,"natural language processing, computational linguistics, computational humour",0,0,0,0
 alaingdl,IDL/GDL/FL,c/c++,CNRS & Observatoire de Paris,alain.coulais@obspm.fr,Astronomy,0,0,0,0
-rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",0,1,1,0
+rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography, Atmospheric Science, Climate Science, Geoscience, Fluid Dynamics",0,1,0,0
 Oldim Vilanculo,Matlab,Phyton,Eduardo Mondlane University,ochuquelane@gmail.com,Porous media modeling,0,0,0,0
 mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear algebra
 multiphysics
@@ -3736,7 +3736,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",0,3,3,0
+data science",0,3,2,0
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",1,2,0,0
 manojrege,"Python
@@ -5899,3 +5899,6 @@ C++
 Cuda
 Go","Matlab
 Julia",Oak Ridge National Lab,zhangc@ornl.gov,"Neutron diffraction, X-ray diffraction, constitutive modeling, data visualization"
+MarDiehl,"Fortran
+Python",,"KU Leuven, Department of Materials Engineering and Department of Computer Science",martin.diehl@kuleuven.be,"Materials Science
+Computational Mechanics"
