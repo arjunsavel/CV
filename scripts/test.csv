@@ -1892,7 +1892,7 @@ Sulstice,"Python, Javascript (and a lot of the new front-end endeavors), OpenGl"
 dalonsoa,Python,,Imperial College London,d.alonso-alvarez@imperial.ac.uk,"solar energy
 solar cells
 semiconductors
-physics",0,1,0,0
+physics",1,2,0,0
 cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
@@ -3738,7 +3738,7 @@ scientific computing
 computational science
 data science",0,3,2,0
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
-govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",1,2,0,0
+govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,2,1,1
 manojrege,"Python
 Java
 Terraform
@@ -3885,7 +3885,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,1
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,1,0,0
 mturiansky,"Python
 Fortran
@@ -4991,7 +4991,7 @@ C
 Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
 Machine learning
 Data science
-Bioinformatics",1,2,1,0
+Bioinformatics",0,2,2,1
 hofmannu,"C++
 CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
@@ -5426,7 +5426,7 @@ Spatial Data
 Geospatial Data
 Teaching
 Education",0,1,1,1
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,1
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,1,1,0,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
@@ -5524,7 +5524,7 @@ Statistics
 Mixture Models
 Spatial Statistics",0,0,0,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",1,2,1,1
-helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical Engineering, Space Engineering, Classical Mechanics",1,1,0,0
+helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical Engineering, Space Engineering, Classical Mechanics",0,1,1,1
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",1,1,0,0
@@ -5539,7 +5539,7 @@ Crystal plasticity
 Grain structures
 Structural integrity and metal fatigue",0,0,0,0
 helgee,"Julia, Python",,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Aerospace Engineering
-Mechanical Engineering",1,1,0,0
+Mechanical Engineering",0,1,1,1
 lucaferranti,"julia
 matlab
 python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,2,1,1
@@ -5903,5 +5903,12 @@ MarDiehl,"Fortran
 Python",,"KU Leuven, Department of Materials Engineering and Department of Computer Science",martin.diehl@kuleuven.be,"Materials Science
 Computational Mechanics",0,0,0,0
 imw,"golang, python, rust",,Independent,isaac@iwilder.net,"distributed systems, network systems",0,0,0,0
-syedhamidali,Python,Fortran,Purdue University,hamidsyed37@gmail.com,"Earth, Environment, Atmosphere and Ocean"
-allaway,"R, Python",,Sage Bionetworks,robert.j.allaway@gmail.com,"Cheminformatics, genomics, biology, pharmaceuticals, cancer biology"
+syedhamidali,Python,Fortran,Purdue University,hamidsyed37@gmail.com,"Earth, Environment, Atmosphere and Ocean",0,0,0,0
+allaway,"R, Python",,Sage Bionetworks,robert.j.allaway@gmail.com,"Cheminformatics, genomics, biology, pharmaceuticals, cancer biology",0,0,0,0
+@athulpg007,"Python, MATLAB",,Pioneer Astronautics,athulpg007@gmail.com,"Astrodynamics, Orbital Mechanics, Planetary Science, Space Mission Design, Trajectory Optimization, Flight Mechanics, Aircraft Design, Spacecraft, Mission Planning, Aerospace Systems, Celestial Mechanics"
+DiegoCorrea,Python,R,Federal University of Bahia,diego.correa@ufba.br,"Recommender System, Collaborative Filtering"
+sergioburdisso,Python,"C
+C++
+Javascript
+Java",UNSL,sergio.burdisso@gmail.com,"Natural Language Processing
+Machine Learning"
