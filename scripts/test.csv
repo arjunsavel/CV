@@ -3667,7 +3667,7 @@ mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear
 multiphysics
 algebraic multigrid",0,0,0,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
-skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,2,0
+skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,1,0
 santoshkumarradha,"python
 Julia",C++,Case Western Reserve University,srr70@case.edu,"Physics
 Condensed matter physics",0,0,0,0
@@ -5768,7 +5768,7 @@ Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interact
 Driver modelling
 Robotics",0,1,1,1
 KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,1,1
-fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,1,1,0,0
+fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,2,2,0,0
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing",0,0,0,0
 tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@gmail.com,"LIDAR, Point clouds, glacier, ice, snow",0,0,0,0
 allenzhuaz/,"R
@@ -5886,7 +5886,7 @@ fernandomayer,R,,Federal University of Paraná,fernandomayer@gmail.com,"Statisti
 Computational Statistics
 Bayesian Statistics
 Spatial Statistics
-R packages",0,0,0,0
+R packages",1,1,0,0
 Alisyaifudin/alisyaifudin.github.io,Python,JavaScript,ITB,muhammad.ali.syaifudin@hotmail.com,Astrophysics,0,0,0,0
 mps9506,R,,Texas A&M AgriLife Research,michael.schramm@ag.tamu.edu,"Environmental Science
 Water Quality",0,0,0,0
@@ -5905,10 +5905,14 @@ Computational Mechanics",0,0,0,0
 imw,"golang, python, rust",,Independent,isaac@iwilder.net,"distributed systems, network systems",0,0,0,0
 syedhamidali,Python,Fortran,Purdue University,hamidsyed37@gmail.com,"Earth, Environment, Atmosphere and Ocean",0,0,0,0
 allaway,"R, Python",,Sage Bionetworks,robert.j.allaway@gmail.com,"Cheminformatics, genomics, biology, pharmaceuticals, cancer biology",0,0,0,0
-@athulpg007,"Python, MATLAB",,Pioneer Astronautics,athulpg007@gmail.com,"Astrodynamics, Orbital Mechanics, Planetary Science, Space Mission Design, Trajectory Optimization, Flight Mechanics, Aircraft Design, Spacecraft, Mission Planning, Aerospace Systems, Celestial Mechanics"
-DiegoCorrea,Python,R,Federal University of Bahia,diego.correa@ufba.br,"Recommender System, Collaborative Filtering"
+athulpg007,"Python, MATLAB",,Pioneer Astronautics,athulpg007@gmail.com,"Astrodynamics, Orbital Mechanics, Planetary Science, Space Mission Design, Trajectory Optimization, Flight Mechanics, Aircraft Design, Spacecraft, Mission Planning, Aerospace Systems, Celestial Mechanics",0,0,0,0
+DiegoCorrea,Python,R,Federal University of Bahia,diego.correa@ufba.br,"Recommender System, Collaborative Filtering",0,0,0,0
 sergioburdisso,Python,"C
 C++
 Javascript
 Java",UNSL,sergio.burdisso@gmail.com,"Natural Language Processing
-Machine Learning"
+Machine Learning",0,0,0,0
+@NoraLoose,python,,CU Boulder,nora.loose@gmail.com,"Oceanography
+Climate Science
+Geosciences
+Fluid Dynamics"
