@@ -1721,7 +1721,7 @@ jiangyuinsar,"matlab, python",julia,University of Liverpool,Yu.Jiang@liverpool.a
 (2) Tectonics: repeating earthquakes, earthquake swarm",0,0,0,0
 natpt,"C, C++",,Samsung,soohong.park@samsung.com,"Networking, Cloud, Data, IoT",0,0,0,0
 matloff,"R, Python","C, C++, Java, Intel assembler, bash, etc.","UC Davis, CS Dept. (formerly Stat Dept.)",matloff@cs.ucdavis.edu,"statistics, machine learning, pure math",0,0,0,0
-CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",0,1,1,1
+CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",0,1,1,0
 fcdimitr,"C/C++
 MATLAB",Julia,Aristotle University of Thessaloniki,fcdimitr@auth.gr,"Parallel computing
 Numerical analysis",0,0,0,0
@@ -2789,7 +2789,7 @@ Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
 Bioinformatics",0,0,0,0
-CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,1,1,1
+CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,1,1,0
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
 stochastic programming",0,1,0,0
@@ -3800,7 +3800,7 @@ chainsawriot,R,"Lisp
 Python",Mannheimer Zentrum für Europäische Sozialforschung,chung-hong.chan@mzes.uni-mannheim.de,"social science
 communication studies
 political science
-digital humanties",0,1,0,0
+digital humanties",1,2,0,0
 reality,"Groovy
 Go
 OWL
@@ -5522,7 +5522,7 @@ hknd23,"R
 Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Science
 Statistics
 Mixture Models
-Spatial Statistics",0,0,0,0
+Spatial Statistics",1,1,0,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",1,2,1,1
 helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical Engineering, Space Engineering, Classical Mechanics",0,1,1,1
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
@@ -5912,8 +5912,12 @@ C++
 Javascript
 Java",UNSL,sergio.burdisso@gmail.com,"Natural Language Processing
 Machine Learning",0,0,0,0
-@NoraLoose,python,,CU Boulder,nora.loose@gmail.com,"Oceanography
+NoraLoose,python,,CU Boulder,nora.loose@gmail.com,"Oceanography
 Climate Science
 Geosciences
-Fluid Dynamics"
+Fluid Dynamics",0,0,0,0
 tsiegert,"Python, IDL","C++, Stan",MPE; Uni Würzburg,tho.siegert@gmail.com,Astrophysics
+https://github.com/taoliu032,"Python
+MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
+Biophysics
+Machine Learning"
