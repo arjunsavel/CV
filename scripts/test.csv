@@ -173,7 +173,7 @@ Systems dynamics",0,8,1,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,4,1,1
-gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",0,6,1,0
+gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",1,7,1,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,1,1,0
@@ -302,7 +302,7 @@ earino,"R, python, Perl, C/++",All honesty,Facebook,earino@gmail.com,"Conflict, 
 andrewheiss,R,Python,Brigham Young University,andrewheiss@gmail.com,Politics,1,5,0,0
 koulvi,R,-,Corporate,vikeshkoul@gmail.com,Economics,0,0,0,0
 mariacuellar,R,,University of Pennsylvania ,maria.cuellar@gmail.com,"Statistics, social science, public policy, biostatistics ",0,0,0,0
-acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",0,6,0,0
+acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",1,7,0,0
 paragkulkarni11,"R,Python,Kotlin",Kotlin,ASQ,parag.kulkarni11@gmail.com,"Data Science, Machine Learning, Deep Learning, NLP",0,1,0,0
 GalenStocking,"Python
 R",,Pew Research Center,gstocking@pewresearch.org,"Statistics
@@ -509,8 +509,8 @@ corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epide
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
 Rmadillo,"R, SQL",,Seattle Children's Hospital,dwight.barry@seattlechildrens.org,"Healthcare, medicine, hospital",0,1,0,0
-klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,3,0,0
-acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",0,6,0,0
+klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",1,4,0,0
+acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",1,7,0,0
 chasemc,R,,University of Illinois at Chicago,cclark42@uic.edu,"Microbiology, biochemistry, analytical chemistry ",0,0,0,0
 barryrowlingson,"R
 Python",unix shell,Lancaster University,b.rowlingson@gmail.com,"epidemiology
@@ -787,7 +787,7 @@ Shell script
 Python",Perl,"University Heart Center Hamburg, Germany",bob.dybian@gmail.com,"Omics analyses, workflow development, reproducibility, system integration",0,3,0,0
 expectopatronum,"R
 Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,3,1,0
-pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",1,4,1,0
+pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",1,4,0,0
 jizecn,"C++
 Python","Matlab
 Java",Cardiff University,jiz1@cf.ac.uk,"Computer Vision
@@ -963,7 +963,7 @@ Java",,Yandex,lisitsyn.s.o@gmail.com,machine learning,0,0,0,0
 StewMH,"C++, Python",,"Particle Physics Department, Rutherford Appleton Laboratory, ATLAS experiment CERN",stewart.martin-haugh@stfc.ac.uk,"Mathematical libraries
 Physics
 Profiling and performance optimisation",0,2,0,0
-mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,1,4,1,0
+mbod,"Python, R","JavaScript, Matlab, Perl, Bash, SQL, XQuery/XSLT",University of Pennsylvania,mbod@asc.upenn.edu,Linguistics NLP Neuroimaging Digital Humanities Text analysis experimental survey software etc,1,4,0,0
 sjsrey,Python ,R,University of California ,sergio.rey@ucr.edu,"GIS, statistics",0,1,0,0
 wjakethompson,R,"SQL,","ATLAS, University of Kansas",wjakethompson@gmail.com,"Data management and manipulation, workflow tools, latent variable models (e.g., structural equation models, item response theory, diagnostic classification models, cognitive diagnosis models, etc.), Educational assessment and psychometrics",0,3,1,0
 sdruskat,Java,Python (?),Humboldt-Universität zu Berlin,mail@sdruskat.net,"Linguistics
@@ -1103,7 +1103,7 @@ Java
 PHP",Javascript,CPE Lyon,john.samuel@cpe.fr,"Data Science
 Data visualization",0,2,1,0
 schalkdaniel,R,C++,Ludwig Maximilians University Munich,schalkdaniel242@gmail.com,Machine Learning,0,1,0,0
-dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,3,1,0
+dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,3,0,0
 taqtiqa-mark,"R
 Mathematica
 Julia
@@ -1560,7 +1560,7 @@ JavaScript/CoffeeScript","Golang
 PHP",University of Minnesota,rabdill@umn.edu,"web portals/data visualization
 infrastructure automation
 containerization
-bioinformatics",1,3,0,0
+bioinformatics",0,3,1,1
 brechmos,Python,"Java, C++, C",Space Telescope Science Institute,craig@brechmos.org,"Medical Imaging, Astronomy",0,0,0,0
 kMutagene,F#,,"Computational Systems Biology, TU Kaiserslautern",kevin-schneider@mutagene.de,"Bioinformatics, Computational Biology, other F# projects after taking a first look. ",0,0,0,0
 jeeteshchel,"Java
@@ -3045,7 +3045,7 @@ Parallel computing",0,0,0,0
 emptymalei,Python,,Saloodo!,leima.137@gmail.com,"Data Science
 Computational Neuroscience
 Astrophysics
-High Energy Physics",1,1,0,0
+High Energy Physics",0,1,1,1
 willprice,Python,Java,University of Bristol,will.price@bristol.ac.uk,"Computer Vision
 Deep Learning
 ML",0,0,0,0
@@ -3337,7 +3337,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",0,2,0,0
+    - Sequence alignment",1,3,0,0
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -5136,7 +5136,7 @@ Python",0,1,1,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",0,2,2,2
+Clustering",0,2,2,1
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
@@ -5916,7 +5916,7 @@ NoraLoose,python,,CU Boulder,nora.loose@gmail.com,"Oceanography
 Climate Science
 Geosciences
 Fluid Dynamics",0,0,0,0
-tsiegert,"Python, IDL","C++, Stan",MPE; Uni Würzburg,tho.siegert@gmail.com,Astrophysics
+tsiegert,"Python, IDL","C++, Stan",MPE; Uni Würzburg,tho.siegert@gmail.com,Astrophysics,0,0,0,0
 https://github.com/taoliu032,"Python
 MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
 Biophysics
