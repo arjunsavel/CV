@@ -1127,7 +1127,7 @@ Rust",UC Berkeley,rijard.barnes@gmail.com,"Geoscience
 Ecology
 Evolutionary Biology
 High-performance computing
-Computer science",0,3,2,1
+Computer science",0,3,2,0
 vc1492a,Python,"R
 JavaScript",NASA Jet Propulsion Laboratory,vc@valentino.io,"Anomaly Detection
 Natural Language Processing
@@ -3858,7 +3858,7 @@ justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aache
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,2,1,1
-marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,1,1,0
+marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",1,2,1,0
 mattkram,Python,"C++, Fortran",,matthew.robert.kramer@gmail.com,"Hydrodynamics, fluid mechanics, fluid-structure interaction, time series analysis",0,0,0,0
 regivm,python,sas,,regivm@yahoo.com,"Analytics, Machine Learning",0,0,0,0
 myxie,"Python
@@ -4515,7 +4515,7 @@ Machine Vision Algorithms
 AI Embedded Computing
 SAT solvers
 Sensor Fusion Algorithms
-Digital Signal Processing",0,0,0,0
+Digital Signal Processing",1,1,0,0
 praveenkumarpgiindia,"Python
 R
 Unix","Python
@@ -5921,3 +5921,4 @@ https://github.com/taoliu032,"Python
 MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
 Biophysics
 Machine Learning"
+bramvandijk88,"C/C++, R, Bash, Javascript",Python,Max Planck Institute for Evolutionary Biology,bramvandijk88@gmail.com,"Evolution, ecology, eco-evolutionary dynamics, spatial structure, agent-based modelling, individual-based modelling, data-visualisation (R)"
