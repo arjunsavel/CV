@@ -1314,7 +1314,7 @@ Genomics",0,1,0,0
 untzag,python,c++,University of Wisconsin-Madison,blaise@untzag.com,"chemistry
 spectroscopy
 electronics
-instrumentation",1,2,1,1
+instrumentation",1,2,1,0
 garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",0,0,0,0
 sepandhaghighi,Python,"C++
 JavaScript
@@ -1651,7 +1651,7 @@ lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierar
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
 Geophysical exploration",0,0,0,0
-iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",0,2,1,1
+iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",0,2,1,0
 sptennak,Python,"Java
 C++
 R",,sumudutennakoon@gmail.com,"Machine Learning
@@ -2088,7 +2088,7 @@ MapReduce
 Image and signal processing
 Linear algebra
 Data management
-Microscopy",0,3,2,2
+Microscopy",0,3,2,1
 kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
@@ -2534,7 +2534,7 @@ timothydmorton,python,,University of Southern California,tim.morton@gmail.com,"A
 Java",,Pfizer,tomasz.adamusiak@gmail.com,"medicine
 bioinformatics
 ontologies
-clinical informatics",0,1,1,1
+clinical informatics",0,1,1,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,2,1,1
 faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,1,0
@@ -4721,7 +4721,7 @@ Gnuplot",Brown University,prasanta.pal@gmail.com,"Algorithms
 Statistical analysis
 Image processing
 Data science
-Realtime system",1,1,0,0
+Realtime system",0,1,0,0
 diegomcarvalho,"c++
 Python
 Julia
@@ -5346,7 +5346,7 @@ Matlab",,University of Manchester,michael.berks@manchester.ac.uk,"Medical imagin
 Image processing
 Compute vision
 Machine learning/AI applied to images
-General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",1,1,0,0
+General scientific/numerical data processing (unless requiring specialist domain specific knowledge outside of the areas listed above)",0,1,0,0
 VNNikolaidis,"C++, R",,"University of Peloponnese, Greece",vnikolaidis@hotmail.com,"Software Development, Data Analysis",0,0,0,0
 jenniferdavid,"python
 C++","JS
@@ -5917,8 +5917,8 @@ Climate Science
 Geosciences
 Fluid Dynamics",0,0,0,0
 tsiegert,"Python, IDL","C++, Stan",MPE; Uni Würzburg,tho.siegert@gmail.com,Astrophysics,0,0,0,0
-https://github.com/taoliu032,"Python
+taoliu032,"Python
 MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
 Biophysics
-Machine Learning"
+Machine Learning",0,0,0,0
 bramvandijk88,"C/C++, R, Bash, Javascript",Python,Max Planck Institute for Evolutionary Biology,bramvandijk88@gmail.com,"Evolution, ecology, eco-evolutionary dynamics, spatial structure, agent-based modelling, individual-based modelling, data-visualisation (R)"
