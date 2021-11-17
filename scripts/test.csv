@@ -1907,7 +1907,7 @@ clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
 data science
-data visualization",0,4,2,0
+data visualization",0,4,1,0
 amritagos,"C++
 FORTRAN
 Python
@@ -3258,7 +3258,7 @@ C++",Indian Institute of Technology Bombay,rajatshinde@iitb.ac.in,"Geospatial Ap
 Geoinformatics
 Deep learning
 Remote Sensing",1,3,2,1
-a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,1,0
+a-r-j,"Python, R",,University of Cambridge,arj39@cam.ac.uk,"Bioinformatics, Machine Learning",0,1,0,0
 github,Python,Java,Montana State University,indika.kahanda@montana.edu,"Bioinformatics
 Biomedical Informatics
 Medical Informatics
@@ -5922,3 +5922,9 @@ MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
 Biophysics
 Machine Learning",0,0,0,0
 bramvandijk88,"C/C++, R, Bash, Javascript",Python,Max Planck Institute for Evolutionary Biology,bramvandijk88@gmail.com,"Evolution, ecology, eco-evolutionary dynamics, spatial structure, agent-based modelling, individual-based modelling, data-visualisation (R)"
+@codeling,C++,"Python
+JavaScript",University of Applied Sciences Upper Austria,bernhard.froehler@fh-wels.at,"Spatial Data Visualization
+Visualization
+Virtual Reality
+Immersive Analytics
+Material Science"
