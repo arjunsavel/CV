@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,1,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",0,3,1,0
+Computer Networks. ",1,4,1,0
 mlxd,"C
 C++
 Python
@@ -162,7 +162,7 @@ PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
 Text Mining
 XML
-Database",0,4,1,1
+Database",1,5,1,1
 alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",1,4,0,0
 jsgalan,"Python
 ","Matlab
@@ -173,7 +173,7 @@ Systems dynamics",0,8,1,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
 solid state physics",0,4,1,1
-gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",1,7,1,0
+gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",1,7,0,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
 Environmental Sciences",0,1,1,0
@@ -450,7 +450,7 @@ Web/Internet Services/Standards/Protocols",0,2,0,0
 dlagrava,"Python
 C++","Java
 Perl",University of Canterbury,dlagrava@gmail.com,"Computational Fluid Dynamics
-Numerical methods",0,4,1,1
+Numerical methods",0,4,1,0
 zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",1,6,1,0
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
@@ -1358,7 +1358,7 @@ R
 bash","perl
 php", Institute of Environmental Science and Research Limited (ESR),joepio@gmail.com,"Genomics
 Bioinformatics",0,5,0,0
-harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",0,4,1,1
+harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",0,4,1,0
 RcSepp,"Python
 C++
 C#
@@ -2310,7 +2310,7 @@ bradkav,python,"C++
 Mathematica","GRAPPA, University of Amsterdam",bradkav@gmail.com,"Astroparticle Physics
 Dark Matter
 Particle Physics",0,2,2,0
-hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",0,3,1,0
+hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",0,3,0,0
 aasensio,"Python, Fortran, IDL",,Instituto de Astrofísica de Canarias,aasensio@iac.es,Solar physics,0,0,0,0
 olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,0,0
 Suchitakulkarni,Python,,Austrian academy of sciences,suchita.kulkarni@gmail.com,Particle physics,0,0,0,0
@@ -2334,7 +2334,7 @@ R
 C++",Julia,The Hong Kong University of Science and Technology,jvdmc@connect.ust.hk,"finance
 machine learning
 signal processing
-optimisation",0,1,0,0
+optimisation",1,2,0,0
 johnveitch,"Python, C",,University of Glasgow,john.veitch@glasgow.ac.uk,"Gravitational waves, signal processing, Bayesian inference",0,0,0,0
 liz-is,"R
 Python",,Max Planck Institute for Molecular Biomedicine,liz.ing-simmons@mpi-muenster.mpg.de,"Genomics
@@ -2434,7 +2434,7 @@ genomics
 user interface",0,0,0,0
 santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, gravity, magnetics, inversion.",0,2,0,0
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
-samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,1,0
+samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,1,0,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
 smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,1
 OopsAllErrors,"Python
@@ -5921,10 +5921,12 @@ taoliu032,"Python
 MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
 Biophysics
 Machine Learning",0,0,0,0
-bramvandijk88,"C/C++, R, Bash, Javascript",Python,Max Planck Institute for Evolutionary Biology,bramvandijk88@gmail.com,"Evolution, ecology, eco-evolutionary dynamics, spatial structure, agent-based modelling, individual-based modelling, data-visualisation (R)"
-@codeling,C++,"Python
+bramvandijk88,"C/C++, R, Bash, Javascript",Python,Max Planck Institute for Evolutionary Biology,bramvandijk88@gmail.com,"Evolution, ecology, eco-evolutionary dynamics, spatial structure, agent-based modelling, individual-based modelling, data-visualisation (R)",0,0,0,0
+codeling,C++,"Python
 JavaScript",University of Applied Sciences Upper Austria,bernhard.froehler@fh-wels.at,"Spatial Data Visualization
 Visualization
 Virtual Reality
 Immersive Analytics
-Material Science"
+Material Science",0,0,0,0
+@amadeusine,"Rust, C++, Julia, TypeScript, Python, Haskell","Futhark, MATLAB, R, Java, C#, Ruby, C",University of Kansas,lim@ku.edu,"Geometry, Computational Biology, Logic, Optimization, Graphics, Embedded Systems"
+jefferds@gmail.com,Julia,Julia,UNIFESSPA,franco.silva@unifesspa.edu.br,"Mecânica, Termodinâmica"
