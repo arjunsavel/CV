@@ -284,7 +284,7 @@ Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
 mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,1
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
-tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",1,1,0,0
+tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,1,1,1
 russellpierce,R,None. ,Zapier,russell.s.pierce@gmail.com,"Statistics, psychology, human factors",0,3,0,0
 lebebr01,R,,University of Iowa ,lebebr01@gmail.com,"Social science, education, statistics, simulation ",0,1,0,0
 Maczokni ,R,,University of Manchester ,reka.solymosi@manchester.ac.uk,"Criminology, transport studies, urban geography, smart cities ",0,0,0,0
@@ -1441,7 +1441,7 @@ Geophysics
 Geology
 Earth Sciences",0,0,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,3,3,0
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,3,2,0
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -2387,7 +2387,7 @@ XML, SQL, SPARQL, MARC, METS",Ruby,Wikimedia Italia,federico.leva@wikimedia.it,"
 Internet
 Digital rights, copyright, copyleft
 Wikimedia, MediaWiki",0,0,0,0
-barentsen,Python,,BAER,geert.barentsen@gmail.com,,0,1,1,0
+barentsen,Python,,BAER,geert.barentsen@gmail.com,,0,1,0,0
 joheras,"Python, Java",C++,University of La Rioja,jonathan.heras@unirioja.es,"Machine learning, image processing, computer visio",0,0,0,0
 iskandr,Python,,Icahn School of Medicine at Mount Sinai,alex@openvax.org,"Machine Learning
 Genomics
@@ -2451,7 +2451,7 @@ Fipanther,"Python, C++","Fortran, CUDA",UNSW Canberra at the Australian Defence 
 JeffWalton-PSC,"Python, Fortran",C,Paul Smith's College,jwalton@paulsmiths.edu,"Data analysis, remote sensing, image processing, celestial mechanics",0,1,0,0
 christinahedges,Python,"C++
 IDL",Bay Area Environmental Research Institute,christina.l.hedges@nasa.gov,"Astronomy
-Astrophysics",0,2,1,0
+Astrophysics",0,2,0,0
 fhorrobin,"Julia
 Python
 C
@@ -2525,7 +2525,7 @@ Yes,Matlab,Java,Nanyang technological  university,rajankashyap6@gmail.com,Neuros
 upuleegk,"Java
 Python
 C",,Montana State University,upulee.kanewala@montana.edu,,0,0,0,0
-fruzsinaagocs,"Python, C++",C,"University of Cambridge (Kavli Institute for Cosmology, Cavendish Astrophysics)",fa325@cam.ac.uk,"numerical integration, numerical solution of ODEs",0,1,1,0
+fruzsinaagocs,"Python, C++",C,"University of Cambridge (Kavli Institute for Cosmology, Cavendish Astrophysics)",fa325@cam.ac.uk,"numerical integration, numerical solution of ODEs",0,1,0,0
 devanshkv,python,"All Machine learning backends, CUDA, Shell",West Virginia University,da0017@mix.wvu.edu,"Machine learning, High Performance Computing, Astronomical Pipelines",0,0,0,0
 rth,Python,Rust,Symerio,roman.yurchak@gmail.com,"Machine learning, natural language processing, high energy density physics",0,0,0,0
 sambitdash,"Julia, C, C++","Java, Python",Lenatics Solutions Pvt. Ltd.,sambitdash@gmail.com,"Software Engg., Programming, NLP",0,1,1,0
@@ -2993,7 +2993,7 @@ wingtorres,"Python
 MATLAB",,Ph.D. Candidate,walter.torres@duke.edu,"Physical Oceanography
 Ecological Modeling
 Numerical Methods for PDEs/ODE's
-GUIs",0,1,1,0
+GUIs",0,1,0,0
 anmuller,Matlab,,IRSST,antoine.muller@ens-rennes.fr,Biomechanics,0,0,0,0
 syoh,"Python
 R",,"Department of Statistics and Applied Probability at University of California, Santa Barbara",syoh@ucsb.edu,"Machine Learning
@@ -3051,7 +3051,7 @@ Deep Learning
 ML",0,0,0,0
 motahhir,C,"Python, Matlab","ENSA Fès, USMBA",saad.motahhir@usmba.ac.ma,"Embedded System, Renewable Energy",0,0,0,0
 felixcremer,Julia,python,Deutsches Zentrum für Luft und Raumfahrt,felix.cremer@dlr.de,"earth observation
-time series",0,2,2,1
+time series",0,2,1,1
 danhey,Python,,University of Sydney,dhey3294@uni.sydney.edu.au,"Astronomy
 Asteroseismology",1,2,0,0
 nagellette,Python,,MSc. Geomatics Engineer (PhD Candidate),necipenesgengec@gmail.com,"Spatial analysis
@@ -3607,7 +3607,7 @@ Semantic Web
 Linked Data
 Fuzzy Logic
 Continuous Integration
-Software Quality",0,2,2,0
+Software Quality",0,2,1,0
 datakid,"Bash, python",,University of New South Wales,datakid@gmail.com,"Bioinformatics, systems administration",0,0,0,0
 urbanophile,"Python
 R",,University of New South Wales,contact.matt.gibson@gmail.com,"machine learning
@@ -3784,7 +3784,7 @@ Scientific Computation",0,0,0,0
 jaeyk,R,Python,"University of California, Berkeley",jaeyeonkim@berkeley.edu,"programs for data wrangling, visualization, modeling, text analysis, and machine learning",0,1,0,0
 marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and Northern Arizona University",daniel@mardascience.com,"geomorphology, remote sensing, hydrology, oceanography, machine learning, deep learning",0,0,0,0
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
-daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,1,0
+daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,0,0
 lachlangrose,"python
 c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,1,1,0,0
 skradha26,"c++, java, javascript",,University of Notre Dame,sradha@nd.edu,"decentralized identities, blockchain",0,0,0,0
@@ -5928,5 +5928,6 @@ Visualization
 Virtual Reality
 Immersive Analytics
 Material Science",0,0,0,0
-@amadeusine,"Rust, C++, Julia, TypeScript, Python, Haskell","Futhark, MATLAB, R, Java, C#, Ruby, C",University of Kansas,lim@ku.edu,"Geometry, Computational Biology, Logic, Optimization, Graphics, Embedded Systems"
+amadeusine,"Rust, C++, Julia, TypeScript, Python, Haskell","Futhark, MATLAB, R, Java, C#, Ruby, C",University of Kansas,lim@ku.edu,"Geometry, Computational Biology, Logic, Optimization, Graphics, Embedded Systems",0,0,0,0
 jefferds@gmail.com,Julia,Julia,UNIFESSPA,franco.silva@unifesspa.edu.br,"Mecânica, Termodinâmica"
+AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@msu.edu,"Astrophysics, data science, applied mathematics"
