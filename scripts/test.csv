@@ -124,7 +124,7 @@ nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
 machine learning applied to astronomy",0,1,0,0
-stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",1,7,1,0
+stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,7,2,1
 ThomasA,Python,Matlab,Aalborg University,tha@es.aau.dk,"Signal processing, image processing, compressed sensing, signal/image reconstruction",0,2,0,0
 dhhagan,python,"julia, R, c++",MIT,dhagan@mit.edu,"Atmospheric Science, ML",0,4,0,0
 biswapriyamisra,R,,Texas Biomedical Research Institute,bbmisraccb@gmail.com,"Metabolomics, LC-MS, GC-MS, mass spectrometry, pathways, networks",0,1,0,0
@@ -339,7 +339,7 @@ Python
 Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
-Software Engineering",0,1,0,0
+Software Engineering",0,1,1,1
 tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,0,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
@@ -376,7 +376,7 @@ pdebuyl,"Python
 Fortran","C
 Bash",KU Leuven,pierre.debuyl@kuleuven.be,"Physics
 Stochastic Dynamics
-Numerical simulations",0,2,0,0
+Numerical simulations",0,2,1,1
 sctyner,R,,CSAFE / Iowa State University,sctyner@iastate.edu,"graphics / data viz, anything statistics",0,1,0,0
 conradstack,R,"python
 bash","Mars, Incorporated",conrad.stack@gmail.com,"bioinformatics
@@ -1062,7 +1062,7 @@ Julia","Javascript/typescript
 Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
-Physics simulators",1,6,0,0
+Physics simulators",2,7,0,0
 GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,1,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
@@ -1515,7 +1515,7 @@ C++
 Arduino",,University of Wisconsin–Madison,sunden@wisc.edu,"Chemistry
 Instrumentation
 Spectroscopy
-",1,1,0,0
+",0,1,1,1
 steven-murray,"Python
 ","Fortran90, C",Arizona State University,steven.g.murray@asu.edu,"Astrophysics, mathematical techniques",0,1,0,0
 dsurujon,"python
@@ -4066,7 +4066,7 @@ zztin,"Python
 snakemake",,,litingchen16@gmail.com,"Biology, sequencing, alignment, voice recognition",0,0,0,0
 hbaniecki,"R
 Python",,,hbaniecki@gmail.com,"Interpretable Machine Learning
-eXplainable Artificial Intelligence",0,0,0,0
+eXplainable Artificial Intelligence",1,1,0,0
 vmatos,"C, C++, Python",Matlab,,vmatos.pt@gmail.com,"Simulation, Control, Robotics",0,0,0,0
 csadorf,Python,C++,,carl.simon.adorf@gmail.com,"Data Management
 Workflow Management
@@ -5790,7 +5790,7 @@ tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de
 kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
 Interpretable Machine Learning
 Natural Language Processing
-Statistics",1,1,0,0
+Statistics",2,2,0,0
 jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",0,0,0,0
 Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT,0,0,0,0
 jdreo,"C++
@@ -5930,8 +5930,8 @@ Immersive Analytics
 Material Science",0,0,0,0
 amadeusine,"Rust, C++, Julia, TypeScript, Python, Haskell","Futhark, MATLAB, R, Java, C#, Ruby, C",University of Kansas,lim@ku.edu,"Geometry, Computational Biology, Logic, Optimization, Graphics, Embedded Systems",0,0,0,0
 jefferdsgmail.com,Julia,Julia,UNIFESSPA,franco.silva@unifesspa.edu.br,"Mecânica, Termodinâmica",0,0,0,0
-AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@msu.edu,"Astrophysics, data science, applied mathematics"
+AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@msu.edu,"Astrophysics, data science, applied mathematics",0,0,0,0
 enricgrau,Python,,IREC,patenric@gmail.com,"Solar energy
 material science
-spectroscopy"
+spectroscopy",0,0,0,0
 Jpfonseca,"Python, Java",Bash,,jpedrofonseca@outlook.pt,Telecommunications and Orchestration
