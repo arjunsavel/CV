@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",0,3,2,1
+Data Manipulation",0,3,2,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -293,7 +293,7 @@ Postestimation
 Data visualization",0,2,1,0
 rdrr1990,R (including Rcpp),Python,Stanford University,pmohanty@stanford.edu,"political science, esp. immigration / comparative politics (in developed countries). behavioral politics, esp. public opinion.",0,1,0,0
 tweed1e,R,Stata,University of Calgary,jesse.tweedle@gmail.com,"econometrics, data science, data visualization, open data, ",0,2,1,0
-pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,1,0
+pacoramon,R; Stata,Spss ,Aragón Health Science Institute - Instituto Aragonés de Ciencias de la Salud (IACS) ,pacoramon@gmail.com,Health; Healthcare; Health Services; Medicine; ,0,1,0,0
 ha0ye,R,C++,University of Florida,hao.ye@weecology.org,"Time Series
 Dynamic Systems
 Quantitative Ecology",1,2,0,0
@@ -2034,7 +2034,7 @@ data visualization
 sport analytics",0,0,0,0
 callumrollo,Python,,Univeristy of East Anglia,c.rollo@outlook.com,"Oceanography
 Marine technology
-Geophysics",0,1,1,1
+Geophysics",0,1,1,0
 inakleinbottle,"Python
 Rust","C
 C++
@@ -2651,7 +2651,7 @@ Neurobiology",0,2,0,0
 sachsmc,R,,Karolinska Institute,sachsmc@gmail.com,"Statistics
 biostatistics
 medicine
-epidemiology",1,2,1,0
+epidemiology",1,2,0,0
 DanielaGawehns,R,,Leiden University - Leiden Institute of Advanced Computer Science,gawehnsd@liacs.leidenuniv.nl,"Health Domain, Psychology, Neurology",0,0,0,0
 MakrinaAgaoglou,"Matlab
 Mathematica",,University of Bristol,makrina.agaoglou@bristol.ac.uk,"Dynamical Systems
@@ -2898,7 +2898,7 @@ Ecology
 Meteorology
 Climate science
 Information theory
-Statistical methods",0,4,3,1
+Statistical methods",0,4,2,1
 uludag/,"C, Java, Python",JavaScript,Software Developer,mahmut.uludag@kaust.edu.sa,Bioinformatics,0,0,0,0
 kanekalla,"R
 Python",,Northwestern University,kishore.anekalla@northestern.edu,"Bioinformatics
@@ -4096,7 +4096,7 @@ DanielMyshkin,"Python, Kotlin, Go",Java,,danmyshkin@gmail.com,"Math, Computer Sc
 none,"fortran,sqlite,gawk,python,R,vb.net",c (but in previus answer only knows well the three first),,juragaro@gmail.com,"numeric packages, fluid structure interaction",0,0,0,0
 yangkcatiu,Python,,,yangkc@iu.edu,"Network science
 Social media",0,0,0,0
-callumrollo,python,julia,,c.rollo@outlook.com,oceanography,0,1,1,1
+callumrollo,python,julia,,c.rollo@outlook.com,oceanography,0,1,1,0
 agricolab,"Python
 Matlab","C
 Julia",,robert.guggenberger@uni-tuebingen.de,"Neuroscience
