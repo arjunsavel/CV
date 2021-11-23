@@ -3184,7 +3184,7 @@ ABCD,PHP,HTML,LOCATION,JIEKUMAJAYA@GMAIL.COM,BROJOURNAL,0,0,0,0
 cpgr,"C++
 python",,CSIRO,chris.green@csiro.au,"Mathematics
 Physics
-Earth science",1,2,1,0
+Earth science",0,2,2,1
 mstimberg,"Python
 C
 C++
@@ -5588,7 +5588,7 @@ Discontinuous Galerkin Methods
 Unfitted / Immersed Finite Element Methods",1,1,0,0
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
-TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",1,1,0,0
+TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,1,1,1
 Jose-Augusto-C-M,"Python, LaTeX, JavaScript, VBA.","Python, JavaScript",Universidade federal de mato grosso do sul - UFMS - Brazil,jose.a@ufms.br,"Remote sensing, machine learning, water, WFE Nexus.",0,1,1,1
 jonatanalvelid,"Python
 MATLAB",,KTH Royal Institute of Technology,jonatan.alvelid@gmail.com,"Microscopy
@@ -5762,7 +5762,7 @@ Rust","International Institute of Information Technology, Hyderabad",gaurang.tan
 
 Userscripts/Chrome extensions
 
-Performance oriented applications (fast Python/C++/Rust, flamegraphs, perf stat)",0,0,0,0
+Performance oriented applications (fast Python/C++/Rust, flamegraphs, perf stat)",1,1,0,0
 OlgerSiebinga,Python,"Matlab
 Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interaction
 Driver modelling
@@ -5935,3 +5935,4 @@ enricgrau,Python,,IREC,patenric@gmail.com,"Solar energy
 material science
 spectroscopy",0,0,0,0
 Jpfonseca,"Python, Java",Bash,,jpedrofonseca@outlook.pt,Telecommunications and Orchestration
+mmpourhashem,java,C++,"Department of Computer Engineering, University of Science and Technology of Mazandaran, Behshahr, Iran",pourhashem@mazust.ac.ir,"Software Engineering, Formal Methods, UML, Temporal Logic"
