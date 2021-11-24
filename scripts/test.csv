@@ -1306,7 +1306,7 @@ Rust","C/C++
 Java
 Bash/Shell
 JavaScript",Charite University Medicine Berlin /Berlin Institute of Health,manuel.holtgrewe@bihealth.de,"Bioinformatics
-Algorithm Engineering",0,1,0,0
+Algorithm Engineering",1,2,0,0
 cpontonn,Matlab,,ENS RENNES,charles.pontonnier@irisa.fr,Biomechanics,0,0,0,0
 lowandrew,Python,,Canadian Food Inspection Agency,andrew.low@canada.ca,"Bioinformatics
 Computational Biology
@@ -1336,7 +1336,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,0,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,3,1,1
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,3,1,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1638,7 +1638,7 @@ Bash
 CSS
 Javascript","Core Unit Bioinformatics, Berlin Institute of Health, Charite University Medicine",zyklenfrei@gmail.com,"Bioinformatics
 Computer Science
-Algorithmics",0,1,0,0
+Algorithmics",1,2,0,0
 olivertomic,Python,R,Norwegian University of Life Sciences,olivertomic@zoho.com,"chemometrics
 machine learning
 multivariate statistics",0,1,0,0
@@ -1937,7 +1937,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,3,2,1
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,1
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,0
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -2281,7 +2281,7 @@ Geosciences
 Machine Learning",0,1,0,0
 agisga,"R
 Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)",alexej.go@gmail.com,"Statistics, Machine Learning, Deep Learning, Medical Imaging",0,2,1,0
-k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,0,0,0,0
+k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,1,1,0,0
 hiraksarkar,"Python
 C++",C,University of Maryland,hsarkar@cs.umd.edu,"Bioinformatics 
 computational biology",1,1,0,0
@@ -5353,7 +5353,7 @@ C++","JS
 C",University of the West of England,jenniferdavid87@gmail.com,mobile robots,0,0,0,0
 karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++,0,0,0,0
 No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
-ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,1
+ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,0
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,1,1,0,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,1
@@ -5934,5 +5934,8 @@ AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@ms
 enricgrau,Python,,IREC,patenric@gmail.com,"Solar energy
 material science
 spectroscopy",0,0,0,0
-Jpfonseca,"Python, Java",Bash,,jpedrofonseca@outlook.pt,Telecommunications and Orchestration
+Jpfonseca,"Python, Java",Bash,,jpedrofonseca@outlook.pt,Telecommunications and Orchestration,0,0,0,0
 mmpourhashem,java,C++,"Department of Computer Engineering, University of Science and Technology of Mazandaran, Behshahr, Iran",pourhashem@mazust.ac.ir,"Software Engineering, Formal Methods, UML, Temporal Logic"
+ajbaird,"C++
+Python",Java,University of Washinton,abaird1@uw.edu,"Biological Sciences, Pharmacology, Fluid Structure Interactions, Physiology Modeling"
+https://github.com/greatv,C++ Python,,"Medicalsystem Biotechnology Co., Ltd.",xinwang614@gmail.com,Computational Intelligence
