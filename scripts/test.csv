@@ -101,7 +101,7 @@ machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,2,1,1
-CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,1,0
+CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,0,0
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
 cheminformatics
@@ -1849,7 +1849,7 @@ Python
 C
 Pascal",C++,University of Bristol,david.barton@bristol.ac.uk,"Applied mathematics
 Dynamical systems
-Differential equations",0,4,1,1
+Differential equations",0,4,1,0
 javalosp,Python,Fortran,"Department of Earth Science and Engineering, Imperial College London",jea4117@ic.ac.uk,"Numerical modelling
 CFD",0,0,0,0
 MatthewFlamm,Python,"MATLAB
@@ -2190,7 +2190,7 @@ EtienneCmb,Python,,"Aix-Marseille University, Institut de Neurosciences de la Ti
 statistics
 information theory
 neuroscience",0,1,1,0
-matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",1,2,1,1
+matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",1,2,1,0
 sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
 dynamics
@@ -3211,7 +3211,7 @@ image analysis
 sequence analysis",0,1,0,0
 MohmedSoudy,"R, Python, C, C++, C#","R, Python","Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357",Mohmedsoudy2009@gmail.com,"Bioinformatics, Proteomics, Machine learning , Deep learning",0,0,0,0
 RMeli,"Python, C++",Fortran,University of Oxford,rocco.meli@biodtp.ox.ac.uk,"Computational Chemistry, Computational Biochemistry, Cheminformatics, Deep Learning",0,0,0,0
-kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",0,1,1,1
+kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",0,1,1,0
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,0,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
@@ -3709,7 +3709,7 @@ Electromagnetic Theory
 Computational Electromagnetics
 Terahertz Sensing
 2D Materials
-Antenna Theory and Design",0,1,1,0
+Antenna Theory and Design",0,1,0,0
 kegiljarhus,"Python
 Fortran
 C++","C
@@ -4709,7 +4709,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",1,2,1,1
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",1,2,1,0
 prasantapal,"C
 C++ 
 Mathematica
@@ -5237,7 +5237,7 @@ Matlab",University College London,matthew.m.graham@gmail.com,"Computational stat
 Approximate inference
 Probabilistic programming
 Numerical simulation
-Monte Carlo methods",1,2,1,1
+Monte Carlo methods",1,2,1,0
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
 Choice modeling",0,0,0,0
@@ -5742,7 +5742,7 @@ Electromagnetics
 Numerical methods
 Antenna design
 Plasmonics
-Photonics",0,1,1,0
+Photonics",0,1,0,0
 bgyori,"Python
 Java
 R
@@ -5938,7 +5938,7 @@ Jpfonseca,"Python, Java",Bash,,jpedrofonseca@outlook.pt,Telecommunications and O
 mmpourhashem,java,C++,"Department of Computer Engineering, University of Science and Technology of Mazandaran, Behshahr, Iran",pourhashem@mazust.ac.ir,"Software Engineering, Formal Methods, UML, Temporal Logic",0,0,0,0
 ajbaird,"C++
 Python",Java,University of Washinton,abaird1@uw.edu,"Biological Sciences, Pharmacology, Fluid Structure Interactions, Physiology Modeling",0,0,0,0
-https://github.com/greatv,C++ Python,,"Medicalsystem Biotechnology Co., Ltd.",xinwang614@gmail.com,Computational Intelligence
+greatv,C++ Python,,"Medicalsystem Biotechnology Co., Ltd.",xinwang614@gmail.com,Computational Intelligence,0,0,0,0
 greatv,C++ Python MatLab,,,xinwang614@gmail.com,"Optimization Algorithm 
-Computational Intelligence"
+Computational Intelligence",0,0,0,0
 https://github.com/franziskaaah,Python,R,"John Innes Centre, Norwich, UK",franziska.hoerbst@jic.ac.uk,"Computational Biology, Plant Science, Molecular Communications, Long distance signalling, Information Theory"
