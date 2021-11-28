@@ -1199,7 +1199,7 @@ gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiom
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
 matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,0,0
 chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,1,1,0,0
-jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,1,1,1
+jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,1,1,0
 PingjunChen,Python,C++,University of Florida,chenpingjun@gmx.com,"machine learning
 biomedical image analysis
 computational pathology",0,2,0,0
@@ -5942,3 +5942,10 @@ greatv,C++ Python,,"Medicalsystem Biotechnology Co., Ltd.",xinwang614@gmail.com,
 greatv,C++ Python MatLab,,,xinwang614@gmail.com,"Optimization Algorithm 
 Computational Intelligence",0,0,0,0
 https://github.com/franziskaaah,Python,R,"John Innes Centre, Norwich, UK",franziska.hoerbst@jic.ac.uk,"Computational Biology, Plant Science, Molecular Communications, Long distance signalling, Information Theory"
+zjcong,"Kotlin
+Java
+C
+C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
+Optimization"
+@chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology"
+fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com
