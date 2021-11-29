@@ -4564,7 +4564,7 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music",1,3,2,1
+Computers in Art, Design, and Music",1,3,2,0
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
@@ -4774,7 +4774,7 @@ stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
 Bioinformatics
 Cancer biology
 transcriptomics
-tidyverse",1,1,0,0
+tidyverse",0,1,1,1
 sea-bass,"Python
 MATLAB
 C++",,Massachusetts Institute of Technology,sebas.a.castro@gmail.com,"Robotics
@@ -4787,7 +4787,7 @@ Control Systems",0,0,0,0
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
-Tidyverse",1,1,0,0
+Tidyverse",0,1,1,1
 xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
@@ -5140,7 +5140,7 @@ Clustering",0,2,2,1
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
-Statistics",1,1,0,0
+Statistics",0,1,1,1
 RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering",0,0,0,0
 sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools",1,1,0,0
 aaronpeikert,"R
@@ -5941,11 +5941,18 @@ Python",Java,University of Washinton,abaird1@uw.edu,"Biological Sciences, Pharma
 greatv,C++ Python,,"Medicalsystem Biotechnology Co., Ltd.",xinwang614@gmail.com,Computational Intelligence,0,0,0,0
 greatv,C++ Python MatLab,,,xinwang614@gmail.com,"Optimization Algorithm 
 Computational Intelligence",0,0,0,0
-https://github.com/franziskaaah,Python,R,"John Innes Centre, Norwich, UK",franziska.hoerbst@jic.ac.uk,"Computational Biology, Plant Science, Molecular Communications, Long distance signalling, Information Theory"
+franziskaaah,Python,R,"John Innes Centre, Norwich, UK",franziska.hoerbst@jic.ac.uk,"Computational Biology, Plant Science, Molecular Communications, Long distance signalling, Information Theory",0,0,0,0
 zjcong,"Kotlin
 Java
 C
 C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
-Optimization"
-@chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology"
+Optimization",0,0,0,0
+chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,0,0,0
 fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com
+synthaze,Python,"Bash
+Awk
+HTML
+CSS
+Javascript",Medical College of Wisconsin,fmalard@gmail.com,"bioinformatics
+General python tools
+Machine learning"
