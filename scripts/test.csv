@@ -716,7 +716,7 @@ Programming Language Runtimes
 Virtualization
 Compilers",0,0,0,0
 neuromusic,Python,,Allen Institute for Brain Science,justin.kiggins@gmail.com,"Neuroscience
-Psychology",0,1,1,1
+Psychology",0,1,1,0
 JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,0,0
 rlizzo,"Python
 C++",,University at Buffalo,rizzo242@gmail.com,"Medical Imaging
@@ -5948,7 +5948,7 @@ C
 C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
 Optimization",0,0,0,0
 chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,0,0,0
-fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com
+fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com,,0,0,0,0
 synthaze,Python,"Bash
 Awk
 HTML
@@ -5956,3 +5956,4 @@ CSS
 Javascript",Medical College of Wisconsin,fmalard@gmail.com,"bioinformatics
 General python tools
 Machine learning"
+llrs,R,,"CIBEREHD, IDIBAPS",lluis.revilla+joss@gmail.com,"Bioinformatics, RNAseq, multiomics tools"
