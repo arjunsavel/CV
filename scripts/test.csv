@@ -1051,7 +1051,7 @@ fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, 
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
 stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,1,0
-vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",0,2,1,1
+vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,3,1,1
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
 davekinkead,"javascript
@@ -1823,7 +1823,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",0,3,0,0
+simulation technology",1,4,0,0
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -1994,7 +1994,7 @@ fstdesk,php,,,tindeks@gmail.com,,0,0,0,0
 puolival,Python,MATLAB,University of Helsinki,tuomas.puolivali@ieee.org,"Signal processing
 Neuroscience
 Blind source separation
-Human brain imaging",0,2,1,0
+Human brain imaging",1,3,1,0
 tretherington,"Python
 R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",1,1,0,0
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,0,0
@@ -2421,7 +2421,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",1,3,0,0
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,3,1,1
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -3191,7 +3191,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",0,3,0,0
+applied mathematics (numerical integration of ODEs, etc.)",1,4,0,0
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 N/A,C++,"C, Fortran",IBM Research,vkal@ibm.com,"Numerical Linear Algebra, AI",0,0,0,0
 hmenager,"Python
@@ -4196,7 +4196,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,1,1,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",1,3,1,0
+Security",2,4,1,0
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -4547,7 +4547,7 @@ Information Theory
 Phase Amplitude Coupling
 Machine learning
 Signal Processing",0,1,1,0
-dxm447,Python,MATLAB,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy, Image Analysis",0,0,0,0
+dxm447,Python,MATLAB,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy, Image Analysis",1,1,0,0
 Het-Shah,"Python
 C++
 C",JAVA,"BITS Pilani, K. K. Birla Goa Campus",divhet163@gmail.com,"Machine Learning
@@ -4701,7 +4701,7 @@ Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational 
 felipeZ,"Python
 Rust
 C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,0,1,1,0
-krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",0,0,0,0
+krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",1,1,0,0
 mkhoshbin1,"Python
 Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering,0,0,0,0
 mahsan321,"C
@@ -4874,7 +4874,7 @@ Machine Learning
 Medical Imaging",0,1,1,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
-Image Processing",0,0,0,0
+Image Processing",1,1,0,0
 cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,2,2,1
 cedricchevalier19,"Rust
 C
@@ -5947,7 +5947,7 @@ Java
 C
 C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
 Optimization",0,0,0,0
-chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,0,0,0
+chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",1,1,0,0
 fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com,,0,0,0,0
 synthaze,Python,"Bash
 Awk
@@ -5955,5 +5955,16 @@ HTML
 CSS
 Javascript",Medical College of Wisconsin,fmalard@gmail.com,"bioinformatics
 General python tools
-Machine learning"
+Machine learning",0,0,0,0
 llrs,R,,"CIBEREHD, IDIBAPS",lluis.revilla+joss@gmail.com,"Bioinformatics, RNAseq, multiomics tools"
+euronion,Python,,Justus-Liebig University Giessen,joss.dack@xoxy.net,Energy Systems
+@ptmerz,"Python, C++, C","Matlab, Java, Fortran",University of Colorado Boulder,pascal.merz@me.com,"Molecular simulations
+Molecular dynamics
+Monte Carlo simulations
+Statistical physics
+Physical simulations"
+burch-cm,R,"python, scala, spark",,christopher.m.burch@gmail.com,"functional paradigms / functional programming
+real option analysis
+algorithmic bias / ethics
+property management and logistics
+data and ML pipelines"
