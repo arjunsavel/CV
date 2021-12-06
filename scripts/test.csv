@@ -828,7 +828,7 @@ rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western R
 Biostatistics/Epidemiology
 Topological data analysis
 Mathematical oncology
-Data visualization",0,5,2,1
+Data visualization",0,5,1,1
 sonal-raj,"Python
 Java
 C++",Scala,"National Institute of Technology, Jamshedpur, India",sonal.nitjsr@gmail.com,"Python
@@ -2095,7 +2095,7 @@ Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
 Phylogenetics",0,0,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
-njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,2,0
+njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,1,0
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
@@ -2280,7 +2280,7 @@ Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
 Machine Learning",0,1,0,0
 agisga,"R
-Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)",alexej.go@gmail.com,"Statistics, Machine Learning, Deep Learning, Medical Imaging",0,2,1,0
+Python",Ruby,"Center for Devices and Radiological Health (CDRH), U.S. Food and Drug Administration (FDA)",alexej.go@gmail.com,"Statistics, Machine Learning, Deep Learning, Medical Imaging",0,2,0,0
 k3yavi,Rust,C++,Stony Brook University,avi.sri02@gmail.com,Computational Biology,1,1,0,0
 hiraksarkar,"Python
 C++",C,University of Maryland,hsarkar@cs.umd.edu,"Bioinformatics 
@@ -3667,7 +3667,7 @@ mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear
 multiphysics
 algebraic multigrid",0,0,0,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
-skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,1,0
+skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,0,0
 santoshkumarradha,"python
 Julia",C++,Case Western Reserve University,srr70@case.edu,"Physics
 Condensed matter physics",0,0,0,0
@@ -3981,7 +3981,7 @@ industrial organization
 applied microeconomics
 innovation
 agent based modeling",0,0,0,0
-emilydolson,"C++, Python","Javascript, R",,emilyldolson@gmail.com,"Evolutionary biology, ecology, artificial life, agent-based modelling, algorithm design, evolutionary computation",1,2,1,0
+emilydolson,"C++, Python","Javascript, R",,emilyldolson@gmail.com,"Evolutionary biology, ecology, artificial life, agent-based modelling, algorithm design, evolutionary computation",1,2,0,0
 xwang862,"Python, C/C++",,,xwang@flatironinstitute.org,"Quantum chemistry, electronic structure theory, materials simulation",0,1,0,0
 Gunratan,R,Python,,glonare@uncc.edu,"Finance, Economics. Management, Accounting",0,0,0,0
 apiad,Python,"C#
@@ -3996,7 +3996,7 @@ Bash",,balamut2@illinois.edu,"Bayesian Statistics
 Computational Statistics
 Psychometrics
 State-space modeling
-Machine Learning",0,1,1,0
+Machine Learning",0,1,0,0
 BabakNSafa,Matlab,,,bsafa3@gatech.edu,biomechanics,0,0,0,0
 https://gitlab.bsc.es,Fortran,,,herbert.owen@bsc.es,CFD - Finite Element for Flow Problem - Large eddy simulation for complex geometry. Interest in Wind energy and car aerodynamics,0,0,0,0
 degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",0,1,0,0
@@ -5988,7 +5988,13 @@ statistical genetics
 genome-wide association studies
 statistics
 biostatistics",0,0,0,0
-JacksonMaxfield,Python,,University of Washington Information School,jmxbrown@uw.edu,"information systems, information archival, information retrieval, computational social science, image processing, open infrastructure"
-https://github.com/womeimingzi11,"R
+JacksonMaxfield,Python,,University of Washington Information School,jmxbrown@uw.edu,"information systems, information archival, information retrieval, computational social science, image processing, open infrastructure",0,0,0,0
+womeimingzi11,"R
 SQL","Docker
-Python","State Key Laboratory of Grasslands and Agro-ecosystems, School of Life Sciences, Lanzhou University, Lanzhou, 730000, Gansu, China",chenh16@lzu.edu.cn,Biogeography
+Python","State Key Laboratory of Grasslands and Agro-ecosystems, School of Life Sciences, Lanzhou University, Lanzhou, 730000, Gansu, China",chenh16@lzu.edu.cn,Biogeography,0,0,0,0
+adbartni,python,C#,University at Buffalo,adbartni@buffalo.edu,"Neuroimaging
+Databases
+Ontology
+Neuroinformatics
+Multiple Sclerosis
+Functional Connectivity"
