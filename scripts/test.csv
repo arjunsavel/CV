@@ -438,7 +438,7 @@ Computational biology
 Sequence analysis
 Genome analysis
 Evolution
-Ecology",0,4,1,0
+Ecology",0,4,0,0
 hainesr,"Ruby
 Java
 C
@@ -1063,7 +1063,7 @@ Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
 Physics simulators",2,7,0,0
-GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,1,0
+GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,0,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
 Rust
@@ -3025,7 +3025,7 @@ HTML
 SQL",C,Argonne National Laboratory,atanikanti@anl.gov,"Computer Science
 Data Science
 Machine Learning
-HPC",0,2,1,0
+HPC",0,2,0,0
 bradyrx,python,Matlab,University of Colorado Boulder,riley.brady@colorado.edu,"Oceanography, Climate Science, Data Visualization, Forecasting, Time Series Analysis",0,2,0,0
 mmrabe,R,"Python, C",University of Potsdam,maximilian.rabe@uni-potsdam.de,"Statistics, Cognitive Psychology, Linear Regression, Data visualization",0,3,2,0
 SWgeoscience,R,Python,University of Exeter,c.m.yeomans@exeter.ac.uk,Geoscience,0,0,0,0
@@ -3098,7 +3098,7 @@ C++","R
 C",Argonne National Labratory,aditya.tanikanti@gmail.com,"Data Science
 Computer Science
 Information Technology
-Dev Ops",0,2,1,0
+Dev Ops",0,2,0,0
 fpl,"Python, Perl, C, C++, R","Java, Javascript,",CNR IREA,francesco.lovergine@cnr.it,"geospatial, numerical analysis, machine learning, statistics",0,0,0,0
 github.com/Paul92,"C++, Python, C",,EPFL,paul.gafton@gmail.com,"Computer Vision, Machine Learning",0,0,0,0
 paulotome,c,Common Lisp,none,paulo.jorge.tome@gmail.com,Linux,0,0,0,0
@@ -5998,3 +5998,12 @@ Ontology
 Neuroinformatics
 Multiple Sclerosis
 Functional Connectivity"
+yhtang,"Python
+C++
+CUDA
+OpenCL",MATLAB,Lawrence Berkeley National Laboratory,tang@lbl.gov,"numerical linear algebra
+tensor decomposition
+molecular dynamics
+computational fluid mechanics
+high-performance computing
+GPU"
