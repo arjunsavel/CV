@@ -1647,7 +1647,7 @@ phckopper,"Python
 C","Javascript
 C++",Universidade Federal do Rio Grande do Sul,pedro.kopper@ufrgs.br,"Embedded Systems
 Computer Vision",0,1,0,0
-lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierarchical models, SEMs)",1,1,0,0
+lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierarchical models, SEMs)",0,1,1,1
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
 Geophysical exploration",0,0,0,0
@@ -1996,7 +1996,7 @@ Neuroscience
 Blind source separation
 Human brain imaging",1,3,1,0
 tretherington,"Python
-R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",1,1,0,0
+R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,1,1,1
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,0,0
 Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,2,1,0
 mariabnd,R,Python,Currently Steno Diabetes Center Copenhagen,maria@mdunbar.dk,Public Health,0,0,0,0
@@ -5675,7 +5675,7 @@ Informed Machine Learning
 Natural Language Processing",0,0,0,0
 steko,"Python, R",,"Ministero della Cultura, Italy",stefano.costa@beniculturali.it,Archaeology,1,1,0,0
 not available,C,Java,Hohai University,shahzadashraf@hhu.edu.cn,"Hohai University, robotics and control, signal processing, grid and distributed computing, computer hardware and networks, Deep learning, artificial intelligence, machine learning, neuro-fuzzy systems, Solid state devices, Data mining, and web applications",0,0,0,0
-mingzehuang,R,Python,Texas A& M University,mingzehuang@gmail.com,"Computational Statistics, Machine Learning,  Big Data, Computational Social Science and Finance.",1,1,0,0
+mingzehuang,R,Python,Texas A& M University,mingzehuang@gmail.com,"Computational Statistics, Machine Learning,  Big Data, Computational Social Science and Finance.",0,1,1,1
 makyol,Python,"R, Scala",Middle East Technical University,akyol.mehmet@metu.edu.tr,"Remote Sensing, Deep Learning, Machine Learning, Data Mining",0,0,0,0
 arianesasso,Python,,Hasso Plattner Institute - University of Potsdam,ariane.sasso@gmail.com,"Healthcare, Digital Health, Wearables, EHR, Medical Informatics",0,0,0,0
 dionhaefner,Python,,"Niels Bohr Institute, University of Copenhagen, Denmark",dion.haefner@nbi.ku.dk,"High-performance computing, machine learning, geospatial tools, visualization, data science, climate / earth science, oceanography, physics",0,0,0,0
@@ -5714,7 +5714,7 @@ Rust
 (Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,0,1,1,0
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,0,0,0
-mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",1,1,0,0
+mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",0,1,1,1
 rbeucher,Python,,The Australian National University,romain@rbeucher.com,Geodynamics,0,0,0,0
 sinaahmadi,Python,,Insight Centre for Data Analytics,ahmadi.sina@outlook.com,"natural language processing
 computational linguistics
@@ -5768,7 +5768,7 @@ Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interact
 Driver modelling
 Robotics",0,1,1,1
 KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,1,1
-fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,2,2,0,0
+fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,1,2,1,1
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing",0,0,0,0
 tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@gmail.com,"LIDAR, Point clouds, glacier, ice, snow",0,0,0,0
 allenzhuaz/,"R
@@ -5997,7 +5997,7 @@ Databases
 Ontology
 Neuroinformatics
 Multiple Sclerosis
-Functional Connectivity"
+Functional Connectivity",0,0,0,0
 yhtang,"Python
 C++
 CUDA
