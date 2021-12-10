@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",0,9,1,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",1,7,1,0
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,7,2,1
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
@@ -1898,7 +1898,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,9,2,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,9,3,2
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -3218,7 +3218,7 @@ Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, Fran
 Finite Element Analysis",0,2,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
-Social Sciences",1,1,0,0
+Social Sciences",0,1,1,1
 joaomcteixeira,Python,,"Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON, Canada",joaomcteixeira@gmail.com,"Structural Biology, Proteins, Nuclear Magnetic Resonance, Nucleic Acids, Molecular Biology",0,1,1,1
 joxeankoret,"C++, Python","Pascal, C, Intel x86/x86_64 assembler",,joxean.piti@gmail.com,"Reverse engineering, vulnerability research, exploit development, graphs theory, program diffing, bindiffing, isomorphism search, graphs",0,0,0,0
 crstnbr,"Julia, Python",C++,University of Cologne,mail@carstenbauer.eu,"Physics, Mathematics, Engineering, etc.",0,0,0,0
@@ -5021,7 +5021,7 @@ genetics
 genomics
 text processing
 typesetting
-visualisation",1,1,0,0
+visualisation",0,1,1,1
 justinsgray,"python
 julia","C++
 C",NASA Glenn Research Center,justin.s.gray@gmail.com,"Numerical Optimization
@@ -6006,9 +6006,16 @@ tensor decomposition
 molecular dynamics
 computational fluid mechanics
 high-performance computing
-GPU"
-ajbaird,"C++, Python","R, C, Julia",University of Washington,abaird1@uw.edu,"Biomedical Engineering, Physiology Modeling, Pharmacology, Systems Biology"
+GPU",0,0,0,0
+ajbaird,"C++, Python","R, C, Julia",University of Washington,abaird1@uw.edu,"Biomedical Engineering, Physiology Modeling, Pharmacology, Systems Biology",0,0,0,0
 https://github.com/surajpaib,Python,,AIM Harvard & Maastricht University,b.pai@maastrichtuniversity.nl,"Computer Vision
 Medical Imaging
 Deep Learning
 Machine Learning"
+@woolfeh,Python,,John Innes Centre,hugh.woolfenden@jic.ac.uk,"mathematical modelling
+computational biology"
+@r3w0p,"Python, Java, C++, Ada",,,pow.a.edu@gmail.com,"internet of things, complex event processing, fault tolerance, machine learning"
+mhesselbarth,R,Cpp,"Ecology And Evolutionary Biology, University of Michigan",mhk.hesselbarth@gmail.com,"Ecological Modelling
+Individual-based modeling
+Spatial point pattern analysis
+Landscape ecology"
