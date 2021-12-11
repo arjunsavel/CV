@@ -416,7 +416,7 @@ Biostatistics
 Cancer research applications",0,4,1,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,0,0
 dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",1,1,0,0
-cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,1
+cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,0
 martinmodrak,"R
 C/C++
 OpenCL
@@ -427,7 +427,7 @@ Elm
 Rust
 C#","Institute of Microbiology, Czech Academy of Sciences",martin.modrak@biomed.cas.cz,"Bioinformatics
 Gene regulation
-Computer Games AI",2,3,1,1
+Computer Games AI",1,3,2,2
 CameronDevine,Python,"Matlab
 C++
 Javascript",University Of Washington,camdev@uw.edu,"Robotics
@@ -2101,7 +2101,7 @@ Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
 Acquisition and reconstruction methods",0,0,0,0
 dilawar,"Python
-C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,1,2,1,1
+C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,1,2,1,0
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
 numerical methods
 machine learning
@@ -2379,7 +2379,7 @@ Stan","Javascript, Elm, HTML, CSS
 OpenCL
 C#",Institute of Microbiology of the Czech Academy of Sciences,martin.modrak@biomed.cas.cz,"Bioinformatics
 Statistical modelling, Bayesian statistics
-Computer Games AI",2,3,1,1
+Computer Games AI",1,3,2,2
 protik77/,Python,"C++
 Powershell",KLA Corp.,protik77@gmail.com,Material Science,0,0,0,0
 nemobis,"Python, PHP, XSLT
@@ -5180,7 +5180,7 @@ Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
 Data Science
 Machine Learning
 Causal Inference
-Epidemiology",0,1,1,1
+Epidemiology",0,1,1,0
 Naeemkh,"Python 
 R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
@@ -5205,7 +5205,7 @@ Computational biology
 Structural Biology
 Bioinformatics",1,1,0,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
-tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,1
+tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
 Smoothed particle hydrodynamics",0,1,0,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",0,1,1,0
@@ -5373,7 +5373,7 @@ Materials science",0,0,0,0
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
-dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",1,2,1,1
+dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",1,2,1,0
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,0,0,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
@@ -6008,14 +6008,20 @@ computational fluid mechanics
 high-performance computing
 GPU",0,0,0,0
 ajbaird,"C++, Python","R, C, Julia",University of Washington,abaird1@uw.edu,"Biomedical Engineering, Physiology Modeling, Pharmacology, Systems Biology",0,0,0,0
-https://github.com/surajpaib,Python,,AIM Harvard & Maastricht University,b.pai@maastrichtuniversity.nl,"Computer Vision
+surajpaib,Python,,AIM Harvard & Maastricht University,b.pai@maastrichtuniversity.nl,"Computer Vision
 Medical Imaging
 Deep Learning
-Machine Learning"
-@woolfeh,Python,,John Innes Centre,hugh.woolfenden@jic.ac.uk,"mathematical modelling
-computational biology"
-@r3w0p,"Python, Java, C++, Ada",,,pow.a.edu@gmail.com,"internet of things, complex event processing, fault tolerance, machine learning"
+Machine Learning",0,0,0,0
+woolfeh,Python,,John Innes Centre,hugh.woolfenden@jic.ac.uk,"mathematical modelling
+computational biology",0,0,0,0
+r3w0p,"Python, Java, C++, Ada",,,pow.a.edu@gmail.com,"internet of things, complex event processing, fault tolerance, machine learning",0,0,0,0
 mhesselbarth,R,Cpp,"Ecology And Evolutionary Biology, University of Michigan",mhk.hesselbarth@gmail.com,"Ecological Modelling
 Individual-based modeling
 Spatial point pattern analysis
 Landscape ecology"
+adrien-matta,C++,"C, python","Normandie Univ, ENSICAEN, UNICAEN, CNRS/IN2P3, LPC Caen, 14000 Caen, France",matta@lpccaen.in2p3.fr,"Nuclear Physics, physics"
+https://github.com/sandrinecharles,R,,University Claude Bernard Lyon 1,sandrine.charles@univ-lyon1.fr,"Mathematical biology
+Ecotoxicology
+Dynamical systems
+Bayesian Statistics
+Shiny"
