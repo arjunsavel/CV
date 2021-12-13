@@ -4108,7 +4108,7 @@ Brain-Computer-Interface
 Brain Stimulation",0,1,0,0
 julianpistorius,"Python, Elm, Shell",,,julianp@arizona.edu,"Pipelines, workflows, web services, scripts, containers, automation, infrastructure",0,0,0,0
 marvinjonathcn,R and Python,"Javascript, HTML",,marvinjqs@gmail.com,"Environmental data science, climate modeling, 
-pest modeling",1,2,1,0
+pest modeling",1,2,0,0
 humanfactors,R,Python,,michael.d.wilson@curtin.edu.au,"Cognitive Psychology
 Human Factors
 Behavioural Science
@@ -4328,7 +4328,7 @@ Sequencing",0,1,1,0
 richelbilderbeek,"R
 C++",C,"MIMY, GBB, University of Groningen",richel@richelbilderbeek.nl,"Phylogenetics
 Immunology",0,0,0,0
-tscheypidi,R,"PHP, HTML, CSS",Potsdam Institute for Climate Impact Research (PIK),dietrich@pik-potsdam.de,"Climate Science, Land Use/Agriculture, Reproducible Research",0,2,2,0
+tscheypidi,R,"PHP, HTML, CSS",Potsdam Institute for Climate Impact Research (PIK),dietrich@pik-potsdam.de,"Climate Science, Land Use/Agriculture, Reproducible Research",0,2,1,0
 RDastgh1,"R
 Matlab","Python
 Java",Johns Hopkins Medical Institute,rdastgh1@jhmi.edu,"GUI Design
@@ -6025,9 +6025,9 @@ Ecotoxicology
 Dynamical systems
 Bayesian Statistics
 Shiny",0,0,0,0
-https://github.com/diwashrestha,"R
+diwashrestha,"R
 Python","Julia
 C#",Reduct Nepal,diwash.shrestha@outlook.com,"Data Science
 Data Analysis
-Data Engineering"
+Data Engineering",0,0,0,0
 altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture."
