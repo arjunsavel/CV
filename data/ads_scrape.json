@@ -75,30 +75,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2109.00163",
-    "authors": [
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Malik, Matej",
-      "Komacek, Thaddeus D.",
-      "Bean, Jacob L.",
-      "May, Erin M.",
-      "Stevenson, Kevin B.",
-      "Mansfield, Megan",
-      "Rauscher, Emily"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-08-00",
-    "title": "No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210900163S",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2103.12790",
     "authors": [
       "Cloutier, Ryan",
@@ -177,6 +153,30 @@
     "title": "TOI-1634 b: An Ultra-short-period Keystone Planet Sitting inside the M-dwarf Radius Valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162...79C",
     "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2109.00163",
+    "authors": [
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Malik, Matej",
+      "Komacek, Thaddeus D.",
+      "Bean, Jacob L.",
+      "May, Erin M.",
+      "Stevenson, Kevin B.",
+      "Mansfield, Megan",
+      "Rauscher, Emily"
+    ],
+    "citations": 3,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-08-00",
+    "title": "No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210900163S",
+    "volume": null,
     "year": "2021"
   },
   {
