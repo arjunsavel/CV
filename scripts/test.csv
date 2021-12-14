@@ -643,7 +643,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,7,3,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,7,3,0
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1153,7 +1153,7 @@ camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of 
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
-neuroimaging",0,7,1,0
+neuroimaging",0,7,0,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
@@ -2480,7 +2480,7 @@ R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
 Scholarly communications",0,1,1,0
-DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,2,0
+DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,1,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
 smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"computational biology, bioinformatics",0,0,0,0
@@ -3906,7 +3906,7 @@ janfb,Python,Matlab,,jan.boelts@mailbox.org,"Approximate Bayesian Computation
 Likelihood-free inference
 Simulation-based inference
 Computational Neuroscience
-Model Comparison",0,1,1,1
+Model Comparison",0,1,1,0
 cadop,Python,Grasshopper,,cadop@njit.edu,"Architecture, Design",0,0,0,0
 jamiebramwell,C++,"Python
 Fortran",,bramwell1@llnl.gov,"Finite element methods
@@ -5524,7 +5524,6 @@ Statistics
 Mixture Models
 Spatial Statistics",0,1,1,1
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,2,2
-helgee,Julia,Python,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Mechanical Engineering, Space Engineering, Classical Mechanics",0,1,1,1
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",1,1,0,0
@@ -5539,7 +5538,8 @@ Crystal plasticity
 Grain structures
 Structural integrity and metal fatigue",0,0,0,0
 helgee,"Julia, Python",,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Aerospace Engineering
-Mechanical Engineering",0,1,1,1
+Mechanical Engineering
+Classical Mechanics",0,1,1,1
 lucaferranti,"julia
 matlab
 python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,2,1,1
@@ -6031,3 +6031,7 @@ C#",Reduct Nepal,diwash.shrestha@outlook.com,"Data Science
 Data Analysis
 Data Engineering",0,0,0,0
 altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture."
+@joenio,"Perl, Javascript, Ruby, Shellscript","Python, PHP, SQL, C, C++, Java",Universite Gustave Eiffel,joenio@joenio.me,"Static analysis, software metrics, data sonification, data visualization."
+@fepegar,Python,MATLAB,University College London,fepegar@gmail.com,"Medical image computing, computer vision, deep learning"
+https://github.com/OsAmaro,"Python, C, C++",,"Instituto Superior Técnico, University of Lisbon, Portugal",oscar.amaro@tecnico.ulisboa.pt,"Physics, Plasma, QED, laser, stochastic dynamics"
+borda,Python,,PytorchLightning,jirka.borovec@seznam.cz,Computer Vision
