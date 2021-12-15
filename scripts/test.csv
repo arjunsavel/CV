@@ -137,7 +137,7 @@ Bioinformatics
 
 
 ",0,1,0,0
-JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",1,3,1,1
+JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",0,3,2,2
 andim,Python,"R, C",Princeton University,andimscience@gmail.com,"Optimization, computational biology",0,1,0,0
 dowobeha,"Ruby, Scala, Swift, Bash","Python, Perl, C++, C",University of Illinois at Urbana-Champaign,lanes@illinois.edu,"Computational linguistics, machine translation",0,0,0,0
 HimanshuAwasthi95,Python,"C 
@@ -1507,7 +1507,7 @@ mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science,
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
 Earth and Planetary Sciences
-Geophysical Fluid Dynamics",0,2,1,1
+Geophysical Fluid Dynamics",0,2,1,0
 osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,3,1,0
 ksunden,"Python
 C
@@ -3348,7 +3348,7 @@ jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
 Mass Spectrometry
-Bioinformatics",0,1,1,0
+Bioinformatics",1,2,1,0
 bozutemiz,"C#
 Python
 Matlab","Java
@@ -4317,7 +4317,7 @@ steo85it,"python
 fortran",N/A,UMBC/NASA GSFC,stefano.bertone@umbc.edu,"astronomy
 planetary sciences
 orbit determination
-space geodesy",0,1,1,1
+space geodesy",0,1,1,0
 jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,0,1,1,1
 xie186,Python,"R
 Perl
@@ -5186,7 +5186,7 @@ R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
 Machine Learning
 Applied Science (Geophysics)",0,0,0,0
-salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization",1,1,0,0
+salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization",0,1,1,1
 janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Materials Science, computational molecular science",0,1,1,1
 zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
 single cell
@@ -5734,7 +5734,7 @@ tedinburgh,Python,R,University of Cambridge,te269@cam.ac.uk,"Statistics in medic
 Causal inference
 Information theory
 Survival analysis",0,0,0,0
-akaptano,"Python, Fortran, C++, matlab",Julia,"University of Washington, University of Maryland",akaptano@uw.edu,"Fluid dynamics, plasma physics, machine learning",1,1,0,0
+akaptano,"Python, Fortran, C++, matlab",Julia,"University of Washington, University of Maryland",akaptano@uw.edu,"Fluid dynamics, plasma physics, machine learning",0,1,1,1
 allenzhu,R,,"Merck & Co., Inc.",yalin.zhu@merck.com,"Statistics, experimental design, reproducible research, graphics",0,0,0,0
 hasantahir,Matlab,C,University of Glasgow,Hasan.Abbas@glasgow.ac.uk,"Electrical Engineering 
 Physics
@@ -6030,8 +6030,13 @@ Python","Julia
 C#",Reduct Nepal,diwash.shrestha@outlook.com,"Data Science
 Data Analysis
 Data Engineering",0,0,0,0
-altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture."
-@joenio,"Perl, Javascript, Ruby, Shellscript","Python, PHP, SQL, C, C++, Java",Universite Gustave Eiffel,joenio@joenio.me,"Static analysis, software metrics, data sonification, data visualization."
-@fepegar,Python,MATLAB,University College London,fepegar@gmail.com,"Medical image computing, computer vision, deep learning"
-https://github.com/OsAmaro,"Python, C, C++",,"Instituto Superior Técnico, University of Lisbon, Portugal",oscar.amaro@tecnico.ulisboa.pt,"Physics, Plasma, QED, laser, stochastic dynamics"
+altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture.",0,0,0,0
+joenio,"Perl, Javascript, Ruby, Shellscript","Python, PHP, SQL, C, C++, Java",Universite Gustave Eiffel,joenio@joenio.me,"Static analysis, software metrics, data sonification, data visualization.",0,0,0,0
+fepegar,Python,MATLAB,University College London,fepegar@gmail.com,"Medical image computing, computer vision, deep learning",0,0,0,0
+OsAmaro,"Python, C, C++",,"Instituto Superior Técnico, University of Lisbon, Portugal",oscar.amaro@tecnico.ulisboa.pt,"Physics, Plasma, QED, laser, stochastic dynamics",0,0,0,0
 borda,Python,,PytorchLightning,jirka.borovec@seznam.cz,Computer Vision
+simonrp84,"python
+fortran",IDL,STFC RAL Space / National Centre for Earth Observation,simon.proud@stfc.ac.uk,"Remote sensing
+Earth observation
+Meteorology
+Satellite data"
