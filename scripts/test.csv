@@ -415,7 +415,7 @@ tgerke,R,SAS,Moffitt Cancer Center,travis.gerke@moffitt.org,"Epidemiology
 Biostatistics
 Cancer research applications",0,4,1,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,0,0
-dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",1,1,0,0
+dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,1,1,1
 cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,0
 martinmodrak,"R
 C/C++
@@ -899,7 +899,7 @@ Data Science
 Machine Learning",1,4,0,0
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,0,0
-dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",1,5,0,0
+dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,5,1,1
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
@@ -2107,7 +2107,7 @@ numerical methods
 machine learning
 molecular dynamics
 enhanced sampling
-biophysics",0,3,2,0
+biophysics",0,3,1,0
 pythonpanda2,Python,-,ARGONNE NATIONAL LABORATORY,cet.ganesh@gmail.com,"MATERIAL SCIENCE, BIOPHYSICS",0,1,1,0
 SuperKam91,"Python, C++, Fortran",Bash Shell Script,University of Cambridge,kj316@mrao.cam.ac.uk,"Bayesian Inference, MCMC, Statistics, Machine Learning",0,0,0,0
 pythonpanda2,Python,,ARGONNE NATIONAL LABORATORY,gsivaraman@anl.gov,"Computational Material Science, Data Science, Materials Informatics, Cheminformatics, Biophysics",0,1,1,0
@@ -2707,7 +2707,7 @@ R","javascript
 java",The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG),carles.hernandez@cnag.crg.eu,"bioinformatics
 biomedicine
 data analysis",0,0,0,0
-drj11,"C, Go, Python, Lua, Lisp, FORTH","JavaScript, BASIC, x64 ASM",Climate Code Foundation,drj@pobox.com,"Algorithms, operating systems, networks, climate science, biology, any?",1,2,0,0
+drj11,"C, Go, Python, Lua, Lisp, FORTH","JavaScript, BASIC, x64 ASM",Climate Code Foundation,drj@pobox.com,"Algorithms, operating systems, networks, climate science, biology, any?",0,2,1,1
 fionnan,Python,Haskell,CurrencyFair,fionnan.alt@gmail.com,Data Science,0,0,0,0
 biozit,"Java
 C
@@ -5171,7 +5171,7 @@ twesleyb,"R
 Python",Julia,Duke University,twesleyb10@gmail.com,"Neuroscience
 Cell Biology
 Community Detection in Graphs",0,0,0,0
-tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,0,0,0
+tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,1,1,0,0
 villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",0,0,0,0
 jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,1,0,0
 cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines",0,0,0,0
@@ -5428,7 +5428,7 @@ Teaching
 Education",0,1,1,1
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
-Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,1,1,0,0
+Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,1
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
 zen-juen,"R
 Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology",0,1,1,1
@@ -5458,7 +5458,7 @@ JavaScript
 Perl",University of Houston - Clear Lake,erik@erikwhiting.com,"Software Testing
 Software Architecture
 Information Systems
-Databases",1,1,0,0
+Databases",0,1,1,1
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
 Agent Based Simulation",0,1,1,1
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
@@ -6039,6 +6039,12 @@ simonrp84,"python
 fortran",IDL,STFC RAL Space / National Centre for Earth Observation,simon.proud@stfc.ac.uk,"Remote sensing
 Earth observation
 Meteorology
-Satellite data"
-cthoyt,Python,,Harvard Medical School,cthoyt@gmail.com,"Computational Biology, Systems Biology, Bioinformatics, Cheminformatics, Machine Learning, Semantic Web"
+Satellite data",0,0,0,0
+cthoyt,Python,,Harvard Medical School,cthoyt@gmail.com,"Computational Biology, Systems Biology, Bioinformatics, Cheminformatics, Machine Learning, Semantic Web",0,0,0,0
 olgadoronina,Python,,National Renewable Energy Laboratory,olga.doronina@nrel.gov,"Statistics, Data analysis, Bayesian statistics, Shape parametrization, Turbulence modeling, Computational Fluid Dynamic"
+davidwilby,"Python
+Matlab",,The University of Sheffield,d.wilby@sheffield.ac.uk,"physics
+biology
+mathematics
+research computing"
+https://github.com/andrelreis,Python,,Rio de Janeiro State University,reisandreluis@gmail.com,Geophysics
