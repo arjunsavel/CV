@@ -70,7 +70,7 @@ kellieotto,"R
 Python",,UC Berkeley Department of Statistics/Berkeley Institute for Data Science,kellieotto@berkeley.edu,"Frequentist statistics
 Machine learning
 Data tidying/manipulation
-Data visualization",0,8,1,1
+Data visualization",0,8,1,0
 AnsleyManke,Fortran/ C,Ferret command line syntax,"Pacific Marine Environmental Laboratory, NOAA",ansley.b.manke@noaa.gov,,0,1,0,0
 sbinet,Go,,IN2P3,binet@cern.ch,"High Energy Physics, file formats",0,0,0,0
 abhishekbajpayee,"Python
@@ -1402,7 +1402,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,2,0
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,1,0
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",0,1,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",0,2,0,0
@@ -3424,7 +3424,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",0,1,1,0
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,2,0
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,1,0
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -4193,7 +4193,7 @@ TLCFEM,C++,"C
 Fortran
 Go
 MATLAB
-Python",University of Canterbury,tlcfem@gmail.com,FEM,1,1,0,0
+Python",University of Canterbury,tlcfem@gmail.com,FEM,0,1,1,1
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
 Security",3,5,1,0
@@ -4265,7 +4265,7 @@ statistical modeling
 numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
 sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,0,0
-prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,1
+prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,0
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,1,0,0
 ramisetti,"C
 C++
@@ -4901,7 +4901,7 @@ OLAP/Data Cubes",0,0,0,0
 Balaje,"C++
 MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Method
 Fluid Structure Interaction
-Virtual Element Methods",1,1,0,0
+Virtual Element Methods",0,1,1,1
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science",0,0,0,0
 georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",1,1,0,0
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
@@ -6041,10 +6041,15 @@ Earth observation
 Meteorology
 Satellite data",0,0,0,0
 cthoyt,Python,,Harvard Medical School,cthoyt@gmail.com,"Computational Biology, Systems Biology, Bioinformatics, Cheminformatics, Machine Learning, Semantic Web",0,0,0,0
-olgadoronina,Python,,National Renewable Energy Laboratory,olga.doronina@nrel.gov,"Statistics, Data analysis, Bayesian statistics, Shape parametrization, Turbulence modeling, Computational Fluid Dynamic"
+olgadoronina,Python,,National Renewable Energy Laboratory,olga.doronina@nrel.gov,"Statistics, Data analysis, Bayesian statistics, Shape parametrization, Turbulence modeling, Computational Fluid Dynamic",0,0,0,0
 davidwilby,"Python
 Matlab",,The University of Sheffield,d.wilby@sheffield.ac.uk,"physics
 biology
 mathematics
-research computing"
-https://github.com/andrelreis,Python,,Rio de Janeiro State University,reisandreluis@gmail.com,Geophysics
+research computing",0,0,0,0
+andrelreis,Python,,Rio de Janeiro State University,reisandreluis@gmail.com,Geophysics,0,0,0,0
+QibangLiu,"C++
+Python
+Matlab",,Kansas State University,qibangliu@ksu.edu
+tmigot,Julia,"Matlab
+Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization
