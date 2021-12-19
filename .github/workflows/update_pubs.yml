@@ -40,3 +40,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Scrape and update publications
+          
+      - name: Make new release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "release.tar.gz,foo/*.txt"
+          token: ${{ secrets.GITHUB_TOKEN }}
