@@ -8,6 +8,8 @@ from operator import itemgetter
 import json
 import importlib.util
 import os
+import time
+import requests
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
@@ -85,7 +87,15 @@ def get_papers(author):
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 if __name__ == "__main__":
-    paper_dict = get_papers('Savel, Arjun Baliga')
+    # tries once more if there's a timeout error
+    try:
+        paper_dict = get_papers('Savel, Arjun Baliga')
+    except requests.Timeout as err:
+        print('Timeout error')
+        print(err)
+        time.sleep(60)
+        paper_dict = get_papers('Savel, Arjun Baliga')
+        
     print(paper_dict)
     with open("../data/ads_scrape.json", "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
