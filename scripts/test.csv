@@ -22,7 +22,7 @@ xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
-Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",1,8,0,0
+Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",2,9,0,0
 ctb,Python,C/C++,,,"bioinformatics, genomics, infrastructure, testing",0,3,0,0
 rmflight,R,Python,,,Bioinformatics,0,3,1,1
 luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,0,0
@@ -1936,7 +1936,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,3,2,1
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,4,2,1
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,0
 nniiicc,"R
 Python
@@ -5065,13 +5065,13 @@ BioPerl
 Java","Guru Nanak Khalsa College, Mumbai",kharinirt237@gmail.com,"Bioinformatics
 Coding
 Desktop Applications",0,0,0,0
-dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",0,0,0,0
+dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",1,1,0,0
 stephendavidgregory,R,BUGS,"Salmon & Trout Research Centre, GWCT, UK",stephendavidgregory@gmail.com,Ecological modelling,0,0,0,0
 paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
 (Geo/water) chemistry
 Aquatic science
-Geographic information systems (GIS)",0,1,1,1
+Geographic information systems (GIS)",0,1,1,0
 nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics",0,0,0,0
 jingpengw,"python
 C++
@@ -5356,7 +5356,7 @@ No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,0
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,1,1,0,0
-richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,1
+richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,0
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
 felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,1,1,0
 tanho63,R,,,tan@tanho.ca,,0,0,0,0
@@ -6050,6 +6050,6 @@ research computing",0,0,0,0
 andrelreis,Python,,Rio de Janeiro State University,reisandreluis@gmail.com,Geophysics,0,0,0,0
 QibangLiu,"C++
 Python
-Matlab",,Kansas State University,qibangliu@ksu.edu
+Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
 Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization
