@@ -1157,7 +1157,7 @@ neuroimaging",0,7,0,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,2,0
-ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",1,2,0,0
+ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,2,1,1
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
 Electron Microscopy",0,1,0,0
@@ -4196,7 +4196,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,1,1,1
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",3,5,1,0
+Security",2,5,2,1
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -5482,7 +5482,7 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning",1,3,1,0
+Machine Learning",0,3,2,1
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,1,1,1
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",2,2,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
@@ -5947,7 +5947,7 @@ Java
 C
 C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
 Optimization",0,0,0,0
-chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",1,1,0,0
+chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,1,1,1
 fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com,,0,0,0,0
 synthaze,Python,"Bash
 Awk
@@ -6052,4 +6052,5 @@ QibangLiu,"C++
 Python
 Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
-Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization
+Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,0,0,0,0
+bhpayne,Python,,None,ben.is.located@gmail.com,Physics
