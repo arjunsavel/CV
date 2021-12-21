@@ -1972,7 +1972,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",0,2,1,1
+model selection",0,2,1,0
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -3298,7 +3298,7 @@ diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
 coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,1,0
-lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,1
+lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
 aebergl,MATLAB,,Moffitt Cancer Center,anders.berglund@moffitt.org,Bioinformatics,0,0,0,0
@@ -4457,7 +4457,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",0,1,1,1
+Atomistic simulations",0,1,1,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,1,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -6054,3 +6054,5 @@ Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
 Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,0,0,0,0
 bhpayne,Python,,None,ben.is.located@gmail.com,Physics
+https://github.com/hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology"
+@gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com
