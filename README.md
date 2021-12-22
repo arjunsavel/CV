@@ -3,7 +3,7 @@
 
 My CV, [linked with Overleaf](https://www.overleaf.com/). See the compiled version on [my website](https://arjunsavel.github.io/).
 
-The formatting of my CV is based on @davidwhogg's, and the implementation of continuous integration was inspired by @dfm's.
+The formatting of my CV is based on @davidwhogg's, and the implementation of continuous integration was inspired by @dfm's. Other design components adapted from Sourabh Bajaj and Amlaan Bhoi.
 
 ## Process
 Every 24 hours (midnight UTC), the `add_review_nums` workflow is run. This scrapes JOSS for the number of reviews I've conducted, writes this number to the main tex file, and commits the changes. 
