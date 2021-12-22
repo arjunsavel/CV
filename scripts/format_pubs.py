@@ -30,8 +30,47 @@ JOURNAL_MAP = {
 }
 
 
+def check_inpress(pub):
+    """
+    Checks whether a given paper is in the inpress data file.
+    If so, it should go under "peer-reviewed" in the CV — with the 
+    caveat that it's in press.
+
+    Inputs
+    -------
+    :pub: (dict) publication object. Needs to have 'title' key.
+    """
+
+    # read in the in press data
+    f = open('data/in_press.txt')
+    in_press = f.readlines()
+    f.close()
+
+    return pub['title'] in in_press
+
+def check_studentpaper(pub):
+    """
+    Checks whether a given paper is in the inpress data file.
+    If so, it should go under "peer-reviewed" in the CV — with the 
+    caveat that it's in press.
+
+    Inputs
+    -------
+    :pub: (dict) publication object. Needs to have 'title' key.
+    """
+    f = open('data/student_papers.txt')
+    student_papers = f.readlines()
+    f.close()
+
+    return pub['title'] in student_papers
+
 def format_pub(args):
     ind, pub = args
+
+    # add asterisk ahead of student papers
+    if check_studentpaper(pub):
+        fmt += '*'
+
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [
         i
@@ -75,6 +114,13 @@ def format_pub(args):
 
     if pub["arxiv"] is not None:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
+
+    if check_inpress(pub):
+        # need to include this in the refereed section
+        pub['doctype'] == 'article'
+
+        # need to add caveat!
+        fmt += ' (in press)'
         
     if pub["url"] is not None and pub["citations"] == 1:
         fmt += " [\\href{{{0}}}{{{1} citation}}]".format(
@@ -101,6 +147,7 @@ if __name__ == "__main__":
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     
+    # want to include articles and preprints, but not Zenodo repos.
     pubs = [
         p
         for p in pubs
@@ -120,10 +167,7 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
 
-#     summary = (
-#         "refereed: {1} / first author: {2} / citations: {3} / "
-#         "h-index: {4} ({0})"
-#     ).format(date.today(), npapers, nfirst, ncitations, hindex)
+
     summary = (
         "citations: {1} / "
         "h-index: {2} ({0})"
@@ -133,6 +177,8 @@ if __name__ == "__main__":
 
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
+
+    # now check whether 
 
     with open("../supp_tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
