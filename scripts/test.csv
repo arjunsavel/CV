@@ -2344,10 +2344,10 @@ Chromatin modifications
 Histone modification
 Chromatin conformation",0,0,0,0
 andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",0,0,0,0
-DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,0,0,0
+DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",1,1,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,1,3,1,0
-kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,2
+kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,1
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,0,0
 Jpata,"Python, C++",Julia,Caltech,Joosep.pata@cern.ch,"Particle physics, data processing, statistics, machine learning",0,0,0,0
@@ -2426,7 +2426,7 @@ zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/as
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
 neuroimaging",1,2,0,0
-da5nsy,MATLAB,,UCL,dannygarside@outlook.com,"Colour vision, colorimetry",1,1,0,0
+da5nsy,MATLAB,,UCL,dannygarside@outlook.com,"Colour vision, colorimetry",0,1,0,0
 dr-xenia,"Python, MATLAB, bash",,University of Bonn,Xkobeleva@gmail.com,"Neuroimaging, Medicine, Neurology",0,0,0,0
 darwinbandoy,"bash
 python",,"University of the Philippines Los Banos, College of Veterinary Medicine",drbandoy@ucdavis.edu,"usability
@@ -3934,7 +3934,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,1,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,2,2,1
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,2,2,0
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -4457,7 +4457,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",0,1,1,0
+Atomistic simulations",1,2,1,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,1,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -4588,7 +4588,7 @@ Plasma Physics
 Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,1,1,0
-spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",1,1,0,0
+spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,1,0,0
 rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,1,1,0
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
@@ -4957,7 +4957,7 @@ felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Le
 jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming",0,0,0,0
 db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves",0,0,0,0
 levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@tamu.edu,"scientific machine learning, deep learning",0,1,1,0
-blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",0,0,0,0
+blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",1,1,0,0
 zoometh,"R
 Python",,ASM-CNRS UMR 5140 Université Montpellier,thomashuet7@gmail.com,"Graph Theory
 Network Analysis",0,1,1,1
@@ -5425,7 +5425,7 @@ VBA",,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk
 Spatial Data
 Geospatial Data
 Teaching
-Education",0,1,1,1
+Education",0,1,1,0
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,1
@@ -6053,6 +6053,8 @@ Python
 Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
 Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,0,0,0,0
-bhpayne,Python,,None,ben.is.located@gmail.com,Physics
-https://github.com/hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology"
+bhpayne,Python,,None,ben.is.located@gmail.com,Physics,0,0,0,0
+hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology",0,0,0,0
 @gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com
+https://github.com/Palash63,R,SAS,University of Kansas Medical Center,psharma4@kumc.edu,"Clinical Trial; Survival Analysis, Machine learning"
+https://github.com/Narayana-Rao,"HTML, JS, C, C++, python, MATLAB",,Indian Institute of Technology Bombay,narayanarao.bhogapurapu@gmail.com,"Microwave Remote Sensing, Optical Remote Sensing, Agriculture, Machine learning, QGIS"
