@@ -99,6 +99,25 @@
 \newcommand{\shortershorterSection}[1]{\vspace{-10pt}\subsection{#1}}
 
 
+\def\firstoftwo#1#2{#1}
+\def\secondoftwo#1#2{#2}
+
+\def\iffileempty#1{%
+  \ifnum0\pdffilesize{#1}>0
+    \expandafter\secondoftwo
+  \else
+    \expandafter\firstoftwo
+  \fi
+}
+
+\def\renderunref{%
+  \iffileempty{supp_tex/pubs_unref.tex}{}{
+  \shortershorterSection{\underline{Preprints}}
+  \begin{list}{}{\cvlist}
+    \input{supp_tex/pubs_unref.tex}
+    % \ExecuteMetaData[supp_tex/pubs_unref.tex]{notinpress}
+\end{list}}
+}
 
 %-------------------------------------------
 %%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
