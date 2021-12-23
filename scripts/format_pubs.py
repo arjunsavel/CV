@@ -45,6 +45,8 @@ def check_inpress(pub):
     f = open('../data/in_press.txt')
     in_press = f.readlines()
     f.close()
+    
+    print(pub['title'])
 
     return pub['title'] in in_press
 
