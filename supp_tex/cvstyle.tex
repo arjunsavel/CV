@@ -2,7 +2,7 @@
 \usepackage{fancyhdr}
 \usepackage{hyperref}
 \usepackage{ifthen}
-
+\renewcommand{\today}{\the\year-\ifnum\month<10 0\fi\the\month-\ifnum\day<10 0\fi\the\day}
 % \usepackage[yyyymmdd]{datetime}
 % \renewcommand{\dateseparator}{-}
 
@@ -73,7 +73,7 @@
 \lhead{\deemph{Arjun Baliga Savel}}
 \chead{\deemph{Curriculum Vitae}}
 \rhead{\deemph{\thepage}}
-\cfoot{\deemph{\textit{References available upon request.} \textit{Last updated: \today}}}
+\cfoot{\deemph{\textit{References available upon request.} \textit{Last updated: \today. CV version tag linked \href{https://github.com/arjunsavel/CV/releases/tag/\today}{here}.}}}
 
 % Journal names.
 \newcommand{\aj}{AJ}
