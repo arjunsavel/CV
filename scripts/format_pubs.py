@@ -42,7 +42,7 @@ def check_inpress(pub):
     """
 
     # read in the in press data
-    f = open('data/in_press.txt')
+    f = open('../data/in_press.txt')
     in_press = f.readlines()
     f.close()
 
@@ -58,7 +58,7 @@ def check_studentpaper(pub):
     -------
     :pub: (dict) publication object. Needs to have 'title' key.
     """
-    f = open('data/student_papers.txt')
+    f = open('../data/student_papers.txt')
     student_papers = f.readlines()
     f.close()
 
