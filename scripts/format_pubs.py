@@ -46,7 +46,8 @@ def check_inpress(pub):
     in_press = f.readlines()
     f.close()
     
-    print(pub['title'])
+    for i, press in enumerate(in_press):
+        in_press[i] = press.split('\n')[0]
 
     return pub['title'] in in_press
 
