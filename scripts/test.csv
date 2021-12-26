@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,10,2,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,5,2,1
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",1,5,2,0
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",1,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,0,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,1
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,1,1,1
@@ -2817,7 +2817,7 @@ julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system 
 time-series data analysis
 geospational data analysis",0,1,1,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,0,0
-eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,3,2,0
+eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,3,1,0
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
 Interstellar medium",0,1,0,0
@@ -2946,7 +2946,7 @@ cheloff,"R
 Python",,UTC,marceloamores61@gmail.com,"Environmental & Earth Sciences
 Cosmology
 Mathematical Models",0,0,0,0
-Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,1,2,0,0
+Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,0,2,1,1
 -,"Python
 Javascript
 php","R
@@ -3736,7 +3736,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",0,3,2,0
+data science",0,3,1,0
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,2,1,1
 manojrege,"Python
@@ -4206,7 +4206,7 @@ florian-rosenthal,"Matlab
 C++",Python,Karlsruhe Institute of Technology,rosenthal@kit.edu,"Signal Processing
 Automatic Control",0,0,0,0
 SvenVanPoucke,Python,RapidMiner,Ziekenhuis Oost-Limburg,svanpoucke@gmail.com,Medicine,0,0,0,0
-telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,1,2,0,0
+telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,2,1,1
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
@@ -5856,7 +5856,7 @@ vimalthilak,Python,"C++, C",,vimalthilak@gmail.com,"Machine Learning
  Deep Learning
  Signal Processing",0,0,0,0
 mfleschutz,Python,,Munster Technological University,mfleschutz@gmail.com,Sustainable energy,0,0,0,0
-Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",1,2,0,0
+Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",0,2,1,1
 chryswoods,"Python
 R
 C++
