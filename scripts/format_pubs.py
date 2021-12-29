@@ -119,9 +119,6 @@ def format_pub(args):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if check_inpress(pub):
-        # need to include this in the refereed section
-        pub['doctype'] == 'article'
-
         # need to add caveat!
         fmt += ' (in press)'
         
@@ -159,6 +156,11 @@ if __name__ == "__main__":
             and p["pub"] != "Zenodo Software Release"
         )
     ]
+    
+    # want to include in press articles under refereed
+    for pub in pubs:
+        if check_inpress(pub):
+            pub["doctype"] == "article"
     
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
