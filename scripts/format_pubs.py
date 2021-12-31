@@ -161,7 +161,7 @@ if __name__ == "__main__":
     for pub in pubs:
         if check_inpress(pub):
             print(pub["title"]
-            pub["doctype"] == "article"
+            pub["doctype"] = "article"
     
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
