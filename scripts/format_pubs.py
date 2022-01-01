@@ -160,7 +160,7 @@ if __name__ == "__main__":
     # want to include in press articles under refereed
     for pub in pubs:
         if check_inpress(pub):
-            print(pub["title"]
+            print(pub["title"])
             pub["doctype"] = "article"
     
     ref = [p for p in pubs if p["doctype"] == "article"]
