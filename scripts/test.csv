@@ -1109,7 +1109,7 @@ Mathematica
 Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
-lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",1,1,0,0
+lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,1,1,1
 marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,1,0
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
@@ -2425,7 +2425,7 @@ TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
-neuroimaging",1,2,0,0
+neuroimaging",0,2,1,1
 da5nsy,MATLAB,,UCL,dannygarside@outlook.com,"Colour vision, colorimetry",0,1,0,0
 dr-xenia,"Python, MATLAB, bash",,University of Bonn,Xkobeleva@gmail.com,"Neuroimaging, Medicine, Neurology",0,0,0,0
 darwinbandoy,"bash
@@ -6066,8 +6066,9 @@ Matlab
 C++",,RSE,alessandro.amaranto@gmail.com,"hydrology
 environmental modelling
 machine learning",0,0,0,0
-shreyashankar,"Python, JavaScript, SQL","C++, C",UC Berkeley,shreyashankar@berkeley.edu,"Machine learning, database management systems"
+shreyashankar,"Python, JavaScript, SQL","C++, C",UC Berkeley,shreyashankar@berkeley.edu,"Machine learning, database management systems",0,0,0,0
 loicgrobol,Python,,Université Paris Nanterre,loic.grobol@gmail.com,"machine learning
-natural language processing"
-you,python,Java Script,Computer Science Engineer,nina.younkap@ccaa.pro,AI
+natural language processing",0,0,0,0
+you,python,Java Script,Computer Science Engineer,nina.younkap@ccaa.pro,AI,0,0,0,0
 @GaryBAYLOR,R,Julia,Walmart,jiaoisjiao@gmail.com,"Statistics, Biostatistics"
+meghanrjones,Python,,University of Hawaii,meghanj@alum.mit.edu,"Volcanology, Marine Geology, GIS"
