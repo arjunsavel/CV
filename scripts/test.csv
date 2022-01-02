@@ -3896,7 +3896,7 @@ Materials Science
 Quantum Mechanics
 Condensed Matter Science
 High Performance Computing",0,1,1,0
-pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,1,1,1
+pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,1,1,0
 ldes89150,python,python,,ldes89150@gmail.com,"optics, physics",0,0,0,0
 schroedtert,"C++
 Python",Java,,tobias.schroedter@rwth-aachen.de,"Pedestrians dynamics
@@ -4306,7 +4306,7 @@ TeX
 MATLAB",University of Miami,jifarq89@googlemail.com,"Geoscience tools
 Open-source publishing
 Applied open-source software
-Remote sensing",1,1,0,0
+Remote sensing",0,1,1,1
 ajpelu,R,,"Department of Ecology, University of Granada",ajperez@ugr.es,"Ecology, Remote-Sensing, Data-Science",0,0,0,0
 thippesha-d,"Python 
 Matlab",Java,IEEE member,thippesh790@gmail.com,"Electromagnetics
@@ -4665,7 +4665,7 @@ G (LabVIEW)
 MATLAB",,University of Miami,jifarq89@googlemail.com,"Geoscience
 Geophysics
 Volcanology
-Typesetting",1,1,0,0
+Typesetting",0,1,1,1
 gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk,"security, blockchain, distributed system, trusted software",0,0,0,0
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
@@ -5396,7 +5396,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",1,2,1,0
+Galaxy",2,3,1,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5483,7 +5483,7 @@ Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",0,3,2,1
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,1,1,1
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,2,1,1
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",2,2,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
@@ -5493,7 +5493,7 @@ Julia
 Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroimaging
 Structural Biology
 NMR
-Computational Biology",0,1,1,1
+Computational Biology",0,1,1,0
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
 luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning",0,0,0,0
 Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology,0,0,0,0
@@ -6070,5 +6070,5 @@ shreyashankar,"Python, JavaScript, SQL","C++, C",UC Berkeley,shreyashankar@berke
 loicgrobol,Python,,Université Paris Nanterre,loic.grobol@gmail.com,"machine learning
 natural language processing",0,0,0,0
 you,python,Java Script,Computer Science Engineer,nina.younkap@ccaa.pro,AI,0,0,0,0
-@GaryBAYLOR,R,Julia,Walmart,jiaoisjiao@gmail.com,"Statistics, Biostatistics"
+GaryBAYLOR,R,Julia,Walmart,jiaoisjiao@gmail.com,"Statistics, Biostatistics",0,0,0,0
 meghanrjones,Python,,University of Hawaii,meghanj@alum.mit.edu,"Volcanology, Marine Geology, GIS"
