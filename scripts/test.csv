@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",0,9,0,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,7,2,1
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",1,8,2,1
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
@@ -1089,7 +1089,7 @@ machine learning",0,1,0,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,0,0
-gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,2,1,1
+gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,2,1,0
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,0,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
@@ -1149,7 +1149,7 @@ SimonGreenhill,python,R,ARC Centre of Excellence for the Dynamics of Language & 
 historical/comparative linguistics
 cultural evolution",0,0,0,0
 jameshclrk,"C, Python","Julia, C++, Fortran",Science Technology Facilities Council,james.clark@stfc.ac.uk,"DSMC, quantum computing, HPC, parallel codes ,software engineering",0,2,1,0
-camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,2,1,1
+camillescott,"Python, C, C++, Cython","R, Java, Ruby, Javascript",University of California Davis,camille.scott.w@gmail.com,"Bioinformatics, Computational Biology, Graph theory, network analysis, data visualization, testing, workflow tools",0,2,1,0
 grlee77,Python,"C, Matlab","Deptartment of Radiology, Cincinnati Children's Hospital Medical Center",gregory.lee@cchmc.org,"medical imaging
 image processing/restoration
 magnetic resonance imaging
@@ -6072,3 +6072,6 @@ natural language processing",0,0,0,0
 you,python,Java Script,Computer Science Engineer,nina.younkap@ccaa.pro,AI,0,0,0,0
 GaryBAYLOR,R,Julia,Walmart,jiaoisjiao@gmail.com,"Statistics, Biostatistics",0,0,0,0
 meghanrjones,Python,,University of Hawaii,meghanj@alum.mit.edu,"Volcanology, Marine Geology, GIS"
+https://www.github.com/adk9,"C, C++, Haskell, Scheme, Go, Python","Ocaml, Erlang, JavaScript, TypeScript, Swift, Rust",Microsoft,abd.kulkarni@gmail.com,"Open source software, Programming Languages, Runtime systems, Distributed Systems, ML/AI"
+Ykarpate,Python Matlab,C++,Chistats Labs Pvt Ltd,yogeshkarpate@iitbombay.org,"Machine learning, medical image analyses, signal processing, industrial informatics, data mining, NLP"
+deadlyelder,"Python, C","Javascript, Java",Freelance,code@sghatpande.eu,"Security, Cryptography, Database"
