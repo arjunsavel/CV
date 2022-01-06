@@ -6074,7 +6074,12 @@ GaryBAYLOR,R,Julia,Walmart,jiaoisjiao@gmail.com,"Statistics, Biostatistics",0,0,
 meghanrjones,Python,,University of Hawaii,meghanj@alum.mit.edu,"Volcanology, Marine Geology, GIS",0,1,1,1
 https://www.github.com/adk9,"C, C++, Haskell, Scheme, Go, Python","Ocaml, Erlang, JavaScript, TypeScript, Swift, Rust",Microsoft,abd.kulkarni@gmail.com,"Open source software, Programming Languages, Runtime systems, Distributed Systems, ML/AI",0,0,0,0
 Ykarpate,Python Matlab,C++,Chistats Labs Pvt Ltd,yogeshkarpate@iitbombay.org,"Machine learning, medical image analyses, signal processing, industrial informatics, data mining, NLP",0,0,0,0
-deadlyelder,"Python, C","Javascript, Java",Freelance,code@sghatpande.eu,"Security, Cryptography, Database"
-acocac,Python,R,The Alan Turing Institute,acoca@turing.ac.uk,"Environmental Data Science, Geographical Data Science, Remote Sensing"
+deadlyelder,"Python, C","Javascript, Java",Freelance,code@sghatpande.eu,"Security, Cryptography, Database",0,0,0,0
+acocac,Python,R,The Alan Turing Institute,acoca@turing.ac.uk,"Environmental Data Science, Geographical Data Science, Remote Sensing",0,0,0,0
 @seankmartin,"Python
 C++",,PhD Student,martins7@tcd.ie,Neuroscience
+Viech,Python,,,maximilian.stahlberg@tu-berlin.de,"computer algebra systems
+mathematical optimization
+(distributionally) robust optimization
+network science / applied graph theory
+algorithms and complexity theory"
