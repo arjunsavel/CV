@@ -169,10 +169,10 @@ jsgalan,"Python
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
 Machine learning
 Bioinformatics
-Systems dynamics",0,8,1,0
+Systems dynamics",0,8,0,0
 bocklund,python,,Pennsylvania State University,brandonbocklund@gmail.com,"materials science
 thermodynamics
-solid state physics",0,4,1,1
+solid state physics",0,4,1,0
 gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",1,7,0,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
@@ -269,7 +269,7 @@ Genomics
 Data Science",0,0,0,0
 a-slide,Python ,,EMBL-EBI ,aleg@ebi.ac.uk ,"Bioinformatics
 Computational biology",0,0,0,0
-rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,1,0
+rmhogervorst,R,Python,none,hogervorst.rm@gmail.com,"Psychology, social sciences, data munging, plotting",0,1,0,0
 milesmcbain,"R, Javascript",SQL,Australian Centre of Excellence for Mathematics and Statistics (ACEMS),miles.mcbain@gmail.com,data science,0,0,0,0
 mschubert,R,Python,"European Research Institute for Biology of Ageing, Groningen",mschu.dev@gmail.com,"Bioinformatics, HPC",0,3,0,0
 adamhsparks,R,R,University of Southern Queensland,adamhsparks@gmail.com,"biology, web apis, computational statistics, reproducible research",0,1,1,0
@@ -1094,7 +1094,7 @@ chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
 Geomechanics",0,0,0,0
-kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,3,0,0
+kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",1,4,0,0
 myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",0,4,1,0
 ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",1,4,1,0
 johnsamuelwrites,"C
@@ -3138,7 +3138,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,5,3,2
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,6,3,2
 yangbai90,"fortran
 cpp
 c
@@ -4658,7 +4658,7 @@ Thermodynamics
 Heat Transfer
 Fuel Cells
 Batteries
-Combustion",0,1,1,1
+Combustion",0,1,1,0
 csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision",0,0,0,0
 jifarquharson,"Python
 G (LabVIEW)
@@ -5154,7 +5154,7 @@ open science
 - reproducibility
 - dynamic document generation
 - containers
-- version control",1,1,0,0
+- version control",2,2,0,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
 Particle physics",0,1,1,0
@@ -5617,7 +5617,7 @@ Rust",,Washington University School Of Medicine At St Louis,sridhar0605@gmail.co
 Genomics
 Computational Biology
 Bioinformatics Workflows",0,0,0,0
-wincowgerDEV,"R, HTML","Python, CSS","University of California, Riverside",wcowg001@ucr.edu,"Data Science, Machine Learning, Environmental Science, River transport processes",0,0,0,0
+wincowgerDEV,"R, HTML","Python, CSS","University of California, Riverside",wcowg001@ucr.edu,"Data Science, Machine Learning, Environmental Science, River transport processes",1,1,0,0
 peanutfun,"C++
 Python
 CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg University, Germany",lukas.riedel@iwr.uni-heidelberg.de,"Computational Physics
@@ -6082,7 +6082,7 @@ Viech,Python,,,maximilian.stahlberg@tu-berlin.de,"computer algebra systems
 mathematical optimization
 (distributionally) robust optimization
 network science / applied graph theory
-algorithms and complexity theory"
+algorithms and complexity theory",0,0,0,0
 zadehsey,"Matlab
 Python",,Carnegie Mellon University,sghaffar@andrew.cmu.edu,"Mechanical Engineering
 Nanoscale Transport
@@ -6091,3 +6091,16 @@ Thermodynamics
 Heat Transfer
 Fluid Dynamics
 Material science"
+ThomasThelen,"Python
+C++
+R",,UCSB Staff,thelen@nceas.ucsb.edu,"Knowledge Graph
+Semantic Web
+Ecological Data
+Chemical Engineering"
+hrhotz,"R, Python",Perl,"Friedrich Miescher Institute for Biomedical Research (FMI), Basel, Switzerland",hrhotz@googlemail.com,"Galaxy
+Next Generation Sequencing
+(old school) Bioinformatics"
+sebastien-plutniak,R,,"TRACES, lab. of archaeology",sebastien.plutniak@posteo.net,"archaeology
+sociology
+ethnology
+history"
