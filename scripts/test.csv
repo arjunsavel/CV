@@ -585,7 +585,6 @@ Physics
 Web technologies
 Cloud technologies
 Machine learning",0,4,0,0
-jacobsoj,R,None,"Queen's University, Canada",jill.jacobson@queensu.ca,"Statistics/multiple regression, structural equation modeling, factor analysis, multilevel modeling, reliability, assumptions, statistical power, effect size, confidence intervals, meta-analysis.",1,2,0,0
 wahls,"C
 Matlab",,TU Delft,s.wahls@tudelft.nl,"Signal processing
 Control",0,0,0,0
@@ -6110,10 +6109,11 @@ p4kl0nc4t,Python,,Universitas Gadjah Mada,faizzjazadi@gmail.com,"Qualitative res
 Python
 Julia",,"Department of Physiology and Biochemistry, Institute of Biology, University of Szczecin",danuta.cembrowska-lech@usz.edu.pl,"bioinformatics
 seq data analysis
-machine learning in molecular ecology"
+machine learning in molecular ecology",0,0,0,0
 https://github.com/egy1st,"Python
 C++","Visual basic
 C#
 Java
 PHP
 VBA",Institute of Graduate Studies and Research,mohamed.alyabbas@outlook.com,Machine Learning
+sgk98,Python,,University of Tübingen,shyamgopalkart@gmail.com,"Computer vision, Machine Learning"
