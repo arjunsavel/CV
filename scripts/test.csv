@@ -1167,7 +1167,7 @@ systematics
 taxonomy
 evolution
 palaeontology",0,0,0,0
-peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",1,2,0,0
+peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",2,3,0,0
 MikeHeiber,C++,,Northwestern University,heiber@mailaps.org,"materials science, polymers, semiconductor physics, kinetics, organic electronics",0,0,0,0
 melissawm,"Python, Julia, Fortran, MATLAB",,Federal University of Santa Catarina - Brazil,melissa.mendonca@ufsc.br,"Mathematics, Documentation, LaTeX",0,2,0,0
 kpeeters,"C++, Python",,Durham University,kasper.peeters@durham.ac.uk,"Physics, maths, computer algebra",0,0,0,0
@@ -1238,7 +1238,7 @@ electromyography
 gui
 visualization
 data acquisition
-embedded systems",0,6,0,0
+embedded systems",1,7,0,0
 felixhenninger,"JavaScript, Python, R",,University of Mannheim / University of Koblenz-Landau,mailbox@felixhenninger.com,"Cognitive/behavioral science
 Online/browser-based data collection
 Open data/open science
@@ -6110,10 +6110,18 @@ Python
 Julia",,"Department of Physiology and Biochemistry, Institute of Biology, University of Szczecin",danuta.cembrowska-lech@usz.edu.pl,"bioinformatics
 seq data analysis
 machine learning in molecular ecology",0,0,0,0
-https://github.com/egy1st,"Python
+egy1st,"Python
 C++","Visual basic
 C#
 Java
 PHP
-VBA",Institute of Graduate Studies and Research,mohamed.alyabbas@outlook.com,Machine Learning
+VBA",Institute of Graduate Studies and Research,mohamed.alyabbas@outlook.com,Machine Learning,0,0,0,0
 sgk98,Python,,University of Tübingen,shyamgopalkart@gmail.com,"Computer vision, Machine Learning"
+bmansel,"Python
+Visual basic",,National Synchrotron Radiation Research Center,bmansel@gmail.com,"Soft matter
+Polymers
+x-ray scattering
+Molecular Dynamics
+Simulation
+Rheology"
+mbagagli,"Python, Matlab","bash, csh",Istituto Nazionale di Geofisica e Vulcanologia (INGV),matteo.bagagli@ingv.it,"Geophysics,  seismology,  seismic imaging, volcano-seismology, data-science"
