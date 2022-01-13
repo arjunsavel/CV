@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,1
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,2,1,1
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",0,2,2,2
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -5584,7 +5584,7 @@ schruste,"C++
 python",,University of Göttingen,lehrenfeld@math.uni-goettingen.de,"Numerical PDEs
 Finite element methods
 Discontinuous Galerkin Methods
-Unfitted / Immersed Finite Element Methods",1,1,0,0
+Unfitted / Immersed Finite Element Methods",0,1,1,1
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
 TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,1,1,1
@@ -6116,12 +6116,18 @@ C#
 Java
 PHP
 VBA",Institute of Graduate Studies and Research,mohamed.alyabbas@outlook.com,Machine Learning,0,0,0,0
-sgk98,Python,,University of Tübingen,shyamgopalkart@gmail.com,"Computer vision, Machine Learning"
+sgk98,Python,,University of Tübingen,shyamgopalkart@gmail.com,"Computer vision, Machine Learning",0,0,0,0
 bmansel,"Python
 Visual basic",,National Synchrotron Radiation Research Center,bmansel@gmail.com,"Soft matter
 Polymers
 x-ray scattering
 Molecular Dynamics
 Simulation
-Rheology"
-mbagagli,"Python, Matlab","bash, csh",Istituto Nazionale di Geofisica e Vulcanologia (INGV),matteo.bagagli@ingv.it,"Geophysics,  seismology,  seismic imaging, volcano-seismology, data-science"
+Rheology",0,0,0,0
+mbagagli,"Python, Matlab","bash, csh",Istituto Nazionale di Geofisica e Vulcanologia (INGV),matteo.bagagli@ingv.it,"Geophysics,  seismology,  seismic imaging, volcano-seismology, data-science",0,0,0,0
+vinisalazar,Python,R,University of Melbourne,vwsalazar@student.unimelb.edu.au,"bioinformatics
+metagenomics
+microbiome science
+microbial genomics",0,0,0,0
+jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer"
+Bugs and guidiance,English,Anything,Stepping stone to education,squesnel055@gmail.com,Yes
