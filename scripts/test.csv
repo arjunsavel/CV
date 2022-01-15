@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",0,9,0,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",1,8,2,1
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,3,2
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
@@ -2115,7 +2115,7 @@ data science
 machine learning
 applied statistics
 visualization",0,0,0,0
-AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",0,1,1,0
+AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",1,2,1,0
 russHyde,"R
 python",perl,University of Glasgow,russell.hyde@glasgow.ac.uk,Bioinformatics,0,0,0,0
 remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neurosciences,0,0,0,0
@@ -2486,7 +2486,7 @@ smarkel,"Perl, Python",Java,Dassault Systèmes BIOVIA,scott.markel@3ds.com,"comp
 Lachlangrose,Python,,Monash university,lachlan.grose@gmail.com,Geosciences,0,0,0,0
 simmonsja,python,matlab,UNSW Sydney,jasimmons22@gmail.com,"coastal
 coastal geomorphology",0,0,0,0
-dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,2,1,1
+dbuscombe-usgs,python,cython,NAU,daniel.buscombe@nau.edu,"geomorph, machine learning, acoustics, sedimentology, remote sensing",0,2,1,0
 pharshalp,"Python, Matlab",,The Pennsylvania State University,pharshalp@gmail.com,"Acoustics, Vibrations",0,0,0,0
 spacechemist,python,SQL,,khanhmai@creighton.edu,,0,0,0,0
 TGuillerme,R,,The University of Queensland,guillert@tcd.ie,Macroevolution,0,0,0,0
@@ -3073,7 +3073,7 @@ Mathematica",,Perimeter Institute for Theoretical Physics,schnetter@gmail.com,as
 proycon,"Python, C++, Rust",Javascript,Radboud University Nijmegen,proycon@anaproy.nl,Natural Language Processing (NLP),0,1,0,0
 chrisleaman,python,,University of New South Wales,c.leaman@unsw.edu.au,"coastal geomorphology
 coastal engineering
-beach erosion",0,2,1,1
+beach erosion",0,2,1,0
 suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",0,0,0,0
 kokan,"C++
 C",Go,,kokaipeter@gmail.com,"Compiler
@@ -5457,7 +5457,7 @@ JavaScript
 Perl",University of Houston - Clear Lake,erik@erikwhiting.com,"Software Testing
 Software Architecture
 Information Systems
-Databases",0,1,1,1
+Databases",1,2,1,1
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
 Agent Based Simulation",0,1,1,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
@@ -5710,7 +5710,7 @@ AustinTSchaffer,"Python
 NodeJS
 C#
 Rust
-(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,0,1,1,0
+(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,1,2,1,0
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,0,0,0
 mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",0,1,1,1
@@ -6131,8 +6131,8 @@ microbiome science
 microbial genomics",0,0,0,0
 jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",0,0,0,0
 Bugs and guidiance,English,Anything,Stepping stone to education,squesnel055@gmail.com,Yes,0,0,0,0
-JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu,"Robotics, Controls, Dynamics, Kalman Filtering"
-farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"Bioengineering, Biological Data Science, Machine Learning in Biology"
+JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu,"Robotics, Controls, Dynamics, Kalman Filtering",0,0,0,0
+farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"Bioengineering, Biological Data Science, Machine Learning in Biology",0,0,0,0
 mikemahoney218,"R
 Bash","Python
 C#",State University of New York College of Environmental Science and Forestry,mike.mahoney.218@gmail.com,"geospatial / spatial, ecology, environmental science, machine learning (applications, not algorithms), visualization"
