@@ -454,7 +454,7 @@ Numerical methods",0,4,1,0
 zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",0,6,2,1
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
-Medical Imaging",0,3,1,0
+Medical Imaging",0,3,0,0
 zedtaha,R,Java/C#/Matlab,"Faculty of economics and management of Tunis, University of Tunis El Manar",zedtaha@gmail.com,Econometrics,0,0,0,0
 wspr,"Matlab, LaTeX, Mathematica",,The University of Adelaide ,will@wspr.io,"Engineering, Datavis, Document production",0,0,0,0
 giraola,R,Python,Institut Pasteur de Montevideo,giraola@pasteur.edu.uy,"Microbiology
@@ -2115,7 +2115,7 @@ data science
 machine learning
 applied statistics
 visualization",0,0,0,0
-AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",1,2,1,0
+AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",2,3,1,0
 russHyde,"R
 python",perl,University of Glasgow,russell.hyde@glasgow.ac.uk,Bioinformatics,0,0,0,0
 remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neurosciences,0,0,0,0
@@ -3785,7 +3785,7 @@ marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and N
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
 daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,0,0
 lachlangrose,"python
-c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,1,1,0,0
+c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,0,1,0,0
 skradha26,"c++, java, javascript",,University of Notre Dame,sradha@nd.edu,"decentralized identities, blockchain",0,0,0,0
 danaraujocr,Python,"C++, matlab",Université Laval,daniel.rodrigues.2@ulaval.ca,"Chemical Engineering
 Latent Variable Modelling 
@@ -3883,7 +3883,7 @@ Metabolomics
 Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
-jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,1,0
+jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,1,1,1
 mturiansky,"Python
@@ -4177,7 +4177,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,2,1,0
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",1,3,1,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -5395,7 +5395,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",2,3,1,0
+Galaxy",1,3,1,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5710,7 +5710,7 @@ AustinTSchaffer,"Python
 NodeJS
 C#
 Rust
-(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,1,2,1,0
+(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,2,3,1,0
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,0,0,0
 mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",0,1,1,1
@@ -6136,7 +6136,7 @@ farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"
 mikemahoney218,"R
 Bash","Python
 C#",State University of New York College of Environmental Science and Forestry,mike.mahoney.218@gmail.com,"geospatial / spatial, ecology, environmental science, machine learning (applications, not algorithms), visualization",0,0,0,0
-https://github.com/ylz0,"Python, Java, R, JavaScript, Scala, Perl",,Leidos Inc.,ylz0@cdc.gov,"Data Science, Bioinformatics"
+ylz0,"Python, Java, R, JavaScript, Scala, Perl",,Leidos Inc.,ylz0@cdc.gov,"Data Science, Bioinformatics",0,0,0,0
 AnthonyOfSeattle,"Python
 R","C++
 Bash","Genome Sciences, University of Washington",valenta4@uw.edu,"Bioinformatics
@@ -6144,3 +6144,11 @@ Machine Learning
 Proteomics
 Mass Spectrometry
 Cell Signalling"
+GuillaumeDerval,"Python
+Java
+Scala",,"ULiège, Montéfiore Institute, Smart Grid Lab",guillaume@guillaumederval.be,"Constraint Programming
+Combinatorial Optimization
+Cost function networks
+LP/MIP/CP Modeling languages"
+ramiromagno,R,,"CINTESIS, University of Algarve",ramiro.magno@gmail.com,Bioinformatics
+zhampel,"Python, C, C++, OpenCL, CUDA",,LANL,zhampel.github@gmail.com,"Machine learning, astrophysics"
