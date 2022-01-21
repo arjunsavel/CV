@@ -60,7 +60,7 @@ fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms 
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,0,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",1,3,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,0,0
-trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",0,9,1,0
+trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",0,9,0,0
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,7,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
@@ -162,7 +162,7 @@ PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
 Text Mining
 XML
-Database",0,5,2,2
+Database",0,5,2,1
 alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,4,1,1
 jsgalan,"Python
 ","Matlab
@@ -1137,7 +1137,7 @@ GAMS",Matlab,"Industrial Ecology Programme, NTNU - Norwegian University of Scien
 Multi Regional Input Output Analysis (MRIO)
 Life Cycle Assessment (LCA)
 Other Quantitative Sustainability Software
-Economics",0,1,1,0
+Economics",0,1,0,0
 nathanlyons,python,,Tulane University,nlyons@tulane.edu,"geomorphology, tectonics",0,0,0,0
 margauxmouchene,Python,,CU Boulder,margaux.mouchene-1@colorado.edu,"Earth surface processes, hydrology, geomorphology, tectonics, surface dating, hillslope processes, natural hazards",0,0,0,0
 mikaem,"Python, C, C++",Fortran,"University of Oslo, Department of Mathematics",mikaem@math.uio.no,"Spectral methods, computational fluid dynamics, high performance computing, MPI, finite element methods",0,3,1,0
@@ -1478,7 +1478,7 @@ Model frameworks
 Social Models
 Quantitative Archaeology
 Oceanography",0,3,1,0
-srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",1,4,0,0
+srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,4,1,1
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
 CMake
@@ -2045,7 +2045,7 @@ Physiology
 Sensor I/O
 Signal Processing
 Image Processing
-3D Meshing, Pointclouds",0,2,1,0
+3D Meshing, Pointclouds",0,2,0,0
 wwzhang,"R
 Igor Pro
 Matlab",,Peking University,zhangw@hsc.pku.edu.cn,Neuroscience,0,0,0,0
@@ -2346,7 +2346,7 @@ andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",1,1,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,1,3,1,0
-kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,1
+kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,0
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,0,0
 Jpata,"Python, C++",Julia,Caltech,Joosep.pata@cern.ch,"Particle physics, data processing, statistics, machine learning",0,0,0,0
@@ -2768,7 +2768,7 @@ Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
 Aeroelasticity
 Aircraft Design
 Structural Dynamics
-Aerodynamics",1,1,0,0
+Aerodynamics",0,1,1,1
 torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisation
 Graph Theory
 Shortest Path Problems
@@ -3061,7 +3061,7 @@ urbanophile,"Python
 C++
 R",,University of New South Wales,matthew.gibson1@unsw.edu.au,"machine learning
 computer vision
-image processing",0,1,1,1
+image processing",0,1,1,0
 richelbilderbeek,"C++, R",C,"University of Groningen, Groningen Institute for Evolutionary Life Sciences (GELIFES), Theoretical Research in Evolutionary Life Sciences (TRES)",richel@richelbilderbeek.nl,"phylogenetics, biology, genomics, bioinformatics",0,0,0,0
 eschnett,"C
 C++
@@ -3611,7 +3611,7 @@ datakid,"Bash, python",,University of New South Wales,datakid@gmail.com,"Bioinfo
 urbanophile,"Python
 R",,University of New South Wales,contact.matt.gibson@gmail.com,"machine learning
 computer vision
-image processing",0,1,1,1
+image processing",0,1,1,0
 pratikvn,"C++
 C
 Cuda
@@ -3999,7 +3999,7 @@ Machine Learning",0,1,0,0
 BabakNSafa,Matlab,,,bsafa3@gatech.edu,biomechanics,0,0,0,0
 https://gitlab.bsc.es,Fortran,,,herbert.owen@bsc.es,CFD - Finite Element for Flow Problem - Large eddy simulation for complex geometry. Interest in Wind energy and car aerodynamics,0,0,0,0
 degleris1,Julia,Python,,degleris1@gmail.com,"Optimization, Control, Statistics, Machine Learning, Power Systems",0,1,0,0
-Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learning",0,1,1,1
+Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learning",0,1,1,0
 ozanerturk,Javascript,"Python
 C#",,ozanerturk17@gmail.com,"concurrency
 simulation",0,0,0,0
@@ -4450,7 +4450,7 @@ Python
 MATLAB","C++
 Python
 MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
-Mesh Generation",1,1,0,0
+Mesh Generation",0,1,1,1
 awvwgk,"Fortran
 Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
@@ -4824,7 +4824,7 @@ Ruby",World Bank,gabrielusvicente@gmail.com,"Applied Mathematics
 Physics
 Optimization
 Machine Learning
-Artificial Intelligence",0,2,1,1
+Artificial Intelligence",0,2,1,0
 OloOcki,Python,,"Chair of Photogrammetry and Remote Sensing, Technical University of Munich",olaf.wysocki@tum.de,"GIS, Photogrammetry, Remote Sensing, Geomatics",0,0,0,0
 saurabh-khanna,"Python
 R",,"PhD Candidate, Stanford University",saurabhkhanna@stanford.edu,"Algorithmic bias, knowledge diversity, social networks",0,0,0,0
@@ -5135,7 +5135,7 @@ Python",0,1,1,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",0,2,2,0
+Clustering",1,3,2,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
@@ -5528,7 +5528,7 @@ singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",1,1,0,0
 1tylermitchell,Python,JavaScript,Locate Press,Tyler@locatepress.com,"Geospatial, big data",1,1,0,0
 alexmascension,Python,R,Biodonostia Health Research Institute,alexmascension@gmail.com,single-cell RNA seq,0,0,0,0
-abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",0,0,0,0
+abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",1,1,0,0
 Ziqian-xia,R,,Nanchang University,Ziqian.research@gmail.com,Environment，Psychometrics，Graphics,0,0,0,0
 SunilAnandatheertha,MATLAB,PYTHON,Coventry University,sunilanandatheertha@gmail.com,"Materials science
 Finite element analysis
@@ -6162,5 +6162,6 @@ Astronomy
 Astrophysics
 Computer Science
 Information Security
-Numerical Methods"
-https://github.com/jkpierce/,"Python, C++, R",,The University of British Columbia,kpierce@alumni.ubc.ca,"Earth and ocean science, stochastic physics, statistical physics"
+Numerical Methods",0,0,0,0
+jkpierce/,"Python, C++, R",,The University of British Columbia,kpierce@alumni.ubc.ca,"Earth and ocean science, stochastic physics, statistical physics",0,0,0,0
+Got hub handle,Espanol,Ingles,Https://Joss.theoj.org,cofe1224000@gmail.com,Domain
