@@ -902,7 +902,7 @@ dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Scienc
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
-williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,1,0
+williamjameshandley,"Python, C++, Fortran",,University of Cambridge,wh260@cam.ac.uk,"Astrophysics, Inference, Statistics",0,2,0,0
 nyutal,Python,Java,Yahoo! Research ,yutal.nadav@gmail.com,,0,0,0,0
 federeghe,"C, C++","Python, MATLAB",Politecnico di Milano,federico.reghenzani@polimi.it,"Real-Time Computing, Embedded Systems, Operating Systems, WCET analyses.",1,1,0,0
 pankajkmishra,MATLAB,Fortran 90,"Department of Mathematics, Hong Kong Baptist Univerisy",pankajkmishra01@gmail.com,"Meshless Methods 
@@ -6166,7 +6166,11 @@ Numerical Methods",0,0,0,0
 jkpierce/,"Python, C++, R",,The University of British Columbia,kpierce@alumni.ubc.ca,"Earth and ocean science, stochastic physics, statistical physics",0,0,0,0
 Got hub handle,Espanol,Ingles,Https://Joss.theoj.org,cofe1224000@gmail.com,Domain,0,0,0,0
 mrshu,"Python, Go","C, C++, Nim, PHP, JavaScript",Comenius University in Bratislava / Slido / Cisco,marek@mareksuppa.com,"Natural Language Processing, Machine Learning, Robotics, Scientific Computing",0,0,0,0
-https://github.com/shahaneshantanu,"C++
-Python",,University of Illinois at Urbana-Champaign,shahaneshantanu@gmail.com,Computational Fluid Dynamics
-Nasrinattar26,R,,Ph.D. of water resources engineering,nasrin.attar1991@gmail.com,hydrology
+shahaneshantanu,"C++
+Python",,University of Illinois at Urbana-Champaign,shahaneshantanu@gmail.com,Computational Fluid Dynamics,0,0,0,0
+Nasrinattar26,R,,Ph.D. of water resources engineering,nasrin.attar1991@gmail.com,hydrology,0,0,0,0
 gxlarson,Python,LaTeX,Vanderbilt University,stefan.larson@vanderbilt.edu,"machine learning, computer vision, natural language processing"
+urmi-21,python,"Java
+R",,urminder.singh.21@gmail.com,"Bioinformatics
+Genomics
+Biomedical sciences"
