@@ -1690,7 +1690,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",0,7,3,0
+Structural Dynamics",0,7,2,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",1,3,0,0
 shreyasbapat,"Python
@@ -3149,7 +3149,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,4,2,0
+multiscale",0,4,1,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,0
 rchg,"Python
@@ -3638,7 +3638,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,4,2,0
+plasticity",0,4,1,0
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -6076,7 +6076,7 @@ Ykarpate,Python Matlab,C++,Chistats Labs Pvt Ltd,yogeshkarpate@iitbombay.org,"Ma
 deadlyelder,"Python, C","Javascript, Java",Freelance,code@sghatpande.eu,"Security, Cryptography, Database",0,0,0,0
 acocac,Python,R,The Alan Turing Institute,acoca@turing.ac.uk,"Environmental Data Science, Geographical Data Science, Remote Sensing",0,0,0,0
 seankmartin,"Python
-C++",,PhD Student,martins7@tcd.ie,Neuroscience,0,0,0,0
+C++",,PhD Student,martins7@tcd.ie,Neuroscience,1,1,0,0
 Viech,Python,,,maximilian.stahlberg@tu-berlin.de,"computer algebra systems
 mathematical optimization
 (distributionally) robust optimization
@@ -6173,6 +6173,6 @@ gxlarson,Python,LaTeX,Vanderbilt University,stefan.larson@vanderbilt.edu,"machin
 urmi-21,python,"Java
 R",,urminder.singh.21@gmail.com,"Bioinformatics
 Genomics
-Biomedical sciences"
-juancarlosfarah,"JavaScript, Python","MATLAB, Java",École Polytechnique Fédérale de Lausanne,juancarlos.farah@epfl.ch,"Neuroscience, Chatbots, Digital Education, Web Development"
+Biomedical sciences",0,0,0,0
+juancarlosfarah,"JavaScript, Python","MATLAB, Java",École Polytechnique Fédérale de Lausanne,juancarlos.farah@epfl.ch,"Neuroscience, Chatbots, Digital Education, Web Development",0,0,0,0
 dhvalden,"Python, R, Julia, Rust",,University of Leeds,ptdhv@leeds.ac.uk,"Computational Social Science, BERT, Transformers, Bayesian Inference"
