@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,1
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",0,2,2,1
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,3,2,1
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -5961,7 +5961,7 @@ ptmerz,"Python, C++, C","Matlab, Java, Fortran",University of Colorado Boulder,p
 Molecular dynamics
 Monte Carlo simulations
 Statistical physics
-Physical simulations",0,0,0,0
+Physical simulations",1,1,0,0
 burch-cm,R,"python, scala, spark",,christopher.m.burch@gmail.com,"functional paradigms / functional programming
 real option analysis
 algorithmic bias / ethics
@@ -6175,10 +6175,22 @@ R",,urminder.singh.21@gmail.com,"Bioinformatics
 Genomics
 Biomedical sciences",0,0,0,0
 juancarlosfarah,"JavaScript, Python","MATLAB, Java",École Polytechnique Fédérale de Lausanne,juancarlos.farah@epfl.ch,"Neuroscience, Chatbots, Digital Education, Web Development",0,0,0,0
-dhvalden,"Python, R, Julia, Rust",,University of Leeds,ptdhv@leeds.ac.uk,"Computational Social Science, BERT, Transformers, Bayesian Inference"
-achanda,"Python, Go, Rust, Bash","C/C++, Java",HubSpot,abhishek.becs@gmail.com,"Cloud computing, distributed systems, networking"
+dhvalden,"Python, R, Julia, Rust",,University of Leeds,ptdhv@leeds.ac.uk,"Computational Social Science, BERT, Transformers, Bayesian Inference",0,0,0,0
+achanda,"Python, Go, Rust, Bash","C/C++, Java",HubSpot,abhishek.becs@gmail.com,"Cloud computing, distributed systems, networking",0,0,0,0
 @mkareshk,Python,"Java
 C
 C++",Oracle,mkareshk@outlook.com,"Machine Learning
 Finance
 Quantum Computing"
+Unknown,Java,C++,Tesla,cherishh1983@gmail.com,All
+https://github.com/alejandrogallo,"python
+C
+C++","haskell
+common lisp
+emacs lisp
+scheme
+julia
+fortran",Vienna university of technology,alejandro.gallo@tuwien.ac.att,"Quantum chemistry
+Chemistry
+Physics
+Computational mathematics"
