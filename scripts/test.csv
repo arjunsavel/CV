@@ -258,7 +258,7 @@ R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.a
 Genomics
 Computational Biology
 Bioinformatics
-Protein Science",0,6,1,1
+Protein Science",0,6,1,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
 alexanderfurnas ,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
@@ -2342,7 +2342,7 @@ Chromatin
 Chromatin modifications
 Histone modification
 Chromatin conformation",0,0,0,0
-andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",0,0,0,0
+andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",1,1,0,0
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",1,1,0,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,3,2,1
@@ -2886,7 +2886,7 @@ Javascript","Prolog
 Ruby
 Go",Arizona State University,douglas.g.moore@asu.edu,"Physics
 Applied Mathematics
-Biology",0,1,1,0
+Biology",0,1,0,0
 arbennett,"Python
 Fortran
 Julia
@@ -3758,7 +3758,7 @@ keurfonluu,Python,Fortran,Berkeley Lab,keurfonluu@outlook.com,Geophysics,0,0,0,0
 marcjwilliams1,"R
 julia",python,Memorial Sloan Kettering Cancer Center,marcjwilliams1@gmail.com,"Bioinformatics
 Computational Biology
-Bayesian Inference",1,2,1,0
+Bayesian Inference",1,2,0,0
 ldominguezruben,Python,Matlab,Universidad Nacional del Litoral,ldominguez@fich.unl.edu.ar,"Hydraulics, earth landforms and processes, geomorphology",0,0,0,0
 bastinrobin,Python,Go,CleverInsight,bastinrobins@gmail.com,Data Science,0,0,0,0
 Athanasiamo,"R
@@ -4531,7 +4531,7 @@ Task Design",0,1,1,0
 kgoebber,Python,Python,Valparaiso University,kevin.goebbert@valpo.edu,"atmospheric science
 climate science
 meteorology",0,0,0,0
-bernardsilenou,R,,Mr,bernard.silenou@helmholtz-hzi.de,Statistics,0,1,1,1
+bernardsilenou,R,,Mr,bernard.silenou@helmholtz-hzi.de,Statistics,0,1,1,0
 raghurama123,"Fortran, Python, Octave",Julia,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry
 Materials Science
 Quantum Mechanics
@@ -4906,7 +4906,7 @@ georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austi
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
-raoulcollenteur,Python,,University of Graz,raoul.collenteur@uni-graz.at,"Geosciences, Hydrology",0,1,1,1
+raoulcollenteur,Python,,University of Graz,raoul.collenteur@uni-graz.at,"Geosciences, Hydrology",0,1,1,0
 yongzesong,R,Matlab,Curtin University,yongze.song@curtin.edu.au,"GIS, Spatial analysis, geography, remote sensing, environment and ecology",0,0,0,0
 vickysharma0812,Fortran,,Postdoctoral fellow,vickysharma0812@gmail.com,"Linear Algebra
 Finite Element Methods
@@ -5482,7 +5482,7 @@ Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",0,3,2,1
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,2,1,1
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,2,1,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",2,2,0,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
@@ -5801,7 +5801,7 @@ Metaheuristics
 Optimization",0,0,0,0
 inpefess,Python,,"Université Côte d'Azur, CNRS, LJAD, France",boris.shminke@univ-cotedazur.fr,"machine learning
 recommender systems
-automated theorem proving",0,0,0,0
+automated theorem proving",1,1,0,0
 jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
 Neuroimaging
 Finance",0,1,1,1
@@ -5830,7 +5830,7 @@ Data Science
 Wearable Computing
 Statistics
 Psychology
-Biopsychology",0,1,1,1
+Biopsychology",1,2,1,1
 puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",0,1,1,1
 npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology",0,0,0,0
 sebastian-raubach,"Java
@@ -6177,12 +6177,12 @@ Biomedical sciences",0,0,0,0
 juancarlosfarah,"JavaScript, Python","MATLAB, Java",École Polytechnique Fédérale de Lausanne,juancarlos.farah@epfl.ch,"Neuroscience, Chatbots, Digital Education, Web Development",0,0,0,0
 dhvalden,"Python, R, Julia, Rust",,University of Leeds,ptdhv@leeds.ac.uk,"Computational Social Science, BERT, Transformers, Bayesian Inference",0,0,0,0
 achanda,"Python, Go, Rust, Bash","C/C++, Java",HubSpot,abhishek.becs@gmail.com,"Cloud computing, distributed systems, networking",0,0,0,0
-@mkareshk,Python,"Java
+mkareshk,Python,"Java
 C
 C++",Oracle,mkareshk@outlook.com,"Machine Learning
 Finance
-Quantum Computing"
-Unknown,Java,C++,Tesla,cherishh1983@gmail.com,All
+Quantum Computing",0,0,0,0
+Unknown,Java,C++,Tesla,cherishh1983@gmail.com,All,0,0,0,0
 https://github.com/alejandrogallo,"python
 C
 C++","haskell
@@ -6194,3 +6194,4 @@ fortran",Vienna university of technology,alejandro.gallo@tuwien.ac.att,"Quantum 
 Chemistry
 Physics
 Computational mathematics"
+https://github.com/arn1291,Python,C++,Pondicherry university,arunekumarbala@gmail.com,"Machine learning, computer vision, artificial intelligence, optimization"
