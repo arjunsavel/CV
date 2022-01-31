@@ -660,7 +660,7 @@ sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"Hi
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
 kdpeterson51,R,,University of Iowa,petersonkdon@gmail.com,"Statistics, Machine Learning",0,0,0,0
-juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",0,4,1,0
+juliohm,Julia,Python,Stanford University,julio.hoffimann@gmail.com,"(Spatial) Statistics, Probability, Machine Learning, Image Processing, Graph Theory, GIS",0,4,0,0
 fdroessler,Python,,Data Scientist in Industry,roessler.fd@gmail.com,"Molecular Dynamics Simulation
 Computational Chemistry
 Agent Based Models",0,1,0,0
@@ -5553,7 +5553,7 @@ Python",Université de Montréal,timothee.poisot@umontreal.ca,"ecology
 graph theory
 machine learning
 epidemiology
-computational biology",0,1,1,0
+computational biology",0,1,0,0
 michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction",0,0,0,0
 Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing",0,0,0,0
 Metafrancois,R,,University of Liège,francois.leonard@uliege.be,"methodology, statistics, meta-research, statistical power, behavioral neurosciences, psychology, psychopharmacology",0,0,0,0
@@ -6194,9 +6194,9 @@ fortran",Vienna university of technology,alejandro.gallo@tuwien.ac.att,"Quantum 
 Chemistry
 Physics
 Computational mathematics",0,0,0,0
-https://github.com/arn1291,Python,C++,Pondicherry university,arunekumarbala@gmail.com,"Machine learning, computer vision, artificial intelligence, optimization"
+arn1291,Python,C++,Pondicherry university,arunekumarbala@gmail.com,"Machine learning, computer vision, artificial intelligence, optimization",0,0,0,0
 chrisamiller,R,"Perl
 Python
 Bash
-Ruby",Washington University in St. Louis,c.a.miller@wustl.edu,"Bioinformatics, Genomics, Cancer, Sequence Analysis"
+Ruby",Washington University in St. Louis,c.a.miller@wustl.edu,"Bioinformatics, Genomics, Cancer, Sequence Analysis",0,0,0,0
 aaaa,Java,,University of St Andrews,cr253@st-andrews.ac.uk
