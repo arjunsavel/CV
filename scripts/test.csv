@@ -3014,7 +3014,7 @@ fitting
 optimization
 multivariate analysis
 statistical analysis",0,1,0,0
-hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,1,0
+hpparvi,"Python, Fortran",C,Instituto de Astrofísica de Canarias,hannu@iac.es,Astrophysics,0,2,0,0
 atanikan,"Python
 Java
 R
@@ -6200,3 +6200,5 @@ Python
 Bash
 Ruby",Washington University in St. Louis,c.a.miller@wustl.edu,"Bioinformatics, Genomics, Cancer, Sequence Analysis",0,0,0,0
 aaaa,Java,,University of St Andrews,cr253@st-andrews.ac.uk
+jackbrookes,C#,,UCL,jbrookes187@gmail.com,Virtual Reality
+slwu89,"R, C++","Julia, C",Institute for Health Metrics and Evaluation,slwood89@gmail.com,"Epidemiology, Biostatistics, Ecology, Stochastic Simulation"
