@@ -137,7 +137,7 @@ Bioinformatics
 
 
 ",0,1,0,0
-JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",0,3,2,1
+JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",1,4,2,1
 andim,Python,"R, C",Princeton University,andimscience@gmail.com,"Optimization, computational biology",0,1,0,0
 dowobeha,"Ruby, Scala, Swift, Bash","Python, Perl, C++, C",University of Illinois at Urbana-Champaign,lanes@illinois.edu,"Computational linguistics, machine translation",0,0,0,0
 HimanshuAwasthi95,Python,"C 
@@ -1690,7 +1690,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",0,7,2,0
+Structural Dynamics",1,8,2,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",1,3,0,0
 shreyasbapat,"Python
@@ -2435,7 +2435,7 @@ santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, 
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,1,2,0,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
-smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,1
+smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,0
 OopsAllErrors,"Python
 Matlab",IDL (no active license),National Geospatial-Intelligence Agency,johnjmandel@gmail.com,"Remote Sensing
 Image Processing
@@ -2460,7 +2460,7 @@ Rust",Go,"Astronomy and Astrophysics, University of Toronto",horrobin@astro.utor
 Statistical methods for data modelling in physics.
 Computational fluiddynamics, solid body dynamics, geophysical modelling.",0,0,0,0
 matteomancini,Python,MATLAB,University of Sussex,ingmatteomancini@gmail.com,Neuroimaging,0,2,1,0
-axel-loewe,"C++, Python",PHP,"Karlsruhe Institute of Technology (KIT), Institute of Biomedical Engineering",axel.loewe@kit.edu,"Biomedical, Machine Learning",0,1,1,1
+axel-loewe,"C++, Python",PHP,"Karlsruhe Institute of Technology (KIT), Institute of Biomedical Engineering",axel.loewe@kit.edu,"Biomedical, Machine Learning",1,2,1,1
 lukassnoek,Python,Bash,University of Amsterdam,lukassnoek@gmail.com,"Neuroimaging (MRI, EEG), psychophysics, face recognition/perception",0,0,0,0
 Remi-Gau,matlab,,"Institute of research in Psychology, Univertsité catholique de Louvain, Belgium",remi.gau@gmail.com,neuroimaging,0,0,0,0
 nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Stavanger,nmstreethran@gmail.com,"energy systems
@@ -4688,7 +4688,7 @@ Tropical forest ecology
 Landscape ecology",0,0,0,0
 axel-loewe,"Python
 C++
-Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology,0,1,1,1
+Matlab",,Karlsruhe Institute of Technology (KIT),axel.loewe@kit.edu,Computational Cardiology,1,2,1,1
 juliensiebert,Python,R,Fraunhofer-Institut für Experimentelles Software Engineering IESE,julien.siebert@iese.fraunhofer.de,"Data Science
 Machine Learning
 Time Series Analysis
@@ -6201,13 +6201,31 @@ Bash
 Ruby",Washington University in St. Louis,c.a.miller@wustl.edu,"Bioinformatics, Genomics, Cancer, Sequence Analysis",0,0,0,0
 aaaa,Java,,University of St Andrews,cr253@st-andrews.ac.uk,,0,0,0,0
 jackbrookes,C#,,UCL,jbrookes187@gmail.com,Virtual Reality,0,0,0,0
-slwu89,"R, C++","Julia, C",Institute for Health Metrics and Evaluation,slwood89@gmail.com,"Epidemiology, Biostatistics, Ecology, Stochastic Simulation"
+slwu89,"R, C++","Julia, C",Institute for Health Metrics and Evaluation,slwood89@gmail.com,"Epidemiology, Biostatistics, Ecology, Stochastic Simulation",0,0,0,0
 itismeghasyam,"R
 Python","MATLAB
 C++",Sage Bionetworks,itismeghasyam@gmail.com,"Signal Processing
 Digital Health
-mHealth"
+mHealth",0,0,0,0
 danielemelini,"Fortran
 MATLAB",,"Istituto Nazionale di Geofisica e Vulcanologia, Roma, Italy",daniele.melini@ingv.it,"Geodynamics
-Glacio-Isostatic Adjustment"
-https://github.com/vjbytes102,"Python, Java",Matlab,Sage Bionetworks,vy386@nyu.edu,"Mental Health, Health Care"
+Glacio-Isostatic Adjustment",0,0,0,0
+vjbytes102,"Python, Java",Matlab,Sage Bionetworks,vy386@nyu.edu,"Mental Health, Health Care",0,0,0,0
+-,"Python, R, C++, SQL, BASH",-,College Teaching Staff,georgstag@gmail.com,"Machine Learning, Artificial Neural Networks, Data Science"
+dl11g11,"Python
+Fortran
+C
+C++",MATLAB,University of Southampton,d.lusher@soton.ac.uk,"Computational Fluid Dynamics
+Code Generation
+Hyperbolic Equations
+Automatic Code
+Shockwaves
+Shock-Capturing
+Navier-Stokes Equations
+Euler Equations
+Compressible Flow
+Turbulence
+Python
+Fortran"
+ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs"
+jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging"
