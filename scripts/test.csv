@@ -1786,7 +1786,7 @@ Networking
 Distributed Computing",0,0,0,0
 jramirezcr,"Fortran, C++, CUDA",Python,,ingenmec.jrc@gmail.com,Computational Fluid Dynamics,0,0,0,0
 mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",0,1,0,0
-hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,1,0
+hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,0,0
 daniellivingston,"Python
 Fortran
 Swift
@@ -3050,7 +3050,7 @@ Deep Learning
 ML",0,0,0,0
 motahhir,C,"Python, Matlab","ENSA Fès, USMBA",saad.motahhir@usmba.ac.ma,"Embedded System, Renewable Energy",0,0,0,0
 felixcremer,Julia,python,Deutsches Zentrum für Luft und Raumfahrt,felix.cremer@dlr.de,"earth observation
-time series",0,2,1,1
+time series",0,2,1,0
 danhey,Python,,University of Sydney,dhey3294@uni.sydney.edu.au,"Astronomy
 Asteroseismology",1,2,0,0
 nagellette,Python,,MSc. Geomatics Engineer (PhD Candidate),necipenesgengec@gmail.com,"Spatial analysis
@@ -3218,7 +3218,7 @@ Finite Element Analysis",0,2,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",0,1,1,1
-joaomcteixeira,Python,,"Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON, Canada",joaomcteixeira@gmail.com,"Structural Biology, Proteins, Nuclear Magnetic Resonance, Nucleic Acids, Molecular Biology",0,1,1,1
+joaomcteixeira,Python,,"Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON, Canada",joaomcteixeira@gmail.com,"Structural Biology, Proteins, Nuclear Magnetic Resonance, Nucleic Acids, Molecular Biology",0,1,1,0
 joxeankoret,"C++, Python","Pascal, C, Intel x86/x86_64 assembler",,joxean.piti@gmail.com,"Reverse engineering, vulnerability research, exploit development, graphs theory, program diffing, bindiffing, isomorphism search, graphs",0,0,0,0
 crstnbr,"Julia, Python",C++,University of Cologne,mail@carstenbauer.eu,"Physics, Mathematics, Engineering, etc.",0,0,0,0
 abhisheknagar,PHP,,"Institute of Engineering & Technology, Lucknow",abhishek@kashipur.in,"Education
@@ -3263,7 +3263,7 @@ Biomedical Informatics
 Medical Informatics
 Clinical Informatics
 Biomedical Natural Language Processing",0,0,0,0
-a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",0,1,1,1
+a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",0,1,1,0
 jmansour,"Python
 C
 C++",Fortran,Monash University,john.mansour@monash.edu,"Applied Geophysics
@@ -4880,7 +4880,7 @@ C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
 Mesh Datastructure
 Parallel Programming",0,1,0,0
-a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,1,1,1
+a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,1,1,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,1,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,1,1,0
@@ -6211,7 +6211,7 @@ danielemelini,"Fortran
 MATLAB",,"Istituto Nazionale di Geofisica e Vulcanologia, Roma, Italy",daniele.melini@ingv.it,"Geodynamics
 Glacio-Isostatic Adjustment",0,0,0,0
 vjbytes102,"Python, Java",Matlab,Sage Bionetworks,vy386@nyu.edu,"Mental Health, Health Care",0,0,0,0
--,"Python, R, C++, SQL, BASH",-,College Teaching Staff,georgstag@gmail.com,"Machine Learning, Artificial Neural Networks, Data Science"
+-,"Python, R, C++, SQL, BASH",-,College Teaching Staff,georgstag@gmail.com,"Machine Learning, Artificial Neural Networks, Data Science",0,0,0,0
 dl11g11,"Python
 Fortran
 C
@@ -6226,6 +6226,27 @@ Euler Equations
 Compressible Flow
 Turbulence
 Python
-Fortran"
-ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs"
-jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging"
+Fortran",0,0,0,0
+ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs",0,0,0,0
+jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging",0,0,0,0
+hemmelig,Python (3) with C extensions,,University of Cambridge,conor.bacon@gmail.com,"Computational geosciences (e.g. seismology, waveform simulation, geochemical analyses)
+Signal processing"
+KonradHoeffner,"Python
+JavaScript
+Java",,Leipzig University,konrad.hoeffner@uni-leipzig.de,"Semantic Web
+Linked Data
+Linked Open Data
+Visualization
+Question Answering
+Interlinking
+Deduplication
+Natural Language Processing
+Record Linkage
+Entity Resolution
+Similarity Metrics
+Search Engines
+Information Retrieval
+Fuzzy Matching
+Ontology
+Taxonomy"
+@neothethird,JavaScript,,LMU Munich,j.sprinz@campus.lmu.de,"Human Computation, Crowdsourcing, Software Quality Assurance, Open-Source Software Development"
