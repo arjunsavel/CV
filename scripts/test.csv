@@ -144,7 +144,7 @@ HimanshuAwasthi95,Python,"C
 C++
 ",,johim9493@gmail.com,,0,0,0,0
 yxqd,Python,,ORNL,linjiao@ornl.gov,"physics, neutron sciences",0,2,0,0
-cmccomb,"Python ,MATLAB",C/C++,"School of Engineering Design, Technology, and Professional Programs at The Pennsylvania State University",mccomb@psu.edu,"engineering design, product design",0,3,1,0
+cmccomb,"Python ,MATLAB",C/C++,"School of Engineering Design, Technology, and Professional Programs at The Pennsylvania State University",mccomb@psu.edu,"engineering design, product design",0,3,0,0
 vsoch,"python
 html/css/javascript
 R",general web technologies,Stanford University Research Computing,vsochat@stanford.edu,"linux containers (Docker/Singularity)
@@ -1167,7 +1167,7 @@ systematics
 taxonomy
 evolution
 palaeontology",0,0,0,0
-peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",2,3,0,0
+peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",1,3,0,0
 MikeHeiber,C++,,Northwestern University,heiber@mailaps.org,"materials science, polymers, semiconductor physics, kinetics, organic electronics",0,0,0,0
 melissawm,"Python, Julia, Fortran, MATLAB",,Federal University of Santa Catarina - Brazil,melissa.mendonca@ufsc.br,"Mathematics, Documentation, LaTeX",0,2,0,0
 kpeeters,"C++, Python",,Durham University,kasper.peeters@durham.ac.uk,"Physics, maths, computer algebra",0,0,0,0
@@ -1699,7 +1699,7 @@ Rust
 C++
 C","Dask
 R
-Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",0,3,1,0
+Ruby",Indian Institute of Technology Mandi,bapat.shreyas@gmail.com,"Deep Learning, General Relativity, Astrodynamics, Astronomy, Machine Learning",0,3,0,0
 mwcraig,Python,,Minnesota State University Moorhead ,mattwcraig@gmail.com,"Astronomy
 ipywidgets",0,3,0,0
 ceb8,Python,"C/C++/C#
@@ -1935,7 +1935,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",1,4,2,0
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,1
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,0
 nniiicc,"R
 Python
@@ -3562,7 +3562,7 @@ Chemical Engineering",0,0,0,0
 johanneswerner,"Python
 R",,"Department of Biological Oceanography, Leibniz Institute of Baltic Sea Research",johannes.werner@io-warnemuende.de,"bioinformatics
 (in the field of microbial ecology/environmental microbiology)",0,1,0,0
-e-dub,Python,,Free University of Bozen-Bolzano,erich.wehrle@unibz.it,"Mechanical engineering, numerical optimization, design optimization, vibrations, structural mechanics",0,1,1,0
+e-dub,Python,,Free University of Bozen-Bolzano,erich.wehrle@unibz.it,"Mechanical engineering, numerical optimization, design optimization, vibrations, structural mechanics",0,1,0,0
 fwitte,Python,,Research assistant at Flensburg University of Applied Sciences,joss@witte.sh,"Thermodynamics, Thermal Engineering, Power Plant Design and Simulation",0,1,0,0
 calum-chamberlain,Python,,Victoria University of Wellington,calum.chamberlain@vuw.ac.nz,"Seismology
 Geophysics
@@ -5064,7 +5064,7 @@ BioPerl
 Java","Guru Nanak Khalsa College, Mumbai",kharinirt237@gmail.com,"Bioinformatics
 Coding
 Desktop Applications",0,0,0,0
-dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",1,1,0,0
+dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",0,1,1,1
 stephendavidgregory,R,BUGS,"Salmon & Trout Research Centre, GWCT, UK",stephendavidgregory@gmail.com,Ecological modelling,0,0,0,0
 paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
@@ -5089,7 +5089,7 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",0,0,0,0
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,2,1
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,2,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",1,1,0,0
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",1,1,0,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
@@ -5623,7 +5623,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",1,1,0,0
+Ordinary & Partial Differential Equations",2,2,0,0
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,0,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -6051,7 +6051,7 @@ QibangLiu,"C++
 Python
 Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
-Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,0,0,0,0
+Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,1,1,0,0
 bhpayne,Python,,None,ben.is.located@gmail.com,Physics,0,0,0,0
 hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology",0,0,0,0
 gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com,,0,0,0,0
@@ -6230,7 +6230,7 @@ Fortran",0,0,0,0
 ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs",0,0,0,0
 jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging",0,0,0,0
 hemmelig,Python (3) with C extensions,,University of Cambridge,conor.bacon@gmail.com,"Computational geosciences (e.g. seismology, waveform simulation, geochemical analyses)
-Signal processing"
+Signal processing",0,0,0,0
 KonradHoeffner,"Python
 JavaScript
 Java",,Leipzig University,konrad.hoeffner@uni-leipzig.de,"Semantic Web
@@ -6248,5 +6248,12 @@ Search Engines
 Information Retrieval
 Fuzzy Matching
 Ontology
-Taxonomy"
-@neothethird,JavaScript,,LMU Munich,j.sprinz@campus.lmu.de,"Human Computation, Crowdsourcing, Software Quality Assurance, Open-Source Software Development"
+Taxonomy",0,0,0,0
+neothethird,JavaScript,,LMU Munich,j.sprinz@campus.lmu.de,"Human Computation, Crowdsourcing, Software Quality Assurance, Open-Source Software Development",0,0,0,0
+guxiaob,Matlab and Python,R,University of Ottawa,xzhao117@uottawa.ca,"Biomechancis
+Rehabilitation
+Sports
+Pose Estimation"
+darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics"
+chenyenchung,"R
+Python",,New York University,yenchung.chen@nyu.edu,Genomics
