@@ -252,7 +252,7 @@ Finite Element Methods",0,4,1,0
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,1,1,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
-wkearn,Julia,"Python, R, Matlab, Fortran",Boston University,wkearn@gmail.com,"Geosciences, fluid mechanics, signal processing",1,5,0,0
+wkearn,Julia,"Python, R, Matlab, Fortran",Boston University,wkearn@gmail.com,"Geosciences, fluid mechanics, signal processing",0,5,1,1
 afrubin,Python,"C
 R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.au,"Genetics
 Genomics
@@ -1682,7 +1682,7 @@ Ruby
 C/C++
 bash",Concordia University,tristan.glatard@concordia.caC,"Distributed systems
 Medical imaging
-Big Data",0,0,0,0
+Big Data",1,1,0,0
 ellessenne,R,,University of Leicester,ellessenne@gmail.com,"Epidemiology, Biostatistics",0,1,0,0
 sbrugman,Python,"Java, C#, C++, PHP, Javascript (incl. angular, node etc.)",Radboud University,sfbbrugman@gmail.com,"Machine Learning, Data Science, Computer Vision, Natural Language Processing",0,1,0,0
 chennachaos,"C++
@@ -1785,7 +1785,7 @@ Ruby",Federal University of Santa Maria,jvlima@inf.ufsm.br,"High performance
 Networking
 Distributed Computing",0,0,0,0
 jramirezcr,"Fortran, C++, CUDA",Python,,ingenmec.jrc@gmail.com,Computational Fluid Dynamics,0,0,0,0
-mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",0,1,0,0
+mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",1,2,0,0
 hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,0,0
 daniellivingston,"Python
 Fortran
@@ -2126,7 +2126,7 @@ Network science",0,1,1,0
 mcsitter,Python,,University of Cologne,msitter@smail.uni-koeln.de,,0,0,0,0
 joaorodrigues,"Python
 BASH
-HTML",,Stanford University,joaor@stanford.edu,"Structural Biology, Protein Docking, Molecular Modeling, Molecular Dynamics Simulation",0,0,0,0
+HTML",,Stanford University,joaor@stanford.edu,"Structural Biology, Protein Docking, Molecular Modeling, Molecular Dynamics Simulation",1,1,0,0
 davidbeckingsale,C++,"C
 Fortran
 Python",Lawrence Livermore National Laboratory,beckingsale1@llnl.gov,"Parallel programming models
@@ -2308,7 +2308,7 @@ AlexaVillaume,python,,UC Santa Cruz,avillaum@ucsc.edu,Astronomy,0,0,0,0
 bradkav,python,"C++
 Mathematica","GRAPPA, University of Amsterdam",bradkav@gmail.com,"Astroparticle Physics
 Dark Matter
-Particle Physics",0,2,2,0
+Particle Physics",0,2,1,0
 hayesla,Python,IDL,NASA Goddard Space Flight Center/NASA postdoctoral program(URSA),lauraannhayes@gmail.com,"Astrophysics, Solar Physics",0,3,0,0
 aasensio,"Python, Fortran, IDL",,Instituto de Astrofísica de Canarias,aasensio@iac.es,Solar physics,0,0,0,0
 olebole,"Python, C",SPP,Leibniz Institute for Astrophysics Potsdam,ole@aip.de,Astrophysics,0,1,0,0
@@ -2816,7 +2816,7 @@ julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system 
 time-series data analysis
 geospational data analysis",0,1,1,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,0,0
-eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",1,3,1,0
+eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,3,2,1
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
 Interstellar medium",0,1,0,0
@@ -6253,7 +6253,7 @@ neothethird,JavaScript,,LMU Munich,j.sprinz@campus.lmu.de,"Human Computation, Cr
 guxiaob,Matlab and Python,R,University of Ottawa,xzhao117@uottawa.ca,"Biomechancis
 Rehabilitation
 Sports
-Pose Estimation"
-darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics"
+Pose Estimation",0,0,0,0
+darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics",0,0,0,0
 chenyenchung,"R
 Python",,New York University,yenchung.chen@nyu.edu,Genomics
