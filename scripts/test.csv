@@ -2432,7 +2432,7 @@ python",,"University of the Philippines Los Banos, College of Veterinary Medicin
 genomics
 user interface",0,0,0,0
 santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, gravity, magnetics, inversion.",0,2,0,0
-eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,1,0
+eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,0,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,1,2,0,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
 smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,0
@@ -3926,7 +3926,7 @@ Matlab
 NeuroBS Presentation",,,avakiai@gmail.com,"cognitive neuroscience, experimental psychology, behavioral neuroscience",0,0,0,0
 xyzmjf,"Python (Perl, PHP, C)","PHP, Perl, C",,markf.mail@gmail.com,"Cheminformatics, protein sequence & structure, bioinformatics, molecular simulations.",0,1,0,0
 rosoport,matlab,"c, java, python",,rosoport@gmail.com,"linear algebra, numerical computing, geophysics",0,0,0,0
-TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",2,2,0,0
+TimKam,"JavaScript, Python, Java","C#, Kotlin",,tkampik@cs.umu.se,"Data Science, Decision Automation, Business Process Automation, Reasoning, Multi-agent Systems",0,2,2,2
 sambit-giri,python,,,sambit.giri@gmail.com,astrophysics,0,1,0,0
 j-andrews7,"python
 R",bash,,jared.andrews@stjude.org,"Bioinformatics
@@ -3980,7 +3980,7 @@ industrial organization
 applied microeconomics
 innovation
 agent based modeling",0,0,0,0
-emilydolson,"C++, Python","Javascript, R",,emilyldolson@gmail.com,"Evolutionary biology, ecology, artificial life, agent-based modelling, algorithm design, evolutionary computation",1,2,0,0
+emilydolson,"C++, Python","Javascript, R",,emilyldolson@gmail.com,"Evolutionary biology, ecology, artificial life, agent-based modelling, algorithm design, evolutionary computation",0,2,1,1
 xwang862,"Python, C/C++",,,xwang@flatironinstitute.org,"Quantum chemistry, electronic structure theory, materials simulation",0,1,0,0
 Gunratan,R,Python,,glonare@uncc.edu,"Finance, Economics. Management, Accounting",0,0,0,0
 apiad,Python,"C#
@@ -4427,7 +4427,7 @@ alessandrobelli,"Php, every variation of C, web languages.",,University of Breme
 john-s-butler-dit,Python,R,TU Dublin,John.s.butler@tudublin.ie,"Computational Neuroscience
 Dynamical Systems
 Numerical Analysis",0,0,0,0
-slim-patchy,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering",1,1,0,0
+slim-patchy,Python,"JavaScript, JAVA, C++/C",University of London,krisastern@gmail.com,"AI, Data Science, Software Engineering",0,1,1,1
 artgoldberg,Python,,Mount Sinai School of Medicine,Arthur.Goldberg@mssm.edu,"Discrete-event simulation
 Dynamical modeling
 Computational biology",0,0,0,0
@@ -5135,7 +5135,7 @@ Python",0,1,1,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",1,3,2,0
+Clustering",0,3,3,1
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
