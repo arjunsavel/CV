@@ -41,7 +41,7 @@ fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",0,2,1,0
 benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,1,0
-moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,1,0
+moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,0,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
 hugoledoux,"C++, Python",C,,,"GIS, 3D modelling, spatial analysis, computational geometry",0,6,0,0
@@ -369,7 +369,7 @@ C++
 C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineering
 Web Development
 Machine Learning
-Distributed Systems",0,2,1,0
+Distributed Systems",0,2,0,0
 mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,1,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
@@ -2478,7 +2478,7 @@ dhimmel,Python,"Cypher
 R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
-Scholarly communications",0,1,1,0
+Scholarly communications",1,2,1,0
 DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,1,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
@@ -3214,7 +3214,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",1,1,0,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",0,2,1,0
+Finite Element Analysis",1,3,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",0,1,1,1
@@ -3606,7 +3606,7 @@ Semantic Web
 Linked Data
 Fuzzy Logic
 Continuous Integration
-Software Quality",1,3,1,0
+Software Quality",1,3,0,0
 datakid,"Bash, python",,University of New South Wales,datakid@gmail.com,"Bioinformatics, systems administration",0,0,0,0
 urbanophile,"Python
 R",,University of New South Wales,contact.matt.gibson@gmail.com,"machine learning
@@ -4813,7 +4813,7 @@ jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
 APIs",0,0,0,0
-mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis",0,1,1,0
+mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis",1,2,1,0
 robashaw,"C, C++, Python, Fortran",,University of Sheffield,r.shaw@sheffield.ac.uk,"Computational chemistry, applied mathematics",0,0,0,0
 ashok-arora,"C++, Python, Shell","Lua, Assembly, HTML, JS",Student,arora8715@gmail.com,"Artificial Intelligence, Computer Vision, Open Source Software, CMake",0,0,0,0
 apalarcon,python,,"Department of Meteorology, Higher Institute of  Technologies and Applied Sciences, University of Havana, Cuba",apalarcon1991@gmail.com,"atmospheric sciences, meteorology, climatology, tropical cyclones",0,0,0,0
@@ -6257,3 +6257,4 @@ Pose Estimation",0,0,0,0
 darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics",0,0,0,0
 chenyenchung,"R
 Python",,New York University,yenchung.chen@nyu.edu,Genomics
+https://github.com/vjbytes102,Python,"Matlab, R",Sage Bionetworks,vy386@nyu.edu,"Data Science, Machine Learning, Deep Learning, Computer Vision,  Digital Signal Processing, Mental Health, Depression, PTSD,Cognitive behavior"
