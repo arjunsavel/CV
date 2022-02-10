@@ -3664,7 +3664,7 @@ rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography,
 Oldim Vilanculo,Matlab,Phyton,Eduardo Mondlane University,ochuquelane@gmail.com,Porous media modeling,0,0,0,0
 mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear algebra
 multiphysics
-algebraic multigrid",0,0,0,0
+algebraic multigrid",1,1,0,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
 skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,0,0
 santoshkumarradha,"python
@@ -3737,7 +3737,7 @@ scientific computing
 computational science
 data science",0,3,1,0
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
-govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,2,1,1
+govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,2,1,0
 manojrege,"Python
 Java
 Terraform
@@ -4990,7 +4990,7 @@ C
 Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
 Machine learning
 Data science
-Bioinformatics",0,2,2,1
+Bioinformatics",0,2,2,0
 hofmannu,"C++
 CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
@@ -5538,7 +5538,7 @@ Grain structures
 Structural integrity and metal fatigue",0,0,0,0
 helgee,"Julia, Python",,Telespazio Germany GmbH,helge@helgeeichhorn.de,"Aerospace Engineering
 Mechanical Engineering
-Classical Mechanics",0,1,1,1
+Classical Mechanics",0,1,1,0
 lucaferranti,"julia
 matlab
 python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,3,2,1
@@ -6256,5 +6256,5 @@ Sports
 Pose Estimation",0,0,0,0
 darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics",0,0,0,0
 chenyenchung,"R
-Python",,New York University,yenchung.chen@nyu.edu,Genomics
+Python",,New York University,yenchung.chen@nyu.edu,Genomics,0,0,0,0
 https://github.com/vjbytes102,Python,"Matlab, R",Sage Bionetworks,vy386@nyu.edu,"Data Science, Machine Learning, Deep Learning, Computer Vision,  Digital Signal Processing, Mental Health, Depression, PTSD,Cognitive behavior"
