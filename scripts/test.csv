@@ -2033,7 +2033,7 @@ data visualization
 sport analytics",0,0,0,0
 callumrollo,Python,,Univeristy of East Anglia,c.rollo@outlook.com,"Oceanography
 Marine technology
-Geophysics",1,2,1,0
+Geophysics",0,2,2,1
 inakleinbottle,"Python
 Rust","C
 C++
@@ -2189,7 +2189,7 @@ EtienneCmb,Python,,"Aix-Marseille University, Institut de Neurosciences de la Ti
 statistics
 information theory
 neuroscience",0,1,1,0
-matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",1,2,1,0
+matt-graham,Python,,National University of Singapore,matthew.m.graham@gmail.com,"Probabilistic programming, scientific computing, inference algorithms, machine learning",0,2,2,1
 sixpearls,Python,"C/C++
 Java",UC Davis,bwmargolis@ucdavis.edu,"control systems
 dynamics
@@ -2791,7 +2791,7 @@ Bioinformatics",0,0,0,0
 CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,1,1,0
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
-stochastic programming",1,2,0,0
+stochastic programming",0,2,1,1
 arthur-e,Python,Javascript,"University of Montana, Numerical Terradynamic Simulation Group",endsley@umich.edu,"spatial sciences
 geography
 remote sensing
@@ -2976,7 +2976,7 @@ Health Informatics
 Natural Language Processing
 Text mining
 IOT
-Agent Architecture",1,1,0,0
+Agent Architecture",0,1,1,1
 anibalsolon,python,"C
 R
 java
@@ -3839,7 +3839,7 @@ parallelization
 vectorization
 GPU
 FMM",0,1,1,0
-georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",1,1,0,0
+georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,1,1,1
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
@@ -4095,7 +4095,7 @@ DanielMyshkin,"Python, Kotlin, Go",Java,,danmyshkin@gmail.com,"Math, Computer Sc
 none,"fortran,sqlite,gawk,python,R,vb.net",c (but in previus answer only knows well the three first),,juragaro@gmail.com,"numeric packages, fluid structure interaction",0,0,0,0
 yangkcatiu,Python,,,yangkc@iu.edu,"Network science
 Social media",0,0,0,0
-callumrollo,python,julia,,c.rollo@outlook.com,oceanography,1,2,1,0
+callumrollo,python,julia,,c.rollo@outlook.com,oceanography,0,2,2,1
 agricolab,"Python
 Matlab","C
 Julia",,robert.guggenberger@uni-tuebingen.de,"Neuroscience
@@ -4265,7 +4265,7 @@ numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
 sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,0,0
 prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,0
-shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,1,0,0
+shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",0,1,1,1
 ramisetti,"C
 C++
 Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,0
@@ -4886,7 +4886,7 @@ justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis,
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,1,1,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,0
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",1,1,0,0
-jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",1,1,0,0
+jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,1,1,1
 Yuri-M-Dias,"R
 Python
 Java
@@ -4902,7 +4902,7 @@ MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Met
 Fluid Structure Interaction
 Virtual Element Methods",0,1,1,1
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science",0,0,0,0
-georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",1,1,0,0
+georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",0,1,1,1
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
@@ -5236,7 +5236,7 @@ Matlab",University College London,matthew.m.graham@gmail.com,"Computational stat
 Approximate inference
 Probabilistic programming
 Numerical simulation
-Monte Carlo methods",1,2,1,0
+Monte Carlo methods",0,2,2,1
 mariobecerra,R,"Python
 C++",KU Leuven,mbecerracontreras@gmail.com,"Bayesian statistics
 Choice modeling",0,0,0,0
@@ -5801,7 +5801,7 @@ Metaheuristics
 Optimization",0,0,0,0
 inpefess,Python,,"Université Côte d'Azur, CNRS, LJAD, France",boris.shminke@univ-cotedazur.fr,"machine learning
 recommender systems
-automated theorem proving",1,1,0,0
+automated theorem proving",0,1,1,1
 jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
 Neuroimaging
 Finance",0,1,1,1
@@ -5830,7 +5830,7 @@ Data Science
 Wearable Computing
 Statistics
 Psychology
-Biopsychology",1,2,1,1
+Biopsychology",0,2,2,2
 puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",0,1,1,1
 npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology",0,0,0,0
 sebastian-raubach,"Java
@@ -6286,6 +6286,6 @@ numerical differential equations
 manifold learning
 data-driven physics
 model order reduction
-data assimilation"
+data assimilation",0,0,0,0
 gdzghgh@github.com,"Python
 Javascript",,PostDoc,dzgf@gmail.com,MRI
