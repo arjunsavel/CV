@@ -1559,7 +1559,7 @@ JavaScript/CoffeeScript","Golang
 PHP",University of Minnesota,rabdill@umn.edu,"web portals/data visualization
 infrastructure automation
 containerization
-bioinformatics",0,3,1,1
+bioinformatics",0,3,1,0
 brechmos,Python,"Java, C++, C",Space Telescope Science Institute,craig@brechmos.org,"Medical Imaging, Astronomy",0,0,0,0
 kMutagene,F#,,"Computational Systems Biology, TU Kaiserslautern",kevin-schneider@mutagene.de,"Bioinformatics, Computational Biology, other F# projects after taking a first look. ",0,0,0,0
 jeeteshchel,"Java
@@ -2860,7 +2860,7 @@ lbugnon,Python,"Matlab/octave
 C++","sinc(i) - UNL - CONICET: Research Institute for Signals, Systems and Computational Intelligence",lbugnon@sinc.unl.edu.ar,"Bioinformatics
 Machine Learning
 Signal/image processing
-Biomedical signals",0,2,1,0
+Biomedical signals",0,2,0,0
 Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOAM
 Multiphase flow
 CFD
@@ -3044,7 +3044,7 @@ Parallel computing",0,0,0,0
 emptymalei,Python,,Saloodo!,leima.137@gmail.com,"Data Science
 Computational Neuroscience
 Astrophysics
-High Energy Physics",0,1,1,1
+High Energy Physics",0,1,1,0
 willprice,Python,Java,University of Bristol,will.price@bristol.ac.uk,"Computer Vision
 Deep Learning
 ML",0,0,0,0
@@ -3853,7 +3853,7 @@ Julia
 R",,Shahid Beheshti University,amir.h.hadian@gmail.com,"Cognitive Sciences
 Scientific Computing
 Brain Data Analysis",0,0,0,0
-justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,1,0
+justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aachen University",justus.schock@rwth-aachen.de,"Deep Learning, Machine Learning, Image Processing, Data Analytics, Medical Applications",0,2,0,0
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,2,1,0
@@ -4381,7 +4381,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,2,0
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,1,0
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -5309,7 +5309,7 @@ singularity
 dimensionality reduction
 tidyverse
 Rlang",0,5,1,0
-tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,0,0,0
+tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",1,1,0,0
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
 AI
