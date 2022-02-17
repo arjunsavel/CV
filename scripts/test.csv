@@ -1283,7 +1283,7 @@ Langevin Dynamics",0,1,0,0
 goerz,"Python
 Fortran",Julia,U.S. Army Research Lab,mail@michaelgoerz.net,"quantum physics
 quantum chemistry
-optimal control",1,2,1,0
+optimal control",0,2,2,1
 utf,Python,,Lawrence Berkeley National Laboratory,alexganose@googlemail.com,"Materials Science
 Computational chemistry
 Chemistry
@@ -1523,7 +1523,7 @@ MATLAB",,Boston College,surujon@bc.edu,"bioinformatics
 genetics
 systems biology
 biostatistics",0,2,0,0
-danehkar,"C/C++, FORTRAN, IDL, Python","Java, Pascal, S-Lang (ISIS), IRAF, XSPEC, CIAO Sherpa, Matlab, Mathematica package",University of Michigan,ashkbiz.danehkar@gmail.com,"Astronomy, Astrophysics, Physics, Cosmology, Computation, Numerical Analysis, Mathematics, Statistics, Machine Learning, High Performance Computing",0,0,0,0
+danehkar,"C/C++, FORTRAN, IDL, Python","Java, Pascal, S-Lang (ISIS), IRAF, XSPEC, CIAO Sherpa, Matlab, Mathematica package",University of Michigan,ashkbiz.danehkar@gmail.com,"Astronomy, Astrophysics, Physics, Cosmology, Computation, Numerical Analysis, Mathematics, Statistics, Machine Learning, High Performance Computing",1,1,0,0
 breezykermol,"Python, JS, Elm, Go","Java, C, C++, Rust",Forensic Architecture,lk@forensic-architecture.org,"Computer Graphics, some machine learning",0,0,0,0
 prmiles,Python,Matlab,NC State University,prmiles@ncsu.edu,"Uncertainty Quantification
 Sensitivity Analysis
@@ -1891,7 +1891,7 @@ Sulstice,"Python, Javascript (and a lot of the new front-end endeavors), OpenGl"
 dalonsoa,Python,,Imperial College London,d.alonso-alvarez@imperial.ac.uk,"solar energy
 solar cells
 semiconductors
-physics",1,2,0,0
+physics",0,2,1,1
 cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
@@ -4841,7 +4841,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,2,0,0
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",2,3,0,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,1,0
@@ -5505,7 +5505,7 @@ Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@
 hannesUlrich,"Java
 Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
 FHIR",0,0,0,0
-obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",1,1,0,0
+obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",0,1,1,1
 weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences,0,0,0,0
 TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",1,1,0,0
 MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics",0,0,0,0
@@ -6291,7 +6291,19 @@ gdzghghgithub.com,"Python
 Javascript",,PostDoc,dzgf@gmail.com,MRI,0,0,0,0
 ljakoster,pascal,,"Zernike Institute for Advanced Materials, University of Groningen",l.j.a.koster@rug.nl,Semiconductor physics,0,0,0,0
 akritiko,"Bash, Python","PHP, Javascript, CSS, Java",Aristotle University of Thessaloniki,akritiko@csd.auth.gr,"Web Applications, Pipelines, WordPress",0,0,0,0
-chrisaberson,R,None,Cal Poly Humboldt,chris.aberson@humboldt.edu,Statistics (Social Science-ish)
+chrisaberson,R,None,Cal Poly Humboldt,chris.aberson@humboldt.edu,Statistics (Social Science-ish),0,0,0,0
 korobkin,"C, Fortran, Python",C++,Los Alamos National Laboratory,o.korobkin@gmail.com,"numerical relativity
 smoothed particle hydrodynamics
 radiation transport in diffusion approximation"
+https://github.com/bnriiitb,"Python
+Julia",Java,IIT Hyderabad,nagaraju.iith@gmail.com,"Machine Learning
+Natural Language Processing
+Reinforcement Learning
+Deep Learning
+Automotive
+Telecom
+Insurance
+Banking and Finance"
+chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations"
+None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis"
+EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation"
