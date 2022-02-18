@@ -574,7 +574,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",0,8,1,0
+Statistics",1,9,1,0
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",0,1,0,0
@@ -1062,7 +1062,7 @@ Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
 Physics simulators",1,7,1,1
-GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,4,0,0
+GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",1,5,0,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
 Rust
@@ -3857,7 +3857,7 @@ justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aache
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,2,1,0
-marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",1,2,1,0
+marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,2,2,1
 mattkram,Python,"C++, Fortran",,matthew.robert.kramer@gmail.com,"Hydrodynamics, fluid mechanics, fluid-structure interaction, time series analysis",0,0,0,0
 regivm,python,sas,,regivm@yahoo.com,"Analytics, Machine Learning",0,0,0,0
 myxie,"Python
@@ -4514,7 +4514,7 @@ Machine Vision Algorithms
 AI Embedded Computing
 SAT solvers
 Sensor Fusion Algorithms
-Digital Signal Processing",1,1,0,0
+Digital Signal Processing",0,1,1,1
 praveenkumarpgiindia,"Python
 R
 Unix","Python
@@ -6005,7 +6005,7 @@ tensor decomposition
 molecular dynamics
 computational fluid mechanics
 high-performance computing
-GPU",1,1,0,0
+GPU",2,2,0,0
 ajbaird,"C++, Python","R, C, Julia",University of Washington,abaird1@uw.edu,"Biomedical Engineering, Physiology Modeling, Pharmacology, Systems Biology",0,0,0,0
 surajpaib,Python,,AIM Harvard & Maastricht University,b.pai@maastrichtuniversity.nl,"Computer Vision
 Medical Imaging
@@ -6294,8 +6294,8 @@ akritiko,"Bash, Python","PHP, Javascript, CSS, Java",Aristotle University of The
 chrisaberson,R,None,Cal Poly Humboldt,chris.aberson@humboldt.edu,Statistics (Social Science-ish),0,0,0,0
 korobkin,"C, Fortran, Python",C++,Los Alamos National Laboratory,o.korobkin@gmail.com,"numerical relativity
 smoothed particle hydrodynamics
-radiation transport in diffusion approximation"
-https://github.com/bnriiitb,"Python
+radiation transport in diffusion approximation",0,0,0,0
+bnriiitb,"Python
 Julia",Java,IIT Hyderabad,nagaraju.iith@gmail.com,"Machine Learning
 Natural Language Processing
 Reinforcement Learning
@@ -6303,7 +6303,19 @@ Deep Learning
 Automotive
 Telecom
 Insurance
-Banking and Finance"
-chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations"
-None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis"
+Banking and Finance",0,0,0,0
+chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations",0,0,0,0
+None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis",0,0,0,0
 EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation"
+dominiquesydow,Python,,Sosei Heptares,dominique.sydow@gmail.com,"Cheminformatics
+Structural bioinformatics"
+alexander-pastukhov,"R
+Python",Matlab,University of Bamberg,pastukhov.alexander@gmail.com,"visual perception
+cognitive neuroscience
+data science"
+@aminmed,"python
+C++","java
+php",computer science,bencheikh.lehocine.am@gmail.com,"machine learning 
+deeplearning
+data science"
+@hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science"
