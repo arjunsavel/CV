@@ -284,7 +284,7 @@ Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
 mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
-tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,1,1,1
+tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,1,1,0
 russellpierce,R,None. ,Zapier,russell.s.pierce@gmail.com,"Statistics, psychology, human factors",0,3,0,0
 lebebr01,R,,University of Iowa ,lebebr01@gmail.com,"Social science, education, statistics, simulation ",0,1,0,0
 Maczokni ,R,,University of Manchester ,reka.solymosi@manchester.ac.uk,"Criminology, transport studies, urban geography, smart cities ",0,0,0,0
@@ -5483,7 +5483,7 @@ C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@
 Neuroscience
 Machine Learning",0,3,2,1
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,2,1,0
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",2,2,0,0
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",1,2,1,1
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
 Ahm-hussein,"Python, R",,Rochester institute of technology,ahm6644@rit.edu,"Machine learning, Data science",0,0,0,0
@@ -5767,7 +5767,7 @@ Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interact
 Driver modelling
 Robotics",0,1,1,0
 KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,1,0
-fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,1,2,1,1
+fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,0,2,2,2
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing",0,0,0,0
 tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@gmail.com,"LIDAR, Point clouds, glacier, ice, snow",0,0,0,0
 allenzhuaz/,"R
@@ -5885,7 +5885,7 @@ fernandomayer,R,,Federal University of Paraná,fernandomayer@gmail.com,"Statisti
 Computational Statistics
 Bayesian Statistics
 Spatial Statistics
-R packages",2,2,0,0
+R packages",1,2,1,1
 Alisyaifudin/alisyaifudin.github.io,Python,JavaScript,ITB,muhammad.ali.syaifudin@hotmail.com,Astrophysics,0,0,0,0
 mps9506,R,,Texas A&M AgriLife Research,michael.schramm@ag.tamu.edu,"Environmental Science
 Water Quality",0,0,0,0
@@ -6306,16 +6306,20 @@ Insurance
 Banking and Finance",0,0,0,0
 chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations",0,0,0,0
 None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis",0,0,0,0
-EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation"
+EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation",0,0,0,0
 dominiquesydow,Python,,Sosei Heptares,dominique.sydow@gmail.com,"Cheminformatics
-Structural bioinformatics"
+Structural bioinformatics",0,0,0,0
 alexander-pastukhov,"R
 Python",Matlab,University of Bamberg,pastukhov.alexander@gmail.com,"visual perception
 cognitive neuroscience
-data science"
-@aminmed,"python
+data science",0,0,0,0
+aminmed,"python
 C++","java
 php",computer science,bencheikh.lehocine.am@gmail.com,"machine learning 
 deeplearning
-data science"
+data science",0,0,0,0
 @hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science"
+douweschulte,"Rust
+C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences
+nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
+magnetoenceophalography analysis"
