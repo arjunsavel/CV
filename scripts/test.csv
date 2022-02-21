@@ -124,7 +124,7 @@ nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
 machine learning applied to astronomy",0,1,0,0
-stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,7,1,1
+stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,7,1,0
 ThomasA,Python,Matlab,Aalborg University,tha@es.aau.dk,"Signal processing, image processing, compressed sensing, signal/image reconstruction",0,2,0,0
 dhhagan,python,"julia, R, c++",MIT,dhagan@mit.edu,"Atmospheric Science, ML",0,4,0,0
 biswapriyamisra,R,,Texas Biomedical Research Institute,bbmisraccb@gmail.com,"Metabolomics, LC-MS, GC-MS, mass spectrometry, pathways, networks",0,1,0,0
@@ -339,7 +339,7 @@ Python
 Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
-Software Engineering",0,1,1,1
+Software Engineering",0,1,1,0
 tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,0,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
@@ -376,7 +376,7 @@ pdebuyl,"Python
 Fortran","C
 Bash",KU Leuven,pierre.debuyl@kuleuven.be,"Physics
 Stochastic Dynamics
-Numerical simulations",0,2,1,1
+Numerical simulations",0,2,1,0
 sctyner,R,,CSAFE / Iowa State University,sctyner@iastate.edu,"graphics / data viz, anything statistics",0,1,0,0
 conradstack,R,"python
 bash","Mars, Incorporated",conrad.stack@gmail.com,"bioinformatics
@@ -561,7 +561,7 @@ satybald,"Scala
 Java",Python,"Data Engineer, Zalando SE",stb@satybald.com,"Big Data, Data Engineering, Cloud Computing",0,0,0,0
 timClicks,"Python
 Rust",,DOT Loves Data,joss@timmcnamara.co.nz,"Data Science
-Text Mining",0,4,0,0
+Text Mining",1,5,0,0
 wdecoster,Python,,VIB Center for Molecular Neurology,decosterwouter@gmail.com,"Genetics, gene expression, sequencing",0,1,1,0
 ziotom78,"C
 C++
@@ -1514,7 +1514,7 @@ C++
 Arduino",,University of Wisconsin–Madison,sunden@wisc.edu,"Chemistry
 Instrumentation
 Spectroscopy
-",0,1,1,1
+",0,1,1,0
 steven-murray,"Python
 ","Fortran90, C",Arizona State University,steven.g.murray@asu.edu,"Astrophysics, mathematical techniques",0,1,0,0
 dsurujon,"python
@@ -5507,7 +5507,7 @@ Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
 FHIR",0,0,0,0
 obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",0,1,1,1
 weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences,0,0,0,0
-TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",1,1,0,0
+TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",2,2,0,0
 MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics",0,0,0,0
 bdice,"Python, C++","JavaScript, C",University of Michigan,bdice@bradleydice.com,"Physics, Materials Science, Chemical Engineering, Mathematical Modeling, Data Science, Machine Learning",0,0,0,0
 kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevinlu1248@gmail.com,"NLP, Deep Learning",0,0,0,0
@@ -6322,5 +6322,7 @@ hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr
 douweschulte,"Rust
 C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences,0,0,0,0
 nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
-magnetoenceophalography analysis"
+magnetoenceophalography analysis",0,0,0,0
 bauer-alex,R,,"Department of Statistics, LMU Munich, Munich, Germany",alexander.bauer@stat.uni-muenchen.de,"Spatio-temporal statistics, Functional data analysis, Data visualization, Applied statistics"
+rashoba,"Python, PHP,",JavaScript,@Rollademy,rasheedatoba@gmail.com,Data Science
+abdelkrim-bsr,R,R,Chouaib Doukkali University,bouasria.a@ucd.ac.ma,Machine Learning
