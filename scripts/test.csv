@@ -18,7 +18,7 @@ katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engin
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
 alex-konovalov,GAP,"Python, C",,,mathematics,0,4,0,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
-xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,3,0,0
+xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",1,4,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
@@ -100,7 +100,7 @@ regulatory genomics
 machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
-Geophysics",0,2,1,1
+Geophysics",0,2,1,0
 CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",1,3,0,0
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
@@ -2092,7 +2092,7 @@ kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
-Phylogenetics",0,0,0,0
+Phylogenetics",1,1,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
 njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,1,0
 sairamgeethanath,"MATLAB
@@ -3792,7 +3792,7 @@ Latent Variable Modelling
 Process Modelling
 Process Control
 Process Optimization",0,0,0,0
-rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,1,0
+rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,0,0
 sigven,R,Python,"Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway",sigven@ifi.uio.no,"Text mining, bioinformatics, genomics",0,1,1,0
 AhmedArslan,Python; R,,Stanford University,aarslan@stanford.edu,Computational Biology; Bioinformatics,0,0,0,0
 chainsawriot,R,"Lisp
@@ -4317,7 +4317,7 @@ fortran",N/A,UMBC/NASA GSFC,stefano.bertone@umbc.edu,"astronomy
 planetary sciences
 orbit determination
 space geodesy",0,1,1,0
-jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,0,1,1,0
+jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,1,2,1,0
 xie186,Python,"R
 Perl
 Javascript",Purdue University,xie186@purdue.edu,"Bioinformatics
@@ -4841,7 +4841,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",2,3,0,0
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,3,1,1
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,1,0
@@ -6029,7 +6029,7 @@ Python","Julia
 C#",Reduct Nepal,diwash.shrestha@outlook.com,"Data Science
 Data Analysis
 Data Engineering",0,0,0,0
-altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture.",1,1,0,0
+altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture.",0,1,1,1
 joenio,"Perl, Javascript, Ruby, Shellscript","Python, PHP, SQL, C, C++, Java",Universite Gustave Eiffel,joenio@joenio.me,"Static analysis, software metrics, data sonification, data visualization.",0,0,0,0
 fepegar,Python,MATLAB,University College London,fepegar@gmail.com,"Medical image computing, computer vision, deep learning",0,0,0,0
 OsAmaro,"Python, C, C++",,"Instituto Superior Técnico, University of Lisbon, Portugal",oscar.amaro@tecnico.ulisboa.pt,"Physics, Plasma, QED, laser, stochastic dynamics",0,0,0,0
@@ -6308,7 +6308,7 @@ chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,ch
 None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis",0,0,0,0
 EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation",0,0,0,0
 dominiquesydow,Python,,Sosei Heptares,dominique.sydow@gmail.com,"Cheminformatics
-Structural bioinformatics",0,0,0,0
+Structural bioinformatics",1,1,0,0
 alexander-pastukhov,"R
 Python",Matlab,University of Bamberg,pastukhov.alexander@gmail.com,"visual perception
 cognitive neuroscience
@@ -6339,7 +6339,9 @@ toxicolgy
 multivariate statistics
 statistics
 shiny
-biostatistics"
-sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc."
-ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology"
+biostatistics",0,0,0,0
+sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,0,0,0
+ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
 @kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis"
+vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science"
+dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :)
