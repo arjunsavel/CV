@@ -8,7 +8,7 @@ amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,1,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,10,1,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
-rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,10,2,0
+rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,10,1,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
@@ -642,7 +642,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,7,3,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,7,2,1
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1155,7 +1155,7 @@ magnetic resonance imaging
 neuroimaging",0,7,0,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
-JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,1,0
+JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,0,0
 ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,2,1,1
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
@@ -6342,6 +6342,19 @@ shiny
 biostatistics",0,0,0,0
 sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,0,0,0
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
-@kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis"
-vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science"
+kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",0,0,0,0
+vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",0,0,0,0
 dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :)
+jaybee84,"R
+Python",,Sage Bionetworks,jineta.banerjee@sagebionetworks.org,"Bioinformatics
+Genomics
+Transcriptomics
+Rare Diseases
+Machine learning in biology"
+DanielRivasMD,"Julia
+Rust
+Go
+R",,Uppsala University,danielrivasmd@gmail.com,"Medical applications
+Artificial Intelligence
+Bioinformatics
+Genomics"
