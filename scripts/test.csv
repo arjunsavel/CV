@@ -18,7 +18,7 @@ katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engin
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
 alex-konovalov,GAP,"Python, C",,,mathematics,0,4,0,0
 Genomematt,Python,,,,Bioinformatics,0,0,0,0
-xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",1,4,0,0
+xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics",0,4,0,0
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
@@ -215,7 +215,7 @@ Nonlinear Dynamics
 Complex Systems
 Quantum Mechanics
 Tight-Binding
-Solid State Physics",0,1,0,0
+Solid State Physics",1,2,0,0
 ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
@@ -370,7 +370,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,0,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",0,8,1,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,9,1,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
 Fortran","C
@@ -625,7 +625,7 @@ C
 MATLAB",Universidade Federal de Pernambuco,gpkc@cin.ufpe.br,"High Performance Computing
 Computer Science
 Web",0,0,0,0
-benjaminrose,Python,,University of Notre Dame,benjamin.rose@me.com,"Astrophysics, Cosmology, Supernovae, Physics, Bayesian Statistics",1,4,1,0
+benjaminrose,Python,,University of Notre Dame,benjamin.rose@me.com,"Astrophysics, Cosmology, Supernovae, Physics, Bayesian Statistics",0,4,1,0
 Suman-d,Python,Go,Toshiba,suman.san14@yahoo.in,"Systems, container, storage, test automation, data science ",0,0,0,0
 jtmiclat,"Python
 
@@ -786,7 +786,7 @@ Shell script
 Python",Perl,"University Heart Center Hamburg, Germany",bob.dybian@gmail.com,"Omics analyses, workflow development, reproducibility, system integration",0,3,0,0
 expectopatronum,"R
 Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,3,1,0
-pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",1,4,0,0
+pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",0,4,1,1
 jizecn,"C++
 Python","Matlab
 Java",Cardiff University,jiz1@cf.ac.uk,"Computer Vision
@@ -2536,7 +2536,7 @@ ontologies
 clinical informatics",0,1,1,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,2,1,0
-faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",1,4,1,0
+faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",0,4,1,0
 dvanic,"R
 python
 bash",javascript,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
@@ -3885,7 +3885,7 @@ Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,0
-rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,1,1,1
+rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,1
 mturiansky,"Python
 Fortran
 Bash/Sh","C/C++
@@ -6040,7 +6040,7 @@ Earth observation
 Meteorology
 Satellite data",0,0,0,0
 cthoyt,Python,,Harvard Medical School,cthoyt@gmail.com,"Computational Biology, Systems Biology, Bioinformatics, Cheminformatics, Machine Learning, Semantic Web",0,0,0,0
-olgadoronina,Python,,National Renewable Energy Laboratory,olga.doronina@nrel.gov,"Statistics, Data analysis, Bayesian statistics, Shape parametrization, Turbulence modeling, Computational Fluid Dynamic",0,0,0,0
+olgadoronina,Python,,National Renewable Energy Laboratory,olga.doronina@nrel.gov,"Statistics, Data analysis, Bayesian statistics, Shape parametrization, Turbulence modeling, Computational Fluid Dynamic",1,1,0,0
 davidwilby,"Python
 Matlab",,The University of Sheffield,d.wilby@sheffield.ac.uk,"physics
 biology
@@ -6344,13 +6344,13 @@ sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@u
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
 kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",0,0,0,0
 vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",0,0,0,0
-dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :)
+dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :),0,0,0,0
 jaybee84,"R
 Python",,Sage Bionetworks,jineta.banerjee@sagebionetworks.org,"Bioinformatics
 Genomics
 Transcriptomics
 Rare Diseases
-Machine learning in biology"
+Machine learning in biology",0,0,0,0
 DanielRivasMD,"Julia
 Rust
 Go
@@ -6358,3 +6358,8 @@ R",,Uppsala University,danielrivasmd@gmail.com,"Medical applications
 Artificial Intelligence
 Bioinformatics
 Genomics"
+@SimonMolinsky,Python,"Java Script
+C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
+GIS
+Remote Sensing
+Time Series"
