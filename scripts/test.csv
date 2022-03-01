@@ -4773,7 +4773,7 @@ stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
 Bioinformatics
 Cancer biology
 transcriptomics
-tidyverse",0,1,1,1
+tidyverse",0,1,1,0
 sea-bass,"Python
 MATLAB
 C++",,Massachusetts Institute of Technology,sebas.a.castro@gmail.com,"Robotics
@@ -4786,7 +4786,7 @@ Control Systems",0,0,0,0
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
-Tidyverse",0,1,1,1
+Tidyverse",0,1,1,0
 xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
@@ -5139,7 +5139,7 @@ Clustering",0,3,3,1
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
-Statistics",0,1,1,1
+Statistics",0,1,1,0
 RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering",0,0,0,0
 sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools",0,1,1,1
 aaronpeikert,"R
@@ -6363,3 +6363,14 @@ C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
 GIS
 Remote Sensing
 Time Series"
+agi-codes,"Python, C/C++","Java, Swift, R, Javascript",Harvard University,agikajanaku@gmail.com,"AI, computer vision, medical imaging"
+bencardoen,"Julia
+C++
+Python","Matlab
+Java
+Bash/Zsh",Simon Fraser University,bcardoen@sfu.ca,"graph algorithms
+simulation
+image analysis
+microscopy
+parallel computing
+distributed computing"
