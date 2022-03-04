@@ -176,7 +176,7 @@ solid state physics",0,4,1,0
 gonsie,"C, Bash, Python, MPI",C++,Lawrence Livermore National Laboratory,gonsiorowski1@llnl.gov,"HPC, Systems Software, MPI, Parallel Programming, Discrete-event Simulation",1,7,0,0
 molgor,Python,R,Lancaster University,molgor@gmail.com,"Spatial Statistics
 Ecology
-Environmental Sciences",0,1,1,0
+Environmental Sciences",0,1,0,0
 jmbr,"C,C++,Python","CUDA C, Common Lisp",Princeton University,jmbr@superadditive.com,"Computational Statistical Mechanics, Dynamical Systems",0,2,1,0
 richardjgowers,Python,Fortran,The University of Edinburgh,richardjgowers@gmail.com,"Computational Chemistry
 Molecular Simulation",0,4,0,0
@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",0,3,2,0
+Data Manipulation",0,3,1,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -821,7 +821,7 @@ hugoribeiro,Python,,,hugodea.ribeiro@gmail.com,,0,0,0,0
 vyasr,"Python
 C++
 C","R
-Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,4,1,1
+Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,4,1,0
 arosen93,Python,MATLAB,Northwestern University,rosen@u.northwestern.edu,"Computational chemistry, quantum chemistry, thermodynamics and kinetics, chemical engineering",0,3,1,0
 rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western Reserve University",raoul.wadhwa@case.edu,"Medicine/Health
 Biostatistics/Epidemiology
@@ -2333,7 +2333,7 @@ R
 C++",Julia,The Hong Kong University of Science and Technology,jvdmc@connect.ust.hk,"finance
 machine learning
 signal processing
-optimisation",0,2,1,1
+optimisation",0,2,1,0
 johnveitch,"Python, C",,University of Glasgow,john.veitch@glasgow.ac.uk,"Gravitational waves, signal processing, Bayesian inference",0,0,0,0
 liz-is,"R
 Python",,Max Planck Institute for Molecular Biomedicine,liz.ing-simmons@mpi-muenster.mpg.de,"Genomics
@@ -3799,7 +3799,7 @@ chainsawriot,R,"Lisp
 Python",Mannheimer Zentrum für Europäische Sozialforschung,chung-hong.chan@mzes.uni-mannheim.de,"social science
 communication studies
 political science
-digital humanties",0,2,1,1
+digital humanties",0,2,1,0
 reality,"Groovy
 Go
 OWL
@@ -3816,7 +3816,7 @@ high-performance computing
 software design",0,1,1,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",0,2,2,0
+Earth System Modeling",0,2,1,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -3933,7 +3933,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,0,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,2,2,0
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,2,1,0
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -4060,7 +4060,7 @@ zhaowei0566,"Python
 MATLAB
 C++",,,weizhao@vt.edu,"Finite Element Method
 Optimization
-Aircraft Design",0,1,1,0
+Aircraft Design",0,1,0,0
 zztin,"Python
 snakemake",,,litingchen16@gmail.com,"Biology, sequencing, alignment, voice recognition",0,0,0,0
 hbaniecki,"R
@@ -5521,7 +5521,7 @@ hknd23,"R
 Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Science
 Statistics
 Mixture Models
-Spatial Statistics",0,1,1,1
+Spatial Statistics",0,1,1,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,2,1
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
@@ -5875,7 +5875,7 @@ Scientific Computing
 Numerical Analysis
 Machine Learning",0,0,0,0
 Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering",0,0,0,0
-htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",0,1,1,1
+htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",0,1,1,0
 arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Informatics, Medical Informatics, Machine Learning in Healthcare",0,0,0,0
 appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics",0,0,0,0
 yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com,,0,0,0,0
@@ -6373,6 +6373,7 @@ simulation
 image analysis
 microscopy
 parallel computing
-distributed computing"
-123123,123123,12312,123123,123123@naver.com,3123
+distributed computing",0,0,0,0
+123123,123123,12312,123123,123123@naver.com,3123,0,0,0,0
 yannikschaelte,Python,,University of Bonn,yannik.schaelte@gmail.com,Bioinformatics
+anilbey,"Python, C++","C#, Java, C",Scientific Software Developer,tuncel.manil@gmail.com,"Neuroscience, Bioinformatics, Machine Learning, Data Science, Software Engineering"
