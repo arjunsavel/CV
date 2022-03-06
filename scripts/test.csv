@@ -1993,7 +1993,7 @@ fstdesk,php,,,tindeks@gmail.com,,0,0,0,0
 puolival,Python,MATLAB,University of Helsinki,tuomas.puolivali@ieee.org,"Signal processing
 Neuroscience
 Blind source separation
-Human brain imaging",1,3,1,0
+Human brain imaging",1,3,0,0
 tretherington,"Python
 R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,1,1,1
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,0,0
@@ -3467,7 +3467,7 @@ hmacdope,"Python
 FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
-HPC",0,2,1,0
+HPC",0,2,0,0
 simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,0,0,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
@@ -3750,7 +3750,7 @@ Python",,"School of Fundamental Sciences, Massey Universit",david.winter@gmail.c
 Data-grabbing (e.g. API wrappers)
 Genetics
 Population Genetics
-Evolutionary Biology",0,1,1,0
+Evolutionary Biology",0,1,0,0
 eirini-zormpa,R,,Max Planck Institute for Psycholinguistics,eirini.zormpa@mpi.nl,Psycholinguistics,0,1,0,0
 kellerb,".Net/C#, .Net Core, React, Javascript, JQuery",,Software Engineer,keller.benjamin.d@gmail.com,"Anthropology, Archaeology, Social sciences, history, biological sciences",0,0,0,0
 ssriv,R,,University of Oregon,sanjay@uoregon.edu,"I am a psychology researcher. I work mostly with verbal report scales (rating scales), round-robin and dyadic studies, longitudinal designs, some behavioral observation/coding, and methods in psychometrics and statistics that are applicable to that kind of data.",0,0,0,0
@@ -4047,7 +4047,7 @@ cxwx,"C++,python","c++,python",,chenxu@ihep.ac.cn,"astronomy
 gamma-ray
 cosmic-ray",0,0,0,0
 ravivv,R,,,eranraviv@mail.com,Finance,0,0,0,0
-raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",0,1,1,0
+raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",0,1,0,0
 yhy188,R,R,,huy170@psu.edu,Statistical; Design of experiments,0,0,0,0
 edusantana,"Ruby, Python",,,eduardo.ufpb@gmail.com,"Test,Markdown,Latex",0,0,0,0
 smasongarrison,R,,,garrissm@wfu.edu,"Psychology
@@ -4230,7 +4230,7 @@ Monte Carlo",0,0,0,0
 lscalfi,"Fortran
 Python",C,"Sorbonne Université, CNRS, Physico-chimie des Électrolytes et Nanosystèmes Interfaciaux, PHENIX",laura.scalfi@sorbonne-universite.fr,"electrochemistry
 physical chemistry
-molecular dynamics",1,2,1,0
+molecular dynamics",1,2,0,0
 vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",0,1,1,0
 ferreira68,"C/C++, FORTRAN, Python","Perl, R",U.S. Department of Energy/Duquesne University,amferreira68@gmail.com,"Numerical Analysis, Chemistry, Physics",0,0,0,0
 tariqdaouda,python,"Javascript
@@ -6230,7 +6230,7 @@ Fortran",0,0,0,0
 ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs",0,0,0,0
 jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging",0,0,0,0
 hemmelig,Python (3) with C extensions,,University of Cambridge,conor.bacon@gmail.com,"Computational geosciences (e.g. seismology, waveform simulation, geochemical analyses)
-Signal processing",0,0,0,0
+Signal processing",1,1,0,0
 KonradHoeffner,"Python
 JavaScript
 Java",,Leipzig University,konrad.hoeffner@uni-leipzig.de,"Semantic Web
@@ -6377,3 +6377,6 @@ distributed computing",0,0,0,0
 123123,123123,12312,123123,123123@naver.com,3123,0,0,0,0
 yannikschaelte,Python,,University of Bonn,yannik.schaelte@gmail.com,Bioinformatics,0,0,0,0
 anilbey,"Python, C++","C#, Java, C",Scientific Software Developer,tuncel.manil@gmail.com,"Neuroscience, Bioinformatics, Machine Learning, Data Science, Software Engineering"
+judafe,"Python
+C++
+Matlab/Octave",Fortran,United States Army Corp of Engineers (formerly),judacha@gmail.com,Lidar
