@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",0,9,0,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,2,2
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,2,1
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
@@ -1238,7 +1238,7 @@ electromyography
 gui
 visualization
 data acquisition
-embedded systems",1,7,0,0
+embedded systems",2,8,0,0
 felixhenninger,"JavaScript, Python, R",,University of Mannheim / University of Koblenz-Landau,mailbox@felixhenninger.com,"Cognitive/behavioral science
 Online/browser-based data collection
 Open data/open science
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,4,2
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,4,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2513,7 +2513,7 @@ MATLAB",,None,tobias@ulvgard.se,"Machine Learning
 Signal processing
 Linear algebra
 Optimization",0,0,0,0
-AtrCheema,Python,I prefer only python,Ulsan national institute of science and technology,ather_abbas786@yahoo.com,"Hydrology, water quality and quantity modeling",0,0,0,0
+AtrCheema,Python,I prefer only python,Ulsan national institute of science and technology,ather_abbas786@yahoo.com,"Hydrology, water quality and quantity modeling",1,1,0,0
 agricolab,"Python
 Matlab","C
 Julia","Translational Neurosurgery, University Hospital Tübingen",robert.guggenberger@uni-tuebingen.de,"Systems Neuroscience
@@ -3217,7 +3217,7 @@ Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, Fran
 Finite Element Analysis",1,3,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
-Social Sciences",0,1,1,1
+Social Sciences",0,1,1,0
 joaomcteixeira,Python,,"Molecular Medicine Program, The Hospital for Sick Children, Toronto, ON, Canada",joaomcteixeira@gmail.com,"Structural Biology, Proteins, Nuclear Magnetic Resonance, Nucleic Acids, Molecular Biology",0,1,1,0
 joxeankoret,"C++, Python","Pascal, C, Intel x86/x86_64 assembler",,joxean.piti@gmail.com,"Reverse engineering, vulnerability research, exploit development, graphs theory, program diffing, bindiffing, isomorphism search, graphs",0,0,0,0
 crstnbr,"Julia, Python",C++,University of Cologne,mail@carstenbauer.eu,"Physics, Mathematics, Engineering, etc.",0,0,0,0
@@ -4782,7 +4782,7 @@ Machine Learning
 Algorithms
 Mechatronics
 Physical Simulation
-Control Systems",0,0,0,0
+Control Systems",1,1,0,0
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
@@ -5020,7 +5020,7 @@ genetics
 genomics
 text processing
 typesetting
-visualisation",0,1,1,1
+visualisation",0,1,1,0
 justinsgray,"python
 julia","C++
 C",NASA Glenn Research Center,justin.s.gray@gmail.com,"Numerical Optimization
@@ -6340,7 +6340,7 @@ multivariate statistics
 statistics
 shiny
 biostatistics",0,0,0,0
-sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,0,0,0
+sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",1,1,0,0
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
 kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",0,0,0,0
 vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",0,0,0,0
@@ -6382,8 +6382,8 @@ C++
 Matlab/Octave",Fortran,United States Army Corp of Engineers (formerly),judacha@gmail.com,Lidar,0,0,0,0
 frydaydeep,Julia,,8615640960524,frydaydeep@gmail.com,Computational Mechanics,0,0,0,0
 stmcg,R,,"Department of Biostatistics, Harvard University",sean_mcgrath@g.harvard.edu,"Biostatistics, epidemiology, causal inference, machine learning",0,0,0,0
-MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling
-ccamara,R,,University of Warwick,ccamara@pm.me,"data, spatial data, visualisation, maps, networks"
+MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,0,0,0,0
+ccamara,R,,University of Warwick,ccamara@pm.me,"data, spatial data, visualisation, maps, networks",0,0,0,0
 tschwinge,"C
 C++
 Fortran
