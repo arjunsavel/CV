@@ -427,7 +427,7 @@ Elm
 Rust
 C#","Institute of Microbiology, Czech Academy of Sciences",martin.modrak@biomed.cas.cz,"Bioinformatics
 Gene regulation
-Computer Games AI",1,3,2,1
+Computer Games AI",1,3,2,0
 CameronDevine,Python,"Matlab
 C++
 Javascript",University Of Washington,camdev@uw.edu,"Robotics
@@ -2378,7 +2378,7 @@ Stan","Javascript, Elm, HTML, CSS
 OpenCL
 C#",Institute of Microbiology of the Czech Academy of Sciences,martin.modrak@biomed.cas.cz,"Bioinformatics
 Statistical modelling, Bayesian statistics
-Computer Games AI",1,3,2,1
+Computer Games AI",1,3,2,0
 protik77/,Python,"C++
 Powershell",KLA Corp.,protik77@gmail.com,Material Science,0,0,0,0
 nemobis,"Python, PHP, XSLT
@@ -6391,3 +6391,5 @@ OpenACC
 Shell Scripting","OpenMP
 Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance Computing
 Compiler implementation"
+raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics"
+junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software"
