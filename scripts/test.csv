@@ -163,7 +163,7 @@ Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language P
 Text Mining
 XML
 Database",0,5,2,1
-alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,4,1,1
+alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,4,1,0
 jsgalan,"Python
 ","Matlab
 R",Universidad Tecnológica de Panamá,javier.sanchezgalan@utp.ac.pa,"Computer science
@@ -3137,7 +3137,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,6,3,1
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",1,6,3,0
 yangbai90,"fortran
 cpp
 c
@@ -3151,7 +3151,7 @@ chemo-mechanical
 multiphysics
 multiscale",0,4,1,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
-GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,1,0
+GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,0,0
 rchg,"Python
 Fortran
 Julia","Bash
@@ -3364,7 +3364,7 @@ hydraulic structures",0,0,0,0
 puruckertom,Python,R,US EPA,purucker.tom@epa.gov,"Ecology
 Environmental Science
 Toxicology
-Human exposure",0,1,1,1
+Human exposure",0,1,1,0
 thesketh,Python,,"Department of Pure and Applied Chemistry, University of Strathclyde",travis.hesketh@strath.ac.uk,"computational chemistry
 molecular dynamics
 cheminformatics",0,0,0,0
@@ -4358,7 +4358,7 @@ linear algebra
 topological data analysis
 geometric data analysis
 unsupervised machine learning
-dimensionality reduction",0,1,1,0
+dimensionality reduction",0,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
 ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,2,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
@@ -5054,7 +5054,7 @@ land use and land cover change
 hydrology
 population dynamics",0,1,1,0
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,2,0
-BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,2,1,1
+BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,2,1,0
 Komalharini237,"Python
 Perl
 C++
@@ -5141,7 +5141,7 @@ Particle physics
 Astrophysics
 Statistics",0,1,1,0
 RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering",0,0,0,0
-sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools",0,1,1,1
+sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools",0,1,1,0
 aaronpeikert,"R
 Julia",,Max Planck Institute for Human Development,peikert@mpib-berlin.mpg.de,"machine learning
 - model selection
@@ -5522,7 +5522,7 @@ Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Scien
 Statistics
 Mixture Models
 Spatial Statistics",0,1,1,0
-papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,2,1
+papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,2,0
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",0,1,1,1
@@ -5694,7 +5694,7 @@ julia","c++
 matlab",California Institute of Technology,rccheng@caltech.edu,"vegetation remote sensing
 environmental science",0,0,0,0
 ayaanhossain,python,,Penn State University,ain.hoss07@gmail.com,"Bioinformatics, Genomics, Synthetic Biology",0,0,0,0
-rashti-alireza,"C, Python, Bash",,Florida Atlantic University,arashti2016@fau.edu,"Numerical relativity, Computational physics",0,1,1,1
+rashti-alireza,"C, Python, Bash",,Florida Atlantic University,arashti2016@fau.edu,"Numerical relativity, Computational physics",0,1,1,0
 aliaksei135,"C++
 Python
 Java",,University of Southampton,a.pilko@soton.ac.uk,"Aerospace, Unmanned Vehicles",0,0,0,0
@@ -5804,7 +5804,7 @@ recommender systems
 automated theorem proving",0,1,1,1
 jameschapman19,Python,MATLAB,University College London (UCL),james.chapman.19@ucl.ac.uk,"Machine Learning
 Neuroimaging
-Finance",0,1,1,1
+Finance",0,1,1,0
 yangyushi,"Python
 C++",Matlab,University of Bristol,yy17363@bristol.ac.uk,"Statistical Physics
 Molecular Dynamic
@@ -5831,7 +5831,7 @@ Wearable Computing
 Statistics
 Psychology
 Biopsychology",0,2,2,2
-puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",0,1,1,1
+puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",0,1,1,0
 npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology",0,0,0,0
 sebastian-raubach,"Java
 Javascript",,The James Hutton Institute,bazraubach@gmail.com,"Bioinformatics
@@ -6390,6 +6390,13 @@ Fortran
 OpenACC
 Shell Scripting","OpenMP
 Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance Computing
-Compiler implementation"
-raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics"
+Compiler implementation",0,0,0,0
+raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",0,0,0,0
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software"
+brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages"
+jimmielin,Fortran 90,"PHP
+Python
+Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
+Earth system modeling
+Numerical methods"
+thodson-usgs,python,R,U.S. Geological Survey,thodson@usgs.gov,"earth science, statistics"
