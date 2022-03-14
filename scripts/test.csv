@@ -55,7 +55,7 @@ lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, parti
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
 effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,0,0
-stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,1,0
+stsievert,Python,,,,"Optimization, machine learning, image processing, mathematics",0,6,0,0
 fil,Javascript,Python,,,"geography, cartography, data visualization, algorithms visualizations, game theory, mathematics",0,1,0,0
 oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine learning,optimization",0,4,0,0
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",1,3,0,0
@@ -1049,7 +1049,7 @@ Library and information science",0,0,0,0
 fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, biostatistics",0,0,0,0
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
-stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,1,0
+stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,0,0
 vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,3,1,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
@@ -2773,7 +2773,7 @@ torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisat
 Graph Theory
 Shortest Path Problems
 Column Generation
-Linear Programming",0,1,1,0
+Linear Programming",0,1,0,0
 sarathsp06,"Go
 Python
 Javascript","Javascript
@@ -4033,7 +4033,7 @@ sylvaticus,Julia,"Python, C++",,antonello@lobianco.org,"Machine Learning, Social
 www.github.com/bhajay,"C, C++, Fortran, QT, Python, Matlab, Mathematica",,,ajaybh@berkeley.edu,"Computational contact mechanics, computational fracture mechanics, computational mechanics, FEM, CFD",0,0,0,0
 rgerum,Python,javascript,,richard.gerum@protonmail.com,"image analysis, plotting, deep learning",0,0,0,0
 josiahparry,R,,,josiah.parry@gmail.com,"web scraping, apis, sociology, political science, social science, urban studies, open data, data packages, general purpose R work",0,0,0,0
-torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",0,1,1,0
+torressa,"C++, Python",,,david.sanchez@sintef.no,"Optimization: modelling (LPs, MILPs, MMILPs), solution approaches (heuristics, hyper-heuristics, column generation), applications (aviation, vehicle routing, scheduling)",0,1,0,0
 cxwx,"C++
 python",,,chenxu@ihep.ac.cn,"astronomy
 cosmic ray
@@ -4195,7 +4195,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,1,1,1
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",1,5,3,2
+Security",1,5,2,2
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -5395,7 +5395,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",1,3,1,0
+Galaxy",0,3,2,1
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5482,7 +5482,7 @@ Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",0,3,2,1
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",1,2,1,0
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,1
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",1,2,1,1
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
@@ -6400,3 +6400,16 @@ Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
 Earth system modeling
 Numerical methods",0,0,0,0
 thodson-usgs,python,R,U.S. Geological Survey,thodson@usgs.gov,"earth science, statistics"
+https://github.com/babakmohammadi,R,MATLAB,Lund University,babak.mohammadi@neteko.lu.se,"Hydrology
+Hydrological Modeling
+Watershed Modeling
+Remote Sensing
+Snow and glacier
+Models' performance metrics"
+Yes (GitHub: @babakmohammadi),R,MATLAB,"Department of Physical Geography and Ecosystem Science, Lund University",babak.mohammadi@nateko.lu.se,"Hydrology
+Hydrological modeling
+Watershed modeling
+Geoinformatics (GIS)
+Remote Sensing 
+Snow and glacier
+Models' performance metrics"
