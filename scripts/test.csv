@@ -5196,7 +5196,7 @@ impedance tomography
 data analysis
 harmonic analysis
 microwave imaging
-electrochemistry",1,1,0,0
+electrochemistry",0,1,1,1
 rvhonorato,Python,,Utrecht University,rvhonorato@gmail.com,"Molecular modeling
 Macromolecular docking
 Molecular dynamics
@@ -5483,7 +5483,7 @@ C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@
 Neuroscience
 Machine Learning",0,3,2,1
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,1
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",1,2,1,1
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,2
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
 Ahm-hussein,"Python, R",,Rochester institute of technology,ahm6644@rit.edu,"Machine learning, Data science",0,0,0,0
@@ -6406,17 +6406,18 @@ Watershed Modeling
 Remote Sensing
 Snow and glacier
 Models' performance metrics",0,0,0,0
-Yes (GitHub: @babakmohammadi),R,MATLAB,"Department of Physical Geography and Ecosystem Science, Lund University",babak.mohammadi@nateko.lu.se,"Hydrology
+Yes (GitHub: babakmohammadi),R,MATLAB,"Department of Physical Geography and Ecosystem Science, Lund University",babak.mohammadi@nateko.lu.se,"Hydrology
 Hydrological modeling
 Watershed modeling
 Geoinformatics (GIS)
 Remote Sensing 
 Snow and glacier
-Models' performance metrics"
+Models' performance metrics",0,0,0,0
 janfb,Python,,University of Tübingen,jan.boelts@mailbox.org,"machine learning
 neuroscience
 Bayesian inference
 differential equations
 probabilistic machine learning
-statistics"
+statistics",0,1,1,0
 @mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering"
+Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis"
