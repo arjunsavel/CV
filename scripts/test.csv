@@ -415,7 +415,7 @@ tgerke,R,SAS,Moffitt Cancer Center,travis.gerke@moffitt.org,"Epidemiology
 Biostatistics
 Cancer research applications",0,4,1,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,0,0
-dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,1,1,1
+dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,1,1,0
 cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,0
 martinmodrak,"R
 C/C++
@@ -898,7 +898,7 @@ Data Science
 Machine Learning",1,4,0,0
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",0,3,0,0
-dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,5,1,1
+dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,5,1,0
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
 geology",0,2,0,0
@@ -1388,7 +1388,7 @@ MPI
 OpenMP
 Validation
 Testing",0,0,0,0
-jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,3,1,0
+jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",1,4,1,0
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
 rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,0,0
 EduPH,"Python
@@ -2706,7 +2706,7 @@ R","javascript
 java",The Centre Nacional d'Anàlisi Genòmica (CNAG-CRG),carles.hernandez@cnag.crg.eu,"bioinformatics
 biomedicine
 data analysis",0,0,0,0
-drj11,"C, Go, Python, Lua, Lisp, FORTH","JavaScript, BASIC, x64 ASM",Climate Code Foundation,drj@pobox.com,"Algorithms, operating systems, networks, climate science, biology, any?",0,2,1,1
+drj11,"C, Go, Python, Lua, Lisp, FORTH","JavaScript, BASIC, x64 ASM",Climate Code Foundation,drj@pobox.com,"Algorithms, operating systems, networks, climate science, biology, any?",0,2,1,0
 fionnan,Python,Haskell,CurrencyFair,fionnan.alt@gmail.com,Data Science,0,0,0,0
 biozit,"Java
 C
@@ -3530,7 +3530,7 @@ Java
 Elixir","University of Maryland, College Park",jayaram.kancherla@gmail.com,"biological data visualization
 bioinformatics
 data management
-data structures",0,3,1,0
+data structures",1,4,1,0
 lee-seon-woo,Python,C++,Inha University,x21999@inha.edu,"DeepLearning
 Abnormal Detection
 Object Detection
@@ -4047,7 +4047,7 @@ cxwx,"C++,python","c++,python",,chenxu@ihep.ac.cn,"astronomy
 gamma-ray
 cosmic-ray",0,0,0,0
 ravivv,R,,,eranraviv@mail.com,Finance,0,0,0,0
-raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",0,1,0,0
+raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",1,2,0,0
 yhy188,R,R,,huy170@psu.edu,Statistical; Design of experiments,0,0,0,0
 edusantana,"Ruby, Python",,,eduardo.ufpb@gmail.com,"Test,Markdown,Latex",0,0,0,0
 smasongarrison,R,,,garrissm@wfu.edu,"Psychology
@@ -5427,7 +5427,7 @@ Teaching
 Education",0,1,1,0
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
-Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,1
+Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
 zen-juen,"R
 Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology",0,1,1,0
@@ -5457,7 +5457,7 @@ JavaScript
 Perl",University of Houston - Clear Lake,erik@erikwhiting.com,"Software Testing
 Software Architecture
 Information Systems
-Databases",1,2,1,1
+Databases",1,2,1,0
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
 Agent Based Simulation",0,1,1,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
@@ -5986,7 +5986,7 @@ bioinformatics
 statistical genetics
 genome-wide association studies
 statistics
-biostatistics",1,1,0,0
+biostatistics",2,2,0,0
 JacksonMaxfield,Python,,University of Washington Information School,jmxbrown@uw.edu,"information systems, information archival, information retrieval, computational social science, image processing, open infrastructure",0,0,0,0
 womeimingzi11,"R
 SQL","Docker
@@ -6419,5 +6419,8 @@ Bayesian inference
 differential equations
 probabilistic machine learning
 statistics",0,1,1,0
-@mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering"
+mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering",0,0,0,0
 Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis"
+davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational biology
+comp chemistry"
+@hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation"
