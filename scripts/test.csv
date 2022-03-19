@@ -2115,7 +2115,7 @@ data science
 machine learning
 applied statistics
 visualization",0,0,0,0
-AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",3,4,1,0
+AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",2,4,2,1
 russHyde,"R
 python",perl,University of Glasgow,russell.hyde@glasgow.ac.uk,Bioinformatics,0,0,0,0
 remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neurosciences,0,0,0,0
@@ -2419,7 +2419,7 @@ amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
-jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,0,0,0
+jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,1,1,0,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,3,1,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
@@ -4114,7 +4114,7 @@ Behavioural Science
 Mental Fatigue
 Computational Models
 Research Methods
-Organisational Psychology",0,1,1,0
+Organisational Psychology",1,2,1,0
 TomKellyGenetics,"R
 Python
 Bash
@@ -4265,7 +4265,7 @@ numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
 sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,0,0
 prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,0
-shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",0,1,1,1
+shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,2,1,1
 ramisetti,"C
 C++
 Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,0
@@ -5269,7 +5269,7 @@ kylebeggs,"Julia
 Python","C++
 FORTRAN",University of Central Florida,kbeggs07@knights.ucf.edu,"Mechanical/Aerospace Engineering
 Data-driven Engineering
-Optimization",1,1,0,0
+Optimization",0,1,1,1
 navdeep-G,"Python, R, Java","Java, R",H2O.ai,mr.navdeepgill@gmail.com,Machine learning,0,0,0,0
 bmoradi93,Python,C++,Robotics and Machine Vision Developer,behnammoradi026@gmail.com,"Model Predictive Control, Robotic Operating Systems(ROS), Deep Learning, Computer Vision, Motion Planning",0,0,0,0
 thelinuxmaniac,"C
@@ -5710,7 +5710,7 @@ AustinTSchaffer,"Python
 NodeJS
 C#
 Rust
-(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,3,4,1,0
+(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,2,4,2,1
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",1,1,0,0
 mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",0,1,1,0
@@ -5996,7 +5996,7 @@ Databases
 Ontology
 Neuroinformatics
 Multiple Sclerosis
-Functional Connectivity",0,0,0,0
+Functional Connectivity",1,1,0,0
 yhtang,"Python
 C++
 CUDA
@@ -6303,7 +6303,7 @@ Deep Learning
 Automotive
 Telecom
 Insurance
-Banking and Finance",0,0,0,0
+Banking and Finance",1,1,0,0
 chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations",0,0,0,0
 None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis",0,0,0,0
 EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation",0,0,0,0
@@ -6357,7 +6357,7 @@ Go
 R",,Uppsala University,danielrivasmd@gmail.com,"Medical applications
 Artificial Intelligence
 Bioinformatics
-Genomics",0,0,0,0
+Genomics",1,1,0,0
 SimonMolinsky,Python,"Java Script
 C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
 GIS
@@ -6423,7 +6423,14 @@ mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, stat
 Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",0,0,0,0
 davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational biology
 comp chemistry",0,0,0,0
-@hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation"
-vilim,"Python, Julia",,,mail@vil.im,"ML Tooling, Visualization, Neuroscience"
-JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics
-Sdparsons,R,,RadboudUMC,sam.parsons@radboudumc.nl,"Cognition, psychometrics, reliability"
+hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
+vilim,"Python, Julia",,,mail@vil.im,"ML Tooling, Visualization, Neuroscience",0,0,0,0
+JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics,1,1,0,0
+Sdparsons,R,,RadboudUMC,sam.parsons@radboudumc.nl,"Cognition, psychometrics, reliability",0,0,0,0
+haoxx081@github.umn.edu,"Fortran
+Julia",Python,University of Minnesota,haoxx081@umn.edu,"Computational fluid dynamics
+Turbulence modeling
+Wave modeling
+Physical oceanography
+Boundary layer meteorology"
+lcao11,Python,Matlab,The University of Texas at Austin,lianghao@oden.utexas.edu,"Phase field modeling, Bayesian inference, Computational mechanics."
