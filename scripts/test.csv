@@ -50,8 +50,8 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",0,10,3,0
-lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",1,2,0,0
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",0,10,2,0
+lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,2,1,1
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
 effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,0,0
@@ -1050,7 +1050,7 @@ fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, 
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
 stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",0,6,0,0
-vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,3,1,0
+vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",2,4,1,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
 davekinkead,"javascript
@@ -1222,7 +1222,7 @@ javascript",,Boston University,aidans@bu.edu,,0,0,0,0
 PythonCHB,Python,"Cython
 C
 ",Self,PythonCHB@gmail.com,"Metocean data processing
-General numeric / scientific programming",1,1,0,0
+General numeric / scientific programming",0,1,1,1
 neurons,"Java, Python, Scala, Go","C++, JavaScript",Uber Technologies,niranjan.padmanabhan@mail.mcgill.ca,"Computer Science, Mathematics, Software Engineering, Machine Learning, Artificial Intelligence, Bioinformatics, Computational Biology",0,0,0,0
 xzyaoi,"Python, Golang, Typescript","Javascript, HTML",Shenzhen University,xiaozhe.yaoi@gmail.com,Computer Vision,0,0,0,0
 ixjlyons,"Python
@@ -4268,7 +4268,7 @@ prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João P
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,2,1,1
 ramisetti,"C
 C++
-Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,1,0
+Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,0,0
 JackTyson,"Python, C, C++, Matlab",,University of Southampton,jack@mirrorpark.net,"Nanotechnology, Optics, Physics, Electronic Engineering",0,0,0,0
 BjornFJohansson,Python,,University of Minho,bjorn_johansson@bio.uminho.pt,bioinformatics,0,0,0,0
 kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University College London",leevi.kerkela@protonmail.com,MRI,0,0,0,0
@@ -4813,7 +4813,7 @@ jpiburn,R,none,Oak Ridge National Laboratory,piburnjo@ornl.gov,"time series
 spatial
 spatiotemporal
 APIs",0,0,0,0
-mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis",1,2,1,0
+mscroggs,"Python, C++, JavaScript, PHP","C, BASIC, TeX",University of Cambridge,matthew.w.scroggs@gmail.com,"Finite element methods, boundary element methods, numerical analysis",2,3,1,0
 robashaw,"C, C++, Python, Fortran",,University of Sheffield,r.shaw@sheffield.ac.uk,"Computational chemistry, applied mathematics",0,0,0,0
 ashok-arora,"C++, Python, Shell","Lua, Assembly, HTML, JS",Student,arora8715@gmail.com,"Artificial Intelligence, Computer Vision, Open Source Software, CMake",0,0,0,0
 apalarcon,python,,"Department of Meteorology, Higher Institute of  Technologies and Applied Sciences, University of Havana, Cuba",apalarcon1991@gmail.com,"atmospheric sciences, meteorology, climatology, tropical cyclones",0,0,0,0
@@ -5584,7 +5584,7 @@ schruste,"C++
 python",,University of Göttingen,lehrenfeld@math.uni-goettingen.de,"Numerical PDEs
 Finite element methods
 Discontinuous Galerkin Methods
-Unfitted / Immersed Finite Element Methods",0,1,1,1
+Unfitted / Immersed Finite Element Methods",1,2,1,1
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
 TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,1,1,0
@@ -6434,5 +6434,5 @@ Wave modeling
 Physical oceanography
 Boundary layer meteorology",0,0,0,0
 lcao11,Python,Matlab,The University of Texas at Austin,lianghao@oden.utexas.edu,"Phase field modeling, Bayesian inference, Computational mechanics.",0,0,0,0
-diligentlystereotypedinvestment,Java,,,jotform.overresolute@aleeas.com,Math (especially Number Theory and Combinatorics)
+diligentlystereotypedinvestment,Java,,,jotform.overresolute@aleeas.com,Math (especially Number Theory and Combinatorics),0,0,0,0
 dankusanovic,"C, C++, Matlab, Python","CUDA, OpenGL",Universidad Tecnica Federico Santa Maria,danilo.kusanovic@usm.cl,"Civil Engineering, Mechanical Enginieering, Finite Element Method, Soil-Structure Interaction"
