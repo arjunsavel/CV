@@ -248,7 +248,7 @@ amabdallah,"Matlab
 Python",,Utah State University,amabdallah@aggiemail.usu.edu,,0,0,0,0
 IgorBaratta,"Python
 Matlab",C++,Federal University of Minas GeraisIgorBaratta,baratta@ufmg.br,"Computational Electromagnetics
-Finite Element Methods",0,4,1,0
+Finite Element Methods",0,4,0,0
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,1,1,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
@@ -619,7 +619,7 @@ Mathematics
 Biomedical Engineering
 Machine Learning
 Computer Vision
-Heat Transfer",0,9,1,1
+Heat Transfer",0,9,1,0
 gpkc,Python,"C++
 C
 MATLAB",Universidade Federal de Pernambuco,gpkc@cin.ufpe.br,"High Performance Computing
@@ -1016,7 +1016,7 @@ shivam11,"R
 Python
 C#",,,shivam.guness@ieee.org,"Data Science
 Computer Vision
-Machine Learning",0,1,1,1
+Machine Learning",0,1,1,0
 casteer,C++,"Python, C","St Mary's University, Twickenham ",Christopher.steer@stmarys.ac.uk,Physics and Software for Instrumentation ,0,0,0,0
 Nick-gauthier,R,"NetLogo, Python",Arizona State University,nicolas.gauthier@asu.edu,"Network science, climate modeling, generalized additive models, agent based models, spatial statistics",0,0,0,0
 Bkarlovitz,"Java, JavaScript, python, ruby",,Not affiliated,bryan@alluresecurity.com,"Saas, cloud computing, devops",0,0,0,0
@@ -1690,7 +1690,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",1,8,2,0
+Structural Dynamics",1,8,1,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,3,1,1
 shreyasbapat,"Python
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,4,1
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,4,0
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -4629,7 +4629,7 @@ Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay"
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology,0,0,0,0
 frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering,0,0,0,0
-destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering",0,1,1,1
+destogl,"C++, Python","C, C#, Java",Stogl Robotics Consulting,denis@stogl.de,"Robotics, Industrial Automation, M2M Communication, Control Engineering",0,1,1,0
 thomaspinder,"Python
 Julia
 R",,Lancaster University,t.pinder2@lancaster.ac.uk,"Bayesian optimisation
@@ -5054,7 +5054,7 @@ land use and land cover change
 hydrology
 population dynamics",0,1,1,0
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,2,0
-BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",1,2,1,0
+BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",0,2,2,1
 Komalharini237,"Python
 Perl
 C++
@@ -5384,7 +5384,7 @@ Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Model
 lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science",0,0,0,0
 cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
 APIs
-Text analysis",0,2,2,1
+Text analysis",0,2,2,0
 SteRoe,"R, C, C++",VBA,Helmholtz Centre for Environmental Research,stefan.roeder@ufz.de,"Epidemiology, Visualisation, Epigenetics",0,1,1,0
 hechth,"Python
 C++
@@ -6435,7 +6435,7 @@ Physical oceanography
 Boundary layer meteorology",0,0,0,0
 lcao11,Python,Matlab,The University of Texas at Austin,lianghao@oden.utexas.edu,"Phase field modeling, Bayesian inference, Computational mechanics.",0,0,0,0
 diligentlystereotypedinvestment,Java,,,jotform.overresolute@aleeas.com,Math (especially Number Theory and Combinatorics),0,0,0,0
-dankusanovic,"C, C++, Matlab, Python","CUDA, OpenGL",Universidad Tecnica Federico Santa Maria,danilo.kusanovic@usm.cl,"Civil Engineering, Mechanical Enginieering, Finite Element Method, Soil-Structure Interaction"
+dankusanovic,"C, C++, Matlab, Python","CUDA, OpenGL",Universidad Tecnica Federico Santa Maria,danilo.kusanovic@usm.cl,"Civil Engineering, Mechanical Enginieering, Finite Element Method, Soil-Structure Interaction",0,0,0,0
 chaoran-chen,"Java
 Kotlin
 JavaScript
