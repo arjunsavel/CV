@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",0,4,2,1
+Computer Networks. ",1,5,2,1
 mlxd,"C
 C++
 Python
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",1,1,0,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,3,2,0
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,4,2,0
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -2945,7 +2945,7 @@ cheloff,"R
 Python",,UTC,marceloamores61@gmail.com,"Environmental & Earth Sciences
 Cosmology
 Mathematical Models",0,0,0,0
-Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,0,2,1,1
+Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,0,2,1,0
 -,"Python
 Javascript
 php","R
@@ -4205,7 +4205,7 @@ florian-rosenthal,"Matlab
 C++",Python,Karlsruhe Institute of Technology,rosenthal@kit.edu,"Signal Processing
 Automatic Control",0,0,0,0
 SvenVanPoucke,Python,RapidMiner,Ziekenhuis Oost-Limburg,svanpoucke@gmail.com,Medicine,0,0,0,0
-telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,2,1,1
+telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,2,1,0
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
@@ -5855,7 +5855,7 @@ vimalthilak,Python,"C++, C",,vimalthilak@gmail.com,"Machine Learning
  Deep Learning
  Signal Processing",1,1,0,0
 mfleschutz,Python,,Munster Technological University,mfleschutz@gmail.com,Sustainable energy,0,0,0,0
-Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",0,2,1,1
+Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",0,2,1,0
 chryswoods,"Python
 R
 C++
