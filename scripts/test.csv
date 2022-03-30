@@ -451,7 +451,7 @@ dlagrava,"Python
 C++","Java
 Perl",University of Canterbury,dlagrava@gmail.com,"Computational Fluid Dynamics
 Numerical methods",0,4,1,0
-zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",0,6,1,1
+zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",0,6,1,0
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
 Medical Imaging",0,3,0,0
@@ -2045,7 +2045,7 @@ Physiology
 Sensor I/O
 Signal Processing
 Image Processing
-3D Meshing, Pointclouds",0,2,0,0
+3D Meshing, Pointclouds",1,3,0,0
 wwzhang,"R
 Igor Pro
 Matlab",,Peking University,zhangw@hsc.pku.edu.cn,Neuroscience,0,0,0,0
@@ -2098,7 +2098,7 @@ njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
-Acquisition and reconstruction methods",0,0,0,0
+Acquisition and reconstruction methods",1,1,0,0
 dilawar,"Python
 C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,1,2,1,0
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
@@ -2303,7 +2303,7 @@ benjaminpope,Python,,New York University,benjamin.pope@nyu.edu,"astronomy
 astrophysics",1,3,1,0
 adrn,Python,"Cython
 if necessary, C",Flatiron Institute,adrianmpw@gmail.com,"astronomy
-general open-source",0,1,1,1
+general open-source",0,1,1,0
 AlexaVillaume,python,,UC Santa Cruz,avillaum@ucsc.edu,Astronomy,0,0,0,0
 bradkav,python,"C++
 Mathematica","GRAPPA, University of Amsterdam",bradkav@gmail.com,"Astroparticle Physics
@@ -5914,7 +5914,7 @@ Machine Learning",0,0,0,0
 NoraLoose,python,,CU Boulder,nora.loose@gmail.com,"Oceanography
 Climate Science
 Geosciences
-Fluid Dynamics",0,0,0,0
+Fluid Dynamics",1,1,0,0
 tsiegert,"Python, IDL","C++, Stan",MPE; Uni Würzburg,tho.siegert@gmail.com,Astrophysics,0,0,0,0
 taoliu032,"Python
 MATLAB",,McGill University,tao.liu7@mail.mcgill.ca,"Computational Chemistry
@@ -6460,13 +6460,16 @@ Finite/Spectral Element Methods
 Discontinuous Galerkin Methods
 Partial Differential Equations
 Numerical Linear Algebra
-Dynamical Systems",0,0,0,0
+Dynamical Systems",1,1,0,0
 kanishkan91,"R
 python",C,"Computational Scientist, PNNL (JGCRI)",kanishkan91@gmail.com,"Land, Land Use Change, Carbon accounting, Computational Modeling, GIS, Food modeling, Income Distributions",1,1,0,0
 cyberlawcodes,"javascript, python",python,developer,info@asklegal.io,legal - I have 20 years of experience as a lawyer,0,0,0,0
 dd,dd,dd,dd,dd@dd.d,dd,0,0,0,0
 VenkteshV,"Python
 Java",Javascript,Indraprastha Isntitute of Information technology,venkteshv@iiitd.ac.in,"Natural language processing , full stack development, edtech platoforms",0,0,0,0
-https://github.com/ifx0com,python,,chinese academy of sciences,kadiruludag@mails.ucas.ac.cn,psychology
-https://github.com/arkajitmandal,Python,JavaScript,Columbia University,arkajit.mandal@columbia.edu,"Quantum Dynamics, Nonadiabatic Molecular Dynamics, Chemical Kinetics"
+ifx0com,python,,chinese academy of sciences,kadiruludag@mails.ucas.ac.cn,psychology,0,0,0,0
+arkajitmandal,Python,JavaScript,Columbia University,arkajit.mandal@columbia.edu,"Quantum Dynamics, Nonadiabatic Molecular Dynamics, Chemical Kinetics",0,0,0,0
 2mikeg,"Python, Javascript, Matlab",,Universidad Pontificia Bolivariana,michael.guzman@upb.edu.co,"Machine Learning, Simulation, Modellation"
+mgiardino,"Java, C++","C, IDL",Agenzia Spaziale Italiana,marco.giardino@gmail.com,"Science data processing pipelines
+Software engineering
+Artificial intelligence"
