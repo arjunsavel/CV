@@ -3149,7 +3149,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,4,1,0
+multiscale",1,5,1,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,0,0
 rchg,"Python
@@ -3638,7 +3638,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,4,1,0
+plasticity",1,5,1,0
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -4163,7 +4163,7 @@ R
 javascript",,"Florida International University, Department of Psychology",kbott006@fiu.edu,"Neuroinformatics
 Neuroimaging
 Psychology
-Data science",0,2,0,0
+Data science",1,3,0,0
 chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,1,0
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",1,1,0,0
 mherman09,Fortran,"Python
@@ -6393,7 +6393,7 @@ Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance
 Compiler implementation",0,0,0,0
 raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",0,0,0,0
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software",0,1,1,0
-brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",0,0,0,0
+brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",1,1,0,0
 jimmielin,Fortran 90,"PHP
 Python
 Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
@@ -6469,7 +6469,8 @@ VenkteshV,"Python
 Java",Javascript,Indraprastha Isntitute of Information technology,venkteshv@iiitd.ac.in,"Natural language processing , full stack development, edtech platoforms",0,0,0,0
 ifx0com,python,,chinese academy of sciences,kadiruludag@mails.ucas.ac.cn,psychology,0,0,0,0
 arkajitmandal,Python,JavaScript,Columbia University,arkajit.mandal@columbia.edu,"Quantum Dynamics, Nonadiabatic Molecular Dynamics, Chemical Kinetics",0,0,0,0
-2mikeg,"Python, Javascript, Matlab",,Universidad Pontificia Bolivariana,michael.guzman@upb.edu.co,"Machine Learning, Simulation, Modellation"
+2mikeg,"Python, Javascript, Matlab",,Universidad Pontificia Bolivariana,michael.guzman@upb.edu.co,"Machine Learning, Simulation, Modellation",0,0,0,0
 mgiardino,"Java, C++","C, IDL",Agenzia Spaziale Italiana,marco.giardino@gmail.com,"Science data processing pipelines
 Software engineering
 Artificial intelligence"
+FlyingPumba,"Android, Java, TypeScript, SQL, Python, Javascript, LaTEX, Bash","Kotlin, R","FCEyN-UBA/ICC-CONICET, Argentina",iarcuschin@gmail.com,"Android, Testing, Automatic Test Generation, Search-Based Algorithms, Evolutive Algorithms, Genetic Algorithms, Empirical Studies, Search-Based Software Engineering, Software Engineering"
