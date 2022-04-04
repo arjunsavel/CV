@@ -370,7 +370,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,0,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,9,1,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",1,9,0,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
 Fortran","C
@@ -3772,7 +3772,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,3,2,1
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,3,1,1
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -6479,3 +6479,7 @@ dsaf,python,rust,dsafdsf,dsafdsf@fsdf.com,,0,0,0,0
 erasmuss,Python,Juypter Notebook,National Institute of Standards and Technology,elizabeth.rasmussen@nist.gov,"Raman Spectroscopy, Thermodynamics, Material Synthesis, Heat Transfer, CFD, Fluid Dynamics, Mechanical Engineering",0,0,0,0
 po60nani,Python,Matlab,"Max Planck Institute for the Science of Light, 91058 Erlangen, Germany.",Houman.mirzaalian@fau.de,"Computer vision, ML, AI",0,0,0,0
 victorapm,"C, C++, Fortran, Python.",,Lawrence Livermore National Laboratory,paludettomag1@llnl.gov,"Linear solvers, math libraries, high performance computing, finite element methods, finite volume methods, finite difference methods."
+mhucka,Python,"sh/bash
+JavaScript
+Java",California Institute of Technology,mhucka@caltech.edu,"handwritten text recognition
+systems biology"
