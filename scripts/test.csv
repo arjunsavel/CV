@@ -1335,7 +1335,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,0,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,3,1,0
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",1,4,1,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1936,7 +1936,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,1
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,3,1,0
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",1,4,1,0
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -2100,7 +2100,7 @@ Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
 Acquisition and reconstruction methods",1,1,0,0
 dilawar,"Python
-C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,1,2,1,0
+C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,2,3,1,0
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
 numerical methods
 machine learning
@@ -2748,7 +2748,7 @@ Haskell
 Rust
 C",Javascript,UENF,gabriel_scf@hotmail.com,"Phylogenetics
 Genomics
-Proteomics",0,0,0,0
+Proteomics",1,1,0,0
 celliern,Python,"Julia
 Scilab",Université Savoie Mont-Blanc,contact@nicolas-cellier.net,"computational fluid dynamic
 reproducible research
@@ -4607,7 +4607,7 @@ Knowledge extraction
 Ontologies
 Bioinformatics
 Data integration
-Machine Learning / Artificial Intelligence",0,1,1,0
+Machine Learning / Artificial Intelligence",0,1,0,0
 jwwthu,Python,,Tsinghua University,jiangweiwei@mail.tsinghua.edu.cn,"Computer Science
 Machine Learning
 Signal Processing
@@ -4669,7 +4669,7 @@ gsfyrakis,"JAVA, R",Python,Newcastle University,ioannis.sfyrakis@newcastle.ac.uk
 petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.com,"bioinformatics
 evolutionary biology
 phylogenetics",0,0,0,0
-LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,1,0
+LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,0,0
 bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
 cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
@@ -5372,7 +5372,7 @@ Materials science",1,1,0,0
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
-dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",1,2,1,0
+dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",2,3,1,0
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,1,1,1
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
@@ -6482,7 +6482,7 @@ victorapm,"C, C++, Fortran, Python.",,Lawrence Livermore National Laboratory,pal
 mhucka,Python,"sh/bash
 JavaScript
 Java",California Institute of Technology,mhucka@caltech.edu,"handwritten text recognition
-systems biology"
+systems biology",0,0,0,0
 https://github.com/Shahzaibkhalid25,python,"C++
 Java","Mehran University of Engineering & Technology, Pakistan",shahzaibkhalid94@gmail.com,"Machine Learning
 Deep Learning
