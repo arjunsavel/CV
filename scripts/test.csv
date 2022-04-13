@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,0
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,3,2,1
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,3,2,0
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -5584,7 +5584,7 @@ schruste,"C++
 python",,University of Göttingen,lehrenfeld@math.uni-goettingen.de,"Numerical PDEs
 Finite element methods
 Discontinuous Galerkin Methods
-Unfitted / Immersed Finite Element Methods",1,2,1,1
+Unfitted / Immersed Finite Element Methods",1,2,1,0
 nil,MATLAB,python,RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT,smithatv.rvitm@rvei.edu.in,"Finite Element method
 Machine learning",0,0,0,0
 TobbeTripitaka,Python,TeX,University of Tasmania,tobias.staal@utas.edu.au,"Geophysics, geology, Earth science",0,1,1,0
@@ -6502,8 +6502,11 @@ xuwd11,Python,C++,Meta Reality Labs,xuwd11@fb.com,"machine learning, image proce
 kirtiprakash,"MATLAB
 R
 Python",R,The Institute of Cancer Research,kirtiprakash2.71@gmail.com,Image analysis,0,0,0,0
-manmeetkaurbaxi,"python, C++",Java,"Graduate Research Assistant, Lakehead University",mbaxi@lakeheadu.ca,"Computational Social Sciences, Social Media Analysis, Data Mining, Social Network Analysis"
+manmeetkaurbaxi,"python, C++",Java,"Graduate Research Assistant, Lakehead University",mbaxi@lakeheadu.ca,"Computational Social Sciences, Social Media Analysis, Data Mining, Social Network Analysis",0,0,0,0
 fnattino,Python,,Netherlands eScience Center,f.nattino@esciencecenter.nl,"Chemistry
 Materials Science
-Earth Observation"
+Earth Observation",0,0,0,0
 anpeibooa,Python,C++,Duke University,pa77@duke.edu,Physics simulations and machine learning packages
+github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,filipe.ferraz0@gmail.com,"Artificial Inteligence, Machine Learning, Deep Learning, Electronics, Embedded Systems, Quantum Computing, Operating Systems, Data Science, Audio Processing"
+PhilipPallmann,"R
+Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics
