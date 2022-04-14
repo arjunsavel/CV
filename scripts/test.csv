@@ -5309,7 +5309,7 @@ singularity
 dimensionality reduction
 tidyverse
 Rlang",0,5,1,0
-tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",1,1,0,0
+tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,1,1,1
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
 AI
@@ -5789,7 +5789,7 @@ tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de
 kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
 Interpretable Machine Learning
 Natural Language Processing
-Statistics",1,2,1,1
+Statistics",1,2,1,0
 jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",0,0,0,0
 Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT,0,0,0,0
 jdreo,"C++
@@ -5830,7 +5830,7 @@ Data Science
 Wearable Computing
 Statistics
 Psychology
-Biopsychology",0,2,2,2
+Biopsychology",0,2,2,1
 puruckertom,"Python, R, JavaScript","Matlab, Octave, Julia, C/C++, Fortran",US EPA Office of Research and Development,purucker.tom@epa.gov,"Ecology, Hydrology, Toxicology, Environmental Science, Bioinformatics, Chemoinformatics",0,1,1,0
 npucino,Python,,Deakin University,nicolas.pucino@hotmail.com,"Geospatial analysis, terrain analysis, coastal geomorphology",0,0,0,0
 sebastian-raubach,"Java
@@ -6193,7 +6193,7 @@ julia
 fortran",Vienna university of technology,alejandro.gallo@tuwien.ac.att,"Quantum chemistry
 Chemistry
 Physics
-Computational mathematics",1,1,0,0
+Computational mathematics",0,1,1,1
 arn1291,Python,C++,Pondicherry university,arunekumarbala@gmail.com,"Machine learning, computer vision, artificial intelligence, optimization",0,0,0,0
 chrisamiller,R,"Perl
 Python
@@ -6506,7 +6506,9 @@ manmeetkaurbaxi,"python, C++",Java,"Graduate Research Assistant, Lakehead Univer
 fnattino,Python,,Netherlands eScience Center,f.nattino@esciencecenter.nl,"Chemistry
 Materials Science
 Earth Observation",0,0,0,0
-anpeibooa,Python,C++,Duke University,pa77@duke.edu,Physics simulations and machine learning packages
-github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,filipe.ferraz0@gmail.com,"Artificial Inteligence, Machine Learning, Deep Learning, Electronics, Embedded Systems, Quantum Computing, Operating Systems, Data Science, Audio Processing"
+anpeibooa,Python,C++,Duke University,pa77@duke.edu,Physics simulations and machine learning packages,0,0,0,0
+github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,filipe.ferraz0@gmail.com,"Artificial Inteligence, Machine Learning, Deep Learning, Electronics, Embedded Systems, Quantum Computing, Operating Systems, Data Science, Audio Processing",0,0,0,0
 PhilipPallmann,"R
 Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics
+@CWillberg,"Python Fortran, Matlab,C",,German Aerospace Center,christian.willberg@dlr.de,"Structural Mechanics, Finite Element Method, Material modeling, Peridynamics, Structural Health Monitoring"
+Rocsg,"Java, Python",,CIRAD,romainfernandez06@gmail.com,Image analysis
