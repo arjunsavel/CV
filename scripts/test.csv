@@ -88,7 +88,7 @@ MPI
 climate science
 earth sciences",0,9,0,0
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
-soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,2,1
+soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,2,0
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
@@ -6509,6 +6509,16 @@ Earth Observation",0,0,0,0
 anpeibooa,Python,C++,Duke University,pa77@duke.edu,Physics simulations and machine learning packages,0,0,0,0
 github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,filipe.ferraz0@gmail.com,"Artificial Inteligence, Machine Learning, Deep Learning, Electronics, Embedded Systems, Quantum Computing, Operating Systems, Data Science, Audio Processing",0,0,0,0
 PhilipPallmann,"R
-Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics
-@CWillberg,"Python Fortran, Matlab,C",,German Aerospace Center,christian.willberg@dlr.de,"Structural Mechanics, Finite Element Method, Material modeling, Peridynamics, Structural Health Monitoring"
+Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics,0,0,0,0
+CWillberg,"Python Fortran, Matlab,C",,German Aerospace Center,christian.willberg@dlr.de,"Structural Mechanics, Finite Element Method, Material modeling, Peridynamics, Structural Health Monitoring",0,0,0,0
 Rocsg,"Java, Python",,CIRAD,romainfernandez06@gmail.com,Image analysis
+NRaillard,R,"Python
+Matlab","IFREMER, France",nicolas.raillard@ifremer.fr,"Statistical modelling
+Meteocean data modelling
+Oceanography
+Renewable energy"
+xzyaoi,"Python, Go, Typescript","Javascript, C/C++",ETH Library Lab,xiaozhe.yao@librarylab.ethz.ch,"Machine Learning, AI, MLOps"
+lepisma,"Python
+JavaScript","C++
+R
+Lisp",ML at Skit.ai,abhinav@lepisma.xyz,"Machine Learning, NLP, Data Science, General Programming."
