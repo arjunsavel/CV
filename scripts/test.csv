@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",0,7,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,0,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,1,0
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,0,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,10,2,1
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,10,1,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",0,5,3,1
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",0,5,3,0
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,0,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -2780,7 +2780,7 @@ Javascript","Javascript
 PHP",,sarathsp06@gmail.com,"Web API
 Networking
 Telephony
-Messaging",0,1,1,0
+Messaging",0,1,0,0
 sthyjuyhtgrf,fdghjh,dfhgjjhg,sedghjhgf,demovrus1985@gmail.com,dfghgtf,0,0,0,0
 aureliocarnero,Python,C++,CIEMAT,aurelio.crosell@gmail.com,"Astrophysics
 Cosmology",0,5,0,0
@@ -3885,7 +3885,7 @@ Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,0
-rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,1
+rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,0
 mturiansky,"Python
 Fortran
 Bash/Sh","C/C++
@@ -3912,7 +3912,7 @@ Fortran",,bramwell1@llnl.gov,"Finite element methods
 Nonlinear multiphysics simulation
 High performance computing",0,0,0,0
 tbrown122387,"C++
-R",Python,,trb5me@virginia.edu,"Bayesian statistics, time series, Markov chain Monte Carlo, particle filtering",0,1,1,1
+R",Python,,trb5me@virginia.edu,"Bayesian statistics, time series, Markov chain Monte Carlo, particle filtering",0,1,1,0
 feddelegrand7,R,JavaScript,,ihaddaden.fodeil@gmail.com,R packages that relie on JS libraries,0,0,0,0
 codeling,C++,"C
 Python
@@ -4127,7 +4127,7 @@ Graph Theory
 Network Biology
 Single-cell analysis
 Parallel Computing/HPC
-(bio)Statistical Analysis",0,1,1,0
+(bio)Statistical Analysis",0,1,0,0
 TomKellyGenetics,"R
 Python
 Bash
@@ -4135,7 +4135,7 @@ Shell","Julia
 MATLAB/Octave
 Wolfram/Mathematica
 Rust",,tom.kelly@riken.jp,"Bioinformatics
-Graph theory",0,1,1,0
+Graph theory",0,1,0,0
 aponsero,"Python, R",,,aponsero@email.arizona.edu,Bioinformatics,0,0,0,0
 alexrockhill,Python,"C, R, MATLAB, JavaScript",University of Oregon,aprockhill@mailbox.org,"neuroscience
 human physiology
@@ -4344,7 +4344,7 @@ HPC
 Astronomy",0,2,1,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,1,0,0
-yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,1,0
+yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,0,0
 pr4deepr,"Python, ImageJ Macro",Groovy (basic or beginner),Monash University,pradeep.rajasekhar@gmail.com,"Bioimage analysis, image processing, microscopy, data processing, visualisation, machine learning",0,0,0,0
 Bsingstad,Python,,University of Oslo,bjorn_sing@hotmail.com,Signal processing and Machine learning (in medical applications),0,0,0,0
 jonathanschilling,"Java, Python, Fortran, C, C++",Matlab,Max-Planck-Institute for Plasma Physics,jonathan.schilling@ipp.mpg.de,"numerics, data analysis, modeling, communication with hardware",0,0,0,0
@@ -5407,7 +5407,7 @@ Perl
 R",,University of Michigan,prvst@protonmail.com,"Bioinformatics
 Computational Biology
 Proteomics",0,0,0,0
-oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning",0,1,1,1
+oyvinht,"Common Lisp, Clojure",Java,UiT - The Arctic University of Norway,oyvin.h.thuv@uit.no,"Artificial Intelligence, Artificial Life, Machine Learning",0,1,1,0
 vavrines,Julia,Fortran,Karlsruhe Institute of Technology,tianbaixiao@gmail.com,Computational Physics,0,0,0,0
 kaniket1234,"Java, Python",Python,"Principal Architect, QA",aniketkulkarni007@gmail.com,"Software Development
 Software Testing and Automation",0,0,0,0
@@ -6511,13 +6511,13 @@ github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,f
 PhilipPallmann,"R
 Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics,0,0,0,0
 CWillberg,"Python Fortran, Matlab,C",,German Aerospace Center,christian.willberg@dlr.de,"Structural Mechanics, Finite Element Method, Material modeling, Peridynamics, Structural Health Monitoring",0,0,0,0
-Rocsg,"Java, Python",,CIRAD,romainfernandez06@gmail.com,Image analysis
+Rocsg,"Java, Python",,CIRAD,romainfernandez06@gmail.com,Image analysis,0,0,0,0
 NRaillard,R,"Python
 Matlab","IFREMER, France",nicolas.raillard@ifremer.fr,"Statistical modelling
 Meteocean data modelling
 Oceanography
-Renewable energy"
-xzyaoi,"Python, Go, Typescript","Javascript, C/C++",ETH Library Lab,xiaozhe.yao@librarylab.ethz.ch,"Machine Learning, AI, MLOps"
+Renewable energy",0,0,0,0
+xzyaoi,"Python, Go, Typescript","Javascript, C/C++",ETH Library Lab,xiaozhe.yao@librarylab.ethz.ch,"Machine Learning, AI, MLOps",0,0,0,0
 lepisma,"Python
 JavaScript","C++
 R
