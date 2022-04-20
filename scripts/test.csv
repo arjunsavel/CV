@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",1,5,2,1
+Computer Networks. ",1,5,2,0
 mlxd,"C
 C++
 Python
@@ -162,7 +162,7 @@ PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
 Text Mining
 XML
-Database",0,5,2,1
+Database",0,5,2,0
 alexhanna,"Python, R",,University of Toronto,alex.hanna@gmail.com,"Social science, natural language processing",0,4,1,0
 jsgalan,"Python
 ","Matlab
@@ -1501,7 +1501,7 @@ Multi-physics frameworks & applications
 Legacy application refactoring tools
 Parallel & PGAS runtimes/RTLs
 Package Managers
-MacOS tools & Utilities",1,5,1,0
+MacOS tools & Utilities",0,5,2,1
 mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science, web APIs, statistics",0,2,0,0
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
@@ -3450,7 +3450,7 @@ optimization",0,1,1,0
 stevemacenski,"C++, python",,Samsung Research,stevenmacenski@gmail.com,robotics,0,0,0,0
 ejhigson,Python,,Cambridge University,ejhigson@gmail.com,"machine learning, Bayesian statistics, sampling, astrophysics, MCMC, nested sampling",0,7,1,0
 zethson,"Python, Java, Kotlin","Groovy, C++, html, css",Quantitative Biology Center Tübingen,lukas.heumos@posteo.net,"bioinformatics, machine learning, data science",0,0,0,0
-slayoo,Python,C++,"Jagiellonian University, Kraków, Poland",sylwester.arabas@uj.edu.pl,"differential equations, atmospheric science, Monte-Carlo methods",0,0,0,0
+slayoo,Python,C++,"Jagiellonian University, Kraków, Poland",sylwester.arabas@uj.edu.pl,"differential equations, atmospheric science, Monte-Carlo methods",1,1,0,0
 No,"FORTRAN(OpenMP, MPI, CUDA)",Python,"INO-CNR BEC Center, University of Trento, Italy",arko.roy@unitn.it,Computer codes in Physics,0,0,0,0
 julianstirling,"Python, C, C++",Matlab,University of Bath,j.stirling@bath.ac.uk,"Software relating to hardware development
 Control systems for hardware
@@ -3468,7 +3468,7 @@ FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
 HPC",0,2,0,0
-simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,0,0,0
+simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",1,1,0,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
 GNU Octave/Matlab","C
@@ -3664,7 +3664,7 @@ rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography,
 Oldim Vilanculo,Matlab,Phyton,Eduardo Mondlane University,ochuquelane@gmail.com,Porous media modeling,0,0,0,0
 mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear algebra
 multiphysics
-algebraic multigrid",1,1,0,0
+algebraic multigrid",0,1,1,1
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
 skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,0,0
 santoshkumarradha,"python
@@ -4749,7 +4749,7 @@ Python",,"Physics Department, Sapienza U niversity of Rome",lorenzo.rovigatti@un
 - physical chemistry
 - soft matter
 - chemical physics
-- biophysics",1,3,1,0
+- biophysics",0,3,2,1
 none,"Python, Julia, C, C++",FORTRAN,University of Waterloo,nmabukhdeir@uwaterloo.ca,"fluid mechanics
 particle mechanics
 image processing",0,0,0,0
@@ -5904,7 +5904,7 @@ Computational Mechanics",0,0,0,0
 imw,"golang, python, rust",,Independent,isaac@iwilder.net,"distributed systems, network systems",0,0,0,0
 syedhamidali,Python,Fortran,Purdue University,hamidsyed37@gmail.com,"Earth, Environment, Atmosphere and Ocean",0,0,0,0
 allaway,"R, Python",,Sage Bionetworks,robert.j.allaway@gmail.com,"Cheminformatics, genomics, biology, pharmaceuticals, cancer biology",0,0,0,0
-athulpg007,"Python, MATLAB",,Pioneer Astronautics,athulpg007@gmail.com,"Astrodynamics, Orbital Mechanics, Planetary Science, Space Mission Design, Trajectory Optimization, Flight Mechanics, Aircraft Design, Spacecraft, Mission Planning, Aerospace Systems, Celestial Mechanics",1,1,0,0
+athulpg007,"Python, MATLAB",,Pioneer Astronautics,athulpg007@gmail.com,"Astrodynamics, Orbital Mechanics, Planetary Science, Space Mission Design, Trajectory Optimization, Flight Mechanics, Aircraft Design, Spacecraft, Mission Planning, Aerospace Systems, Celestial Mechanics",2,2,0,0
 DiegoCorrea,Python,R,Federal University of Bahia,diego.correa@ufba.br,"Recommender System, Collaborative Filtering",0,0,0,0
 sergioburdisso,Python,"C
 C++
@@ -6362,7 +6362,7 @@ SimonMolinsky,Python,"Java Script
 C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
 GIS
 Remote Sensing
-Time Series",0,0,0,0
+Time Series",1,1,0,0
 agi-codes,"Python, C/C++","Java, Swift, R, Javascript",Harvard University,agikajanaku@gmail.com,"AI, computer vision, medical imaging",0,0,0,0
 bencardoen,"Julia
 C++
@@ -6523,5 +6523,6 @@ JavaScript","C++
 R
 Lisp",ML at Skit.ai,abhinav@lepisma.xyz,"Machine Learning, NLP, Data Science, General Programming.",0,0,0,0
 Goss 619,English ca,Linux json,Viewer,fosscrystal@gmail.com,Sha256,0,0,0,0
-https://github.com/RitikaPrasai,"Python, R",,Baylor University,ritikaprasai3@gmail.com,Web basesd tools
+RitikaPrasai,"Python, R",,Baylor University,ritikaprasai3@gmail.com,Web basesd tools,0,0,0,0
 https://github.com/sidihamady/,"C, C++, Python","Lua, Java",University of Lorraine,sidi.hamady@univ-lorraine.fr,"Physics of Semiconductors, Optoelectronics, Microelectronics, Instrumentation, Sensors"
+wentasah,"C/C++, Julia","Rust, Python, Shell, Go",Czech Technical University in Prague,michal.sojka@cvut.cz,"Embedded systems, operating systems, robotics"
