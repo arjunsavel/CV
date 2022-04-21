@@ -1478,7 +1478,7 @@ Model frameworks
 Social Models
 Quantitative Archaeology
 Oceanography",0,3,1,0
-srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,4,1,1
+srmnitc,"Python, C++",C,"ICAMS, Ruhr University Bochum",sarath.menon@rub.de,"Materials science, Physics, mechanical engineering, molecular dynamics, DFT ",0,4,1,0
 Rohanreddyg,".Net, JS",SQL,.Net Technologist ,Rohanreddyg@gmail.com,"ECommerce, enterprise portals, products ",0,0,0,0
 zbeekman,"Fortran
 CMake
@@ -2768,7 +2768,7 @@ Matlab",,Imperial College London,norberto.goizueta13@imperial.ac.uk,"Aeronautics
 Aeroelasticity
 Aircraft Design
 Structural Dynamics
-Aerodynamics",0,1,1,1
+Aerodynamics",0,1,1,0
 torressa,Python,,SINTEF,davidtorressanchez@hotmail.com,"Optimization / Optimisation
 Graph Theory
 Shortest Path Problems
@@ -4450,7 +4450,7 @@ Python
 MATLAB","C++
 Python
 MATLAB","Institute of Applied Mechanics, FAU Erlangen-Nürnberg",paras.kumar@fau.de,"Solid Mechanics
-Mesh Generation",0,1,1,1
+Mesh Generation",0,1,1,0
 awvwgk,"Fortran
 Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
@@ -6524,5 +6524,8 @@ R
 Lisp",ML at Skit.ai,abhinav@lepisma.xyz,"Machine Learning, NLP, Data Science, General Programming.",0,0,0,0
 Goss 619,English ca,Linux json,Viewer,fosscrystal@gmail.com,Sha256,0,0,0,0
 RitikaPrasai,"Python, R",,Baylor University,ritikaprasai3@gmail.com,Web basesd tools,0,0,0,0
-https://github.com/sidihamady/,"C, C++, Python","Lua, Java",University of Lorraine,sidi.hamady@univ-lorraine.fr,"Physics of Semiconductors, Optoelectronics, Microelectronics, Instrumentation, Sensors"
+sidihamady/,"C, C++, Python","Lua, Java",University of Lorraine,sidi.hamady@univ-lorraine.fr,"Physics of Semiconductors, Optoelectronics, Microelectronics, Instrumentation, Sensors",0,0,0,0
 wentasah,"C/C++, Julia","Rust, Python, Shell, Go",Czech Technical University in Prague,michal.sojka@cvut.cz,"Embedded systems, operating systems, robotics"
+sdelandtsheer,"python
+matlab",,University of Luxembourg,sebastien.delandtsheer@uni.lu,"systems biology
+computational biology"
