@@ -34,7 +34,7 @@ mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, D
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
-kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,9,1,0
+kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,9,0,0
 pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC",0,2,0,0
 arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,0,0
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
@@ -1349,7 +1349,7 @@ KedoKudo,Python,"C
 Fortran",Carnegie Mellon University,chenz3@andrew.cmu.edu,"high-energy X-ray diffraction
 crystal plasticity
 finite element
-dislocation dynamics",0,2,0,0
+dislocation dynamics",1,3,0,0
 jdeligt,"C++
 Java
 Python
@@ -2178,7 +2178,7 @@ github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc."
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
 Data Science
-Natural Language Processing",1,3,0,0
+Natural Language Processing",0,3,1,1
 lixiaodong,"Java
 C#
 Javascript
@@ -2345,7 +2345,7 @@ Chromatin conformation",0,0,0,0
 andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",1,1,0,0
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,1,1,1
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
-HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,3,2,1
+HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,3,2,0
 kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,0
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,0,0
@@ -2686,7 +2686,7 @@ time domain astronomy",0,1,0,0
 materials informatics
 physical chemistry
 inorganic chemistry
-mathematical modeling",1,1,0,0
+mathematical modeling",0,1,1,1
 grburgess,"python, c++, Stan, FORTRAN",,Max-Planck Institute for Extraterrestrial Physics,jburgess@mpe.mpg.de,astrophysics,0,2,1,0
 nmoran,"Python
 Julia
@@ -2816,7 +2816,7 @@ julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system 
 time-series data analysis
 geospational data analysis",0,1,0,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,0,0
-eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,3,2,1
+eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,3,1,1
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
 Astrophysics
 Interstellar medium",0,1,0,0
@@ -3006,7 +3006,7 @@ mdbartos,python,C (embedded),University of Michigan,mdbartos@umich.edu,"hydrolog
 mbdemoraes,"python
 c
 java",c++,School of Technology - University of Campinas,matheuzmoraes@gmail.com,"data streams
-machine learning",0,3,1,0
+machine learning",0,3,0,0
 DingXuefeng,"C++
 python",,Princeton University,xuefengd@princeton.edu,"astro-particle physics
 physics
@@ -3105,7 +3105,7 @@ core-man,C,"Fortran
 Python
 Matlab",Nanyang Technological University,kaka22yao@gmail.com,seismology,0,0,0,0
 Prof-ThiagoOliveira,R,SAS,University of Edinburgh,thiago.paula.oliveira@usp.br,"Statistics, Sports, Agriculture",0,1,1,0
-martinju,R,,Norwegian Computing Center,jullum@nr.no,"Statistics, Machine Learning, Explainable AI",0,1,1,0
+martinju,R,,Norwegian Computing Center,jullum@nr.no,"Statistics, Machine Learning, Explainable AI",0,1,0,0
 WhiteSymmetry,Python,Q#,PhD. Student in Physics at GTU,mkececi@mehmetkececi.com,Quantum Computing,0,0,0,0
 bonh,"Python
 C++
@@ -3336,7 +3336,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",0,3,1,1
+    - Sequence alignment",1,4,1,1
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -3987,7 +3987,7 @@ apiad,Python,"C#
 JavaScript",,apiad@matcom.uh.cu,"Machine Learning
 Natural Language Processing
 Compilers
-Computational Linguistics",0,1,1,0
+Computational Linguistics",0,1,0,0
 coatless,"R
 C++
 Python","SQL/NoSQL
@@ -4360,7 +4360,7 @@ geometric data analysis
 unsupervised machine learning
 dimensionality reduction",0,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
-ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,2,0
+ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,1,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
 Finite volume methods
 Finite difference methods
@@ -5623,7 +5623,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",2,2,0,0
+Ordinary & Partial Differential Equations",1,2,1,1
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,0,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -5892,12 +5892,12 @@ Water Quality",0,0,0,0
 sestelo,R,,"Dep. Statistics and O.R, University of Vigo",sestelo@uvigo.es,"data analysis, regression,  bootstrap, testing procedures, survival analysis,etc",0,0,0,0
 1mikegrn,"Python, C, Go",,Crunch Cloud Analytics,michael@michaelgreen.dev,"Materials Science
 Chemistry
-Cheminformatics",1,1,0,0
+Cheminformatics",0,1,1,1
 KedoKudo,"Python
 C++
 Cuda
 Go","Matlab
-Julia",Oak Ridge National Lab,zhangc@ornl.gov,"Neutron diffraction, X-ray diffraction, constitutive modeling, data visualization",0,2,0,0
+Julia",Oak Ridge National Lab,zhangc@ornl.gov,"Neutron diffraction, X-ray diffraction, constitutive modeling, data visualization",1,3,0,0
 MarDiehl,"Fortran
 Python",,"KU Leuven, Department of Materials Engineering and Department of Computer Science",martin.diehl@kuleuven.be,"Materials Science
 Computational Mechanics",0,0,0,0
