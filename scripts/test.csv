@@ -1061,7 +1061,7 @@ Julia","Javascript/typescript
 Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
-Physics simulators",1,7,1,1
+Physics simulators",1,7,1,0
 GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",1,5,0,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
@@ -4416,7 +4416,7 @@ security
 web development
 internet of things",0,2,1,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,0,0
-rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,3,1,0
+rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,3,0,0
 kullrich,"R
 python",,Max Planck Institute for Evolutionary Biology,ullrich@evolbio.mpg.de,"bioinformatics
 computational biology
@@ -4527,7 +4527,7 @@ Nathaniel-Haines,"R
 Stan",,The Ohio State University,haines.175@osu.edu,"Cognitive Science
 Computational Modeling
 Simulation
-Task Design",0,1,1,0
+Task Design",0,1,0,0
 kgoebber,Python,Python,Valparaiso University,kevin.goebbert@valpo.edu,"atmospheric science
 climate science
 meteorology",0,0,0,0
@@ -6528,16 +6528,17 @@ sidihamady/,"C, C++, Python","Lua, Java",University of Lorraine,sidi.hamady@univ
 wentasah,"C/C++, Julia","Rust, Python, Shell, Go",Czech Technical University in Prague,michal.sojka@cvut.cz,"Embedded systems, operating systems, robotics",0,0,0,0
 sdelandtsheer,"python
 matlab",,University of Luxembourg,sebastien.delandtsheer@uni.lu,"systems biology
-computational biology"
+computational biology",0,2,0,0
 FWuellhorst,"Python
 Modelica",,RWTH Aachen University,fabian.wuellhorst@rwth-aachen.de,"Energy Systems
 Buildings
 HVAC
 Heat Pumps
-Renewable Energy"
-https://github.com/Sj-Amani,"C++
+Renewable Energy",0,0,0,0
+Sj-Amani,"C++
 Python
 MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
 Computer Vision
-Signal Processing"
+Signal Processing",0,0,0,0
 https://github.com/ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics"
+zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics"
