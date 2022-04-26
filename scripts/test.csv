@@ -92,7 +92,7 @@ soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics"
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
 andreas-h,Python,Fortran,University of Bremen,hilboll@uni-bremen.de,"Atmospheric science
 Physics",0,2,0,0
-jwuttke,"C++, Ruby","C, Python",Forschungszentrum Jülich GmbH,j.wuttke@fz-juelich.de,"Physics, especially condensed matter, spectroscopy, scattering, diffraction",1,2,0,0
+jwuttke,"C++, Ruby","C, Python",Forschungszentrum Jülich GmbH,j.wuttke@fz-juelich.de,"Physics, especially condensed matter, spectroscopy, scattering, diffraction",0,2,1,1
 ajank,"R
 C/C++
 TeX/LaTeX",,"European Molecular Biology Laboratory, Heidelberg, Germany",aleksander.jankowski@embl.de,"bioinformatics
@@ -6540,5 +6540,19 @@ Python
 MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
 Computer Vision
 Signal Processing",0,0,0,0
-https://github.com/ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics"
+ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics",0,0,0,0
 zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics"
+@jorgedch,"Python
+Matlab",Javascript,Heldenkombinat Technologies GmbH,jorge@heldenkombinat.com,"artificial intelligence
+machine learning
+reinforcement learning
+artificial neural networks
+generative models
+natural language processing
+computer vision
+cognitive robotics
+multimodal integration
+speech recognition
+sound source localization
+visual navigation"
+@jwdebelius,Python; I have minimal R,R as an end user,Johns Hopkins Bloomberg School of Public Health,justine.debelius@jhu.edu,microbiome/metagenomics
