@@ -76,7 +76,7 @@ sbinet,Go,,IN2P3,binet@cern.ch,"High Energy Physics, file formats",0,0,0,0
 abhishekbajpayee,"Python
 C++","Matlab
 Fortran
-C",Massachusetts Institute of Technology,ab9@mit.edu,"Image Processing, Computer Vision, Fluid Dynamics, Fluid Flow Imaging",1,4,0,0
+C",Massachusetts Institute of Technology,ab9@mit.edu,"Image Processing, Computer Vision, Fluid Dynamics, Fluid Flow Imaging",0,4,1,1
 yxqd,Python,,Oak Ridge National Lab,jiao.lin@gmail.com,Neutron data analysis,0,2,0,0
 dangunter,Python,C,Lawrence Berkeley National Laboratory,dkgunter@lbl.gov,"Middleware
 Web UIs
@@ -922,7 +922,7 @@ C++","Java
 C",Polytechnique Montreal,nicolas.saunier@polymtl.ca,"artificial intelligence
 machine learning
 computer vision
-transportation",1,1,0,0
+transportation",0,1,1,1
 wholmgren,Python,,University of Arizona,william.holmgren@gmail.com,"renewable energy, atmospheric sciences",0,1,0,0
 sahilseth,R Python Bash,js ,MD Anderson Cancer Center,sseth.research@gmail.com,"Computational biology
 Genomics
@@ -1062,7 +1062,7 @@ Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
 Physics simulators",1,7,1,0
-GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",1,5,0,0
+GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,5,1,1
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
 Rust
@@ -1335,7 +1335,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,0,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",1,4,1,0
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,4,2,1
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1936,7 +1936,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,1
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",1,4,1,0
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,4,2,1
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -2748,7 +2748,7 @@ Haskell
 Rust
 C",Javascript,UENF,gabriel_scf@hotmail.com,"Phylogenetics
 Genomics
-Proteomics",1,1,0,0
+Proteomics",0,1,1,1
 celliern,Python,"Julia
 Scilab",Université Savoie Mont-Blanc,contact@nicolas-cellier.net,"computational fluid dynamic
 reproducible research
@@ -3052,7 +3052,7 @@ motahhir,C,"Python, Matlab","ENSA Fès, USMBA",saad.motahhir@usmba.ac.ma,"Embedd
 felixcremer,Julia,python,Deutsches Zentrum für Luft und Raumfahrt,felix.cremer@dlr.de,"earth observation
 time series",0,2,1,0
 danhey,Python,,University of Sydney,dhey3294@uni.sydney.edu.au,"Astronomy
-Asteroseismology",1,2,0,0
+Asteroseismology",2,3,0,0
 nagellette,Python,,MSc. Geomatics Engineer (PhD Candidate),necipenesgengec@gmail.com,"Spatial analysis
 GIS
 Remote Sensing
@@ -4597,7 +4597,7 @@ evetion,"python
 julia",,Deltares,git@evetion.nl,"GIS
 HPC
 remote sensing
-computational geometry",0,0,0,0
+computational geometry",1,1,0,0
 JDRomano2,"Python
 C++
 R","C
@@ -5309,7 +5309,7 @@ singularity
 dimensionality reduction
 tidyverse
 Rlang",0,5,1,0
-tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,1,1,1
+tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",1,2,1,1
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
 AI
@@ -6005,7 +6005,7 @@ tensor decomposition
 molecular dynamics
 computational fluid mechanics
 high-performance computing
-GPU",2,2,0,0
+GPU",1,2,1,1
 ajbaird,"C++, Python","R, C, Julia",University of Washington,abaird1@uw.edu,"Biomedical Engineering, Physiology Modeling, Pharmacology, Systems Biology",0,0,0,0
 surajpaib,Python,,AIM Harvard & Maastricht University,b.pai@maastrichtuniversity.nl,"Computer Vision
 Medical Imaging
@@ -6541,8 +6541,8 @@ MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
 Computer Vision
 Signal Processing",0,0,0,0
 ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics",0,0,0,0
-zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics"
-@jorgedch,"Python
+zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics",0,0,0,0
+jorgedch,"Python
 Matlab",Javascript,Heldenkombinat Technologies GmbH,jorge@heldenkombinat.com,"artificial intelligence
 machine learning
 reinforcement learning
@@ -6554,5 +6554,6 @@ cognitive robotics
 multimodal integration
 speech recognition
 sound source localization
-visual navigation"
+visual navigation",0,0,0,0
 @jwdebelius,Python; I have minimal R,R as an end user,Johns Hopkins Bloomberg School of Public Health,justine.debelius@jhu.edu,microbiome/metagenomics
+MiftariB,Python,C++,Uliege,bmiftari@uliege.be,"Optimization, Modeling software"
