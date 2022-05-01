@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": "2204.12996",
+    "authors": [
+      "Beltz, Hayley",
+      "Rauscher, Emily",
+      "M. -R Kempton, Eliza",
+      "Malsky, Isaac",
+      "Ochs, Grace",
+      "Arora, Mireya",
+      "Savel, Arjun"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-04-00",
+    "title": "Magnetic Drag and 3-D Effects in Theoretical High-Resolution Emission Spectra of Ultrahot Jupiters: the Case of WASP-76b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220412996B",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Kerzendorf, Wolfgang",
