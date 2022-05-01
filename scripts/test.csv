@@ -1109,7 +1109,7 @@ Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,1,1,0
-marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,3,1,0
+marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",1,4,1,0
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -6559,10 +6559,11 @@ jwdebelius,Python; I have minimal R,R as an end user,Johns Hopkins Bloomberg Sch
 MiftariB,Python,C++,Uliege,bmiftari@uliege.be,"Optimization, Modeling software",0,0,0,0
 balkanet,pyton,,frerellancer,harchoni@gmail.com,,0,0,0,0
 epiben,"R, Python",Julia,"Dep. of Intensive Care, Copenhagen University Hospital & Section for Biostatistics, Dep. of Public Health, University of Copenhagen",epiben@hey.com,"Medicine, biostatistics, epidemiology, visualisation, data science, health informatics",0,0,0,0
-octetsplicer,"Python, Ruby, Rust and PHP","JavaScript, Lisp",Independent Scholars Association of Australia,peterfunnell@tutanota.com,"Cryptography/Cryptanalysis, Steganography/Steganalysis, Cybersecurity, Machine Learning, Intelligence (Collection/Processing/Analysis, incl. SIGINT, CYBINT, OSINT, IMINT, DNINT), Computer Science."
-graystatistics,"R, Perl","C++, Matlab/Octave",University of Otago,andrew.gray@otago.ac.nz,"Biostatistics, epidemiology, clinical trials"
-Psychtek,R,Basic terminal and Python,Melbourne University,aaron.willcox@unimelb.edu.au,"Meta research, psychology, marketing and behavioral"
+octetsplicer,"Python, Ruby, Rust and PHP","JavaScript, Lisp",Independent Scholars Association of Australia,peterfunnell@tutanota.com,"Cryptography/Cryptanalysis, Steganography/Steganalysis, Cybersecurity, Machine Learning, Intelligence (Collection/Processing/Analysis, incl. SIGINT, CYBINT, OSINT, IMINT, DNINT), Computer Science.",0,0,0,0
+graystatistics,"R, Perl","C++, Matlab/Octave",University of Otago,andrew.gray@otago.ac.nz,"Biostatistics, epidemiology, clinical trials",0,0,0,0
+Psychtek,R,Basic terminal and Python,Melbourne University,aaron.willcox@unimelb.edu.au,"Meta research, psychology, marketing and behavioral",0,0,0,0
 turgeonmaxime,"R
 Python",,University of Manitoba,max.turgeon@umanitoba.ca,"Survival analysis
 Biostatistics
 Computational Statistics"
+Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops"
