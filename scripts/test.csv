@@ -1935,7 +1935,7 @@ R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
-cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,1
+cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,0
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,4,2,1
 nniiicc,"R
 Python
@@ -3263,7 +3263,7 @@ Biomedical Informatics
 Medical Informatics
 Clinical Informatics
 Biomedical Natural Language Processing",0,0,0,0
-a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",0,1,1,0
+a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",1,2,1,0
 jmansour,"Python
 C
 C++",Fortran,Monash University,john.mansour@monash.edu,"Applied Geophysics
@@ -4231,7 +4231,7 @@ lscalfi,"Fortran
 Python",C,"Sorbonne Université, CNRS, Physico-chimie des Électrolytes et Nanosystèmes Interfaciaux, PHENIX",laura.scalfi@sorbonne-universite.fr,"electrochemistry
 physical chemistry
 molecular dynamics",1,2,0,0
-vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",0,1,1,0
+vigji,Python,None,Max Planck Institute of Neurobiology,luigi.petrucco@gmail.com,"Neuroscience, anatomy,  microscopy, biological imaging analysis, behaviour",0,1,0,0
 ferreira68,"C/C++, FORTRAN, Python","Perl, R",U.S. Department of Energy/Duquesne University,amferreira68@gmail.com,"Numerical Analysis, Chemistry, Physics",0,0,0,0
 tariqdaouda,python,"Javascript
 C++
@@ -4880,7 +4880,7 @@ C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
 Mesh Datastructure
 Parallel Programming",0,1,0,0
-a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,1,1,0
+a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",1,2,1,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,1,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,1,1,0
@@ -5064,7 +5064,7 @@ BioPerl
 Java","Guru Nanak Khalsa College, Mumbai",kharinirt237@gmail.com,"Bioinformatics
 Coding
 Desktop Applications",0,0,0,0
-dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",0,1,1,1
+dbkeitel,python,"C, octave",Universitat de les Illes Balears,david.keitel@ligo.org,"gravitational physics, astrophysics",0,1,1,0
 stephendavidgregory,R,BUGS,"Salmon & Trout Research Centre, GWCT, UK",stephendavidgregory@gmail.com,Ecological modelling,0,0,0,0
 paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
@@ -6567,20 +6567,29 @@ Python",,University of Manitoba,max.turgeon@umanitoba.ca,"Survival analysis
 Biostatistics
 Computational Statistics",0,0,0,0
 Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops",0,0,0,0
-@zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
+zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
-agent-based modeling"
-hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging"
+agent-based modeling",0,0,0,0
+hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",0,0,0,0
 Dom-Owens-UoB,"R
-Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics
-https://github.com/bioedd,"Python
+Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics,0,0,0,0
+bioedd,"Python
 SQL
 R","XML
 RDF
 Markdown","Centro de diseño, cine y televisión",ealvarezl@centro.edu.mx,"Biotechnology
 Toxinology
-Cell Biology"
+Cell Biology",0,0,0,0
 schochastics,R,,GESIS,david.schoch@gesis.org,"Network Analysis
 Network Visualization
-Network Modeling"
+Network Modeling",0,0,0,0
 lbluque,"Python, Cython","C++, C, julia",Postdoctoral Fellow,lbluque@berkeley.edu,"computational matsci, disorder thermodynamics, inorganic materials, regression/linear models"
+frankier,"Python
+Julia
+Rust","Typescript
+Stan
+C",University of Jyväksylä,frankie.r.robertson@jyu.fi,"Educational technology
+Psychometrics
+Natural Language Processing
+Computational Linguistics"
+suhang96,python,,Harvard University,shuhanhuang2016@gmail.com,neuroscience; image analysis; sequencing
