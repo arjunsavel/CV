@@ -3114,7 +3114,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",1,3,0,0
+Data handling",0,3,1,1
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -3586,7 +3586,7 @@ kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
 statistics",0,0,0,0
-munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,2,2,1
+munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,2,1,1
 kinow,"Java
 Python
 PHP
@@ -4592,7 +4592,7 @@ rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
 Bioinformatics
-Statistics",0,1,1,0
+Statistics",0,1,0,0
 evetion,"python
 julia",,Deltares,git@evetion.nl,"GIS
 HPC
@@ -6509,14 +6509,14 @@ Earth Observation",0,0,0,0
 anpeibooa,Python,C++,Duke University,pa77@duke.edu,Physics simulations and machine learning packages,0,0,0,0
 github.com/FilipeChagasDev,"Python, C, C++",,Federal University of Mato Grosso,filipe.ferraz0@gmail.com,"Artificial Inteligence, Machine Learning, Deep Learning, Electronics, Embedded Systems, Quantum Computing, Operating Systems, Data Science, Audio Processing",0,0,0,0
 PhilipPallmann,"R
-Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics,0,0,0,0
+Shiny",,"Centre for Trials Research, Cardiff University",pallmannp@cardiff.ac.uk,Statistics,1,1,0,0
 CWillberg,"Python Fortran, Matlab,C",,German Aerospace Center,christian.willberg@dlr.de,"Structural Mechanics, Finite Element Method, Material modeling, Peridynamics, Structural Health Monitoring",0,0,0,0
 Rocsg,"Java, Python",,CIRAD,romainfernandez06@gmail.com,Image analysis,0,0,0,0
 NRaillard,R,"Python
 Matlab","IFREMER, France",nicolas.raillard@ifremer.fr,"Statistical modelling
 Meteocean data modelling
 Oceanography
-Renewable energy",0,0,0,0
+Renewable energy",1,1,0,0
 xzyaoi,"Python, Go, Typescript","Javascript, C/C++",ETH Library Lab,xiaozhe.yao@librarylab.ethz.ch,"Machine Learning, AI, MLOps",0,0,0,0
 lepisma,"Python
 JavaScript","C++
@@ -6594,4 +6594,7 @@ Natural Language Processing
 Computational Linguistics",0,0,0,0
 suhang96,python,,Harvard University,shuhanhuang2016@gmail.com,neuroscience; image analysis; sequencing,0,0,0,0
 bilgetutak,python,"Fortran
-MATLAB",Istanbul Technical University,tutak@itu.edu.tr,Oceanography
+MATLAB",Istanbul Technical University,tutak@itu.edu.tr,Oceanography,0,0,0,0
+https://github.com/singhkakan,"Python, R, Shell",C,"University of Southern California, School of Pharmacy",singhkak@usc.edu,"Computational Biology, Genomics, Drug Discovery, Image analysis"
+https://github.com/jinhangjiang,Python,R,Walmart Inc.,jinhang@asu.edu,"Natural Language Processing
+Machine Learning"
