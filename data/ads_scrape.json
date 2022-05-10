@@ -398,7 +398,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -554,7 +554,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -935,7 +935,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1052,7 +1052,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
