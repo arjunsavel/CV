@@ -2914,7 +2914,7 @@ acoustics
 numerical analysis
 machine learning
 data science
-statistics",0,4,1,1
+statistics",0,4,1,0
 1313e,Python,,"Centre for Astrophysics and Supercomputing, Swinburne University of Technology, PO Box 218, Hawthorn, VIC 3122, Australia",ellert_vandervelden@outlook.com,"Bayesian Statistics
 Probability Theory
 High-Performance Computing (OpenMP/MPI)
@@ -3572,7 +3572,7 @@ NLP
 Audio processing",0,1,1,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
-Power systems",0,3,1,1
+Power systems",0,3,1,0
 katmratliff,Python,"Matlab, C",US Environmental Protection Agency,ratliff.katherine@epa.gov,"geomorphology, earth and environmental science, environmental fate and transport",0,2,0,0
 olebole,Python,"Java, C, SPP (IRAF)",Leibniz Institute for Astrophysics Potsdam,ole@aip.de,"Astronomy, Astrophysics",0,1,0,0
 nistara,R,,"University of California, Davis",nrandhawa@ucdavis.edu,"Epidemiology, health/environment related areas, and some data visualization",0,2,0,0
@@ -4287,7 +4287,7 @@ TypeScript","Python
 Go",Convergent Science Inc.,anumolu@uwalumni.com,"Computational Physics
 Scientific Computing
 HPC
-Computer Graphics",0,1,1,1
+Computer Graphics",0,1,1,0
 myxie,"Python, C/C++",Java,University of Western Australia,ryan.bunney@research.uwa.edu.au,"Computer Science, Algorithms, Machine Learning, Optimisation",0,0,0,0
 wcjochem,"R
 Python",,University of Southampton,w.c.jochem@soton.ac.uk,"Spatial data analysis
@@ -5380,7 +5380,7 @@ Machine Learning",0,3,3,1
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
 0xCoto,Python,,"Department of Informatics, University of Piraeus, Greece",0xcoto@protonmail.com,"Radio astronomy, radio communications, software-defined radio (SDR) technologies, antennas",0,0,0,0
 noah80,"C#
-Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Modelling,1,2,1,1
+Python",,Forschungszentrum Jülich,n.pflugradt@fz-juelich.de,Energy System Modelling,1,2,1,0
 lgloege,python,julia,Columbia University,ljg2157@columbia.edu,"earth science, machine learning, data science",0,0,0,0
 cjbarrie,R,Python,University of Edinburgh,christopher.barrie@ed.ac.uk,"Social science
 APIs
@@ -6599,3 +6599,4 @@ singhkakan,"Python, R, Shell",C,"University of Southern California, School of Ph
 jinhangjiang,Python,R,Walmart Inc.,jinhang@asu.edu,"Natural Language Processing
 Machine Learning",0,0,0,0
 hanrui-wang,"python, Matlab",C/C++,Massachusetts Institute of Technology,hanrui@mit.edu,"quantum computing, machine learning, artificial intelligence, computer architecture, digital circuit design"
+Gabrock94,Python,"Javascript, PHP, Java, R",Istituto Italiano di Tecnologia,gack94@gmail.com,"Machine Learning, Physiology, Neuroscience, Statistics"
