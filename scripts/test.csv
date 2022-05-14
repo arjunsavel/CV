@@ -348,7 +348,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",1,11,1,0
+[glad to consider anything and will reply quickly if not qualified]",0,11,2,1
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -584,7 +584,7 @@ JavaScript",Macquarie University,wilfred.gee@students.mq.edu.au,"Astronomy
 Physics
 Web technologies
 Cloud technologies
-Machine learning",1,5,0,0
+Machine learning",0,5,1,1
 wahls,"C
 Matlab",,TU Delft,s.wahls@tudelft.nl,"Signal processing
 Control",0,0,0,0
@@ -6599,8 +6599,8 @@ singhkakan,"Python, R, Shell",C,"University of Southern California, School of Ph
 jinhangjiang,Python,R,Walmart Inc.,jinhang@asu.edu,"Natural Language Processing
 Machine Learning",0,0,0,0
 hanrui-wang,"python, Matlab",C/C++,Massachusetts Institute of Technology,hanrui@mit.edu,"quantum computing, machine learning, artificial intelligence, computer architecture, digital circuit design",0,0,0,0
-Gabrock94,Python,"Javascript, PHP, Java, R",Istituto Italiano di Tecnologia,gack94@gmail.com,"Machine Learning, Physiology, Neuroscience, Statistics"
-cherry6666,"c/c++,python",matlab,13423604849,435058784@qq.com,Speech recognition signal processing Audio processing
+Gabrock94,Python,"Javascript, PHP, Java, R",Istituto Italiano di Tecnologia,gack94@gmail.com,"Machine Learning, Physiology, Neuroscience, Statistics",0,0,0,0
+cherry6666,"c/c++,python",matlab,13423604849,435058784@qq.com,Speech recognition signal processing Audio processing,0,0,0,0
 diegomcarvalho,"C++
 Python
 Julia","C
@@ -6611,4 +6611,9 @@ Machine Learning
 High Performance Computing
 High Throughput Computing
 Production Engineering
-Scientific Workflows"
+Scientific Workflows",0,0,0,0
+@alstat,Julia,"R, Python",Aboitiz Data Innovation PTE. LTD.,alahmadgaid@gmail.com,"Bayesian Statistics, Statistics, Machine Learning"
+VeroniqueLegrand,"C++, python",C,"IT department, Institut Pasteur",veronique.legrand@pasteur.fr,"bioinformatics, HPC"
+hanneoberman,R,,Utrecht University,h.i.oberman@uu.nl,"missing data; 
+other data wrangling stuff; 
+basic stats stuff"
