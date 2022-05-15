@@ -30,7 +30,7 @@ conradsnicta,C++,,,,"machine learning, pattern recognition, computer vision",0,1
 Adrianzo,Python 3,Julia,,,"Variant Calling, Complex Diseases, Rare Variants, Epigenetics",0,0,0,0
 cMadan,MATLAB,Python,,,"psychology, neuroscience",0,2,0,0
 Funnelfiasco,Python,Bash,,,"Linux, CLI tools",0,0,0,0
-mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,1,0
+mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,0,0
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
 ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
@@ -2414,7 +2414,7 @@ Bayesian machine learning
 Financial data science
 Financial machine learning
 Probabilistic programming
-Quantitative finance",0,1,1,0
+Quantitative finance",0,1,0,0
 amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
@@ -4148,7 +4148,7 @@ Computational Chemistry
 Neutron Scattering
 Molecular Dynamics
 Web Applications",1,2,0,0
-williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,1,0
+williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,0,0
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,0,0
 sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,1,1,0
 miketuri,"Perl
@@ -6612,8 +6612,19 @@ High Performance Computing
 High Throughput Computing
 Production Engineering
 Scientific Workflows",0,0,0,0
-@alstat,Julia,"R, Python",Aboitiz Data Innovation PTE. LTD.,alahmadgaid@gmail.com,"Bayesian Statistics, Statistics, Machine Learning"
-VeroniqueLegrand,"C++, python",C,"IT department, Institut Pasteur",veronique.legrand@pasteur.fr,"bioinformatics, HPC"
+alstat,Julia,"R, Python",Aboitiz Data Innovation PTE. LTD.,alahmadgaid@gmail.com,"Bayesian Statistics, Statistics, Machine Learning",0,0,0,0
+VeroniqueLegrand,"C++, python",C,"IT department, Institut Pasteur",veronique.legrand@pasteur.fr,"bioinformatics, HPC",0,0,0,0
 hanneoberman,R,,Utrecht University,h.i.oberman@uu.nl,"missing data; 
 other data wrangling stuff; 
 basic stats stuff"
+https://github.com/Sj-Amani,C++,Python,Robotics Engineer,sajjad.amani@hotmail.com,"Computer Vision, Geophysical monitoring, Seismic methods"
+marshalmiller,"Python
+Flask
+JavaScript","HTML
+CSS
+Markdown",Northampton Community College,marshal@marshalmiller.com,"Link rot
+URLs
+Persistent links
+Education
+Web Apps
+Research"
