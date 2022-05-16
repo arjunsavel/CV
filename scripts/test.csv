@@ -302,7 +302,7 @@ earino,"R, python, Perl, C/++",All honesty,Facebook,earino@gmail.com,"Conflict, 
 andrewheiss,R,Python,Brigham Young University,andrewheiss@gmail.com,Politics,0,5,1,0
 koulvi,R,-,Corporate,vikeshkoul@gmail.com,Economics,0,0,0,0
 mariacuellar,R,,University of Pennsylvania ,maria.cuellar@gmail.com,"Statistics, social science, public policy, biostatistics ",0,0,0,0
-acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",1,8,1,1
+acolum,"R, Python, SQL, MATLAB","Mathematica, LabVIEW","University of California, Irvine",acolumbusonl@gmail.com,"Epidemiology/Biostatistics, Mathematical and Statistical Modelling",1,8,1,0
 paragkulkarni11,"R,Python,Kotlin",Kotlin,ASQ,parag.kulkarni11@gmail.com,"Data Science, Machine Learning, Deep Learning, NLP",0,1,0,0
 GalenStocking,"Python
 R",,Pew Research Center,gstocking@pewresearch.org,"Statistics
@@ -509,8 +509,8 @@ corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epide
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
 Rmadillo,"R, SQL",,Seattle Children's Hospital,dwight.barry@seattlechildrens.org,"Healthcare, medicine, hospital",0,1,0,0
-klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,4,1,1
-acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",1,8,1,1
+klmedeiros,"R, SQL",Python,"Data Scientist, freelance biostats projects + HERE Technologies",kaelenmedeiros@gmail.com,"Biostats, epidemiology, public health (have been published on all 3 topics)",0,4,1,0
+acolum,"R (rstats), Python, MATLAB, Mathematica ",,"University of California, Irvine",acolumbu@uci.edu,"Biostatistics, epidemiology, public health, medicine, biomedical engineering, numerical analysis ",1,8,1,0
 chasemc,R,,University of Illinois at Chicago,cclark42@uic.edu,"Microbiology, biochemistry, analytical chemistry ",0,0,0,0
 barryrowlingson,"R
 Python",unix shell,Lancaster University,b.rowlingson@gmail.com,"epidemiology
@@ -642,7 +642,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,7,2,1
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,7,2,0
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -1692,7 +1692,7 @@ Computational Fluid Dynamics
 Fluid-Structure Interaction
 Structural Dynamics",1,8,1,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
-TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,3,1,1
+TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,3,1,0
 shreyasbapat,"Python
 JavaScript
 Rust
@@ -4678,7 +4678,7 @@ amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learn
 esteinig,"Python
 Rust
 R",,The Peter Doherty Institute for Infection and Immunity,eike.steinig@unimelb.edu.au,"Nanopore, Infectious Diseases, Genomic Epidemiology,  Population Genomics, Phylodynamics",0,1,0,0
-JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",0,1,1,0
+JonnyTran,Python,"Java, JavaScript, R",The University of Texas at Arlington,nhat.tran@uta.edu,"Bioinformatics, Machine Learning",0,1,0,0
 ghislainv,"R
 Python",,"CIRAD, UMR AMAP, Montpellier, FRANCE",ghislain.vieilledent@cirad.fr,"Ecology
 Community ecology
@@ -4844,7 +4844,7 @@ matthewfeickert,"Python
 C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,3,1,1
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
-FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,1,0
+FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,0,0
 pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg.de,Bioinformatics,0,0,0,0
 rafaelab,"C++
 Python","C
@@ -5468,7 +5468,7 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",1,1,0,0
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,2,2,2
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,2,2,1
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
@@ -6616,8 +6616,8 @@ alstat,Julia,"R, Python",Aboitiz Data Innovation PTE. LTD.,alahmadgaid@gmail.com
 VeroniqueLegrand,"C++, python",C,"IT department, Institut Pasteur",veronique.legrand@pasteur.fr,"bioinformatics, HPC",0,0,0,0
 hanneoberman,R,,Utrecht University,h.i.oberman@uu.nl,"missing data; 
 other data wrangling stuff; 
-basic stats stuff"
-https://github.com/Sj-Amani,C++,Python,Robotics Engineer,sajjad.amani@hotmail.com,"Computer Vision, Geophysical monitoring, Seismic methods"
+basic stats stuff",0,0,0,0
+Sj-Amani,C++,Python,Robotics Engineer,sajjad.amani@hotmail.com,"Computer Vision, Geophysical monitoring, Seismic methods",0,0,0,0
 marshalmiller,"Python
 Flask
 JavaScript","HTML
@@ -6628,3 +6628,7 @@ Persistent links
 Education
 Web Apps
 Research"
+simon-lewis,"Python, SQL",,Scion Research (New Zealand Forest Research Institute),simon.lewis@scionresearch.com,"database design, 
+architecture, 
+approach, 
+testing methodology"
