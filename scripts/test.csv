@@ -1283,7 +1283,7 @@ Langevin Dynamics",0,1,0,0
 goerz,"Python
 Fortran",Julia,U.S. Army Research Lab,mail@michaelgoerz.net,"quantum physics
 quantum chemistry
-optimal control",0,2,1,1
+optimal control",0,2,1,0
 utf,Python,,Lawrence Berkeley National Laboratory,alexganose@googlemail.com,"Materials Science
 Computational chemistry
 Chemistry
@@ -1891,7 +1891,7 @@ Sulstice,"Python, Javascript (and a lot of the new front-end endeavors), OpenGl"
 dalonsoa,Python,,Imperial College London,d.alonso-alvarez@imperial.ac.uk,"solar energy
 solar cells
 semiconductors
-physics",0,2,1,1
+physics",0,2,1,0
 cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
@@ -2342,7 +2342,7 @@ Chromatin
 Chromatin modifications
 Histone modification
 Chromatin conformation",0,0,0,0
-andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",1,1,0,0
+andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,andrew.nelson@ansto.gov.au,"Physical chemistry, neutron scattering",2,2,0,0
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,1,1,1
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,3,2,0
@@ -4956,7 +4956,7 @@ felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Le
 jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming",0,0,0,0
 db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves",0,0,0,0
 levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@tamu.edu,"scientific machine learning, deep learning",0,1,1,0
-blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",1,1,0,0
+blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",0,1,1,1
 zoometh,"R
 Python",,ASM-CNRS UMR 5140 Université Montpellier,thomashuet7@gmail.com,"Graph Theory
 Network Analysis",1,2,1,0
@@ -5505,7 +5505,7 @@ Garethwpeters,"R, Python",R,University of California Santa Barbara,garethpeters@
 hannesUlrich,"Java
 Python",,Research Associate,h.ulrich@uni-luebeck.de,"Medical Informatics
 FHIR",0,0,0,0
-obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",0,1,1,1
+obliviateandsurrender,"Python, C, C++",Julia,"International Insitute of Information Technology, Hyderabad",utkarshazad98@gmail.com,"Quantum Computing, Computational Natural Sciences",0,1,1,0
 weiji14,Python,,Antarctic Research Centre,weiji.leong@outlook.com,Geosciences,0,0,0,0
 TahiriNadia,"Python, C/C++, Java, R, html","Matlab, javascript",Université de Sherbrooke,Nadia.Tahiri@USherbrooke.ca,"Bioinformatics, Machine Learning, Classification, Clustering, Risk Assessment, Public Health",2,2,0,0
 MikeTrizna,Python,,Smithsonian Institution,triznam@si.edu,"Bioinformatics, Data Science, Biodiversity Informatics",0,0,0,0
@@ -6627,8 +6627,13 @@ URLs
 Persistent links
 Education
 Web Apps
-Research"
+Research",0,0,0,0
 simon-lewis,"Python, SQL",,Scion Research (New Zealand Forest Research Institute),simon.lewis@scionresearch.com,"database design, 
 architecture, 
 approach, 
 testing methodology"
+@mukeshdroid,"python
+c++
+c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
+Physics"
+hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging"
