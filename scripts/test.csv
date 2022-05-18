@@ -3857,7 +3857,7 @@ justusschock,"Python, Matlab, C++",,"University Hospital Düsseldorf, RWTH Aache
 Arfon,None,None,Arfon Inc.,arfon@test.com,None,0,0,0,0
 mikapfl,Python,C/C++,Potsdam Institute for Climate Impact Research,mika.pflueger@fu-berlin.de,"Climate Policy Analysis
 X-Ray Scattering",0,2,1,0
-marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,2,1,1
+marwahaha,"python, javascript/react/typescript",R,,marwahaha@berkeley.edu,"quantum information, some math and physics",0,2,1,0
 mattkram,Python,"C++, Fortran",,matthew.robert.kramer@gmail.com,"Hydrodynamics, fluid mechanics, fluid-structure interaction, time series analysis",0,0,0,0
 regivm,python,sas,,regivm@yahoo.com,"Analytics, Machine Learning",0,0,0,0
 myxie,"Python
@@ -4514,7 +4514,7 @@ Machine Vision Algorithms
 AI Embedded Computing
 SAT solvers
 Sensor Fusion Algorithms
-Digital Signal Processing",0,1,1,1
+Digital Signal Processing",0,1,1,0
 praveenkumarpgiindia,"Python
 R
 Unix","Python
@@ -6631,9 +6631,15 @@ Research",0,0,0,0
 simon-lewis,"Python, SQL",,Scion Research (New Zealand Forest Research Institute),simon.lewis@scionresearch.com,"database design, 
 architecture, 
 approach, 
-testing methodology"
-@mukeshdroid,"python
+testing methodology",0,0,0,0
+mukeshdroid,"python
 c++
 c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
-Physics"
+Physics",0,0,0,0
 hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging"
+sanjayankur31,"Python
+C/C++
+Bash
+LaTeX
+Javascript/Typescript",,"University College London, Fedora project",ankursinha@fedoraproject.org,"Neuroscience
+Computational Modelling"
