@@ -40,7 +40,7 @@ arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,
 fgnievinski,"matlab, octave",,,,geosciences,0,0,0,0
 richardlitt,javascript,python,,,"linguistics, computer science, computational linguistics, data science, natural language processing",0,0,0,0
 nuest,"R, Java, JavaScript",,,,"geoinformatics, giscience, gis, geospatial data science, reproducible research",0,2,0,0
-benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,1,0
+benmarwick,R,,,,"archaeology, social science, geoscience, humanities, reproducibility",0,7,0,0
 moorepants,Python,"Matlab, R",,,"mechanical engineering, optimal control, biomechanics, multibody dynamics, symbolic algebra",0,2,0,0
 jjatria,"Perl, Praat","Matlab, R, Perl6",,,Phonetics and speech sciences; digital signal processing,0,0,0,0
 dvalters,"C++, Fortran, Python",C,,,"parallel programming, hpc, OpenMP, meteorology, geoscience, environmental science, hydrology",0,8,0,0
@@ -655,7 +655,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",0,5,1,0
+Solar",0,5,0,0
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,0,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -5483,7 +5483,7 @@ C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@
 Neuroscience
 Machine Learning",0,3,2,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,1
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,2
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,1
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
 Ahm-hussein,"Python, R",,Rochester institute of technology,ahm6644@rit.edu,"Machine learning, Data science",0,0,0,0
@@ -5767,7 +5767,7 @@ Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interact
 Driver modelling
 Robotics",0,1,1,0
 KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,1,0
-fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,0,2,2,1
+fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,0,2,2,0
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing",0,0,0,0
 tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@gmail.com,"LIDAR, Point clouds, glacier, ice, snow",0,0,0,0
 allenzhuaz/,"R
@@ -5885,7 +5885,7 @@ fernandomayer,R,,Federal University of Paraná,fernandomayer@gmail.com,"Statisti
 Computational Statistics
 Bayesian Statistics
 Spatial Statistics
-R packages",0,2,2,2
+R packages",0,2,2,1
 Alisyaifudin/alisyaifudin.github.io,Python,JavaScript,ITB,muhammad.ali.syaifudin@hotmail.com,Astrophysics,0,0,0,0
 mps9506,R,,Texas A&M AgriLife Research,michael.schramm@ag.tamu.edu,"Environmental Science
 Water Quality",0,0,0,0
@@ -6636,10 +6636,15 @@ mukeshdroid,"python
 c++
 c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
 Physics",0,0,0,0
-hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging"
+hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging",0,0,0,0
 sanjayankur31,"Python
 C/C++
 Bash
 LaTeX
 Javascript/Typescript",,"University College London, Fedora project",ankursinha@fedoraproject.org,"Neuroscience
 Computational Modelling"
+None,Python,C,Associate Professor,a.kumar@ictmumbai.edu.in,Computational Mathematics
+trygvrad,Python,,Technical University of Denmark,tmara@dtu.dk,"Material science, X-ray science"
+yuxuanzhuang,Python,,Stockholm University,yuxuan.zhuang@dbb.su.se,"biophysics, biochemistry, bioinformatics, computational chemistry"
+VHchavez,Python,,Purdue University,gonza445@purdue.edu,"computational chemistry
+density functional theory"
