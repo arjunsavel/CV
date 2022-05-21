@@ -413,7 +413,7 @@ Geobiology
 Biogeochemistry",1,4,1,0
 tgerke,R,SAS,Moffitt Cancer Center,travis.gerke@moffitt.org,"Epidemiology
 Biostatistics
-Cancer research applications",0,4,1,0
+Cancer research applications",0,4,0,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,0,0
 dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,1,1,0
 cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,0
@@ -504,7 +504,7 @@ Statistical Computing",0,1,0,0
 borishejblum,R,,Université de Bordeaux,boris.hejblum@u-bordeaux.fr,"Biostatistics
 Bioinformatics
 Epidemiology
-Public Health",0,2,1,0
+Public Health",0,2,0,0
 corinne-riddell ,"R, Stata ",,McGill University,corinne.riddell@gmail.com,"Epidemiology, public health",0,0,0,0
 jenniferthompson,R,,Vanderbilt University Medical Center,thompson.jennifer@gmail.com,"Biostatistics, public health",0,1,0,0
 Jminnier,R,"Python, SAS",Oregon Health & Science University,minnier@ohsu.edu,"Biostatistics, health and medicine, bioinformatics",0,0,0,0
@@ -1075,7 +1075,7 @@ HPC
 Web Platforms
 Finite Element Methods
 Optimization
-Computer Geometry",1,13,2,0
+Computer Geometry",1,13,1,0
 ajmalkoti, MATLAB,"C, FORTRAN, PYTHON",CSIR-National Geophysical Research Institute,ajmalkoti@gmail.com,"Earth Science, Geophysics, Seismic wave propagation",0,0,0,0
 dghoshal-lbl,"Python
 C
@@ -2289,7 +2289,7 @@ Python
 Verilog
 Bluespec Verilog",,BITS Pilani,f20160378@goa.bits-pilani.ac.in,Computer Architecture,0,0,0,0
 caldarolamartin,Python,Matlab,Kavli Institute of Nanosciecnce Delft,m.caldarola@tudelft.nl,"Physics, Instrumentation, Optics, Microscopy",0,1,0,0
-dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",0,1,0,0
+dlebauer,R,Python,University of Arizona,dlebauer@arizona.edu,"Ecology, Agriculture, Remote Sensing",1,2,0,0
 markhwhiteii,R,,Independent Researcher,markhwhiteii@gmail.com,"Statistics for Psychological and Social Sciences
 Data Visualization
 Data Cleaning",0,2,0,0
@@ -2467,7 +2467,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",0,4,2,0
+visualisation",1,5,2,0
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,0,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -4360,7 +4360,7 @@ geometric data analysis
 unsupervised machine learning
 dimensionality reduction",0,1,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
-ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,1,0
+ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
 Finite volume methods
 Finite difference methods
@@ -6129,7 +6129,7 @@ vinisalazar,Python,R,University of Melbourne,vwsalazar@student.unimelb.edu.au,"b
 metagenomics
 microbiome science
 microbial genomics",0,0,0,0
-jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",1,1,0,0
+jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",2,2,0,0
 Bugs and guidiance,English,Anything,Stepping stone to education,squesnel055@gmail.com,Yes,0,0,0,0
 JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu,"Robotics, Controls, Dynamics, Kalman Filtering",0,0,0,0
 farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"Bioengineering, Biological Data Science, Machine Learning in Biology",0,0,0,0
@@ -6647,6 +6647,6 @@ None,Python,C,Associate Professor,a.kumar@ictmumbai.edu.in,Computational Mathema
 trygvrad,Python,,Technical University of Denmark,tmara@dtu.dk,"Material science, X-ray science",0,0,0,0
 yuxuanzhuang,Python,,Stockholm University,yuxuan.zhuang@dbb.su.se,"biophysics, biochemistry, bioinformatics, computational chemistry",0,0,0,0
 VHchavez,Python,,Purdue University,gonza445@purdue.edu,"computational chemistry
-density functional theory"
-SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization"
+density functional theory",0,0,0,0
+SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization",0,0,0,0
 flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility"
