@@ -542,7 +542,7 @@ darrendahly,R,,University College Cork,ddahly@ucc.ie,"Biostats
 Epidemiology",0,0,0,0
 dhaine,R,Stata,Freelance consultant,denis.haine@gmail.com,Epidemiology,0,0,0,0
 tomfaulkenberry,R,Python,Tarleton State University,faulkenberry@tarleton.edu,"Psychology
-Biostatistics",0,6,1,0
+Biostatistics",0,6,0,0
 joongsup,R,,AT&T,jaylee@att.com,"Statistical process control, R work flow with other big data tools",0,0,0,0
 Gweissman,"R, Python",,"Perelman School of Medicine, University of Pennsylvania",gary.weissman@uphs.upenn.edu,"Medicine, clinical informatics, predictive models, NLP",0,0,0,0
 Suresh-lab,"R, C++, Matlab, C","Python, Perl, Java ",Johns Hopkins University ,ksuresh2@jhmi.edu,"Medicine, especially processing of microscopic images, analysis of sequencing data, statistical modeling",0,0,0,0
@@ -1934,7 +1934,7 @@ Python
 R","JavaScript
 TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
-nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,1,0
+nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,0,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,3,0
 standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,4,2,1
 nniiicc,"R
@@ -2587,7 +2587,7 @@ Machine learning",0,0,0,0
 danieledipompeo,Java,"Python, Elixir",University of L'Aquila,Daniele.dipompeo@univaq.it,"Performance, Model-Driven Engineering, software refactoring",0,1,0,0
 markziemann,"R
 Shell/Bash",,Deakin University,m.ziemann@deakin.edu.au,"Genomics
-Document analysis",0,0,0,0
+Document analysis",1,1,0,0
 GerJuli,"Python
 PHP",R,Neuroscience/biomedical engineering,julian-samuel@gebuehr.net,"Web platforms
 EEG+EMG analysis
@@ -4090,7 +4090,7 @@ billchenxi,"Python, R, C++",JavaScript,,billchenxi@uky.edu,"Machine Learning, De
 OmarShehata,"JavaScript, Python","R, C, C++, Julia, GLSL/HLSL/CUDA",,omar.sameh.shehat@gmail.com,"Statistics, geological modelling, climate modelling, mathematics",0,0,0,0
 markziemann,"R
 bash",,,mark.ziemann@gmail.com,"Genomics
-Bioinformatics",0,0,0,0
+Bioinformatics",1,1,0,0
 DanielMyshkin,"Python, Kotlin, Go",Java,,danmyshkin@gmail.com,"Math, Computer Science",0,0,0,0
 none,"fortran,sqlite,gawk,python,R,vb.net",c (but in previus answer only knows well the three first),,juragaro@gmail.com,"numeric packages, fluid structure interaction",0,0,0,0
 yangkcatiu,Python,,,yangkc@iu.edu,"Network science
@@ -4114,7 +4114,7 @@ Behavioural Science
 Mental Fatigue
 Computational Models
 Research Methods
-Organisational Psychology",1,2,1,0
+Organisational Psychology",1,2,0,0
 TomKellyGenetics,"R
 Python
 Bash
@@ -4981,7 +4981,7 @@ myxie,Python,"C/C++, Java",University of Western Australia,ryan.bunney@research.
 BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Computational biology and bioinformatics,1,1,0,0
 pzarabadip,Python,,Research Associate - University of Bath,pzp22@bath.ac.uk,"Chemistry
 Physical Chemistry
-Molecular Simulation",0,1,1,0
+Molecular Simulation",0,1,0,0
 maximtrp,"Python
 R
 Golang
@@ -6350,7 +6350,7 @@ Python",,Sage Bionetworks,jineta.banerjee@sagebionetworks.org,"Bioinformatics
 Genomics
 Transcriptomics
 Rare Diseases
-Machine learning in biology",0,0,0,0
+Machine learning in biology",1,1,0,0
 DanielRivasMD,"Julia
 Rust
 Go
@@ -6650,3 +6650,4 @@ VHchavez,Python,,Purdue University,gonza445@purdue.edu,"computational chemistry
 density functional theory",0,0,0,0
 SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization",0,0,0,0
 flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility"
+VenkteshV,"python,scala,java",javascript,Indraprastha Institute of Information technology,venkkratos@gmail.com,"education, Artificial Intelligence, NLP, CV"
