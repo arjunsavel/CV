@@ -1769,7 +1769,7 @@ junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",0,1,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",0,1,0,0
-EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,3,2,1
+EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,3,2,0
 streeve,"Python
 C++","Matlab
 C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,0,0
@@ -4657,7 +4657,7 @@ Thermodynamics
 Heat Transfer
 Fuel Cells
 Batteries
-Combustion",0,3,3,2
+Combustion",0,3,3,1
 csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision",0,0,0,0
 jifarquharson,"Python
 G (LabVIEW)
@@ -6649,5 +6649,13 @@ yuxuanzhuang,Python,,Stockholm University,yuxuan.zhuang@dbb.su.se,"biophysics, b
 VHchavez,Python,,Purdue University,gonza445@purdue.edu,"computational chemistry
 density functional theory",0,0,0,0
 SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization",0,0,0,0
-flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility"
-VenkteshV,"python,scala,java",javascript,Indraprastha Institute of Information technology,venkkratos@gmail.com,"education, Artificial Intelligence, NLP, CV"
+flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility",0,0,0,0
+VenkteshV,"python,scala,java",javascript,Indraprastha Institute of Information technology,venkkratos@gmail.com,"education, Artificial Intelligence, NLP, CV",0,0,0,0
+vwxyzjn,python,,Drexel University,costa.huang@outlook.com,Reinforcement Learning
+VenkteshV,"Python
+Java
+Javascript",Scala,Indraprastha Institute of Information technology,venkteshv@iiitd.ac.in,"Natural Language Processing
+Optimization
+Microservices
+Topics"
+adam2392,Python,"C++, Cython",Columbia University,adam2392@gmail.com,"causal inference, machine learning, neuroscience, epilepsy, structure learning"
