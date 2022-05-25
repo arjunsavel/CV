@@ -427,7 +427,7 @@ Elm
 Rust
 C#","Institute of Microbiology, Czech Academy of Sciences",martin.modrak@biomed.cas.cz,"Bioinformatics
 Gene regulation
-Computer Games AI",1,3,2,0
+Computer Games AI",0,3,2,0
 CameronDevine,Python,"Matlab
 C++
 Javascript",University Of Washington,camdev@uw.edu,"Robotics
@@ -1587,7 +1587,7 @@ Particle methods",0,4,0,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,0,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,4,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,3,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -1848,7 +1848,7 @@ Python
 C
 Pascal",C++,University of Bristol,david.barton@bristol.ac.uk,"Applied mathematics
 Dynamical systems
-Differential equations",0,4,1,0
+Differential equations",1,5,1,0
 javalosp,Python,Fortran,"Department of Earth Science and Engineering, Imperial College London",jea4117@ic.ac.uk,"Numerical modelling
 CFD",0,0,0,0
 MatthewFlamm,Python,"MATLAB
@@ -1897,7 +1897,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,4,0
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",0,9,3,0
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2378,7 +2378,7 @@ Stan","Javascript, Elm, HTML, CSS
 OpenCL
 C#",Institute of Microbiology of the Czech Academy of Sciences,martin.modrak@biomed.cas.cz,"Bioinformatics
 Statistical modelling, Bayesian statistics
-Computer Games AI",1,3,2,0
+Computer Games AI",0,3,2,0
 protik77/,Python,"C++
 Powershell",KLA Corp.,protik77@gmail.com,Material Science,0,0,0,0
 nemobis,"Python, PHP, XSLT
@@ -3510,7 +3510,7 @@ bash
 Objective-C",Python,UFRGS,schnorr@inf.ufrgs.br,"High Performance Computing
 Performance Analysis
 Design of experiments
-Load balancing",0,1,1,0
+Load balancing",0,1,0,0
 iliarasskazov,MATLAB,Fortran,"The Institute of Optics, University of Rochester, USA",il.rasskazov@gmail.com,"Optics
 Photonics
 Light scattering
@@ -3758,7 +3758,7 @@ keurfonluu,Python,Fortran,Berkeley Lab,keurfonluu@outlook.com,Geophysics,0,0,0,0
 marcjwilliams1,"R
 julia",python,Memorial Sloan Kettering Cancer Center,marcjwilliams1@gmail.com,"Bioinformatics
 Computational Biology
-Bayesian Inference",1,2,0,0
+Bayesian Inference",0,2,0,0
 ldominguezruben,Python,Matlab,Universidad Nacional del Litoral,ldominguez@fich.unl.edu.ar,"Hydraulics, earth landforms and processes, geomorphology",0,0,0,0
 bastinrobin,Python,Go,CleverInsight,bastinrobins@gmail.com,Data Science,0,0,0,0
 Athanasiamo,"R
@@ -3828,7 +3828,7 @@ Optical Spectroscopy
 Single-molecule
 Modeling",0,1,1,1
 akbaritabar,"R
-Python",,DZHW,akbaritabar@gmail.com,"Computational Social Science, Network analysis, Sociology",1,1,0,0
+Python",,DZHW,akbaritabar@gmail.com,"Computational Social Science, Network analysis, Sociology",0,1,0,0
 xywei,"Python
 C++",Matlab,University of Illinois at Urbana-Champaign,xywei@illinois.edu,"Numerical Analysis
 Scientific Computing",0,0,0,0
@@ -4841,7 +4841,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,3,1,1
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,3,1,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,0,0
@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,0
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,3,2,0
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",2,4,2,0
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -6029,7 +6029,7 @@ Python","Julia
 C#",Reduct Nepal,diwash.shrestha@outlook.com,"Data Science
 Data Analysis
 Data Engineering",0,0,0,0
-altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture.",0,1,1,1
+altavir,"Kotlin, Java, Groovy","Scala, Julia, Python","MIPT, JetBrains Research",altavir@gmail.com,"Particle physics,  Simulation, Visualization,  Infrostructure and Big Data, SCADA, Software architecture.",0,1,1,0
 joenio,"Perl, Javascript, Ruby, Shellscript","Python, PHP, SQL, C, C++, Java",Universite Gustave Eiffel,joenio@joenio.me,"Static analysis, software metrics, data sonification, data visualization.",0,0,0,0
 fepegar,Python,MATLAB,University College London,fepegar@gmail.com,"Medical image computing, computer vision, deep learning",0,0,0,0
 OsAmaro,"Python, C, C++",,"Instituto Superior Técnico, University of Lisbon, Portugal",oscar.amaro@tecnico.ulisboa.pt,"Physics, Plasma, QED, laser, stochastic dynamics",0,0,0,0
