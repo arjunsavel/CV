@@ -931,7 +931,7 @@ Machine learning
 Cancer research",1,4,0,0
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
-joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,3,0,0
+joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,1,4,0,0
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
 arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,0,0
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
@@ -1626,7 +1626,7 @@ R",Indian Institute of Technology Kanpur,avik.pal.2017@gmail.com,"Computer Visio
 Differentiable Programming",0,0,0,0
 EnigMATHic,"Python
 Matlab",,Victoria University,elizabethmcc@gmail.com,,0,0,0,0
-gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,0,0,0,0
+gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,1,1,0,0
 holtgrewe,"Python
 C/C++
 Bash
@@ -3783,7 +3783,7 @@ Scientific Computation",0,0,0,0
 jaeyk,R,Python,"University of California, Berkeley",jaeyeonkim@berkeley.edu,"programs for data wrangling, visualization, modeling, text analysis, and machine learning",0,1,0,0
 marda-science and dbuscombe-usgs,python,"cython, bash","Marda Science, LLC and Northern Arizona University",daniel@mardascience.com,"geomorphology, remote sensing, hydrology, oceanography, machine learning, deep learning",0,0,0,0
 zhang01GA,Python,,Geoscience Australia,fei.zhang@ga.gov.au,"geoscience, geophysics,seismology, data science",0,0,0,0
-daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",0,2,0,0
+daviddewhurst,"Python, R, C, MATLAB","Julia, Scala, Clojure",University of Vermont,drd@davidrushingdewhurst.com,"Computational finance / econ, statistical physics, time series analysis, Bayesian statistics, signal processing",1,3,0,0
 lachlangrose,"python
 c++",n/a,Monash University,lachlan.grose@monash.edu,Geoscience,0,1,0,0
 skradha26,"c++, java, javascript",,University of Notre Dame,sradha@nd.edu,"decentralized identities, blockchain",0,0,0,0
@@ -3884,7 +3884,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,1,1,0
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,2,1,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,0
 mturiansky,"Python
 Fortran
@@ -6658,4 +6658,9 @@ Javascript",Scala,Indraprastha Institute of Information technology,venkteshv@iii
 Optimization
 Microservices
 Topics",0,0,0,0
-adam2392,Python,"C++, Cython",Columbia University,adam2392@gmail.com,"causal inference, machine learning, neuroscience, epilepsy, structure learning"
+adam2392,Python,"C++, Cython",Columbia University,adam2392@gmail.com,"causal inference, machine learning, neuroscience, epilepsy, structure learning",0,0,0,0
+Ansh-Sarkar,Python,"C++
+C
+Solidity
+Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics"
+nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing"
