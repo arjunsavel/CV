@@ -22,7 +22,7 @@ xuanxu,Ruby,"Python, R, Scala",,,"Astronomy, Algorithms, Physics, Math, Genetics
 jkahn,Python,Java,,,"Data science, natural language processing, machine learning, algorithm libraries, ""big data"", computational linguistics, computational biology",0,2,0,0
 pragyansmita,"C++, Java, R, Python, Perl","JavaScript, Scala",,,"Computer Science, Computational Science and Engineering & High-performance Computing, Astronomy and Machine Learning",0,1,0,0
 masalmon,R,,,,"epidemiology, statistics/data science",0,3,0,0
-Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",2,9,0,0
+Kevin-Mattheus-Moerman,MATLAB,"Octave, SciLab",,,"Mechanical engineering, biomechanics, bioengineering, image processing",1,9,1,1
 ctb,Python,C/C++,,,"bioinformatics, genomics, infrastructure, testing",0,3,0,0
 rmflight,R,Python,,,Bioinformatics,0,3,1,0
 luizirber,Python,"C, C++, Javascript, Bash",,,Bioinformatics,0,13,0,0
@@ -1094,7 +1094,7 @@ whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
 Geomechanics",0,0,0,0
 kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,4,1,1
-myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",1,5,1,0
+myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",0,5,2,1
 ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",0,4,2,0
 johnsamuelwrites,"C
 Python
@@ -1682,7 +1682,7 @@ Ruby
 C/C++
 bash",Concordia University,tristan.glatard@concordia.caC,"Distributed systems
 Medical imaging
-Big Data",1,1,0,0
+Big Data",0,1,1,1
 ellessenne,R,,University of Leicester,ellessenne@gmail.com,"Epidemiology, Biostatistics",1,2,0,0
 sbrugman,Python,"Java, C#, C++, PHP, Javascript (incl. angular, node etc.)",Radboud University,sfbbrugman@gmail.com,"Machine Learning, Data Science, Computer Vision, Natural Language Processing",0,1,0,0
 chennachaos,"C++
@@ -1785,7 +1785,7 @@ Ruby",Federal University of Santa Maria,jvlima@inf.ufsm.br,"High performance
 Networking
 Distributed Computing",0,0,0,0
 jramirezcr,"Fortran, C++, CUDA",Python,,ingenmec.jrc@gmail.com,Computational Fluid Dynamics,0,0,0,0
-mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",1,2,0,0
+mwegrzyn,Python,,"Bielefeld University, Germany",martin.wegrzyn@uni-bielefeld.de,"Neuroimaging, functional MRI",0,2,1,1
 hertzsprung,"Python, C++, Fortran","C, Java",The University of Sheffield,js102@zepler.net,"Meteorology, Computational hydraulics, GIS",0,1,0,0
 daniellivingston,"Python
 Fortran
@@ -2094,7 +2094,7 @@ Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
 Phylogenetics",1,1,0,0
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
-njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,1,0
+njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,0,0
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
@@ -2126,7 +2126,7 @@ Network science",0,1,1,0
 mcsitter,Python,,University of Cologne,msitter@smail.uni-koeln.de,,0,0,0,0
 joaorodrigues,"Python
 BASH
-HTML",,Stanford University,joaor@stanford.edu,"Structural Biology, Protein Docking, Molecular Modeling, Molecular Dynamics Simulation",1,1,0,0
+HTML",,Stanford University,joaor@stanford.edu,"Structural Biology, Protein Docking, Molecular Modeling, Molecular Dynamics Simulation",0,1,1,1
 davidbeckingsale,C++,"C
 Fortran
 Python",Lawrence Livermore National Laboratory,beckingsale1@llnl.gov,"Parallel programming models
@@ -4107,7 +4107,7 @@ Brain-Computer-Interface
 Brain Stimulation",0,1,0,0
 julianpistorius,"Python, Elm, Shell",,,julianp@arizona.edu,"Pipelines, workflows, web services, scripts, containers, automation, infrastructure",0,0,0,0
 marvinjonathcn,R and Python,"Javascript, HTML",,marvinjqs@gmail.com,"Environmental data science, climate modeling, 
-pest modeling",1,2,0,0
+pest modeling",0,2,1,1
 humanfactors,R,Python,,michael.d.wilson@curtin.edu.au,"Cognitive Psychology
 Human Factors
 Behavioural Science
@@ -4185,7 +4185,7 @@ C++
 C","MySQL
 JAVA","Birla Institute of Technology and Science Pilani, K. K. Birla Goa Campus",divhet163@gmail.com,"Deep Learning
 Machine Learning
-Data Science",2,3,1,0
+Data Science",1,3,2,1
 Rlucas7,Python C C++ JavaScript Scala R,,Amazon,rlucas7@vt.edu,Statistics Optimization and Machine Learning,0,0,0,0
 ajquinn,"Python, Matlab","Bash/Shell, R, JavaScript",University of Oxford,andrew.quinn@psych.ox.ac.uk,"Electrophysiology methods (MEG/EEG etc), Frequency analysis, Time-series analysis, Oscillations, Linear & Nonlinear dynamical systems",0,0,0,0
 TLCFEM,C++,"C
@@ -4551,7 +4551,7 @@ Het-Shah,"Python
 C++
 C",JAVA,"BITS Pilani, K. K. Birla Goa Campus",divhet163@gmail.com,"Machine Learning
 Deep Learning 
-Computer Vision",2,3,1,0
+Computer Vision",1,3,2,1
 lutzhamel,"C
 Python
 R
@@ -4874,7 +4874,7 @@ Medical Imaging",0,1,1,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,1
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,3,1,0
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,3,2,1
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -6476,7 +6476,7 @@ Artificial intelligence",1,1,0,0
 FlyingPumba,"Android, Java, TypeScript, SQL, Python, Javascript, LaTEX, Bash","Kotlin, R","FCEyN-UBA/ICC-CONICET, Argentina",iarcuschin@gmail.com,"Android, Testing, Automatic Test Generation, Search-Based Algorithms, Evolutive Algorithms, Genetic Algorithms, Empirical Studies, Search-Based Software Engineering, Software Engineering",0,0,0,0
 Quantumstud,"Python, Matlab",C++,National University of Singapore,tara@u.nus.edu,Materials Science,0,0,0,0
 dsaf,python,rust,dsafdsf,dsafdsf@fsdf.com,,0,0,0,0
-erasmuss,Python,Juypter Notebook,National Institute of Standards and Technology,elizabeth.rasmussen@nist.gov,"Raman Spectroscopy, Thermodynamics, Material Synthesis, Heat Transfer, CFD, Fluid Dynamics, Mechanical Engineering",0,0,0,0
+erasmuss,Python,Juypter Notebook,National Institute of Standards and Technology,elizabeth.rasmussen@nist.gov,"Raman Spectroscopy, Thermodynamics, Material Synthesis, Heat Transfer, CFD, Fluid Dynamics, Mechanical Engineering",1,1,0,0
 po60nani,Python,Matlab,"Max Planck Institute for the Science of Light, 91058 Erlangen, Germany.",Houman.mirzaalian@fau.de,"Computer vision, ML, AI",0,0,0,0
 victorapm,"C, C++, Fortran, Python.",,Lawrence Livermore National Laboratory,paludettomag1@llnl.gov,"Linear solvers, math libraries, high performance computing, finite element methods, finite volume methods, finite difference methods.",1,1,0,0
 mhucka,Python,"sh/bash
@@ -6662,5 +6662,6 @@ adam2392,Python,"C++, Cython",Columbia University,adam2392@gmail.com,"causal inf
 Ansh-Sarkar,Python,"C++
 C
 Solidity
-Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics"
+Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics",0,0,0,0
 nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing"
+storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics"
