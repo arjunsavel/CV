@@ -2247,7 +2247,7 @@ muscle physiology
 biomechanics
 evolution
 phylogenetics
-phylogenetic comparative methods",0,1,0,0
+phylogenetic comparative methods",1,2,0,0
 Ohjeah,Python,Python,Ambrosys GmbH,markus.quade@gmail.com,"Machine Learning, Symbolic Regression, Physics",0,1,0,0
 mahmoudibrahim,"R
 Java","Bash
@@ -6665,5 +6665,15 @@ Solidity
 Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics",0,0,0,0
 nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing",0,0,0,0
 storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",0,0,0,0
-mhu48,R,Python,"University of California, Santa Barbara",mingzhaohu@ucsb.edu,"Survival analysis, longitudinal data analysis, mixed models, functional data analysis, state space models, dynamic models,"
+mhu48,R,Python,"University of California, Santa Barbara",mingzhaohu@ucsb.edu,"Survival analysis, longitudinal data analysis, mixed models, functional data analysis, state space models, dynamic models,",0,0,0,0
 tets,fortran,,test,test@example.org,"tests, testing,"
+elauksap,"C++
+C
+Bash
+Octave
+Matlab","Python
+R",MOX - Department of Mathematics - Politecnico di Milano,pasqualeclaudio.africa@polimi.it,"Numerical analysis
+Mathematical modeling
+HPC
+High Performance Computing"
+vferat,Python,,UNIGE,victor.ferat@live.fr,Neurosciences
