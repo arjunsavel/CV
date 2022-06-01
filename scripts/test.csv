@@ -2098,7 +2098,7 @@ njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
-Acquisition and reconstruction methods",1,1,0,0
+Acquisition and reconstruction methods",0,1,1,1
 dilawar,"Python
 C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,2,3,1,0
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
@@ -3838,7 +3838,7 @@ berenger-eu,C++,C,Inria,berenger.bramas@inria.fr,"HPC
 parallelization
 vectorization
 GPU
-FMM",0,1,1,0
+FMM",0,1,0,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,1,1,0
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,1,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
@@ -4381,7 +4381,7 @@ Distributed Systems
 Multi-threaded Programming
 Computer Networks
 Linux Kernel",0,0,0,0
-NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,1,0
+NMontanaBrown,"Python, Tensorflow, MATLAB",,University College London,nina.brown.15@ucl.ac.uk,"Machine Learning, Deep Learning, Image Registration, Computer Assisted Interventions, Biomedical Imaging, Medical Image Analysis, Medical Image Computing",0,2,0,0
 AngryMaciek,Python,"R
 C++","University of Basel, Swiss Institute of Bioinformatics, Switzerland",wsciekly.maciek@gmail.com,"RNA biology
 Statistical modeling
@@ -5202,7 +5202,7 @@ Macromolecular docking
 Molecular dynamics
 Computational biology
 Structural Biology
-Bioinformatics",1,2,1,1
+Bioinformatics",0,2,2,2
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
@@ -6666,7 +6666,7 @@ Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gma
 nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing",0,0,0,0
 storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",0,0,0,0
 mhu48,R,Python,"University of California, Santa Barbara",mingzhaohu@ucsb.edu,"Survival analysis, longitudinal data analysis, mixed models, functional data analysis, state space models, dynamic models,",0,0,0,0
-tets,fortran,,test,test@example.org,"tests, testing,"
+tets,fortran,,test,test@example.org,"tests, testing,",0,0,0,0
 elauksap,"C++
 C
 Bash
@@ -6675,5 +6675,10 @@ Matlab","Python
 R",MOX - Department of Mathematics - Politecnico di Milano,pasqualeclaudio.africa@polimi.it,"Numerical analysis
 Mathematical modeling
 HPC
-High Performance Computing"
+High Performance Computing",0,0,0,0
 vferat,Python,,UNIGE,victor.ferat@live.fr,Neurosciences
+navdeep-G,"Python, R, Java","C, C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, Statistics"
+tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, materials, mathematics"
+Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Gaussian processes
+Bayesian Statistics"
+thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth science, model evaluation, likelihood, Bayesian"
