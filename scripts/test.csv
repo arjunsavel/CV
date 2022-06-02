@@ -33,7 +33,7 @@ Funnelfiasco,Python,Bash,,,"Linux, CLI tools",0,0,0,0
 mosteo,Ada,"Java, Matlab, Python, Pascal, Bash, C, C++",,,"Robotics, Planning, Distributed algorithms",0,1,0,0
 vchuravy,Julia,,,,"Machine Learning, Computer Vision, Artificial Intelligence, Bioinformatics",0,3,0,0
 nirum,Python,"Matlab, Julia",,,"Neuroscience, Machine Learning, Biomedical Engineering",0,3,0,0
-ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",0,6,0,0
+ahwillia,Julia,"Matlab, Python",,,"Neuroscience, Statistics, Machine Learning",1,7,0,0
 kyleniemeyer,"Python, Fortran","Matlab, C, C++",,,"combustion, chemical kinetics, fluid dynamics, mechanical engineering",0,10,1,1
 pboesu,R,"Matlab, simple C/C++/Rcpp",,,"ecology, oceanography, statistics, MCMC",0,2,0,0
 arokem,Python,Matlab,,,"neuroscience, machine learning, data visualisation",0,3,0,0
@@ -2513,7 +2513,7 @@ MATLAB",,None,tobias@ulvgard.se,"Machine Learning
 Signal processing
 Linear algebra
 Optimization",0,0,0,0
-AtrCheema,Python,I prefer only python,Ulsan national institute of science and technology,ather_abbas786@yahoo.com,"Hydrology, water quality and quantity modeling",1,1,0,0
+AtrCheema,Python,I prefer only python,Ulsan national institute of science and technology,ather_abbas786@yahoo.com,"Hydrology, water quality and quantity modeling",0,1,1,1
 agricolab,"Python
 Matlab","C
 Julia","Translational Neurosurgery, University Hospital Tübingen",robert.guggenberger@uni-tuebingen.de,"Systems Neuroscience
@@ -2671,7 +2671,7 @@ HTML, XML, JavaScript, PhP, Python, VB.NET and ASP.NET (prior experience).
 Perl, sh/bash (proficient)
 x86, MIPS, 68k, ARM and AVR (prior experience)","Zayed University, College of Technological Innovation, Specialization in Cyber Security",HESHAMALSAADI@PROTONMAIL.COM,Cyber Security,0,0,0,0
 kose-y,"Julia
-Python","R, C, Matlab",Seoul National University,syko0507@snu.ac.kr,Computational Statistics,0,1,0,0
+Python","R, C, Matlab",Seoul National University,syko0507@snu.ac.kr,Computational Statistics,1,2,0,0
 elena-pascal,Python,Fortran,Carnegie Mellon university,epascal@andrew.cmu.edu,"Material science characterisation, SEM, EBSD, Particle scattering modelling, Monte Carlo methods",0,0,0,0
 peerherholz,"python
 bash
@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",0,2,2,0
+renewable energy",1,3,2,0
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -6676,9 +6676,10 @@ R",MOX - Department of Mathematics - Politecnico di Milano,pasqualeclaudio.afric
 Mathematical modeling
 HPC
 High Performance Computing",0,0,0,0
-vferat,Python,,UNIGE,victor.ferat@live.fr,Neurosciences
-navdeep-G,"Python, R, Java","C, C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, Statistics"
-tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, materials, mathematics"
+vferat,Python,,UNIGE,victor.ferat@live.fr,Neurosciences,0,0,0,0
+navdeep-G,"Python, R, Java","C, C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, Statistics",0,0,0,0
+tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, materials, mathematics",0,0,0,0
 Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Gaussian processes
-Bayesian Statistics"
+Bayesian Statistics",0,0,0,0
 thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth science, model evaluation, likelihood, Bayesian"
+https://gitlab.com/OnlineArts,Python,"Bash, SQL, PHP, R, JavaScript, Java",Philipps University Marburg,roman.martin@uni-marburg.de,"Bioinformatics, Computational Biology, Genomics"
