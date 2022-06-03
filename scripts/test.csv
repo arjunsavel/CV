@@ -438,7 +438,7 @@ Computational biology
 Sequence analysis
 Genome analysis
 Evolution
-Ecology",1,5,0,0
+Ecology",0,5,1,1
 hainesr,"Ruby
 Java
 C
@@ -838,7 +838,7 @@ Graphs & Graph Databases
 NoSQL Databases
 Algorithms
 Software Development Methodologies
-",0,2,1,0
+",0,2,0,0
 mamrehn,"Python
 JavaScript
 Java
@@ -928,7 +928,7 @@ sahilseth,R Python Bash,js ,MD Anderson Cancer Center,sseth.research@gmail.com,"
 Genomics
 Modeling
 Machine learning
-Cancer research",1,4,0,0
+Cancer research",0,4,1,1
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
 joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,1,4,0,0
@@ -1109,7 +1109,7 @@ Julia
 Ruby","Python
 C/C++",Contractor/Consultant,mark@taqtiqa.com,"Finance/Economics: Option pricing, Market Microstructure, Time-Series, Corporate Finance",0,2,0,0
 lindemann09,"Python, R","C++, Julia",Erasmus University Rotterdam,lindemann@essb.eur.nl,"Psychology, Inferential Statistic, Bayesian Statistic, Data Science, Research Transparency, ",0,1,1,0
-marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",1,4,0,0
+marouenbg,"MATLAB, Python, R ","C(MPI, OpenMP, Cuda), Scheme",University of Luxembourg,marouen.b.guebila@gmail.com,"Bioinformatics, Computational and systems biology, Health informatics",0,4,1,1
 louiejtaylor,"R
 Python",JavaScript,University of Pennsylvania,louist@upenn.edu,"Bioinformatics
 Computational Biology",0,0,0,0
@@ -1587,7 +1587,7 @@ Particle methods",0,4,0,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
 geoscience",0,1,0,0
-adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,3,0
+adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,2,0
 davidbeckingsale,C++,"C
 Fortran
 Python
@@ -4885,7 +4885,7 @@ zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,1,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,1,1,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,0
-jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",1,1,0,0
+jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,1,1,1
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,1,1,0
 Yuri-M-Dias,"R
 Python
@@ -4978,7 +4978,7 @@ Ziqi-Li,python,,University of Illinois,liziqi1992@gmail.com,"spatial analysis
 GIS
 mapping",0,0,0,0
 myxie,Python,"C/C++, Java",University of Western Australia,ryan.bunney@research.uwa.edu.au,"Computer Science, Data Science, Physics, Software Tooling",0,0,0,0
-BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Computational biology and bioinformatics,1,1,0,0
+BatoolMM,R and Python,,The University of Liverpool,batool@liverpool.ac.uk,Computational biology and bioinformatics,0,1,1,1
 pzarabadip,Python,,Research Associate - University of Bath,pzp22@bath.ac.uk,"Chemistry
 Physical Chemistry
 Molecular Simulation",0,1,0,0
@@ -6681,5 +6681,6 @@ navdeep-G,"Python, R, Java","C, C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine le
 tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, materials, mathematics",0,0,0,0
 Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Gaussian processes
 Bayesian Statistics",0,0,0,0
-thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth science, model evaluation, likelihood, Bayesian"
+thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth science, model evaluation, likelihood, Bayesian",0,0,0,0
 https://gitlab.com/OnlineArts,Python,"Bash, SQL, PHP, R, JavaScript, Java",Philipps University Marburg,roman.martin@uni-marburg.de,"Bioinformatics, Computational Biology, Genomics"
+m,m,m,,j@j.m,m
