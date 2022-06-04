@@ -4163,7 +4163,7 @@ R
 javascript",,"Florida International University, Department of Psychology",kbott006@fiu.edu,"Neuroinformatics
 Neuroimaging
 Psychology
-Data science",1,3,0,0
+Data science",0,3,1,1
 chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,0,0
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",1,1,0,0
 mherman09,Fortran,"Python
@@ -6393,7 +6393,7 @@ Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance
 Compiler implementation",0,0,0,0
 raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",0,0,0,0
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software",0,1,1,0
-brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",1,1,0,0
+brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",0,1,1,1
 jimmielin,Fortran 90,"PHP
 Python
 Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
@@ -6682,5 +6682,9 @@ tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, mater
 Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Gaussian processes
 Bayesian Statistics",0,0,0,0
 thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth science, model evaluation, likelihood, Bayesian",0,0,0,0
-https://gitlab.com/OnlineArts,Python,"Bash, SQL, PHP, R, JavaScript, Java",Philipps University Marburg,roman.martin@uni-marburg.de,"Bioinformatics, Computational Biology, Genomics"
+https://gitlab.com/OnlineArts,Python,"Bash, SQL, PHP, R, JavaScript, Java",Philipps University Marburg,roman.martin@uni-marburg.de,"Bioinformatics, Computational Biology, Genomics",0,0,0,0
 m,m,m,,j@j.m,m
+Moelf,Julia,Python,Harvard University,jerry.ling@cern.ch,"High Energy Physics, HPC, Statistics"
+@smchartrand,Python,Matlab,Simon Fraser University,shawn_chartrand@sfu.ca,"Geomorphology
+Sediment Transport
+Hydrology"
