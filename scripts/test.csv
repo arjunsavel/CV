@@ -1951,7 +1951,7 @@ feddelegrand7,R,,National Higher School of Statistics and Applied Economics (ENS
 Economics 
 Data Envelopment Analysis 
 Banking",0,0,0,0
-martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",0,4,2,0
+martibosch,Python,,École Polytechnique Fédérale de Lausanne,marti.bosch@epfl.ch,"GIS, geocomputation, spatial data, land use/land cover, geosimulations, agent-based models, cellular automata",0,4,1,0
 czxa,"R
 Stata","Python
 Latex","Shandong University, China",czxjnu@163.com,"Economics
@@ -6685,11 +6685,12 @@ thodson-usgs,Python,R,U.S. Geological Survey,thodson@usgs.gov,"hydrology, earth 
 https://gitlab.com/OnlineArts,Python,"Bash, SQL, PHP, R, JavaScript, Java",Philipps University Marburg,roman.martin@uni-marburg.de,"Bioinformatics, Computational Biology, Genomics",0,0,0,0
 m,m,m,,j@j.m,m,0,0,0,0
 Moelf,Julia,Python,Harvard University,jerry.ling@cern.ch,"High Energy Physics, HPC, Statistics",0,0,0,0
-@smchartrand,Python,Matlab,Simon Fraser University,shawn_chartrand@sfu.ca,"Geomorphology
+smchartrand,Python,Matlab,Simon Fraser University,shawn_chartrand@sfu.ca,"Geomorphology
 Sediment Transport
-Hydrology"
+Hydrology",0,0,0,0
 https://github.com/Ecosantos/,R,Shiny,Instituto Nacional da Mata Atlântica,ssantos.gabriel@gmail.com,"Ecology
 Conservation
 Population Ecology
 Invasive species
 Demography"
+stefanocoretta,"R, Praat",,University of Edinburgh,s.coretta@ed.ac.uk,"Statistics, linguistics, research methods"
