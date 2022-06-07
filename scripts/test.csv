@@ -156,7 +156,7 @@ machine learning",0,7,0,0
 ChrisRackauckas,Julia,,"University of California, Irvine",contact@chrisrackauckas.com,"Mathematics, Differential Equations, Optimization, Linear Algebra, Machine Learning",1,1,0,0
 ygrange,python,Julia,"ASTRON, te Netherlands Institute for Radio Astronomy",grange@astron.nl,"Astronomy & Astrophysics
 Scientific workflow management
-Sowftware characterisation and profiling",0,5,1,0
+Sowftware characterisation and profiling",0,5,0,0
 linuxscout,Python,"C++
 PHP
 Shell","Bouira University, Algeria",taha_zerrouki@homail.com,"Natural Language Processing
@@ -1401,7 +1401,7 @@ bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
 Machine Learning",0,0,0,0
-astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,1,0
+astrom-tom,Python,,European Southern Observatory,the.spartan.proj@gmail.com,Astronomy,0,2,0,0
 krueschan,"php, Stata",python,"Carleton University, Ottawa, Canada",cholz@climate.works,climate change,0,0,0,0
 kjappelbaum,Python,C,EPFL,kevin.jablonka@epfl.ch,"Materials Science,  Physics, Chemistry",1,2,0,0
 gorlapraveen,"Python, Matlab, c++, octave",,Asian Institute of Technology,gorlapraveen@gmail.com,"Software Defined Radios and Networks, Wireless Sensor Networks",0,2,0,0
@@ -3423,7 +3423,7 @@ ABM
 state-and-transition modelling
 landscape ecology
 geography",0,1,1,0
-astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,1,0
+astrom-tom,Python,None,European Southern Overvatory,rthomas@eso.org,Astronomy/astrophysics,0,2,0,0
 kumar,Python,,Kun Shan University,hi.kumar1993@gmail.com,"Modeling, 
 Hybrid Energy System, 
 Simulation,
@@ -6688,9 +6688,10 @@ Moelf,Julia,Python,Harvard University,jerry.ling@cern.ch,"High Energy Physics, H
 smchartrand,Python,Matlab,Simon Fraser University,shawn_chartrand@sfu.ca,"Geomorphology
 Sediment Transport
 Hydrology",0,0,0,0
-https://github.com/Ecosantos/,R,Shiny,Instituto Nacional da Mata Atlântica,ssantos.gabriel@gmail.com,"Ecology
+Ecosantos/,R,Shiny,Instituto Nacional da Mata Atlântica,ssantos.gabriel@gmail.com,"Ecology
 Conservation
 Population Ecology
 Invasive species
-Demography"
+Demography",0,0,0,0
 stefanocoretta,"R, Praat",,University of Edinburgh,s.coretta@ed.ac.uk,"Statistics, linguistics, research methods"
+afeinstein20,Python,,University of Chicago,adina.d.feinstein@gmail.com,"astronomy, time series"
