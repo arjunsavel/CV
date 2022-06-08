@@ -2037,7 +2037,7 @@ Geophysics",0,2,2,0
 inakleinbottle,"Python
 Rust","C
 C++
-MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,1,3,1,0
+MATLAB",University of East Anglia,Sam.Morley@uea.ac.uk,Mathematics,1,3,0,0
 mdehollander,python,,Netherlands Institute of Ecology (NIOO-KNAW),m.dehollander@nioo.knaw.nl,"bioinformatics
 metagenomics",0,0,0,0
 abhishektha,Python,MATLAB,University of Colorado Boulder,abhishektha@gmail.com,"Biomechanics
@@ -2327,7 +2327,7 @@ C#
 Matlab",University of Surrey,maxime.delorme@gmail.com,"Astrophysics, HPC, simulations",0,0,0,0
 Pqrs6,Python,,Johns Hopkins University,Dwatts@jhu.edu,"Statistics, Bayesian inference, cosmological parameter estimation, CMB foregrounds",0,0,0,0
 jbrande,Python,"C/C++
-MATLAB",NASA GSFC/University of Maryland,jbrande@terpmail.umd.edu,Astronomy/Astrophysics,0,0,0,0
+MATLAB",NASA GSFC/University of Maryland,jbrande@ku.edu,Astronomy/Astrophysics,0,0,0,0
 mirca,"Python
 R
 C++",Julia,The Hong Kong University of Science and Technology,jvdmc@connect.ust.hk,"finance
@@ -4870,7 +4870,7 @@ PyTorch
 TensorFlow
 HTML",,University of Toronto,vasudevsharma74@yahoo.com,"Deep Learning
 Machine Learning
-Medical Imaging",0,1,1,0
+Medical Imaging",0,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,1
@@ -5089,7 +5089,7 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",1,1,0,0
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,2,0
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,1,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",1,1,0,0
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,1,1,1
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
@@ -6693,5 +6693,13 @@ Conservation
 Population Ecology
 Invasive species
 Demography",0,0,0,0
-stefanocoretta,"R, Praat",,University of Edinburgh,s.coretta@ed.ac.uk,"Statistics, linguistics, research methods"
+stefanocoretta,"R, Praat",,University of Edinburgh,s.coretta@ed.ac.uk,"Statistics, linguistics, research methods",0,0,0,0
 afeinstein20,Python,,University of Chicago,adina.d.feinstein@gmail.com,"astronomy, time series"
+nanashi,Perl,,qw,wimvanderbauwhede@yahoo.co.uk,HPC
+nicolotonci,C++,"Java, Python",University of Pisa,nicolo.tonci@phd.unipi.it,Euro-Par 2022 Special Issue
+fabian-sp,Python,Julia,Technical University of Munich,fabian.schaipp@gmail.com,"Optimization
+Statistical/Machine learning
+Network inference"
+https://github.com/GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
+Parallel Computing
+Workflow Management Systems"
