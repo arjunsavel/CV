@@ -6,7 +6,7 @@ wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
 amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,0,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
-nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,11,2,1
+nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,11,2,0
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
 rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",1,10,1,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
@@ -3085,7 +3085,7 @@ Matlab",CNRS,corentin.lothode@univ-rouen.fr,"computational physics
 numerical analysis
 fluid dynamics
 structural mechanics
-fluid structure interaction",0,3,1,1
+fluid structure interaction",0,3,1,0
 irnaka,"Python
 Fortran","Matlab
 C++",Universitas Gadjah Mada,marwan.irnaka@ugm.ac.id,"Geophysics
@@ -4874,7 +4874,7 @@ Medical Imaging",0,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,1
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,3,2,1
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,4,2,1
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -6694,12 +6694,24 @@ Population Ecology
 Invasive species
 Demography",0,0,0,0
 stefanocoretta,"R, Praat",,University of Edinburgh,s.coretta@ed.ac.uk,"Statistics, linguistics, research methods",0,0,0,0
-afeinstein20,Python,,University of Chicago,adina.d.feinstein@gmail.com,"astronomy, time series"
-nanashi,Perl,,qw,wimvanderbauwhede@yahoo.co.uk,HPC
-nicolotonci,C++,"Java, Python",University of Pisa,nicolo.tonci@phd.unipi.it,Euro-Par 2022 Special Issue
+afeinstein20,Python,,University of Chicago,adina.d.feinstein@gmail.com,"astronomy, time series",0,1,1,0
+nanashi,Perl,,qw,wimvanderbauwhede@yahoo.co.uk,HPC,0,0,0,0
+nicolotonci,C++,"Java, Python",University of Pisa,nicolo.tonci@phd.unipi.it,Euro-Par 2022 Special Issue,0,0,0,0
 fabian-sp,Python,Julia,Technical University of Munich,fabian.schaipp@gmail.com,"Optimization
 Statistical/Machine learning
-Network inference"
+Network inference",0,0,0,0
 https://github.com/GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
 Parallel Computing
 Workflow Management Systems"
+MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,"
+farhadrclass,"Julia, Python","Matlab, Java",PhD student at GERAD,farhad.rahbarnia@polymtl.ca,"Machine Learning, Optimization"
+@simonpcouch,R,,RStudio PBC,simonpatrickcouch@gmail.com,"Frequentist statistics
+Predictive Modeling
+Tidyverse/tidy design
+Data science
+Machine Learning"
+h,中文,,ios,wong20022015@gmail.com
+hlim88,"C++
+Python
+Fortran","C
+PHP",Los Alamos National Laboratory,hyunlim@lanl.gov,"Astrophysics, Hydrodynamics, Machine Learning"
