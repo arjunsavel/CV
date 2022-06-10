@@ -50,7 +50,7 @@ arghdos,"Python, C++, CUDA, OpenCL",C,,,"combustion, chemical kinetics, ordinary
 cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
-djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",0,10,2,0
+djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",0,10,1,0
 lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,2,1,1
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
@@ -1088,7 +1088,7 @@ machine learning",0,1,0,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,0,0
-gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,2,1,0
+gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",1,3,1,0
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,0,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
@@ -1100,7 +1100,7 @@ johnsamuelwrites,"C
 Python
 Java
 PHP",Javascript,CPE Lyon,john.samuel@cpe.fr,"Data Science
-Data visualization",0,2,1,0
+Data visualization",0,2,0,0
 schalkdaniel,R,C++,Ludwig Maximilians University Munich,schalkdaniel242@gmail.com,Machine Learning,0,1,0,0
 dmbates,"Julia, R","C, Fortran",University of Wisconsin - Madison,dmbates@gmail.com,"Statistics, Data Science",0,4,1,1
 taqtiqa-mark,"R
@@ -2435,7 +2435,7 @@ santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, 
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,0,0
 samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,1,2,0,0
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
-smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,2,0
+smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,1,0
 OopsAllErrors,"Python
 Matlab",IDL (no active license),National Geospatial-Intelligence Agency,johnjmandel@gmail.com,"Remote Sensing
 Image Processing
@@ -3296,7 +3296,7 @@ Optimization methods",1,1,0,0
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
-coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,1,0
+coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,0,0
 lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
@@ -4458,7 +4458,7 @@ Quantum Chemistry
 Electronic structure methods
 Atomistic simulations",1,3,2,0
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
-Remote Sensing applications",0,1,1,0
+Remote Sensing applications",0,1,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
 omendezmorales,"Python, SQL, Julia","C#,C++",None yet...,mmoa33@hotmail.com,"Finance, Embedded Systems, and a bit of astro-informatics",0,1,0,0
 mvaldes,"C, Octave","Matlab, Julia, Python",Universidad de la República,matiasvd@gmail.com,"Optimization, Numerical Analysis, Linear Systems Iterative Methods",0,0,0,0
@@ -4967,7 +4967,7 @@ bash",Duke University Marine Lab,patrick.c.gray@duke.edu,"remote sensing
 oceanography
 geospatial analysis
 scientific computing for earth sciences
-machine learning",0,1,1,0
+machine learning",0,1,0,0
 colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics,0,0,0,0
 waldeyr,"Python
 R","Python
@@ -6700,18 +6700,38 @@ nicolotonci,C++,"Java, Python",University of Pisa,nicolo.tonci@phd.unipi.it,Euro
 fabian-sp,Python,Julia,Technical University of Munich,fabian.schaipp@gmail.com,"Optimization
 Statistical/Machine learning
 Network inference",0,0,0,0
-https://github.com/GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
+GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
 Parallel Computing
-Workflow Management Systems"
-MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,"
-farhadrclass,"Julia, Python","Matlab, Java",PhD student at GERAD,farhad.rahbarnia@polymtl.ca,"Machine Learning, Optimization"
-@simonpcouch,R,,RStudio PBC,simonpatrickcouch@gmail.com,"Frequentist statistics
+Workflow Management Systems",0,0,0,0
+MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,",0,0,0,0
+farhadrclass,"Julia, Python","Matlab, Java",PhD student at GERAD,farhad.rahbarnia@polymtl.ca,"Machine Learning, Optimization",0,0,0,0
+simonpcouch,R,,RStudio PBC,simonpatrickcouch@gmail.com,"Frequentist statistics
 Predictive Modeling
 Tidyverse/tidy design
 Data science
-Machine Learning"
-h,中文,,ios,wong20022015@gmail.com
+Machine Learning",0,0,0,0
+h,中文,,ios,wong20022015@gmail.com,,0,0,0,0
 hlim88,"C++
 Python
 Fortran","C
 PHP",Los Alamos National Laboratory,hyunlim@lanl.gov,"Astrophysics, Hydrodynamics, Machine Learning"
+Alonsoramirez115@gmail.com,Español,,,alonsoramirez115@gmail.com
+djichthys,"C, C++, Python, Rust",,,dejice.jacob@glasgow.ac.uk,Euro-Par 2022 Special Issue
+hasantahir,"C
+MATLAB
+Python","R
+C++",University of Glasgow,Hasan.Abbas@glasgow.ac.uk,"Electromagnetics
+Wave Equations
+Machine Learning
+Antennas and wave propagation
+Plasmonics
+Photonics
+Microwave
+Plasma"
+bijeshmishra,"R
+SAS
+Python
+Git
+Stata",,Oklahoma State University,bjs.misra@gmail.com,"Resource Economics
+Visualization
+Geospatial Analysis"
