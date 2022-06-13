@@ -2478,7 +2478,7 @@ dhimmel,Python,"Cypher
 R",University of Pennsylvania,daniel.himmelstein@gmail.com,"Networks
 Computational biology
 Bioinformatics
-Scholarly communications",0,2,2,1
+Scholarly communications",0,2,2,0
 DARSakthi,"Python, Java","Julia, Matlab, R",Stony Brook University,dalton.a.sakthivadivel@stonybrook.edu,"Modelling, simulations, AI and ML, data analysis",0,4,0,0
 ywx649999311,Python,,Drexel University,wy73@drexel.edu,Astrophysics,0,0,0,0
 alesarrett,Python,,CNR-IRPI,alessandro.sarretta@cnr.it,"Spatial data infrastructures, Marine conservation, Geospatial Information Systems",0,0,0,0
@@ -5172,7 +5172,7 @@ Cell Biology
 Community Detection in Graphs",0,0,0,0
 tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,1,1,1
 villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",0,0,0,0
-jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,2,1,1
+jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,2,1,0
 cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines",0,0,0,0
 wxwx1993,R,"SQL
 Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
@@ -5528,7 +5528,7 @@ singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
 mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",0,1,1,1
 1tylermitchell,Python,JavaScript,Locate Press,Tyler@locatepress.com,"Geospatial, big data",1,1,0,0
 alexmascension,Python,R,Biodonostia Health Research Institute,alexmascension@gmail.com,single-cell RNA seq,0,0,0,0
-abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",0,1,1,1
+abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",0,1,1,0
 Ziqian-xia,R,,Nanchang University,Ziqian.research@gmail.com,Environment，Psychometrics，Graphics,0,0,0,0
 SunilAnandatheertha,MATLAB,PYTHON,Coventry University,sunilanandatheertha@gmail.com,"Materials science
 Finite element analysis
@@ -6746,7 +6746,7 @@ PHP",INSERM,abdelmounim.essabbar@inserm.fr,"Bioinformatics
 Image Analysis
 Genomics",0,0,0,0
 asitha-sena,Python,,Norwegian Geotechnical Institute,asitha.senanayake@utexas.edu,"Geotechnical Engineering
-Civil Engineering"
+Civil Engineering",0,0,0,0
 @pausz,"Python
 Matlab","C++
 Julia
