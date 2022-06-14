@@ -2536,7 +2536,7 @@ ontologies
 clinical informatics",0,1,1,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",1,3,1,0
-faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",0,4,1,0
+faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",0,4,0,0
 dvanic,"R
 python
 bash",javascript,University of Sydney,d.vanichkina@gmail.com,"bioinformatics
@@ -5395,7 +5395,7 @@ spectral matching
 mass spectrometry
 metabolomics
 building information modelling
-Galaxy",0,3,2,1
+Galaxy",0,3,2,0
 shantanudash,Python,,"Dyal Singh College, University of Delhi",shantanudash7@gmail.com,"Physics, Mathematics",0,0,0,0
 hansenjohnson,R,,Dalhousie University,hansen.johnson@dal.ca,"Oceanography, marine ecology",0,0,0,0
 magedhelmy1,Python,,University of Oslo,magedaa@uio.no,"Machine Learning
@@ -5482,7 +5482,7 @@ Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",0,3,2,0
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,1
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,1
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
@@ -6758,3 +6758,5 @@ machine learning
 ODEs
 PDEs
 SDEs"
+cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning"
+cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue
