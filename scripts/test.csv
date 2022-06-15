@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",1,6,1,0
+tidyverse",2,7,1,0
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -2865,7 +2865,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",1,3,0,0
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",2,4,0,0
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3373,7 +3373,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",1,3,0,0
+Statistical Computing",2,4,0,0
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",1,2,1,1
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -5308,7 +5308,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",1,6,1,0
+Rlang",2,7,1,0
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,2,2,2
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -6747,7 +6747,7 @@ Image Analysis
 Genomics",0,0,0,0
 asitha-sena,Python,,Norwegian Geotechnical Institute,asitha.senanayake@utexas.edu,"Geotechnical Engineering
 Civil Engineering",0,0,0,0
-@pausz,"Python
+pausz,"Python
 Matlab","C++
 Julia
 R",University of Sydney,pmsl.academic@gmail.com,"computational neuroscience 
@@ -6757,6 +6757,7 @@ neuroinformatics
 machine learning
 ODEs
 PDEs
-SDEs"
-cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning"
+SDEs",0,0,0,0
+cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue
+azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue
