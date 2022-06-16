@@ -3149,7 +3149,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",1,5,1,0
+multiscale",0,5,2,1
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,0,0
 rchg,"Python
@@ -3638,7 +3638,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",1,5,1,0
+plasticity",0,5,2,1
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -5196,7 +5196,7 @@ impedance tomography
 data analysis
 harmonic analysis
 microwave imaging
-electrochemistry",0,1,1,1
+electrochemistry",0,1,1,0
 rvhonorato,Python,,Utrecht University,rvhonorato@gmail.com,"Molecular modeling
 Macromolecular docking
 Molecular dynamics
@@ -5483,7 +5483,7 @@ C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@
 Neuroscience
 Machine Learning",0,3,2,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,0
-andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,1
+andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
 Ahm-hussein,"Python, R",,Rochester institute of technology,ahm6644@rit.edu,"Machine learning, Data science",0,0,0,0
@@ -5783,7 +5783,7 @@ j3r3m1,"Python
 SQL
 Groovy",,University of Gothenburg,jeremy.bernard@zaclys.net,"Climate
 Energy
-Geographical Information System",1,1,0,0
+Geographical Information System",0,1,1,1
 harshitv09?tab=repositories,Python,,Indian Institute of Technology Roorkee,harshit@ce.iitr.ac.in,"Photogrammetry, Computer Vision, Point cloud, 3D GIS, 3D reconstruction",0,0,0,0
 tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de,"Symbolic regression, machine learning, electronic structure, quantum chemistry, condensed matter physics, thermal transport, HTC frameworks",0,1,1,1
 kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
@@ -5956,7 +5956,7 @@ Javascript",Medical College of Wisconsin,fmalard@gmail.com,"bioinformatics
 General python tools
 Machine learning",0,0,0,0
 llrs,R,,"CIBEREHD, IDIBAPS",lluis.revilla+joss@gmail.com,"Bioinformatics, RNAseq, multiomics tools",0,0,0,0
-euronion,Python,,Justus-Liebig University Giessen,joss.dack@xoxy.net,Energy Systems,0,0,0,0
+euronion,Python,,Justus-Liebig University Giessen,joss.dack@xoxy.net,Energy Systems,1,1,0,0
 ptmerz,"Python, C++, C","Matlab, Java, Fortran",University of Colorado Boulder,pascal.merz@me.com,"Molecular simulations
 Molecular dynamics
 Monte Carlo simulations
@@ -6759,5 +6759,31 @@ ODEs
 PDEs
 SDEs",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning",0,0,0,0
-cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue
+cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
 azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue
+robertszafa,"Python
+C++
+CUDA
+SYCL","FORTRAN
+Java
+C
+OpenCL
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk
+robertszafa,"Python
+C++
+SYCL
+OpenCL
+CUDA","C
+Java
+Fortran
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue
+@mbarzegary,"C
+C++
+C#
+Python
+FreeFEM","Java
+JavaScript","Biomechanics Section, KU Leuven, Belgium",mojtaba.barzegari@kuleuven.be,"Scientific computing
+Computational mechanics
+Computational materials science
+Finite element
+Numerical methods"
