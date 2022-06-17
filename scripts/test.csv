@@ -786,7 +786,7 @@ Shell script
 Python",Perl,"University Heart Center Hamburg, Germany",bob.dybian@gmail.com,"Omics analyses, workflow development, reproducibility, system integration",0,3,0,0
 expectopatronum,"R
 Python","Java, C++",,veroamilbe@gmail.com,"interpretable/explainable machine learning, machine learning, audio/music processing, data visualization, bioinformatics",0,3,1,0
-pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",0,4,1,1
+pdwaggoner,"R, TeX","R, TeX",College of William & Mary,philip.waggoner@gmail.com,"Social Science, Measurement Models, Machine Learning, Data Visualization, Predictive Modeling, Data Management",0,4,1,0
 jizecn,"C++
 Python","Matlab
 Java",Cardiff University,jiz1@cf.ac.uk,"Computer Vision
@@ -3735,7 +3735,7 @@ particle physics
 nuclear physics
 scientific computing
 computational science
-data science",0,3,1,0
+data science",0,3,0,0
 blthayer,Python,MATLAB,Currently in flux :),brandon.lewis.thayer@gmail.com,"Electric energy/power systems, specifically related to the electric grid.",0,0,0,0
 govarguz,Python,C++,Jozef Stefan Institute,horacio.guzman@ijs.si,"Soft matter, multiscale simulations, molecular dynamics, Monte Carlo, continuum simulations, HPC",0,2,1,0
 manojrege,"Python
@@ -4085,7 +4085,7 @@ pandas
 Project Jupyter
 Materials Science
 Chemical Engineering
-Scientific Software",0,1,1,0
+Scientific Software",1,2,1,0
 billchenxi,"Python, R, C++",JavaScript,,billchenxi@uky.edu,"Machine Learning, Deep Learning, Bioinformatics",0,0,0,0
 OmarShehata,"JavaScript, Python","R, C, C++, Julia, GLSL/HLSL/CUDA",,omar.sameh.shehat@gmail.com,"Statistics, geological modelling, climate modelling, mathematics",0,0,0,0
 markziemann,"R
@@ -4597,7 +4597,7 @@ evetion,"python
 julia",,Deltares,git@evetion.nl,"GIS
 HPC
 remote sensing
-computational geometry",1,1,0,0
+computational geometry",0,1,0,0
 JDRomano2,"Python
 C++
 R","C
@@ -4841,7 +4841,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,3,1,0
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",2,4,1,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,0,0
@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,0
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",2,4,2,0
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,4,3,1
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -6357,7 +6357,7 @@ Go
 R",,Uppsala University,danielrivasmd@gmail.com,"Medical applications
 Artificial Intelligence
 Bioinformatics
-Genomics",1,1,0,0
+Genomics",0,1,1,1
 SimonMolinsky,Python,"Java Script
 C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
 GIS
@@ -6425,7 +6425,7 @@ davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational 
 comp chemistry",1,1,0,0
 hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
 vilim,"Python, Julia",,,mail@vil.im,"ML Tooling, Visualization, Neuroscience",0,0,0,0
-JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics,1,1,0,0
+JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics,0,1,1,1
 Sdparsons,R,,RadboudUMC,sam.parsons@radboudumc.nl,"Cognition, psychometrics, reliability",0,0,0,0
 haoxx081github.umn.edu,"Fortran
 Julia",Python,University of Minnesota,haoxx081@umn.edu,"Computational fluid dynamics
@@ -6760,7 +6760,7 @@ PDEs
 SDEs",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
-azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue
+azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue,0,0,0,0
 robertszafa,"Python
 C++
 CUDA
@@ -6768,7 +6768,7 @@ SYCL","FORTRAN
 Java
 C
 OpenCL
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,0,0,0,0
 robertszafa,"Python
 C++
 SYCL
@@ -6776,8 +6776,8 @@ OpenCL
 CUDA","C
 Java
 Fortran
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue
-@mbarzegary,"C
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
+mbarzegary,"C
 C++
 C#
 Python
@@ -6786,4 +6786,9 @@ JavaScript","Biomechanics Section, KU Leuven, Belgium",mojtaba.barzegari@kuleuve
 Computational mechanics
 Computational materials science
 Finite element
-Numerical methods"
+Numerical methods",0,0,0,0
+jlarsen-usgs,"python
+fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
+Hydrogeology
+Soil science"
+https://github.com/ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue
