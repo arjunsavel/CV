@@ -1,30 +1,5 @@
 [
   {
-    "arxiv": "2107.14223",
-    "authors": [
-      "Murakami, Yukei S.",
-      "Jennings, Connor",
-      "Hoffman, Andrew M.",
-      "Savel, Arjun B.",
-      "Sunseri, James",
-      "Baer-Way, Raphael",
-      "Stahl, Benjamin E.",
-      "Altunin, Ivan",
-      "Girish, Nachiket",
-      "Filippenko, Alexei V."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac1538",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "PIPS, an advanced platform for period detection in time series - I. Fourier-likelihood periodogram and application to RR Lyrae stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1482M",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.06254",
     "authors": [
       "Newton, Elisabeth R.",
@@ -75,6 +50,31 @@
     "pubdate": "2022-06-00",
     "title": "TESS Hunt for Young and Maturing Exoplanets (THYME) VII : Membership, rotation, and lithium in the young cluster Group-X and a new young exoplanet",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220606254N",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2107.14223",
+    "authors": [
+      "Murakami, Yukei S.",
+      "Jennings, Connor",
+      "Hoffman, Andrew M.",
+      "Savel, Arjun B.",
+      "Sunseri, James",
+      "Baer-Way, Raphael",
+      "Stahl, Benjamin E.",
+      "Altunin, Ivan",
+      "Girish, Nachiket",
+      "Filippenko, Alexei V."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac1538",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "PIPS, an advanced platform for period detection in time series - I. Fourier-likelihood periodogram and application to RR Lyrae stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1482M",
     "volume": null,
     "year": "2022"
   },
