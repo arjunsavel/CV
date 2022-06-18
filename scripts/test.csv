@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",1,5,2,0
+Computer Networks. ",1,5,1,0
 mlxd,"C
 C++
 Python
@@ -1126,7 +1126,7 @@ Rust",UC Berkeley,rijard.barnes@gmail.com,"Geoscience
 Ecology
 Evolutionary Biology
 High-performance computing
-Computer science",0,3,2,0
+Computer science",0,3,1,0
 vc1492a,Python,"R
 JavaScript",NASA Jet Propulsion Laboratory,vc@valentino.io,"Anomaly Detection
 Natural Language Processing
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,1,1,1
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,4,1,0
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,4,0,0
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -3211,7 +3211,7 @@ sequence analysis",0,1,0,0
 MohmedSoudy,"R, Python, C, C++, C#","R, Python","Research Associate, Proteomics & Metabolomics Unit, Basic Research, Children's cancer hospital 57357",Mohmedsoudy2009@gmail.com,"Bioinformatics, Proteomics, Machine learning , Deep learning",0,0,0,0
 RMeli,"Python, C++",Fortran,University of Oxford,rocco.meli@biodtp.ox.ac.uk,"Computational Chemistry, Computational Biochemistry, Cheminformatics, Deep Learning",0,0,0,0
 kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,"Mathematics, Computer Science",0,1,1,0
-ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,1,1,1
+ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,1,1,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
 Finite Element Analysis",0,3,2,1
@@ -3586,7 +3586,7 @@ kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
 statistics",0,0,0,0
-munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,2,1,1
+munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,2,1,0
 kinow,"Java
 Python
 PHP
@@ -4619,7 +4619,7 @@ php",,Istanbul University,murat.gezer@istanbul.edu.tr,"Image Processing
 Computer Vision",0,0,0,0
 erafalovsky,"C#, Javascript, Typescript",,Georgia Tech,erafalovsky3@gatech.edu,"Technology, Big data, software engineering",0,0,0,0
 junliu2050,Matlab,"C/C++
-Java",Southern Illinois University Edwardsville,juliu@siue.edu,Computational and Applied Mathematics,0,1,1,1
+Java",Southern Illinois University Edwardsville,juliu@siue.edu,Computational and Applied Mathematics,0,1,1,0
 neurofractal,"MATLAB
 Python",,UCL,rob.seymour@ucl.ac.uk,"Neuroscience
 Signal Processing
@@ -5202,7 +5202,7 @@ Macromolecular docking
 Molecular dynamics
 Computational biology
 Structural Biology
-Bioinformatics",0,2,2,2
+Bioinformatics",0,2,2,1
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
@@ -5463,7 +5463,7 @@ Agent Based Simulation",0,1,1,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
 junghans,C++,Python,Los Alamos National Laboratory,junghans@votca.org,"Molecular simulations
 coarse-graining",0,1,1,0
-11michalis11,Python,"R, VBA",Cardiff University,PanayidesM@cardiff.ac.uk,"Mathematics, Operational Research, Game Theory, Statistics, Python",1,1,0,0
+11michalis11,Python,"R, VBA",Cardiff University,PanayidesM@cardiff.ac.uk,"Mathematics, Operational Research, Game Theory, Statistics, Python",0,1,1,1
 anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kist@fau.de,"Neuroscience
 Image processing
 Deep Learning
@@ -5929,7 +5929,7 @@ Immersive Analytics
 Material Science",0,0,0,0
 amadeusine,"Rust, C++, Julia, TypeScript, Python, Haskell","Futhark, MATLAB, R, Java, C#, Ruby, C",University of Kansas,lim@ku.edu,"Geometry, Computational Biology, Logic, Optimization, Graphics, Embedded Systems",0,0,0,0
 jefferdsgmail.com,Julia,Julia,UNIFESSPA,franco.silva@unifesspa.edu.br,"Mecânica, Termodinâmica",0,0,0,0
-AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@msu.edu,"Astrophysics, data science, applied mathematics",0,1,1,1
+AstroBarker,"C++, Python, FORTRAN, Julia",,Michigan State University,barker49@msu.edu,"Astrophysics, data science, applied mathematics",0,1,1,0
 enricgrau,Python,,IREC,patenric@gmail.com,"Solar energy
 material science
 spectroscopy",0,0,0,0
@@ -6790,5 +6790,7 @@ Numerical methods",0,0,0,0
 jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
-Soil science"
+Soil science",0,0,0,0
 https://github.com/ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue
+Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing"
+Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue
