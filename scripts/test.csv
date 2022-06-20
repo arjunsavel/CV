@@ -1692,7 +1692,7 @@ Computational Fluid Dynamics
 Fluid-Structure Interaction
 Structural Dynamics",1,8,1,0
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
-TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,3,1,0
+TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",1,4,1,0
 shreyasbapat,"Python
 JavaScript
 Rust
@@ -6570,7 +6570,7 @@ Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html",
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
 agent-based modeling",0,0,0,0
-hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",0,0,0,0
+hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",1,1,0,0
 Dom-Owens-UoB,"R
 Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics,0,0,0,0
 bioedd,"Python
@@ -6636,7 +6636,7 @@ mukeshdroid,"python
 c++
 c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
 Physics",0,0,0,0
-hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging",0,0,0,0
+hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging",1,1,0,0
 sanjayankur31,"Python
 C/C++
 Bash
@@ -6794,3 +6794,4 @@ Soil science",0,0,0,0
 ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,0,0,0
 Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,0,0,0
 Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue
+a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com
