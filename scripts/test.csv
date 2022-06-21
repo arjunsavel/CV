@@ -51,7 +51,7 @@ cdcrabtree,R,,,,"statistics, data visualization",0,1,0,0
 robohyun66,R,,,,"statistics, machine learning",0,0,0,0
 bjmorgan,Python,Fortran,,,"solid-state chemistry, solid-state physics, materials science",0,1,0,0
 djmitche,"Python, JS","C, Rust, Go",,,"Software Testing, statistics, some ecology",0,10,1,0
-lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,2,1,1
+lheagy,Python,"Matlab, Julia",,,"geoscience, geophysics, inverse problems, partial differential equations, numerical modelling",0,2,1,0
 deniederhut,Python,,,,"anthropology, natural language processing, neuroscience",0,2,0,0
 jochym,Python,"C/C++, Fortran",,,"computational material physics, theoretical physics, numerics, visualisations, plotting, data processing",0,0,0,0
 effigies,Python,"MATLAB, PRAAT, shell, R, Haskell, C",,,"neuroscience, machine learning",0,1,0,0
@@ -1222,7 +1222,7 @@ javascript",,Boston University,aidans@bu.edu,,0,0,0,0
 PythonCHB,Python,"Cython
 C
 ",Self,PythonCHB@gmail.com,"Metocean data processing
-General numeric / scientific programming",0,1,1,1
+General numeric / scientific programming",0,1,1,0
 neurons,"Java, Python, Scala, Go","C++, JavaScript",Uber Technologies,niranjan.padmanabhan@mail.mcgill.ca,"Computer Science, Mathematics, Software Engineering, Machine Learning, Artificial Intelligence, Bioinformatics, Computational Biology",0,0,0,0
 xzyaoi,"Python, Golang, Typescript","Javascript, HTML",Shenzhen University,xiaozhe.yaoi@gmail.com,Computer Vision,0,0,0,0
 ixjlyons,"Python
@@ -6793,5 +6793,15 @@ Hydrogeology
 Soil science",0,0,0,0
 ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,0,0,0
 Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,0,0,0
-Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue
+Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com
+@ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
+Astrophysics"
+https://github.com/GlassOfWhiskey,"C++
+Python
+Java",,"University of Torino, Computer Science Dept.",iacopo.colonnelli@unito.it,"Workflow Management
+High Performance Computing
+Distributed Deep Learning"
+https://github.com/GlassOfWhiskey,"C++
+Python
+Java",,"University of Torino, Computer Science Dept.",iacopo.colonnelli@unito.it,Euro-Par 2022 Special Issue
