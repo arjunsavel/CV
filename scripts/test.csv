@@ -61,7 +61,7 @@ oesteban,Python,"C/C++, Bash, Java",,,"euroimaging,image processing,machine lear
 marksantcroos,Python,"C, shell",,,"High Performance Computing, Distributed Computing",1,3,0,0
 cbrueffer,"Python, R",C,,,Bioinformatics,0,1,0,0
 trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@sheffield.ac.uk,"Data science, data visualisation, mechanical engineering, materials science, mechatronics, robotics, biomechanics",0,9,0,0
-nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,7,1,0
+nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",1,8,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
 Network Visualisation",0,2,0,0
@@ -370,7 +370,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,0,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",2,10,0,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",3,11,0,0
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
 Fortran","C
@@ -389,7 +389,7 @@ condensed matter physics
 materials science
 imaging
 remote sensing",0,2,0,0
-nhejazi,R,"Python, Julia",UC Berkeley,nhejazi@berkeley.edu,"statistics, machine learning, causal inference, computational biology",0,7,1,0
+nhejazi,R,"Python, Julia",UC Berkeley,nhejazi@berkeley.edu,"statistics, machine learning, causal inference, computational biology",1,8,1,0
 JoshKarpel,Python,,University of Wisconsin - Madison,josh.karpel@gmail.com,"Physics / Computational Physics
 Math
 Data Visualization",0,2,0,0
@@ -1971,7 +1971,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",1,3,1,0
+model selection",2,4,1,0
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -6794,14 +6794,20 @@ Soil science",0,0,0,0
 ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,0,0,0
 Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,0,0,0
 Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
-a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com
-@ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
-Astrophysics"
-https://github.com/GlassOfWhiskey,"C++
+a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
+ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
+Astrophysics",0,0,0,0
+GlassOfWhiskey,"C++
 Python
 Java",,"University of Torino, Computer Science Dept.",iacopo.colonnelli@unito.it,"Workflow Management
 High Performance Computing
-Distributed Deep Learning"
+Distributed Deep Learning",0,0,0,0
 https://github.com/GlassOfWhiskey,"C++
 Python
 Java",,"University of Torino, Computer Science Dept.",iacopo.colonnelli@unito.it,Euro-Par 2022 Special Issue
+@DevdudeSami,"C/C++
+OpenCL
+JS/Web Frameworks","Rust
+Swift
+Haskell
+Python",University of Glasgow,y.moawad.1@research.gla.ac.uk
