@@ -18,7 +18,7 @@
 
 \usepackage{enumitem}
 % \usepackage[pdftex, hidelinks]{hyperref}
-\usepackage{fancyhdr}
+
 \usepackage{xcolor}
 
 \usepackage[utf8]{inputenc}
@@ -31,7 +31,8 @@
 % \chead{\deemph{Curriculum Vitae}}
 % \rhead{\deemph{\thepage}}
 
-\usepackage[charter]{mathdesign} % Bitstream Charter
+\usepackage[charter]{mathdesign}
+\usepackage{fancyhdr}% Bitstream Charter
 % \usepackage{newpxtext,newpxmath} % Palatino
 
 % \pagestyle{fancy}
@@ -44,13 +45,14 @@
 \addtolength{\oddsidemargin}{-0.50in}
 \addtolength{\evensidemargin}{-0.50in}
 \addtolength{\textwidth}{1in}
-% \addtolength{\topmargin}{-.5in}
+% \addtolength{\bottommargin}{-.5in}
 % \addtolength{\textheight}{1.0in}
 
 \urlstyle{same}
 
 \raggedbottom
 \raggedright
+% \footskip{100}
 \setlength{\tabcolsep}{0in}
 
 % Sections formatting
@@ -184,9 +186,9 @@
   
  
 %-----------RESEARCH INTERESTS-----------------
-\shorterSection{Selected Research Interests}
+\shorterSection{Selected \& Current Research Interests}
 \resumeItemListStart
-\resumeItem{}{Extracting 3-D information (wind, chemical, and thermal structures) from exoplanet atmospheres}
+\resumeItem{}{Extracting 3-D information (wind, chemical, aerosol, and thermal structures) from exoplanet atmospheres}
 \resumeItem{}{High-resolution ground-based spectroscopy and cross-correlation techniques}
 \resumeItem{}{Characterizing exoplanetary systems and host stars}{}
 
