@@ -395,7 +395,7 @@ Math
 Data Visualization",0,2,0,0
 arcuri82,"Java
 Kotlin",,Westerdals Oslo ACT,arcuri82@gmail.com,"Software Engineering
-Software Testing",0,3,1,0
+Software Testing",0,3,0,0
 nuest,"R
 JavaScript",Java,"Institute for Geoinformatics, University of Münster",daniel.nuest@uni-muenster.de,"reproducible research
 containers
@@ -1167,7 +1167,7 @@ systematics
 taxonomy
 evolution
 palaeontology",0,0,0,0
-peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",0,3,1,1
+peircej,Python,,University of Nottingham,jonathan.peirce@nottingham.ac.uk,"Stimulus presentation, psychology, experiment building",0,3,1,0
 MikeHeiber,C++,,Northwestern University,heiber@mailaps.org,"materials science, polymers, semiconductor physics, kinetics, organic electronics",0,0,0,0
 melissawm,"Python, Julia, Fortran, MATLAB",,Federal University of Santa Catarina - Brazil,melissa.mendonca@ufsc.br,"Mathematics, Documentation, LaTeX",0,2,0,0
 kpeeters,"C++, Python",,Durham University,kasper.peeters@durham.ac.uk,"Physics, maths, computer algebra",0,0,0,0
@@ -1238,7 +1238,7 @@ electromyography
 gui
 visualization
 data acquisition
-embedded systems",1,8,1,1
+embedded systems",1,8,1,0
 felixhenninger,"JavaScript, Python, R",,University of Mannheim / University of Koblenz-Landau,mailbox@felixhenninger.com,"Cognitive/behavioral science
 Online/browser-based data collection
 Open data/open science
@@ -4365,7 +4365,7 @@ ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,
 Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
-Numerical analysis",1,2,1,0
+Numerical analysis",1,2,0,0
 step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",1,2,1,0
 smutao/,"Python
 Fortran
@@ -6816,16 +6816,17 @@ Python 2",Julia,"University of Michigan, Ann Arbor",adityaom@umich.edu,"AI
 Autonomous Driving
 Machine Learning
 Bayesian Modelling
-IoT"
+IoT",0,0,0,0
 gfadini,"python
 matlab","c++
 c",LAAS/CNRS,GABFADINI@GMAIL.COM,"robotics
 applied mathematics
 control theory
-mechanical engineering"
+mechanical engineering",0,0,0,0
 ericneiva,Julia,Fortran,Collège de France,eric.neiva@college-de-france.fr,"Finite elements
 Numerical quadratures
 Partial differential equations
 Mesh generation and adaptivity
 Cell biophysics
 Additive manufacturing"
+chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Northwestern Polytechnical University,zhangshangyuan@mail.nwpu.edu.cn,scientific computation
