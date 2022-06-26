@@ -2450,7 +2450,7 @@ Fipanther,"Python, C++","Fortran, CUDA",UNSW Canberra at the Australian Defence 
 JeffWalton-PSC,"Python, Fortran",C,Paul Smith's College,jwalton@paulsmiths.edu,"Data analysis, remote sensing, image processing, celestial mechanics",0,1,0,0
 christinahedges,Python,"C++
 IDL",Bay Area Environmental Research Institute,christina.l.hedges@nasa.gov,"Astronomy
-Astrophysics",0,2,0,0
+Astrophysics",1,3,0,0
 fhorrobin,"Julia
 Python
 C
@@ -3816,7 +3816,7 @@ high-performance computing
 software design",0,1,1,0
 cheginit,"Python, Fortran",C,University of Houston,tchegini@uh.edu,"Computational Hydrology and Hydraulic
 Urban Hydrology
-Earth System Modeling",0,2,1,0
+Earth System Modeling",0,2,0,0
 navmayan,R,,Ben-Gurion University of the Negev,mayanna@post.bgu.ac.il,Psychology,0,0,0,0
 rodrigo.kataishi,"R, Stata, Python",,NATIONAL UNIVERSITY OF TIERRA DEL FUEGO - CONICET ARGENTINA,rkataishi@untdf.edu.ar,"Statistics, economics, semantic analysis",0,0,0,0
 antviro,"GNU Octave
@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",1,3,2,0
+renewable energy",1,3,1,0
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -4884,7 +4884,7 @@ a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlo
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,1,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,1,1,0
-JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,1,0
+JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,0,0
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,1,1,1
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,1,1,0
 Yuri-M-Dias,"R
@@ -5052,7 +5052,7 @@ social sciences
 integrated assessment
 land use and land cover change
 hydrology
-population dynamics",0,1,1,0
+population dynamics",0,1,0,0
 jungtaekkim,Python,"C, Matlab, Julia",POSTECH,jtkim@postech.ac.kr,Machine Learning,0,2,1,0
 BrandonEdwards,R,"C, Julia, C++, Python",Carleton University,brandonedwards3@cmail.carleton.ca,"Ecology, Bayesian, Statistics",0,2,2,0
 Komalharini237,"Python
@@ -6699,7 +6699,7 @@ nanashi,Perl,,qw,wimvanderbauwhede@yahoo.co.uk,HPC,0,0,0,0
 nicolotonci,C++,"Java, Python",University of Pisa,nicolo.tonci@phd.unipi.it,Euro-Par 2022 Special Issue,0,0,0,0
 fabian-sp,Python,Julia,Technical University of Munich,fabian.schaipp@gmail.com,"Optimization
 Statistical/Machine learning
-Network inference",0,0,0,0
+Network inference",1,1,0,0
 GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
 Parallel Computing
 Workflow Management Systems",0,0,0,0
@@ -6828,5 +6828,9 @@ Numerical quadratures
 Partial differential equations
 Mesh generation and adaptivity
 Cell biophysics
-Additive manufacturing"
+Additive manufacturing",0,0,0,0
 chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Northwestern Polytechnical University,zhangshangyuan@mail.nwpu.edu.cn,scientific computation
+pjb7687,"Python
+C/C++
+C#",Java,Pusan National University,jeongbin.park@pusan.ac.kr,"Bioinformatics
+Software Development"
