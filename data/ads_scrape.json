@@ -54,6 +54,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11268",
+    "authors": [
+      "Gandhi, Siddharth",
+      "Kesseli, Aurora",
+      "Snellen, Ignas",
+      "Brogi, Matteo",
+      "Wardenier, Joost P.",
+      "Parmentier, Vivien",
+      "Welbanks, Luis",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2107.14223",
     "authors": [
       "Murakami, Yukei S.",
@@ -79,7 +102,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11268",
+    "arxiv": null,
     "authors": [
       "Gandhi, Siddharth",
       "Kesseli, Aurora",
@@ -91,13 +114,13 @@
       "Savel, Arjun B."
     ],
     "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac1744",
     "page": null,
-    "pub": "arXiv e-prints",
+    "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2022-06-00",
     "title": "Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1679G",
     "volume": null,
     "year": "2022"
   },
@@ -854,7 +877,7 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2305",
     "page": 195,
@@ -968,7 +991,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
