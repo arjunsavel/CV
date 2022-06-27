@@ -370,7 +370,7 @@ C#",Texas Advanced Computing Center,jcoronel@tacc.utexas.edu,"Software Engineeri
 Web Development
 Machine Learning
 Distributed Systems",0,2,0,0
-mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",3,11,0,0
+mattpitkin,"C, Python",C++,University of Glasgow,pitkin@gmail.com,"Astronomy, Astrophysics, Bayesian Inference",2,11,1,1
 dhhagan,python,julia,MIT,dhagan@mit.edu,"atmospheric science, statistics",0,4,0,0
 pdebuyl,"Python
 Fortran","C
@@ -1238,7 +1238,7 @@ electromyography
 gui
 visualization
 data acquisition
-embedded systems",1,8,1,0
+embedded systems",0,8,2,1
 felixhenninger,"JavaScript, Python, R",,University of Mannheim / University of Koblenz-Landau,mailbox@felixhenninger.com,"Cognitive/behavioral science
 Online/browser-based data collection
 Open data/open science
@@ -1666,7 +1666,7 @@ bast,"Python
 Fortran
 C
 C++",Rust,UiT The Arctic University of Norway,radovan.bast@uit.no,"Computational chemistry
-Computational physics",0,1,1,0
+Computational physics",0,1,0,0
 onurvarol,Python,"Matlab, C#, Javascript",Northeastern University,ovarol2005@gmail.com,"Network Science, Machine Learning",0,0,0,0
 jmadera,"Python
 Java
@@ -3569,7 +3569,7 @@ Geophysics
 Earthquake Science",0,0,0,0
 hadware,Python,C,CoML,hadrien.titeux@ens.fr,"Machine Learning
 NLP
-Audio processing",0,1,1,0
+Audio processing",0,1,0,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",0,3,1,0
@@ -3717,7 +3717,7 @@ Finite element/volume methods",0,1,0,0
 samuelduchesne,python,C#,Massachusetts Institute of Technology,samueld@mit.edu,"Building Energy Modeling
 Solar Energy
 District Energy Modeling
-Energy Hub Optimization",0,3,2,1
+Energy Hub Optimization",0,3,2,0
 xiaoya,c,python,ECNU,22@qq.com,software,0,0,0,0
 test,C,,test,test@test.com,sorry it a test for my understanding,0,0,0,0
 ShiyongYu-cloud,"MATLAB
@@ -4177,7 +4177,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",1,3,1,0
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",1,3,0,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -4456,7 +4456,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",1,3,2,0
+Atomistic simulations",0,3,3,1
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -4764,7 +4764,7 @@ Optimization",0,0,0,0
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
-phonetics",0,1,1,0
+phonetics",0,1,0,0
 gdancik,"R
 Python","C/C++
 Java",Eastern Connecticut State University,dancikg@easternct.edu,Bioinformatics,0,0,0,0
@@ -4782,7 +4782,7 @@ Machine Learning
 Algorithms
 Mechatronics
 Physical Simulation
-Control Systems",1,1,0,0
+Control Systems",0,1,1,1
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
@@ -5368,7 +5368,7 @@ Spatio-temporal models",0,0,0,0
 wcwitt,"Python
 C++
 Fortran",,University of Cambridge,witt.chuck@gmail.com,"Electronic structure
-Materials science",1,1,0,0
+Materials science",0,1,1,1
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
@@ -5525,7 +5525,7 @@ Spatial Statistics",0,1,1,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,2,0
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
-mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",0,1,1,1
+mewilhel,"Julia, Python, C/C++, Matlab","Javascript, Go",University of Connecticut,matthew.wilhelm@uconn.edu,"Optimization, Process Simulation, Energy Simulation",0,1,1,0
 1tylermitchell,Python,JavaScript,Locate Press,Tyler@locatepress.com,"Geospatial, big data",1,1,0,0
 alexmascension,Python,R,Biodonostia Health Research Institute,alexmascension@gmail.com,single-cell RNA seq,0,0,0,0
 abhilash12iec002,MATLAB,Python,"Indian Institute of Science Education and Research Bhopal, India",sabhilash@iiserb.ac.in,"Earth Science, Wireless Sensor Network, Machine learning and data science",0,1,1,0
@@ -6472,13 +6472,13 @@ arkajitmandal,Python,JavaScript,Columbia University,arkajit.mandal@columbia.edu,
 2mikeg,"Python, Javascript, Matlab",,Universidad Pontificia Bolivariana,michael.guzman@upb.edu.co,"Machine Learning, Simulation, Modellation",0,0,0,0
 mgiardino,"Java, C++","C, IDL",Agenzia Spaziale Italiana,marco.giardino@gmail.com,"Science data processing pipelines
 Software engineering
-Artificial intelligence",1,1,0,0
+Artificial intelligence",0,1,1,1
 FlyingPumba,"Android, Java, TypeScript, SQL, Python, Javascript, LaTEX, Bash","Kotlin, R","FCEyN-UBA/ICC-CONICET, Argentina",iarcuschin@gmail.com,"Android, Testing, Automatic Test Generation, Search-Based Algorithms, Evolutive Algorithms, Genetic Algorithms, Empirical Studies, Search-Based Software Engineering, Software Engineering",0,0,0,0
 Quantumstud,"Python, Matlab",C++,National University of Singapore,tara@u.nus.edu,Materials Science,0,0,0,0
 dsaf,python,rust,dsafdsf,dsafdsf@fsdf.com,,0,0,0,0
 erasmuss,Python,Juypter Notebook,National Institute of Standards and Technology,elizabeth.rasmussen@nist.gov,"Raman Spectroscopy, Thermodynamics, Material Synthesis, Heat Transfer, CFD, Fluid Dynamics, Mechanical Engineering",1,1,0,0
 po60nani,Python,Matlab,"Max Planck Institute for the Science of Light, 91058 Erlangen, Germany.",Houman.mirzaalian@fau.de,"Computer vision, ML, AI",0,0,0,0
-victorapm,"C, C++, Fortran, Python.",,Lawrence Livermore National Laboratory,paludettomag1@llnl.gov,"Linear solvers, math libraries, high performance computing, finite element methods, finite volume methods, finite difference methods.",1,1,0,0
+victorapm,"C, C++, Fortran, Python.",,Lawrence Livermore National Laboratory,paludettomag1@llnl.gov,"Linear solvers, math libraries, high performance computing, finite element methods, finite volume methods, finite difference methods.",0,1,1,1
 mhucka,Python,"sh/bash
 JavaScript
 Java",California Institute of Technology,mhucka@caltech.edu,"handwritten text recognition
@@ -6829,8 +6829,20 @@ Partial differential equations
 Mesh generation and adaptivity
 Cell biophysics
 Additive manufacturing",0,0,0,0
-chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Northwestern Polytechnical University,zhangshangyuan@mail.nwpu.edu.cn,scientific computation
+chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Northwestern Polytechnical University,zhangshangyuan@mail.nwpu.edu.cn,scientific computation,0,0,0,0
 pjb7687,"Python
 C/C++
 C#",Java,Pusan National University,jeongbin.park@pusan.ac.kr,"Bioinformatics
 Software Development"
+askuric,"pyhton
+c
+cpp
+matlab","Java
+ROS
+html/javascript
+php","INRIA Bordeaux, France",antun.skuric@outlook.com,"Automation
+Embedded systems
+Robotics
+Biomechanics
+Control theory
+Optimisation"
