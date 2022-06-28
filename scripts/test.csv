@@ -1626,7 +1626,7 @@ R",Indian Institute of Technology Kanpur,avik.pal.2017@gmail.com,"Computer Visio
 Differentiable Programming",0,0,0,0
 EnigMATHic,"Python
 Matlab",,Victoria University,elizabethmcc@gmail.com,,0,0,0,0
-gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,1,1,0,0
+gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,0,1,1,1
 holtgrewe,"Python
 C/C++
 Bash
@@ -2045,7 +2045,7 @@ Physiology
 Sensor I/O
 Signal Processing
 Image Processing
-3D Meshing, Pointclouds",1,3,0,0
+3D Meshing, Pointclouds",0,3,1,1
 wwzhang,"R
 Igor Pro
 Matlab",,Peking University,zhangw@hsc.pku.edu.cn,Neuroscience,0,0,0,0
@@ -5189,7 +5189,7 @@ salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,
 janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Materials Science, computational molecular science",0,1,1,0
 zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
 single cell
-spatial omics",1,1,0,0
+spatial omics",0,1,1,1
 BioAlvaro,R,,Institute of Physiology of the Czech Academy of Science,alvaro.sanchez@fgu.cas.cz,"Proteomics, Genomics",0,0,0,0
 alberto-battistel,Matlab,Python,"Institute of Technical Medicine (ITeM), Furtwangen University (HFU), Jakob-Kienzle-Strasse 17, 78054 Villingen-Schwenningen, Deutschland",alberto.battistel@rub.de,"Impedance spectroscopy
 impedance tomography
@@ -6492,7 +6492,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",3,3,0,0
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,3,1,1
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -6541,7 +6541,7 @@ MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
 Computer Vision
 Signal Processing",0,0,0,0
 ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics",0,0,0,0
-zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics",1,1,0,0
+zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics",0,1,1,1
 jorgedch,"Python
 Matlab",Javascript,Heldenkombinat Technologies GmbH,jorge@heldenkombinat.com,"artificial intelligence
 machine learning
@@ -6833,7 +6833,7 @@ chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Nort
 pjb7687,"Python
 C/C++
 C#",Java,Pusan National University,jeongbin.park@pusan.ac.kr,"Bioinformatics
-Software Development"
+Software Development",0,0,0,0
 askuric,"pyhton
 c
 cpp
@@ -6846,3 +6846,13 @@ Robotics
 Biomechanics
 Control theory
 Optimisation"
+Nothing,"c++
+python",,ZheJiang University,chengqi0908@foxmail.com,DSP
+zhubonan,"Python, Julia",,University College London,bonan.zhu@ucl.ac.uk,"DFT Postprocessing, High-throughput calculation, crystal structure prediction"
+vinisalazar,Python,R,University of Melbourne,viniws@gmail.com,"Bioinformatics
+Metagenomics
+Microbiome Science
+Microbial Genomics
+Marine Microbiology
+Marine Biogeography
+Scientific Python"
