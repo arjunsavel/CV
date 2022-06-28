@@ -54,29 +54,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11268",
-    "authors": [
-      "Gandhi, Siddharth",
-      "Kesseli, Aurora",
-      "Snellen, Ignas",
-      "Brogi, Matteo",
-      "Wardenier, Joost P.",
-      "Parmentier, Vivien",
-      "Welbanks, Luis",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2107.14223",
     "authors": [
       "Murakami, Yukei S.",
@@ -102,7 +79,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2206.11268",
     "authors": [
       "Gandhi, Siddharth",
       "Kesseli, Aurora",
