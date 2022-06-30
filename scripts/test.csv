@@ -464,7 +464,7 @@ Metagenomics
 Comparative genomics",0,2,0,0
 ysimillides,"Julia
 Python",Matlab,UCL,yiannis.simillides.14@ucl.ac.uk,Differential Equations / Numerical Methods,0,3,0,0
-adibender,R,,"Statistical Consulting Unit, StaBLab, LMU Munich",bender.at.R@gmail.com,,0,0,0,0
+adibender,R,,"Statistical Consulting Unit, StaBLab, LMU Munich",bender.at.R@gmail.com,,1,1,0,0
 ocramz,Haskell,,,zocca.marco@gmail.com,"High-performance computing
 Numerical algorithms
 Compilers",1,1,0,0
@@ -687,7 +687,7 @@ Cadair,Python,,The University of Sheffield,stuart@cadair.com,"Solar Physics
 Astronomy",0,2,0,0
 duncanmmacleod,Python,,Cardiff University,duncanmmacleod@gmail.com,Gravitational waves,0,1,0,0
 adibender,R,,"Department of Statistics, LMU Munich",bender.at.R@gmail.com,"Survival Analysis
-Generalized Additive Mixed Models",0,0,0,0
+Generalized Additive Mixed Models",1,1,0,0
 ninjin,Julia,,University College London,pontus@stenetorp.se,"Machine Learning, Natural Language Processing",0,2,0,0
 virgesmith,"C++
 C ","Python
@@ -1192,7 +1192,7 @@ Machine Learning",0,1,1,0
 trinker,r,,university at buffalo,tyler.rinker@gmail.com,"data visualization, text mining, sentiment analysis, data manipulation",0,2,0,0
 adibender,R,,"BDI, University of Oxford",bender.at.R@gmail.com,"statistics
 survival analysis
-spatial statistics",0,0,0,0
+spatial statistics",1,1,0,0
 jmborr,python,,"Neutrons Scattering Data Sciences, Oak Ridge National Laboratory",borreguero@gmail.com,"proteins, molecular dynamics, computational biology, neutrons, scattering",0,1,0,0
 gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiome, phylogenetics, applied machine learning",0,2,0,0
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
@@ -2247,7 +2247,7 @@ muscle physiology
 biomechanics
 evolution
 phylogenetics
-phylogenetic comparative methods",1,2,0,0
+phylogenetic comparative methods",0,2,1,1
 Ohjeah,Python,Python,Ambrosys GmbH,markus.quade@gmail.com,"Machine Learning, Symbolic Regression, Physics",0,1,0,0
 mahmoudibrahim,"R
 Java","Bash
@@ -6565,7 +6565,7 @@ Psychtek,R,Basic terminal and Python,Melbourne University,aaron.willcox@unimelb.
 turgeonmaxime,"R
 Python",,University of Manitoba,max.turgeon@umanitoba.ca,"Survival analysis
 Biostatistics
-Computational Statistics",0,0,0,0
+Computational Statistics",1,1,0,0
 Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops",0,0,0,0
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
@@ -6857,3 +6857,4 @@ Marine Microbiology
 Marine Biogeography
 Scientific Python",0,0,0,0
 zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimisation, Capacity Expansion"
+hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications"
