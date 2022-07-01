@@ -340,7 +340,7 @@ Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
 Software Engineering",0,1,1,0
-tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",0,4,0,0
+tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",1,5,0,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
 data visualization
@@ -1532,7 +1532,7 @@ nicgaspar,Python,,Tulane University,ngaspari@tulane.edu,Fluvial geomorphology; T
 dandavies99,Python,,Imperial College London,dandavies99@gmail.com,"Materials science
 Inorganic chemistry
 Computational chemistry
-Materials informatics",0,1,0,0
+Materials informatics",1,2,0,0
 soroushj,"Python
 Java
 JavaScript",C#,Guilan NLP Group,soroush.javadi@gmail.com,"Machine Learning
@@ -2842,7 +2842,7 @@ Phylogenetics
 Phylogeography
 DNA Sequence Analysis
 Conservation
-Ecological Informatics",0,1,0,0
+Ecological Informatics",1,2,0,0
 mnf2014,python,,octo technologies,marisa.faraggi@gmail.com,"physics, machine Learning, material science",0,0,0,0
 Nachootal,Ruby,C,Oss enthusiast and telecommunications engineer,nachootal@gmail.com,"Embedded firmware, web, rails, processes",0,1,0,0
 satish-annigeri,"Python, Scilab, Julia, C/C++",Fortran 77,KLE Technological University,satish@bvb.edu,"Numerical colorations, Civil engineering, Structural engineering, Computer Aided Design",0,0,0,0
@@ -5869,7 +5869,7 @@ GDScript",University of Bristol,Christopher.Woods@bristol.ac.uk,"Computational c
 Biomolecular modelling
 Epidemiological modelling",1,1,0,0
 PeterKraus,Python,Fortran,Empa - Swiss Federal Laboratories for Materials Science and Technology,peter@tondon.de,"Experimental chemistry
-Computational chemistry",0,0,0,0
+Computational chemistry",1,1,0,0
 kprokopi,Python,C,Aristotle University of Thessaloniki,kprokopi@gmail.com,"Data Science
 Scientific Computing
 Numerical Analysis
@@ -6856,5 +6856,17 @@ Microbial Genomics
 Marine Microbiology
 Marine Biogeography
 Scientific Python",0,0,0,0
-zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimisation, Capacity Expansion"
+zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimisation, Capacity Expansion",0,0,0,0
 hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications"
+bungjeen,matlab julia,julia,code,my_jeen2555@hotmail.co.th,-
+ttricco,"Python, C++, Fortran",,Memorial University of Newfoundland,tstricco@mun.ca,"Smoothed particle hydrodynamics softwares.
+Astrophysical hydrodynamical simulation or analysis codes."
+jhwohlgemuth,"Python
+JavaScript
+PowerShell","C#
+F#
+Rust",Oak Ridge National Laboratory (ORNL),wohlgemuthjh@ornl.gov,"GIS
+discrete mathematics
+graph theory
+data science
+general physics / math / computer science"
