@@ -1,30 +1,5 @@
 [
   {
-    "arxiv": "2107.14223",
-    "authors": [
-      "Murakami, Yukei S.",
-      "Jennings, Connor",
-      "Hoffman, Andrew M.",
-      "Savel, Arjun B.",
-      "Sunseri, James",
-      "Baer-Way, Raphael",
-      "Stahl, Benjamin E.",
-      "Altunin, Ivan",
-      "Girish, Nachiket",
-      "Filippenko, Alexei V."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac1538",
-    "page": 4489,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-08-00",
-    "title": "PIPS, an advanced platform for period detection in time series - I. Fourier-likelihood periodogram and application to RR Lyrae stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4489M",
-    "volume": "514",
-    "year": "2022"
-  },
-  {
     "arxiv": "2202.10024",
     "authors": [
       "Gan, Tianjun",
@@ -94,7 +69,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -102,6 +77,31 @@
     "pubdate": "2022-08-00",
     "title": "TESS discovery of a sub-Neptune orbiting a mid-M dwarf TOI-2136",
     "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4120G",
+    "volume": "514",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2107.14223",
+    "authors": [
+      "Murakami, Yukei S.",
+      "Jennings, Connor",
+      "Hoffman, Andrew M.",
+      "Savel, Arjun B.",
+      "Sunseri, James",
+      "Baer-Way, Raphael",
+      "Stahl, Benjamin E.",
+      "Altunin, Ivan",
+      "Girish, Nachiket",
+      "Filippenko, Alexei V."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac1538",
+    "page": 4489,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-08-00",
+    "title": "PIPS, an advanced platform for period detection in time series - I. Fourier-likelihood periodogram and application to RR Lyrae stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4489M",
     "volume": "514",
     "year": "2022"
   },
