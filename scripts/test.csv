@@ -1137,7 +1137,7 @@ GAMS",Matlab,"Industrial Ecology Programme, NTNU - Norwegian University of Scien
 Multi Regional Input Output Analysis (MRIO)
 Life Cycle Assessment (LCA)
 Other Quantitative Sustainability Software
-Economics",1,2,0,0
+Economics",0,2,1,1
 nathanlyons,python,,Tulane University,nlyons@tulane.edu,"geomorphology, tectonics",0,0,0,0
 margauxmouchene,Python,,CU Boulder,margaux.mouchene-1@colorado.edu,"Earth surface processes, hydrology, geomorphology, tectonics, surface dating, hillslope processes, natural hazards",0,0,0,0
 mikaem,"Python, C, C++",Fortran,"University of Oslo, Department of Mathematics",mikaem@math.uio.no,"Spectral methods, computational fluid dynamics, high performance computing, MPI, finite element methods",0,3,1,0
@@ -2565,7 +2565,7 @@ Machine Learning
 Deep Learning",0,2,1,0
 prateekiiest,Python,"Java, C++",Microsoft Research India,prateekkol21@gmail.com,"Machine Learning, Data Mining",0,0,0,0
 github.com/leonardojaneis,"Java, Node.js, Python, C, C++, JavaScript",PHP and Assembly,University of Campinas - UNICAMP,leonardojaneis@gmail.com,"Parallel programming, distributed systems, complex data, pattern recognition, biometrics and database",0,0,0,0
-potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",1,3,1,0
+potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,3,2,1
 cultpenguin,"python
 matlab",,"Department of Geoscience, Aarhus University, Denmark",tmeha@geo.au.dk,"geophysics
 sampling
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",2,7,1,0
+tidyverse",1,7,2,1
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -2865,7 +2865,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",1,4,1,1
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,4,2,2
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3373,7 +3373,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",1,4,1,1
+Statistical Computing",0,4,2,2
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",1,2,1,0
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -5308,7 +5308,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",2,7,1,0
+Rlang",1,7,2,1
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,2,2,2
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -6898,3 +6898,13 @@ C++
 Emacs Lisp",MATLAB,Independent Researcher,andrewjradcliffe@gmail.com,"Bayesian inference
 Statistical computing",0,0,0,0
 mdhaber,Python,,"Cal Poly, San Luis Obispo",mhaberla@calpoly.edu,"Statistics, Optimization, Numerical Integration"
+petermr,"Python, Java, XML",,University of Cambridge,peter.murray.rust@googlemail.com,Chemistry
+isabelizimm,"Python, R",,"RStudio, PBC",i.zimmerman@me.com,"Machine learning/data science, MLOps"
+iammix,"Python
+C++
+C",MATLAB,Aristotle University of Thessaloniki,k.mixios@gmail.com,"Structural Engineering
+Mechanics
+Finite Element Method
+Machine Learning Procedures
+Optimization Methods"
+marcsit,Python,,Rhea System for the European Space Agency,marc.costa@ext.esa.int,Planetary Science
