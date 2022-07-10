@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",1,5,1,0
+Computer Networks. ",0,5,2,1
 mlxd,"C
 C++
 Python
@@ -1440,7 +1440,7 @@ Geophysics
 Geology
 Earth Sciences",0,1,1,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",1,4,0,0
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,4,1,1
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -5553,7 +5553,7 @@ Python",Université de Montréal,timothee.poisot@umontreal.ca,"ecology
 graph theory
 machine learning
 epidemiology
-computational biology",0,1,0,0
+computational biology",1,2,0,0
 michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction",0,0,0,0
 Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing",0,0,0,0
 Metafrancois,R,,University of Liège,francois.leonard@uliege.be,"methodology, statistics, meta-research, statistical power, behavioral neurosciences, psychology, psychopharmacology",0,0,0,0
@@ -6420,7 +6420,7 @@ differential equations
 probabilistic machine learning
 statistics",0,1,1,0
 mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering",0,0,0,0
-Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",0,0,0,0
+Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",1,1,0,0
 davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational biology
 comp chemistry",1,1,0,0
 hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
@@ -6907,7 +6907,7 @@ Mechanics
 Finite Element Method
 Machine Learning Procedures
 Optimization Methods",0,2,1,0
-marcsit,Python,,Rhea System for the European Space Agency,marc.costa@ext.esa.int,Planetary Science
+marcsit,Python,,Rhea System for the European Space Agency,marc.costa@ext.esa.int,Planetary Science,0,0,0,0
 svchb,"C
 C++
 Python
@@ -6923,3 +6923,4 @@ Material Modeling
 Injection
 Internal Combustion Engines
 Acoustics"
+WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,william.pettersson@glasgow.ac.uk,"Algorithms, graph theory"
