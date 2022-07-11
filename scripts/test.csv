@@ -574,7 +574,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",1,9,1,0
+Statistics",0,9,2,1
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",1,2,0,0
@@ -3214,7 +3214,7 @@ kellertuer,"Julia, Matlab",Mathematica,TU Chemnitz,university@ronnybergmann.net,
 ml-evs,Python,"Fortran, C++ at a push",University of Cambridge,joss@ml-evs.science,"Computational materials science/chemistry/physics, primarily atomistic modelling/electronic structure, and any codes focussed more on infrastructure (e.g. databases, containerisation) or data science/machine learning as applied to the above.",0,1,1,0
 thelfer,"C++
 Python",C,"CEA, DES, IRESNE, DEC, Cadarache F-13108 Saint-Paul-Lez-Durance, France",thomas.helfer@cea.fr,"Non linear solid mechanics
-Finite Element Analysis",0,3,2,0
+Finite Element Analysis",0,3,1,0
 rchew,"Python
 R",,RTI International,rchew@rti.org,"R/Stats
 Social Sciences",0,1,1,0
@@ -6569,7 +6569,7 @@ Computational Statistics",1,1,0,0
 Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops",0,0,0,0
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
-agent-based modeling",0,0,0,0
+agent-based modeling",1,1,0,0
 hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",1,1,0,0
 Dom-Owens-UoB,"R
 Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics,0,0,0,0
@@ -6664,7 +6664,7 @@ C
 Solidity
 Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics",0,0,0,0
 nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing",0,0,0,0
-storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",0,0,0,0
+storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",1,1,0,0
 mhu48,R,Python,"University of California, Santa Barbara",mingzhaohu@ucsb.edu,"Survival analysis, longitudinal data analysis, mixed models, functional data analysis, state space models, dynamic models,",0,0,0,0
 tets,fortran,,test,test@example.org,"tests, testing,",0,0,0,0
 elauksap,"C++
@@ -6922,5 +6922,9 @@ Computational Fluid Dynamics
 Material Modeling
 Injection
 Internal Combustion Engines
-Acoustics"
+Acoustics",0,0,0,0
 WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,william.pettersson@glasgow.ac.uk,"Algorithms, graph theory"
+shagunsodhani,Python,C++,Meta AI,sshagunsodhani@gmail.com,"Machine Learning
+Artificial Intelligence
+Algorithms
+Data Structures"
