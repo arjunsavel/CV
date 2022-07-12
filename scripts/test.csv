@@ -1093,7 +1093,7 @@ chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
 Geomechanics",0,0,0,0
-kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,4,1,1
+kbenoit,R,,London School of Economics and Political Science,kbenoit@lse.ac.uk,"text analysis, replication, social science, analytics",0,4,1,0
 myousefi2016,"C, C++, Python, R, Julia","C#, Fortran",Clemson University,yousefi@clemson.edu,"Computational materials sicence, Numerical methods",0,5,2,1
 ibarraespinosa,R,,"Departamento de Ciências Atmosféricas, Universidade dfe São Paulo",sergio.ibarra@usp.br,"Environment, Air Pollution, Emissions, Spatial Features",0,4,2,0
 johnsamuelwrites,"C
@@ -3137,7 +3137,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,6,4,1
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,6,4,0
 yangbai90,"fortran
 cpp
 c
@@ -4625,7 +4625,7 @@ Python",,UCL,rob.seymour@ucl.ac.uk,"Neuroscience
 Signal Processing
 MEG
 EEG",0,1,0,0
-Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay",narayanarao.bhogapurapu@gmail.com,"Remote sensing, crop, soil, SAR, QGIS",0,1,1,1
+Narayana-Rao,"Python, C++, HTML,","Java, Javascript,","MRSLab, CSRE, IIT Bombay",narayanarao.bhogapurapu@gmail.com,"Remote sensing, crop, soil, SAR, QGIS",0,1,1,0
 as,php,r,AS,salasarthj@gmail.com,r,0,0,0,0
 ZijieZhaoMMHW,MATLAB,R,The University of Melbourne,zijiezhaomj@gmail.com,Oceanography; Meteorology,0,0,0,0
 frie ayalew,c++,,lecturer and researcher,frie.ayalew@aastu.edu.et,power system engineering,0,0,0,0
@@ -5091,7 +5091,7 @@ Solid body statics & dynamics
 Contact mechanics",1,1,0,0
 msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,1,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",1,1,0,0
-Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,1,1,1
+Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,1,1,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
 Climate
 Energy systems
@@ -6056,7 +6056,7 @@ bhpayne,Python,,None,ben.is.located@gmail.com,Physics,0,0,0,0
 hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology",0,0,0,0
 gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com,,0,0,0,0
 Palash63,R,SAS,University of Kansas Medical Center,psharma4@kumc.edu,"Clinical Trial; Survival Analysis, Machine learning",0,0,0,0
-Narayana-Rao,"HTML, JS, C, C++, python, MATLAB",,Indian Institute of Technology Bombay,narayanarao.bhogapurapu@gmail.com,"Microwave Remote Sensing, Optical Remote Sensing, Agriculture, Machine learning, QGIS",0,1,1,1
+Narayana-Rao,"HTML, JS, C, C++, python, MATLAB",,Indian Institute of Technology Bombay,narayanarao.bhogapurapu@gmail.com,"Microwave Remote Sensing, Optical Remote Sensing, Agriculture, Machine learning, QGIS",0,1,1,0
 curtcorum,"Python, Matlab","c, c++",University of Iowa,curtis-corum@uiowa.edu,"MRI, fMRI, SDR",0,0,0,0
 richelbilderbeek,"C++, R, Rust","Python, C",University of Groningen,richel@richelbilderbeek.nl,"phylogenetics, epidemiology, immunology, bioinformatics, theoretical biology",0,0,0,0
 alessandroamaranto,"Python
@@ -6923,8 +6923,11 @@ Material Modeling
 Injection
 Internal Combustion Engines
 Acoustics",0,0,0,0
-WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,william.pettersson@glasgow.ac.uk,"Algorithms, graph theory"
+WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,william.pettersson@glasgow.ac.uk,"Algorithms, graph theory",0,0,0,0
 shagunsodhani,Python,C++,Meta AI,sshagunsodhani@gmail.com,"Machine Learning
 Artificial Intelligence
 Algorithms
 Data Structures"
+rahulporuri,Python,,Enthought,rahul.poruri@gmail.com,scientific software
+igor-marques,shell / bash,,CICECO - University of Aveiro,oliveiramarques.igor@gmail.com,"Molecular Modelling (Molecular Dynamics, DFT calculations)"
+hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue
