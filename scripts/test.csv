@@ -2433,7 +2433,7 @@ genomics
 user interface",0,0,0,0
 santisoler,Python,,"CONICET, Argentina",santiago.r.soler@gmail.com,"Geophysics, gravity, magnetics, inversion.",0,2,0,0
 eteq,"Python, C/C++","Javascript, Java, Borland Turbo Pascal (j/k on the last one)",Space Telescope Science Institute,erik.tollerud@gmail.com,"Asttronomy/astrophysics, other physics depending on complexity, reproducibility-related tools",0,3,0,0
-samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,1,2,0,0
+samaloney,Python IDL JavaScript,Java,Trinity College Dublin,shane.maloney@tcd.ie,Heliophysics Solar physics,0,2,1,1
 jeanmdavidson,"python, R","Python, R","Assistant Professor - Cal Poly, San Luis Obispo",Jdavid06@calpoly.edu,"Genomics, bioinformatics",0,0,0,0
 smsharma,Python,"C, C++, Julia",New York University,sm8383@nyu.edu,"Astrophysics, cosmology, particle physics, astronomy, statistics, machine learning",0,2,1,0
 OopsAllErrors,"Python
@@ -4165,7 +4165,7 @@ Neuroimaging
 Psychology
 Data science",0,3,1,1
 chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,0,0
-dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",1,1,0,0
+dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",0,1,1,1
 mherman09,Fortran,"Python
 HTML/CSS","California State University, Bakersfield",matthew.w.herman@gmail.com,"Geophysics
 Geodynamics
@@ -6323,7 +6323,7 @@ douweschulte,"Rust
 C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences,0,0,0,0
 nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
 magnetoenceophalography analysis",0,0,0,0
-bauer-alex,R,,"Department of Statistics, LMU Munich, Munich, Germany",alexander.bauer@stat.uni-muenchen.de,"Spatio-temporal statistics, Functional data analysis, Data visualization, Applied statistics",0,0,0,0
+bauer-alex,R,,"Department of Statistics, LMU Munich, Munich, Germany",alexander.bauer@stat.uni-muenchen.de,"Spatio-temporal statistics, Functional data analysis, Data visualization, Applied statistics",1,1,0,0
 rashoba,"Python, PHP,",JavaScript,@Rollademy,rasheedatoba@gmail.com,Data Science,0,0,0,0
 abdelkrim-bsr,R,R,Chouaib Doukkali University,bouasria.a@ucd.ac.ma,Machine Learning,0,0,0,0
 vikasbukhari,JavaScript,"C, C++, JAVA","School of Engineering and Technology, BGSBU Rajouri",vikassyed@gmail.com,"Web, Android",0,0,0,0
@@ -6931,8 +6931,14 @@ Data Structures",0,0,0,0
 rahulporuri,Python,,Enthought,rahul.poruri@gmail.com,scientific software,0,0,0,0
 igor-marques,shell / bash,,CICECO - University of Aveiro,oliveiramarques.igor@gmail.com,"Molecular Modelling (Molecular Dynamics, DFT calculations)",0,0,0,0
 hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
-@gtonkinhill,"Python
+gtonkinhill,"Python
 R",c++,University of Oslo,g.tonkinhill@gmail.com,"bioinformatics
 statistics
 genomics
-transcriptomics"
+transcriptomics",0,1,1,1
+RBhupi,"R
+Python","C++ 
+NCL
+Latex",Research Scholar,bhupendra.raut@northwestern.edu,"Weather and Climate
+Atmospheric Remote Sensing
+Statistics and Data Analysis"
