@@ -185,6 +185,29 @@
   {
     "arxiv": null,
     "authors": [
+      "Mayo, Andrew W.",
+      "Harada, Caleb",
+      "Dressing, Courtney",
+      "Dholakia, Shashank",
+      "Dholakia, Shishir",
+      "Giacalone, Steven",
+      "Savel, Arjun",
+      "Turtelboom, Emma"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Enriching Our View of Multiplanet Systems Using TESS",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Savel, Arjun",
       "Kempton, Eliza",
       "Komacek, Thaddeus",
@@ -227,29 +250,6 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Mayo, Andrew W.",
-      "Harada, Caleb",
-      "Dressing, Courtney",
-      "Dholakia, Shashank",
-      "Dholakia, Shishir",
-      "Giacalone, Steven",
-      "Savel, Arjun",
-      "Turtelboom, Emma"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Enriching Our View of Multiplanet Systems Using TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
     "volume": "54",
     "year": "2022"
   },
@@ -859,7 +859,7 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4da0",
     "page": null,
@@ -1671,7 +1671,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
