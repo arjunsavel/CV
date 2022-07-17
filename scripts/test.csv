@@ -1586,7 +1586,7 @@ Finite-element methods
 Particle methods",0,4,0,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
-geoscience",0,1,0,0
+geoscience",1,2,0,0
 adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,2,0
 davidbeckingsale,C++,"C
 Fortran
@@ -2273,7 +2273,7 @@ Data Science
 Ecology",0,1,0,0
 supark87,Python,,Bioinformatics fellow,subinpark@gatech.edu,NGS/Genome analysis,0,0,0,0
 jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"Geoscience
-Geology",0,1,0,0
+Geology",1,2,0,0
 castelao,"Python
 Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
@@ -4760,7 +4760,7 @@ GIS
 Civil Engineering
 UAS Inspections
 Computer Vision
-Optimization",0,0,0,0
+Optimization",1,1,0,0
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
@@ -4968,7 +4968,7 @@ oceanography
 geospatial analysis
 scientific computing for earth sciences
 machine learning",0,1,0,0
-colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics,0,0,0,0
+colmtalbot,python,,Caltech,talbotcolm@gmail.com,astrophysics,1,1,0,0
 waldeyr,"Python
 R","Python
 R",Instituto Federal de Goiás,waldeyr.mendes@ifg.edu.br,"Biology
@@ -5040,7 +5040,7 @@ Perl
 Bash
 SQL",None,abetusk@gmail.com,"Mathematics
 Computer Science",0,0,0,0
-mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ...",0,1,1,0
+mponce0,"R, Python, C, Fortran, shell",,"SciNet HPC Consortium, University of Toronto",mponce@scinet.utoronto.ca,"Visualization, data analysis, ...",0,1,0,0
 aguspesce,"Spanish
 English",Python,CONICET,pesce.agustina@gmail.com,"Geophysics
 Processing, modeling, and visualizing geophysical data",0,0,0,0
@@ -6942,3 +6942,6 @@ NCL
 Latex",Research Scholar,bhupendra.raut@northwestern.edu,"Weather and Climate
 Atmospheric Remote Sensing
 Statistics and Data Analysis"
+@esf0,"C, C++, Python",,Aston Institute of Photonic Technologies,e.sedov@g.nsu.ru,"Optical communication
+Photonics"
+zfergus,"C++, Python","JavaScript, Java",New York University,zfergus@nyu.edu,"Computer Graphics, Scientific Computing, Simulation"
