@@ -1501,7 +1501,7 @@ Multi-physics frameworks & applications
 Legacy application refactoring tools
 Parallel & PGAS runtimes/RTLs
 Package Managers
-MacOS tools & Utilities",0,5,2,1
+MacOS tools & Utilities",0,5,2,0
 mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science, web APIs, statistics",0,2,0,0
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
@@ -3664,7 +3664,7 @@ rabernat,Python,Fortran,Columbia University,rpa@ldeo.columbia.edu,"Oceanography,
 Oldim Vilanculo,Matlab,Phyton,Eduardo Mondlane University,ochuquelane@gmail.com,Porous media modeling,0,0,0,0
 mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear algebra
 multiphysics
-algebraic multigrid",0,1,1,1
+algebraic multigrid",0,1,1,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
 skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,2,0,0
 santoshkumarradha,"python
@@ -3840,7 +3840,7 @@ vectorization
 GPU
 FMM",0,1,0,0
 georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,1,1,0
-adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,1,0
+adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,0,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
 Assembly tools",0,0,0,0
@@ -3971,7 +3971,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,0,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,4,3,1
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,4,2,1
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -4024,7 +4024,7 @@ Statistics only when very rudimentary/applied (i.e. I'm not skilled at mathemati
 ginettelafit,R,,,ginette.lafit@kuleuven.be,"Gaussian Graphical Models, l1 regularization, mixed effect models",0,0,0,0
 ginettelafit,R,,,ginettelafit@kuleuven.be,"Gaussian Graphical Models, l1 regularization, mixed effect models",0,0,0,0
 luketudge,"Python, R",linux shell?,,luketudge@gmail.com,"psychophysics, vision",0,0,0,0
-gagolews,"Python, R, C++","Cython, Julia, LaTeX",,m.gagolewski@deakin.edu.au,"Machine Learning, Clustering, Aggregation, Statistics, Fuzzy, Sports, Informetrics, Bibliometrics",0,1,0,0
+gagolews,"Python, R, C++","Cython, Julia, LaTeX",,m.gagolewski@deakin.edu.au,"Machine Learning, Clustering, Aggregation, Statistics, Fuzzy, Sports, Informetrics, Bibliometrics",1,2,0,0
 mamunm,Python,"Julia, java, fortran",,mamun.che06@gmail.com,"Computational chemistry, materials science",0,0,0,0
 Hedrick-ARS,Python,"Matlab
 C",,andrew.hedrick@usda.gov,"Hydrology
@@ -4277,7 +4277,7 @@ wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Desi
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
 tuelwer,Python,"R, MATLAB",Heinrich Heine University Düsseldorf,tobias.uelwer@hhu.de,"Image Processing, Machine Learning, Mathematical Programming, Computer Vision, Data Science",0,3,1,0
 otre99,"C++, Python, QML/Qt",,Universidad Nacional Autónoma de México,roberto.cruz.rdg@gmail.com,"Numerical Modeling, Image Processing, Machine Learning, Computer Vision",0,0,0,0
-arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",0,2,1,0
+arjunsavel,Python,C,"University of Maryland, College Park",asavel@umd.edu,"Astrophysics, data reduction, plotting, Monte Carlo methods, radiative transfer",1,3,1,0
 trettenbrein,R,Python,Max Planck Institute for Human Cognitive & Brain Sciences,trettenbrein@cbs.mpg.de,"cognitive science, linguistics, psychology of language, neuroscience of language",0,0,0,0
 no,english,,To read book,rashidaakter5288@gmail.com,General surgery,0,0,0,0
 not sure what you mean,"i do not want program, i would like to review papers",n/a,social sciences,aklepakova@gmail.com,"processes, continuous improvement, quality, social sciences, public administration, business administration, sales, procurement, QMA",0,0,0,0
@@ -4749,7 +4749,7 @@ Python",,"Physics Department, Sapienza U niversity of Rome",lorenzo.rovigatti@un
 - physical chemistry
 - soft matter
 - chemical physics
-- biophysics",0,3,2,1
+- biophysics",0,3,2,0
 none,"Python, Julia, C, C++",FORTRAN,University of Waterloo,nmabukhdeir@uwaterloo.ca,"fluid mechanics
 particle mechanics
 image processing",0,0,0,0
@@ -6398,7 +6398,7 @@ jimmielin,Fortran 90,"PHP
 Python
 Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
 Earth system modeling
-Numerical methods",0,0,0,0
+Numerical methods",1,1,0,0
 thodson-usgs,python,R,U.S. Geological Survey,thodson@usgs.gov,"earth science, statistics",1,1,0,0
 babakmohammadi,R,MATLAB,Lund University,babak.mohammadi@neteko.lu.se,"Hydrology
 Hydrological Modeling
@@ -6768,7 +6768,7 @@ SYCL","FORTRAN
 Java
 C
 OpenCL
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,0,0,0,0
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,1,1,0,0
 robertszafa,"Python
 C++
 SYCL
@@ -6776,7 +6776,7 @@ OpenCL
 CUDA","C
 Java
 Fortran
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
 mbarzegary,"C
 C++
 C#
@@ -6791,9 +6791,9 @@ jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
 Soil science",0,0,0,0
-ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,0,0,0
-Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,0,0,0
-Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
+ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,1,1,0,0
+Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",1,1,0,0
+Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
 ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
 Astrophysics",0,0,0,0
@@ -6944,6 +6944,10 @@ Atmospheric Remote Sensing
 Statistics and Data Analysis",0,0,0,0
 esf0,"C, C++, Python",,Aston Institute of Photonic Technologies,e.sedov@g.nsu.ru,"Optical communication
 Photonics",0,0,0,0
-zfergus,"C++, Python","JavaScript, Java",New York University,zfergus@nyu.edu,"Computer Graphics, Scientific Computing, Simulation"
-https://github.com/imcatta,"Python, Typescript, Java","C++, Javascript",University of Bergamo,andrea.cattaneo@unibg.it,"Agent-based modeling, Rehabilitation, VR, Motion capture, Pose detection"
+zfergus,"C++, Python","JavaScript, Java",New York University,zfergus@nyu.edu,"Computer Graphics, Scientific Computing, Simulation",0,0,0,0
+imcatta,"Python, Typescript, Java","C++, Javascript",University of Bergamo,andrea.cattaneo@unibg.it,"Agent-based modeling, Rehabilitation, VR, Motion capture, Pose detection",0,0,0,0
 massimotorquati,C++,C,"Computer Science Department -- University of Pisa, Italy",massimo.torquati@unipi.it,Parallel Programming
+vardhah,Python,Matlab,Vanderbilt University,harsh.vardhan@vanderbilt.edu,System design
+https://jenniferdavid@github.com,"C++
+python
+Matlab",,University of the West of England,jenniferdavid.hh@gmail.com,Mobile robotics
