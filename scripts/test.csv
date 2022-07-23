@@ -2178,7 +2178,7 @@ github.com/andrewsanchez,Python,BASH,,andrew.as@pm.me,"HPC, data software, etc."
 aozorahime,"Python
 R",,Data Science Indonesia,lia.anggraini44@gmail.com,"Machine Learning
 Data Science
-Natural Language Processing",0,3,1,1
+Natural Language Processing",0,3,1,0
 lixiaodong,"Java
 C#
 Javascript
@@ -2686,7 +2686,7 @@ time domain astronomy",0,1,0,0
 materials informatics
 physical chemistry
 inorganic chemistry
-mathematical modeling",0,1,1,1
+mathematical modeling",0,1,1,0
 grburgess,"python, c++, Stan, FORTRAN",,Max-Planck Institute for Extraterrestrial Physics,jburgess@mpe.mpg.de,astrophysics,0,2,0,0
 nmoran,"Python
 Julia
@@ -5623,7 +5623,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",1,2,1,1
+Ordinary & Partial Differential Equations",1,2,1,0
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,0,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -5892,7 +5892,7 @@ Water Quality",0,0,0,0
 sestelo,R,,"Dep. Statistics and O.R, University of Vigo",sestelo@uvigo.es,"data analysis, regression,  bootstrap, testing procedures, survival analysis,etc",0,0,0,0
 1mikegrn,"Python, C, Go",,Crunch Cloud Analytics,michael@michaelgreen.dev,"Materials Science
 Chemistry
-Cheminformatics",0,1,1,1
+Cheminformatics",0,1,1,0
 KedoKudo,"Python
 C++
 Cuda
@@ -6955,9 +6955,19 @@ bkrayfield,"Python
 R",Go,Northern Arizona University,blake.rayfield@nau.edu,"Finance
 Economics",0,0,0,0
 baptistecaziot,matlab,python,Philipps-Universität Marburg,baptiste.caziot@gmail.com,"neuroscience
-psychology"
-FrancisXL2019,R,Python,CSULB,xiyue.liao@csulb.edu,R package
-https://github.com/thomasgillis,"C
+psychology",0,0,0,0
+FrancisXL2019,R,Python,CSULB,xiyue.liao@csulb.edu,R package,0,0,0,0
+thomasgillis,"C
 C++",,Massachusetts Institute of Technology; UCLouvain,thoma.gillis@gmail.com,"Computational fluid dynamics
-distributed programming"
+distributed programming",0,0,0,0
 gwenchee,Python,"Matlab, C++",University of Illinois at Urbana-Champaign,gwendolynchee95@gmail.com,"Nuclear Engineering, Machine Learning,  high performance computing"
+WhiteSymmetry,Python,Julia,PhD. student in Physics at Gebze Technical University (thesis term),mkececi@mehmetkececi.com,Quantum Computing
+Not sure,"C, Fortran, Python",Matlab,University of Maryland Baltimore County (UMBC),sergey.v.korkin@nasa.gov,Atmospheric Sciences
+Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Bayesian statistics
+Bayesian nonparametrics
+Optimal design
+Experimental design
+Active learning
+Adaptive sampling
+Gaussian processes
+Variational inference"
