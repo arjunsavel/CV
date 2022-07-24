@@ -2791,7 +2791,7 @@ Bioinformatics",0,0,0,0
 CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",1,2,1,0
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
-stochastic programming",0,3,2,1
+stochastic programming",0,3,2,0
 arthur-e,Python,Javascript,"University of Montana, Numerical Terradynamic Simulation Group",endsley@umich.edu,"spatial sciences
 geography
 remote sensing
@@ -3832,7 +3832,7 @@ Python",,DZHW,akbaritabar@gmail.com,"Computational Social Science, Network analy
 xywei,"Python
 C++",Matlab,University of Illinois at Urbana-Champaign,xywei@illinois.edu,"Numerical Analysis
 Scientific Computing",0,0,0,0
-ralphevins,Python,,University of Victoria,revins@uvic.ca,building energy simulation,0,1,1,1
+ralphevins,Python,,University of Victoria,revins@uvic.ca,building energy simulation,0,1,1,0
 hello,"c, C++, Java",Python,"IMS, Noida",asmita.yadav85@gmail.com,"Open source, Big Data, data science",0,0,0,0
 berenger-eu,C++,C,Inria,berenger.bramas@inria.fr,"HPC
 parallelization
@@ -6768,7 +6768,7 @@ SYCL","FORTRAN
 Java
 C
 OpenCL
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,1,1,0,0
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,0,1,1,1
 robertszafa,"Python
 C++
 SYCL
@@ -6776,7 +6776,7 @@ OpenCL
 CUDA","C
 Java
 Fortran
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
 mbarzegary,"C
 C++
 C#
@@ -6960,9 +6960,9 @@ FrancisXL2019,R,Python,CSULB,xiyue.liao@csulb.edu,R package,0,0,0,0
 thomasgillis,"C
 C++",,Massachusetts Institute of Technology; UCLouvain,thoma.gillis@gmail.com,"Computational fluid dynamics
 distributed programming",0,0,0,0
-gwenchee,Python,"Matlab, C++",University of Illinois at Urbana-Champaign,gwendolynchee95@gmail.com,"Nuclear Engineering, Machine Learning,  high performance computing"
-WhiteSymmetry,Python,Julia,PhD. student in Physics at Gebze Technical University (thesis term),mkececi@mehmetkececi.com,Quantum Computing
-Not sure,"C, Fortran, Python",Matlab,University of Maryland Baltimore County (UMBC),sergey.v.korkin@nasa.gov,Atmospheric Sciences
+gwenchee,Python,"Matlab, C++",University of Illinois at Urbana-Champaign,gwendolynchee95@gmail.com,"Nuclear Engineering, Machine Learning,  high performance computing",0,0,0,0
+WhiteSymmetry,Python,Julia,PhD. student in Physics at Gebze Technical University (thesis term),mkececi@mehmetkececi.com,Quantum Computing,0,0,0,0
+Not sure,"C, Fortran, Python",Matlab,University of Maryland Baltimore County (UMBC),sergey.v.korkin@nasa.gov,Atmospheric Sciences,0,0,0,0
 Daniel-Dodd,Python,,Lancaster University,d.dodd1@lancaster.ac.uk,"Bayesian statistics
 Bayesian nonparametrics
 Optimal design
