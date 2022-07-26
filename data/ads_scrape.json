@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2206.11268",
+    "authors": [
+      "Gandhi, Siddharth",
+      "Kesseli, Aurora",
+      "Snellen, Ignas",
+      "Brogi, Matteo",
+      "Wardenier, Joost P.",
+      "Parmentier, Vivien",
+      "Welbanks, Luis",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac1744",
+    "page": 749,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-09-00",
+    "title": "Spatially resolving the terminator: variation of Fe, temperature, and winds in WASP-76 b across planetary limbs and orbital phase",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G",
+    "volume": "515",
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.10024",
     "authors": [
       "Gan, Tianjun",
@@ -156,29 +179,6 @@
     "pubdate": "2022-06-00",
     "title": "TESS Hunt for Young and Maturing Exoplanets (THYME) VII : Membership, rotation, and lithium in the young cluster Group-X and a new young exoplanet",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220606254N",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.11268",
-    "authors": [
-      "Gandhi, Siddharth",
-      "Kesseli, Aurora",
-      "Snellen, Ignas",
-      "Brogi, Matteo",
-      "Wardenier, Joost P.",
-      "Parmentier, Vivien",
-      "Welbanks, Luis",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac1744",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1679G",
     "volume": null,
     "year": "2022"
   },
