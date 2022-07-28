@@ -101,7 +101,7 @@ machine learning",0,1,0,0
 mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Physics, Neutron Scattering, Energy Storage Materials, Materials Science",0,5,0,0
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,2,1,0
-CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",0,3,1,1
+CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",0,3,1,0
 road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
 bioinformatics
 cheminformatics
@@ -2602,7 +2602,7 @@ martinfleis,Python,,University of Strathclyde,martin@martinfleischmann.net,"Geog
 Urban morphology
 Network analysis
 Geospatial
-GIS",0,3,1,0
+GIS",0,3,0,0
 Nheyer,"Python,C++,R",,California State University Monterey Bay,nheyer@csumb.edu,"Genomics, mathematics",0,0,0,0
 mbdemoraes/moafs,"Blocks
 Python",,UNICAMP - MASTER,daiolive81@gmail.com,Technology in Education,0,0,0,0
@@ -2802,7 +2802,7 @@ ieyjzhou,C++,C,"Department of Industrial Engineering, Pusan National University"
 BARCELONA,"java, node, scala",rust,PERU,mupao@gmail.com,www.upao.pe,0,0,0,0
 jwbuurlage,C++,"Python, Rust","CWI, Amsterdam",janwillembuurlage@gmail.com,"numerical linear algebra, imaging science, tomography,",0,1,0,0
 TomasBeuzen,python,"R
-Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",0,1,1,0
+Matlab",University of British Columbia,tomas.beuzen@gmail.com,"Coastal, water, remote sensing, earth science",0,1,0,0
 xin-huang,"Python, Java, R",Perl,University of Arizona,xinhuang@email.arizona.edu,"Population genetics, Genomics, Computational biology",0,2,0,0
 dcassol,R,"bash
 python",University of California Riverside,danielac@ucr.edu,"Bioinformatics
@@ -3336,7 +3336,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",1,5,2,1
+    - Sequence alignment",2,6,2,1
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -6986,9 +6986,10 @@ C/C++","Javascript/Typescript
 Dart
 Java",University of Western Australia,nicholas.pritchard@uwa.edu.au,"High Performance Computing
 Astronomy (Radio)
-Computational workflow management systems"
+Computational workflow management systems",0,0,0,0
 GeekLogan,"Python
 C++",,University of Michigan,loganaw@umich.edu,"Neuroscience
 Genetics
-Data Science"
+Data Science",0,0,0,0
 https://github.com/SichengHe,python,fortran,MIT,sichengh@mit.edu,aerospace
+mohammadul,"C, C++, Octave, Python, Matlab","Assembly, HTML, JavaScript, Java",,mohammadul@gmail.com,"Image Processing, Computer Vision, Geometry Processing, Machine Learning"
