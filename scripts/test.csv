@@ -3971,7 +3971,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,0,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,4,2,1
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,4,2,0
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -5225,7 +5225,7 @@ MatLab","C++
 Julia",European Spallation Source ERIC,benjaminbolling@icloud.com,"General physics and mathematics
 Various algorithms",0,0,0,0
 peterakirk,"Python, R, MATLAB",Bash,"Institute of Cognitive Neuroscience, University College London",p.kirk@ucl.ac.uk,"fMRI, neuroimaging, psychophysiology, respiration, heart rate variability",0,0,0,0
-balos1,"C, C++",Python,Lawrence Livermore National Laboratory,balos1@llnl.gov,Mathematical software,0,0,0,0
+balos1,"C, C++",Python,Lawrence Livermore National Laboratory,balos1@llnl.gov,Mathematical software,1,1,0,0
 ricardogando,python,,Observatorio Nacional,ogando@on.br,"astronomy
 astrophysics",0,0,0,0
 amygalanter,"Python
@@ -6381,7 +6381,7 @@ judafe,"Python
 C++
 Matlab/Octave",Fortran,United States Army Corp of Engineers (formerly),judacha@gmail.com,Lidar,0,0,0,0
 frydaydeep,Julia,,8615640960524,frydaydeep@gmail.com,Computational Mechanics,0,0,0,0
-stmcg,R,,"Department of Biostatistics, Harvard University",sean_mcgrath@g.harvard.edu,"Biostatistics, epidemiology, causal inference, machine learning",0,1,1,1
+stmcg,R,,"Department of Biostatistics, Harvard University",sean_mcgrath@g.harvard.edu,"Biostatistics, epidemiology, causal inference, machine learning",0,1,1,0
 MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,1,1,0,0
 ccamara,R,,University of Warwick,ccamara@pm.me,"data, spatial data, visualisation, maps, networks",0,0,0,0
 tschwinge,"C
@@ -6991,5 +6991,25 @@ GeekLogan,"Python
 C++",,University of Michigan,loganaw@umich.edu,"Neuroscience
 Genetics
 Data Science",0,0,0,0
-https://github.com/SichengHe,python,fortran,MIT,sichengh@mit.edu,aerospace
-mohammadul,"C, C++, Octave, Python, Matlab","Assembly, HTML, JavaScript, Java",,mohammadul@gmail.com,"Image Processing, Computer Vision, Geometry Processing, Machine Learning"
+SichengHe,python,fortran,MIT,sichengh@mit.edu,aerospace,0,0,0,0
+mohammadul,"C, C++, Octave, Python, Matlab","Assembly, HTML, JavaScript, Java",,mohammadul@gmail.com,"Image Processing, Computer Vision, Geometry Processing, Machine Learning",0,0,0,0
+myxie,"Python
+C/C++","Java
+C#",University of Western Australia,ryan.bunney@research.uwa.edu.au,Astronomy; Computer Science; HPC; Computer Graphics
+Radonirinaunimi,"python
+C++
+Rust
+R
+C
+Fortran",Mathematica,Vrije Universiteit Amsterdam,tanjona.lspc@gmail.com,"Machine Learning
+Generative Models
+Physics"
+tkmamidi,"Python, R",,The University of Alabama at Birmingham,tmamidi@uab.edu,"Genetics
+Genomics
+Bioinformatics
+Computational Biology
+Machine Learning
+Artificial Intelligence
+Reproducible Science
+Systems biology"
+@epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations"
