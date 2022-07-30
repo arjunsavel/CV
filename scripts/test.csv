@@ -4990,7 +4990,7 @@ C
 Java","National Research University Higher School of Economics, Russia",maximtrp@gmail.com,"Statistics
 Machine learning
 Data science
-Bioinformatics",0,2,2,0
+Bioinformatics",0,2,1,0
 hofmannu,"C++
 CUDA","MATLAB
 Python",ETH Zurich,hofmannu@biomed.ee.ethz.ch,"Biomedical imaging
@@ -5117,7 +5117,7 @@ software
 python
 bash
 nondestructive testing
-structural health monitoring",0,1,1,0
+structural health monitoring",0,1,0,0
 arunmano121,"python
 bash",,,arunmanohar@yahoo.com,"Data Analytics
 Artificial Intelligence
@@ -5131,7 +5131,7 @@ Neural Networks
 Gradient Boosting
 Nondestructive Testing
 Structural Health Monitoring
-Python",0,1,1,0
+Python",0,1,0,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
@@ -5337,7 +5337,7 @@ Deep Learning
 Regression
 Classification
 Statistical Modeling
-Class Imbalance",0,1,1,0
+Class Imbalance",0,1,0,0
 d,sd,xd,anser,6262@bfm.com,s,0,0,0,0
 michaelberks,"C++
 Python
@@ -5374,7 +5374,7 @@ alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
 dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",0,3,2,1
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
-Network Analysis",0,1,1,0
+Network Analysis",1,2,1,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
 Machine Learning",0,3,2,0
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
@@ -6995,7 +6995,7 @@ SichengHe,python,fortran,MIT,sichengh@mit.edu,aerospace,0,0,0,0
 mohammadul,"C, C++, Octave, Python, Matlab","Assembly, HTML, JavaScript, Java",,mohammadul@gmail.com,"Image Processing, Computer Vision, Geometry Processing, Machine Learning",0,0,0,0
 myxie,"Python
 C/C++","Java
-C#",University of Western Australia,ryan.bunney@research.uwa.edu.au,Astronomy; Computer Science; HPC; Computer Graphics
+C#",University of Western Australia,ryan.bunney@research.uwa.edu.au,Astronomy; Computer Science; HPC; Computer Graphics,0,0,0,0
 Radonirinaunimi,"python
 C++
 Rust
@@ -7003,7 +7003,7 @@ R
 C
 Fortran",Mathematica,Vrije Universiteit Amsterdam,tanjona.lspc@gmail.com,"Machine Learning
 Generative Models
-Physics"
+Physics",0,0,0,0
 tkmamidi,"Python, R",,The University of Alabama at Birmingham,tmamidi@uab.edu,"Genetics
 Genomics
 Bioinformatics
@@ -7011,5 +7011,14 @@ Computational Biology
 Machine Learning
 Artificial Intelligence
 Reproducible Science
-Systems biology"
-@epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations"
+Systems biology",0,0,0,0
+epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations",0,0,0,0
+xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics"
+@vijaymocherla,"Python
+C
+C++
+Fortran",,Tata Institute of Fundamental Research,vijaysai.mocherla@gmail.com,"quantum chemistry,
+density functional theory,
+quantum dynamics,
+Atomic,molecular and optical physics"
+larsenkg,"Python, MATLAB, Mathematica","C++, JavaScript, Haskell",IONIQ Sciences,larsenkg@gmail.com,"Physics, electrical engineering, materials science, materials characterization, atomic force microscopy, scanning electron microscopy, Raman spectroscopy, bioimpedance, x-ray windows"
