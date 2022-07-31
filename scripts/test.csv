@@ -1596,7 +1596,7 @@ shivupa,"Python
 C++",,University of Pittsburgh,shu8@pitt.edu,"Chemistry
 Chemical Physics
 Electronic Structure
-Quantum Mechanics",0,1,0,0
+Quantum Mechanics",1,2,0,0
 trashbirdecology,R,,University of Nebraska-Lincoln,jessicaleighburnett@gmail.com,"Ecology
 Ecological modelling
 Ecological statistics
@@ -3032,7 +3032,7 @@ amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
 Quantum Mechanics
 Molecular Dynamics
-Electronic Structure",0,2,0,0
+Electronic Structure",1,3,0,0
 sevberg,Python,"C++
 Julia
 Javascript","Forschungszentrum Juelich, IEK-3",s.ryberg@fz-juelich.de,"Energy system modelling
@@ -3149,7 +3149,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,5,2,1
+multiscale",0,5,1,1
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,0,0
 rchg,"Python
@@ -3638,7 +3638,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,5,2,1
+plasticity",0,5,1,1
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -4479,7 +4479,7 @@ Signal Processing
 Mineral Physics",0,1,0,0
 iammix,Python,,Aristotle University Of Thessaloniki,k.mixios@gmail.com,"Applied Mechanics
 Finite Element Method
-Structural Analysis",0,2,1,0
+Structural Analysis",1,3,1,0
 josehd,Python,,,josehd@cio.mx,"Optics
 Mathematics",0,0,0,0
 sabinomaggi,"Fortran, Python, R","Mathematica, AWK, bash",CNR National Research Council,sabino.maggi@cnr.it,"physics/solid state/superconductivity
@@ -4536,7 +4536,7 @@ raghurama123,"Fortran, Python, Octave",Julia,Tata Institute of Fundamental Resea
 Materials Science
 Quantum Mechanics
 Quantum Chemistry
-Density Functional Theory",1,1,0,0
+Density Functional Theory",2,2,0,0
 pgg1610,Python,R,Graduate Research Assistant,pghaneka@purdue.edu,"Catalysis
 Material Science
 Reaction engineering
@@ -6081,7 +6081,7 @@ Viech,Python,,,maximilian.stahlberg@tu-berlin.de,"computer algebra systems
 mathematical optimization
 (distributionally) robust optimization
 network science / applied graph theory
-algorithms and complexity theory",1,1,0,0
+algorithms and complexity theory",2,2,0,0
 zadehsey,"Matlab
 Python",,Carnegie Mellon University,sghaffar@andrew.cmu.edu,"Mechanical Engineering
 Nanoscale Transport
@@ -6254,7 +6254,7 @@ guxiaob,Matlab and Python,R,University of Ottawa,xzhao117@uottawa.ca,"Biomechanc
 Rehabilitation
 Sports
 Pose Estimation",0,0,0,0
-darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics",0,0,0,0
+darinddv,"R, Python, C++","MATLAB, C",University of Kentucky,darinddv@gmail.com,"Chemistry, Physics, Biochemistry, Bioinformatics, Pharmacology, Cheminformatics, Drug Development, Mathematics",1,1,0,0
 chenyenchung,"R
 Python",,New York University,yenchung.chen@nyu.edu,Genomics,0,0,0,0
 vjbytes102,Python,"Matlab, R",Sage Bionetworks,vy386@nyu.edu,"Data Science, Machine Learning, Deep Learning, Computer Vision,  Digital Signal Processing, Mental Health, Depression, PTSD,Cognitive behavior",0,0,0,0
@@ -6391,7 +6391,7 @@ OpenACC
 Shell Scripting","OpenMP
 Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance Computing
 Compiler implementation",0,0,0,0
-raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",1,1,0,0
+raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",2,2,0,0
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software",0,1,1,0
 brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",2,3,1,1
 jimmielin,Fortran 90,"PHP
@@ -6492,7 +6492,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",4,5,1,1
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",5,6,1,1
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -6651,7 +6651,7 @@ density functional theory",0,0,0,0
 SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization",0,0,0,0
 flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility",0,0,0,0
 VenkteshV,"python,scala,java",javascript,Indraprastha Institute of Information technology,venkkratos@gmail.com,"education, Artificial Intelligence, NLP, CV",1,1,0,0
-vwxyzjn,python,,Drexel University,costa.huang@outlook.com,Reinforcement Learning,0,0,0,0
+vwxyzjn,python,,Drexel University,costa.huang@outlook.com,Reinforcement Learning,1,1,0,0
 VenkteshV,"Python
 Java
 Javascript",Scala,Indraprastha Institute of Information technology,venkteshv@iiitd.ac.in,"Natural Language Processing
@@ -6857,7 +6857,7 @@ Marine Microbiology
 Marine Biogeography
 Scientific Python",0,0,0,0
 zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimisation, Capacity Expansion",0,0,0,0
-hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications",0,0,0,0
+hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications",1,1,0,0
 bungjeen,matlab julia,julia,code,my_jeen2555@hotmail.co.th,-,0,0,0,0
 ttricco,"Python, C++, Fortran",,Memorial University of Newfoundland,tstricco@mun.ca,"Smoothed particle hydrodynamics softwares.
 Astrophysical hydrodynamical simulation or analysis codes.",0,0,0,0
@@ -6889,7 +6889,7 @@ Visualization and rendering
 Optimization
 Numerical computation
 Finite elements
-PDEs and ODEs",0,0,0,0
+PDEs and ODEs",1,1,0,0
 cmorris2945,python,C++,m2gen,ai.healhcare@yahoo.com,"computational biology, bioinformatics, cancer, computer vision, nlp",0,0,0,0
 schochastics,R,,GESIS -  Leibniz Institute for the Social Sciences,david.schoch@gesis.org,"network analysis
 data visualization",0,0,0,0
@@ -6906,7 +6906,7 @@ C",MATLAB,Aristotle University of Thessaloniki,k.mixios@gmail.com,"Structural En
 Mechanics
 Finite Element Method
 Machine Learning Procedures
-Optimization Methods",0,2,1,0
+Optimization Methods",1,3,1,0
 marcsit,Python,,Rhea System for the European Space Agency,marc.costa@ext.esa.int,Planetary Science,0,0,0,0
 svchb,"C
 C++
@@ -7013,12 +7013,13 @@ Artificial Intelligence
 Reproducible Science
 Systems biology",0,0,0,0
 epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations",0,0,0,0
-xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics"
-@vijaymocherla,"Python
+xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",0,0,0,0
+vijaymocherla,"Python
 C
 C++
 Fortran",,Tata Institute of Fundamental Research,vijaysai.mocherla@gmail.com,"quantum chemistry,
 density functional theory,
 quantum dynamics,
-Atomic,molecular and optical physics"
+Atomic,molecular and optical physics",0,0,0,0
 larsenkg,"Python, MATLAB, Mathematica","C++, JavaScript, Haskell",IONIQ Sciences,larsenkg@gmail.com,"Physics, electrical engineering, materials science, materials characterization, atomic force microscopy, scanning electron microscopy, Raman spectroscopy, bioimpedance, x-ray windows"
+@abhi-glitchhg,Python,,"Student at Bits Pilani, Goa",f20190041@goa.bits-pilani.ac.in,"Computer Vision, Deep Learning, Pytorch"
