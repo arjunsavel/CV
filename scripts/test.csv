@@ -1238,7 +1238,7 @@ electromyography
 gui
 visualization
 data acquisition
-embedded systems",0,8,2,1
+embedded systems",1,9,2,1
 felixhenninger,"JavaScript, Python, R",,University of Mannheim / University of Koblenz-Landau,mailbox@felixhenninger.com,"Cognitive/behavioral science
 Online/browser-based data collection
 Open data/open science
@@ -2519,7 +2519,7 @@ Matlab","C
 Julia","Translational Neurosurgery, University Hospital Tübingen",robert.guggenberger@uni-tuebingen.de,"Systems Neuroscience
 EEG/MEG  Signal Processing
 Brain Stimulation
-Reinforcement Learning",0,1,0,0
+Reinforcement Learning",1,2,0,0
 Yes,Matlab,Java,Nanyang technological  university,rajankashyap6@gmail.com,Neuroscience,0,0,0,0
 upuleegk,"Java
 Python
@@ -4104,7 +4104,7 @@ Digital Signal Processing
 Computational Psychology
 Real-Time Analysis
 Brain-Computer-Interface
-Brain Stimulation",0,1,0,0
+Brain Stimulation",1,2,0,0
 julianpistorius,"Python, Elm, Shell",,,julianp@arizona.edu,"Pipelines, workflows, web services, scripts, containers, automation, infrastructure",0,0,0,0
 marvinjonathcn,R and Python,"Javascript, HTML",,marvinjqs@gmail.com,"Environmental data science, climate modeling, 
 pest modeling",0,2,1,1
@@ -4959,7 +4959,7 @@ levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@
 blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",0,1,1,1
 zoometh,"R
 Python",,ASM-CNRS UMR 5140 Université Montpellier,thomashuet7@gmail.com,"Graph Theory
-Network Analysis",1,2,1,0
+Network Analysis",0,2,2,1
 fdmatoz,"c++, cuda, python",,"Institute of Theoretical Physics, University of Warsaw",daniel.matoz@fuw.edu.pl,"Active Matter, Statistical Physics, Elasticity and Geometry",0,0,0,0
 patrickcgray,python,"R
 Julia
@@ -5457,7 +5457,7 @@ JavaScript
 Perl",University of Houston - Clear Lake,erik@erikwhiting.com,"Software Testing
 Software Architecture
 Information Systems
-Databases",0,2,2,0
+Databases",1,3,2,0
 rusu24edward,Python,"C++, Matlab",LLNL,rusu24edward@gmail.com,"Machine Learning
 Agent Based Simulation",0,1,1,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
@@ -6631,7 +6631,7 @@ Research",0,0,0,0
 simon-lewis,"Python, SQL",,Scion Research (New Zealand Forest Research Institute),simon.lewis@scionresearch.com,"database design, 
 architecture, 
 approach, 
-testing methodology",0,0,0,0
+testing methodology",1,1,0,0
 mukeshdroid,"python
 c++
 c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
@@ -7021,5 +7021,13 @@ Fortran",,Tata Institute of Fundamental Research,vijaysai.mocherla@gmail.com,"qu
 density functional theory,
 quantum dynamics,
 Atomic,molecular and optical physics",0,0,0,0
-larsenkg,"Python, MATLAB, Mathematica","C++, JavaScript, Haskell",IONIQ Sciences,larsenkg@gmail.com,"Physics, electrical engineering, materials science, materials characterization, atomic force microscopy, scanning electron microscopy, Raman spectroscopy, bioimpedance, x-ray windows"
+larsenkg,"Python, MATLAB, Mathematica","C++, JavaScript, Haskell",IONIQ Sciences,larsenkg@gmail.com,"Physics, electrical engineering, materials science, materials characterization, atomic force microscopy, scanning electron microscopy, Raman spectroscopy, bioimpedance, x-ray windows",0,0,0,0
 @abhi-glitchhg,Python,,"Student at Bits Pilani, Goa",f20190041@goa.bits-pilani.ac.in,"Computer Vision, Deep Learning, Pytorch"
+domna,"Python
+Rust
+Javascript/Typescript",,Humboldt University zu Berlin,florian.dobener@physik.hu-berlin.de,"solid state physics
+optical spectroscopy
+ellipsometry
+optics
+ultrafast spectroscopy
+scientific instruments control"
