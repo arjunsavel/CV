@@ -86,7 +86,7 @@ graphical user interface
 parallelization
 MPI
 climate science
-earth sciences",0,9,0,0
+earth sciences",0,9,1,1
 ledius,"Python, Fortran",C,Tampere University of Technology,matti.ropo@tut.fi,"Physics, Material Science, Condensed matter",0,1,0,0
 soodoku,"R, Python, Scala, SQL",,,gsood07@gmail.com,"social science, statistics",0,8,2,0
 manodeep,C,,Swinburne University of Technology,manodeep@gmail.com,"Astrophysics, Astronomy, Cosmology",0,0,0,0
@@ -655,7 +655,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",0,5,0,0
+Solar",1,6,0,0
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,0,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -874,7 +874,7 @@ mdpiper,"Python
 IDL
 Fortran","Java
 MATLAB",University of Colorado Boulder,mark.piper@colorado.edu,"Numerical modeling
-Data analysis",0,4,0,0
+Data analysis",0,4,1,1
 betteridiot,Python,"C/C++
 R
 JavaScript","University of Michigan, Department of Computational Medicine & Bioinformatics",mdsherman@betteridiot.tech,"Genetics
@@ -7022,7 +7022,7 @@ density functional theory,
 quantum dynamics,
 Atomic,molecular and optical physics",0,0,0,0
 larsenkg,"Python, MATLAB, Mathematica","C++, JavaScript, Haskell",IONIQ Sciences,larsenkg@gmail.com,"Physics, electrical engineering, materials science, materials characterization, atomic force microscopy, scanning electron microscopy, Raman spectroscopy, bioimpedance, x-ray windows",0,0,0,0
-@abhi-glitchhg,Python,,"Student at Bits Pilani, Goa",f20190041@goa.bits-pilani.ac.in,"Computer Vision, Deep Learning, Pytorch"
+abhi-glitchhg,Python,,"Student at Bits Pilani, Goa",f20190041@goa.bits-pilani.ac.in,"Computer Vision, Deep Learning, Pytorch",0,0,0,0
 domna,"Python
 Rust
 Javascript/Typescript",,Humboldt University zu Berlin,florian.dobener@physik.hu-berlin.de,"solid state physics
@@ -7031,3 +7031,16 @@ ellipsometry
 optics
 ultrafast spectroscopy
 scientific instruments control"
+joeroe,R,,University of Bern,joe@joeroe.io,Archaeology
+ronshnapp,Python,,"Swiss Federal Institute of Forest, Snow and Landscape Research WSL, 8903 Birmensdorf, Switzerland",ronshnapp@gmail.com,"Fluid mechanics, Flow visualisation, Mechanical engineering"
+jegp,Python,"Haskell
+Scala
+Java
+C++
+JavaScript
+Idris
+Lean",KTH Royal Institute of Technology,jeped@kth.se,"Computational neuroscience
+Deep learning
+Compilers
+Neuromorphic computing"
+espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics"
