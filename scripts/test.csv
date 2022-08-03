@@ -4195,7 +4195,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,1,1,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",1,5,2,0
+Security",0,5,3,1
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -5467,7 +5467,7 @@ coarse-graining",0,1,1,0
 anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kist@fau.de,"Neuroscience
 Image processing
 Deep Learning
-Artificial Intelligence",1,1,0,0
+Artificial Intelligence",0,1,1,1
 hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,2,2,1
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
@@ -7030,9 +7030,9 @@ optical spectroscopy
 ellipsometry
 optics
 ultrafast spectroscopy
-scientific instruments control"
-joeroe,R,,University of Bern,joe@joeroe.io,Archaeology
-ronshnapp,Python,,"Swiss Federal Institute of Forest, Snow and Landscape Research WSL, 8903 Birmensdorf, Switzerland",ronshnapp@gmail.com,"Fluid mechanics, Flow visualisation, Mechanical engineering"
+scientific instruments control",0,0,0,0
+joeroe,R,,University of Bern,joe@joeroe.io,Archaeology,0,1,1,1
+ronshnapp,Python,,"Swiss Federal Institute of Forest, Snow and Landscape Research WSL, 8903 Birmensdorf, Switzerland",ronshnapp@gmail.com,"Fluid mechanics, Flow visualisation, Mechanical engineering",0,0,0,0
 jegp,Python,"Haskell
 Scala
 Java
@@ -7042,5 +7042,7 @@ Idris
 Lean",KTH Royal Institute of Technology,jeped@kth.se,"Computational neuroscience
 Deep learning
 Compilers
-Neuromorphic computing"
+Neuromorphic computing",0,0,0,0
 espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics"
+gasparl,"JavaScript, R",,University of Konstanz,lkcsgaspar@gmail.com,"online research tools, (web-based) software for psychological assessment, any research software that focuses on user-friendliness and clarity"
+@amitkumarj441,"Python, C++",Scala,University College London (UCL),amitkumarj441@gmail.com,"Artificial Intelligence, Quantum Machine Learning, Natural Language Processing, Medical Imaging, Blockchain"
