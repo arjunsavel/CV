@@ -858,7 +858,7 @@ Matlab",Western University ,cdegroo5@uwo.ca,"Computational fluid dynamics (CFD)
 Mathematical modelling
 Mechanical engineering
 Chemical engineering
-Automatic differentiation",0,5,0,0
+Automatic differentiation",1,6,0,0
 AksanBA,"Python
 R",,,brian.akperi@gmail.com,,0,0,0,0
 lucydot,Python,,Imperial College London,lucywhalley@gmail.com,Computational materials science,0,4,0,0
@@ -3410,7 +3410,6 @@ Artificial Intelligence
 HPC",0,0,0,0
 yes,"python, c++",,University of Michigan,liangtianisu@gmail.com,"computational thermodynamics and kinetics, Monte Carlo method, atomistic simulation",0,0,0,0
 hungpham2017,"Python, C++",Fortran,"University of Minnesota, Twin Cities",pqh3.14@gmail.com,"materials science, chemistry, crystallography",0,1,1,0
-kauedesousa,R,,Inland Norway University & Bioversity International,k.desousa@cgiar.org,"Spatial, Agriculture, Data munging",0,0,0,0
 SabbirSaleh,C,C++,"City University, Dhaka",saleh.sabbir.aiub@gmail.com,"Software Engineering
 AGILE
 Service Oriented Architecture
@@ -6959,7 +6958,7 @@ psychology",0,0,0,0
 FrancisXL2019,R,Python,CSULB,xiyue.liao@csulb.edu,R package,0,0,0,0
 thomasgillis,"C
 C++",,Massachusetts Institute of Technology; UCLouvain,thoma.gillis@gmail.com,"Computational fluid dynamics
-distributed programming",0,0,0,0
+distributed programming",1,1,0,0
 gwenchee,Python,"Matlab, C++",University of Illinois at Urbana-Champaign,gwendolynchee95@gmail.com,"Nuclear Engineering, Machine Learning,  high performance computing",0,0,0,0
 WhiteSymmetry,Python,Julia,PhD. student in Physics at Gebze Technical University (thesis term),mkececi@mehmetkececi.com,Quantum Computing,0,0,0,0
 Not sure,"C, Fortran, Python",Matlab,University of Maryland Baltimore County (UMBC),sergey.v.korkin@nasa.gov,Atmospheric Sciences,0,0,0,0
@@ -7043,6 +7042,17 @@ Lean",KTH Royal Institute of Technology,jeped@kth.se,"Computational neuroscience
 Deep learning
 Compilers
 Neuromorphic computing",0,0,0,0
-espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics"
-gasparl,"JavaScript, R",,University of Konstanz,lkcsgaspar@gmail.com,"online research tools, (web-based) software for psychological assessment, any research software that focuses on user-friendliness and clarity"
+espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics",0,0,0,0
+gasparl,"JavaScript, R",,University of Konstanz,lkcsgaspar@gmail.com,"online research tools, (web-based) software for psychological assessment, any research software that focuses on user-friendliness and clarity",0,0,0,0
 @amitkumarj441,"Python, C++",Scala,University College London (UCL),amitkumarj441@gmail.com,"Artificial Intelligence, Quantum Machine Learning, Natural Language Processing, Medical Imaging, Blockchain"
+jingpengw,"Python
+C++
+Julia",,Flatiron Institute,jingpeng.wu@gmail.com,"image processing
+3D image analysis
+cloud computing"
+skiptoniam,"R
+C++",Python,University of Melbourne,skiptoniam@gmail.com,"Spatial statistics
+Finite mixture models
+Ecological statistics
+Species distribution models
+Joint species distribution models"
