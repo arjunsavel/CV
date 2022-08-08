@@ -249,7 +249,7 @@ Python",,Utah State University,amabdallah@aggiemail.usu.edu,,0,0,0,0
 IgorBaratta,"Python
 Matlab",C++,Federal University of Minas GeraisIgorBaratta,baratta@ufmg.br,"Computational Electromagnetics
 Finite Element Methods",0,4,0,0
-jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,1,1,0
+jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,1,0,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
 wkearn,Julia,"Python, R, Matlab, Fortran",Boston University,wkearn@gmail.com,"Geosciences, fluid mechanics, signal processing",0,5,1,0
@@ -562,7 +562,7 @@ Java",Python,"Data Engineer, Zalando SE",stb@satybald.com,"Big Data, Data Engine
 timClicks,"Python
 Rust",,DOT Loves Data,joss@timmcnamara.co.nz,"Data Science
 Text Mining",1,6,1,1
-wdecoster,Python,,VIB Center for Molecular Neurology,decosterwouter@gmail.com,"Genetics, gene expression, sequencing",0,1,1,0
+wdecoster,Python,,VIB Center for Molecular Neurology,decosterwouter@gmail.com,"Genetics, gene expression, sequencing",0,1,0,0
 ziotom78,"C
 C++
 Fortran
@@ -1299,7 +1299,7 @@ Instrumentation
 Optics",0,4,2,0
 igarizio,Python,,,iacopo.garizio@gmail.com,"Economics
 Game theory
-Matching algorithms",0,3,1,0
+Matching algorithms",0,3,0,0
 holtgrewe,"Python
 Rust","C/C++
 Java
@@ -1705,7 +1705,7 @@ ipywidgets",0,3,0,0
 ceb8,Python,"C/C++/C#
 Javascript
 Perl",Space Telescope Science Institute,cebrasseur@gmail.com,"Astronomy, Mathematics, Cryptography",0,1,0,0
-MatthewSmith430,R,,University of Greenwich,M.Smith@greenwich.ac.uk,"visualisation, international trade, network analysis",0,1,1,0
+MatthewSmith430,R,,University of Greenwich,M.Smith@greenwich.ac.uk,"visualisation, international trade, network analysis",0,1,0,0
 vinmay,Python,Java,,vinmay.nair@gmail.com,,0,0,0,0
 ashwinvis,Python,Fortran,"KTH, Sweden",ashw.in-vis+joss@protonmail.com,"Fluid Mechanics
 Atmospheric Sciences
@@ -2115,7 +2115,7 @@ data science
 machine learning
 applied statistics
 visualization",0,0,0,0
-AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",1,4,3,0
+AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",1,4,2,0
 russHyde,"R
 python",perl,University of Glasgow,russell.hyde@glasgow.ac.uk,Bioinformatics,0,0,0,0
 remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neurosciences,0,0,0,0
@@ -2562,10 +2562,10 @@ Genetic Algorithms
 Neural Netowork
 Big Data
 Machine Learning
-Deep Learning",0,2,1,0
+Deep Learning",0,2,0,0
 prateekiiest,Python,"Java, C++",Microsoft Research India,prateekkol21@gmail.com,"Machine Learning, Data Mining",0,0,0,0
 github.com/leonardojaneis,"Java, Node.js, Python, C, C++, JavaScript",PHP and Assembly,University of Campinas - UNICAMP,leonardojaneis@gmail.com,"Parallel programming, distributed systems, complex data, pattern recognition, biometrics and database",0,0,0,0
-potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,3,2,1
+potterzot,"R, Python, Stata",,Washington State University,potter.nicholas@gmail.com,"Economics, climate, spatial processing, regression",0,3,1,1
 cultpenguin,"python
 matlab",,"Department of Geoscience, Aarhus University, Denmark",tmeha@geo.au.dk,"geophysics
 sampling
@@ -3114,7 +3114,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",1,4,1,1
+Data handling",1,4,1,0
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -5289,7 +5289,7 @@ Software Engineering",0,0,0,0
 none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes,0,0,0,0
 msharifian,Fortran,"C++, CUDA",Postdoctoral Research Associate,m.sharifian@sheffield.ac.uk,Computational Hydraulics,0,0,0,0
 edftercio,Python and Labview,Python and Labview,Universidade Federal de Minas Gerais,edf.tercio@hotmail.com,Neurocience,0,0,0,0
-OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",0,1,1,0
+OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",0,1,0,0
 vaneseltine,Python,,University of Michigan,matvan@umich.edu,"sociology, social science, record linkage, data management, SQL",0,1,1,0
 AnantHariharan1996,"Matlab,Python,Julia",Fortran,Brown University,anant_hariharan@brown.edu,"Geophysics,Seismology,Geology,Inverse Theory",0,0,0,0
 struckma,"R, Java, JavaScript, SQL","C++, C, PERL, Pascal, Prolog, Assembler, Python","Community Medicine, University Medicine Greifswald",stephan.struckmann@uni-greifswald.de,"Gene Regulation, PPI, DNA Conservation, Data Quality, Medical Studies, Drug Discovery",0,0,0,0
@@ -5424,7 +5424,7 @@ Spatial Data
 Geospatial Data
 Teaching
 Education",0,1,1,0
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,2,0
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,1,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
@@ -5709,7 +5709,7 @@ AustinTSchaffer,"Python
 NodeJS
 C#
 Rust
-(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,1,4,3,0
+(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,1,4,2,0
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,1,1,0
 mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",1,2,1,0
@@ -7068,5 +7068,5 @@ yogi-tud,"C++
 Cuda
 Python
 C","Java
-C#",Tu Dresden,johannes.fett@mailbox.org,"GPU, HPC, Database Systems, Vectorization"
+C#",Tu Dresden,johannes.fett@mailbox.org,"GPU, HPC, Database Systems, Vectorization",0,0,0,0
 cosimameyer,"R, Python","(SQL, Stata)",,Cosima.Meyer@gmail.com,"Computational social sciences, Political Science, survival analysis, exploratory data analysis, data wrangling, machine learning"
