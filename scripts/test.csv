@@ -3883,7 +3883,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,2,1,0
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,2,0,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,0
 mturiansky,"Python
 Fortran
@@ -5424,7 +5424,7 @@ Spatial Data
 Geospatial Data
 Teaching
 Education",0,1,1,0
-mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,1,0
+mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,0,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
@@ -7069,10 +7069,15 @@ Cuda
 Python
 C","Java
 C#",Tu Dresden,johannes.fett@mailbox.org,"GPU, HPC, Database Systems, Vectorization",0,0,0,0
-cosimameyer,"R, Python","(SQL, Stata)",,Cosima.Meyer@gmail.com,"Computational social sciences, Political Science, survival analysis, exploratory data analysis, data wrangling, machine learning"
+cosimameyer,"R, Python","(SQL, Stata)",,Cosima.Meyer@gmail.com,"Computational social sciences, Political Science, survival analysis, exploratory data analysis, data wrangling, machine learning",0,0,0,0
 mh-skjelvareid,"matlab
 python",,UiT - the Arctic University of Norway,martin.hansen.skjelvareid@gmail.com,"Ultrasonic imaging
 Hyperspectral imaging
 Machine Learning
 Signal Processing
 Image Processing"
+@klb2,Python,Matlab,Technische Universität Braunschweig,k.besser@tu-bs.de,"wireless communications,
+signal processing,
+copulas and dependence modeling,
+operations research,"
+saran-nns,python,"PyTorch, Tensorflow, Jax",Technische Universität Chemnitz,saranraj.nambusubramaniyan@informatik.tu-chemnitz.de,"Neuroscience, Machine Learning, Signal Processing"
