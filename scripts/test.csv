@@ -1995,7 +1995,7 @@ Neuroscience
 Blind source separation
 Human brain imaging",0,3,1,1
 tretherington,"Python
-R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",0,1,1,0
+R",,Manaaki Whenua - Landcare Research,etheringtont@landcareresearch.co.nz,"geography, ecology",1,2,1,0
 geoffbacon,Python,,UC Berkeley,bacon@berkeley.edu,"computational linguistics, natural language processing",0,2,0,0
 Atif-Anwer,"Matlab, Python","C#, C++",Universiti Teknologi PETRONAS,contact@atifanwer.xyz,"Image processing, Computer Vision",0,2,0,0
 mariabnd,R,Python,Currently Steno Diabetes Center Copenhagen,maria@mdunbar.dk,Public Health,0,0,0,0
@@ -6790,7 +6790,7 @@ jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
 Soil science",0,0,0,0
-ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,1,1,0,0
+ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,1,1,1
 Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",1,1,0,0
 Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
@@ -6945,7 +6945,7 @@ esf0,"C, C++, Python",,Aston Institute of Photonic Technologies,e.sedov@g.nsu.ru
 Photonics",0,0,0,0
 zfergus,"C++, Python","JavaScript, Java",New York University,zfergus@nyu.edu,"Computer Graphics, Scientific Computing, Simulation",0,0,0,0
 imcatta,"Python, Typescript, Java","C++, Javascript",University of Bergamo,andrea.cattaneo@unibg.it,"Agent-based modeling, Rehabilitation, VR, Motion capture, Pose detection",0,0,0,0
-massimotorquati,C++,C,"Computer Science Department -- University of Pisa, Italy",massimo.torquati@unipi.it,Parallel Programming,1,1,0,0
+massimotorquati,C++,C,"Computer Science Department -- University of Pisa, Italy",massimo.torquati@unipi.it,Parallel Programming,0,1,1,1
 vardhah,Python,Matlab,Vanderbilt University,harsh.vardhan@vanderbilt.edu,System design,0,0,0,0
 https://jenniferdavidgithub.com,"C++
 python
@@ -6985,7 +6985,7 @@ C/C++","Javascript/Typescript
 Dart
 Java",University of Western Australia,nicholas.pritchard@uwa.edu.au,"High Performance Computing
 Astronomy (Radio)
-Computational workflow management systems",0,0,0,0
+Computational workflow management systems",1,1,0,0
 GeekLogan,"Python
 C++",,University of Michigan,loganaw@umich.edu,"Neuroscience
 Genetics
@@ -7012,7 +7012,7 @@ Artificial Intelligence
 Reproducible Science
 Systems biology",0,0,0,0
 epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations",0,0,0,0
-xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",0,0,0,0
+xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",1,1,0,0
 vijaymocherla,"Python
 C
 C++
@@ -7075,9 +7075,10 @@ python",,UiT - the Arctic University of Norway,martin.hansen.skjelvareid@gmail.c
 Hyperspectral imaging
 Machine Learning
 Signal Processing
-Image Processing"
-@klb2,Python,Matlab,Technische Universität Braunschweig,k.besser@tu-bs.de,"wireless communications,
+Image Processing",0,0,0,0
+klb2,Python,Matlab,Technische Universität Braunschweig,k.besser@tu-bs.de,"wireless communications,
 signal processing,
 copulas and dependence modeling,
-operations research,"
+operations research,",0,0,0,0
 saran-nns,python,"PyTorch, Tensorflow, Jax",Technische Universität Chemnitz,saranraj.nambusubramaniyan@informatik.tu-chemnitz.de,"Neuroscience, Machine Learning, Signal Processing"
+btmonier,R,Kotlin,Cornell University,bm646@cornell.edu,"Genetics, Genomics, Data visualization, RNA-seq, Data science"
