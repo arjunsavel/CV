@@ -348,7 +348,7 @@ geometry, topology, combinatorics, graph theory
 geometric, network, and topological data analysis
 statistical modeling
 bibliometry, scientometry
-[glad to consider anything and will reply quickly if not qualified]",0,11,2,1
+[glad to consider anything and will reply quickly if not qualified]",0,11,2,0
 AlexAxthelm,R,"SQL (tsql), bash",Indiana Commission for Higher Education,aaxthelm@che.in.gov,"Education, Physics,
 (others are okay too, I'm willing to do some digging.)",0,0,0,0
 vidalgp,"C/C++, Python",,,gp0@protonmail.ch,Geophysics / Geoscience,0,0,0,0
@@ -584,7 +584,7 @@ JavaScript",Macquarie University,wilfred.gee@students.mq.edu.au,"Astronomy
 Physics
 Web technologies
 Cloud technologies
-Machine learning",0,5,1,1
+Machine learning",0,5,1,0
 wahls,"C
 Matlab",,TU Delft,s.wahls@tudelft.nl,"Signal processing
 Control",0,0,0,0
@@ -695,7 +695,7 @@ R",University of Leeds,a.p.smith@leeds.ac.uk,Numerical algorithms,0,1,0,0
 jeremyklein,"Python
 Cache Objectscript
 Javascript",Java,,jeremy.joseph.klein@gmail.com,Healthcare/ HealthIT,0,0,0,0
-ViniciusBRodrigues,R and Latex,Lua,Instituto Federal de Educação - Ouro Preto (IFMG-OP),viniciusbrbio@gmail.com,"Ecology, behaviour ecology, statistics",0,3,1,0
+ViniciusBRodrigues,R and Latex,Lua,Instituto Federal de Educação - Ouro Preto (IFMG-OP),viniciusbrbio@gmail.com,"Ecology, behaviour ecology, statistics",1,4,1,0
 malramsay64,"Python
 Cython",,The University of Sydney,malramsay64@gmail.com,"Chemistry
 Molecular Dynamics",0,4,0,0
@@ -931,7 +931,7 @@ Machine learning
 Cancer research",0,4,1,1
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
-joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,1,4,0,0
+joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,4,1,1
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
 arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,0,0
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
@@ -3883,7 +3883,7 @@ Cell biology
 Biological physics",0,0,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",1,2,0,0
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,2,1,1
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",1,2,1,0
 mturiansky,"Python
 Fortran
@@ -5134,7 +5134,7 @@ Python",0,1,0,0
 jonjoncardoso,"Python
 R",GAMS,Data Science Brigade,jonathan.car.silva@gmail.com,"Complex network analysis
 Graph theory
-Clustering",0,3,3,0
+Clustering",0,3,2,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
@@ -6759,7 +6759,7 @@ PDEs
 SDEs",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
-azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue,1,1,0,0
+azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue,0,1,1,1
 robertszafa,"Python
 C++
 CUDA
@@ -6791,8 +6791,8 @@ fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
 Soil science",0,0,0,0
 ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,1,1,1
-Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",1,1,0,0
-Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
+Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,1,1,1
+Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
 ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
 Astrophysics",0,0,0,0
@@ -6929,7 +6929,7 @@ Algorithms
 Data Structures",0,0,0,0
 rahulporuri,Python,,Enthought,rahul.poruri@gmail.com,scientific software,0,0,0,0
 igor-marques,shell / bash,,CICECO - University of Aveiro,oliveiramarques.igor@gmail.com,"Molecular Modelling (Molecular Dynamics, DFT calculations)",0,0,0,0
-hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,1,1,0,0
+hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
 gtonkinhill,"Python
 R",c++,University of Oslo,g.tonkinhill@gmail.com,"bioinformatics
 statistics
@@ -7088,7 +7088,7 @@ Python",,Michigan State University,caimeng2@msu.edu,"urban planning
 urban sustainability
 text analysis
 text mining",0,0,0,0
-https://github.com/singhpraveen2010,Python,Java,PayU,singhpraveen2010@gmail.com,Data Engineering
+singhpraveen2010,Python,Java,PayU,singhpraveen2010@gmail.com,Data Engineering,0,0,0,0
 lukaszjablonski,"MATLAB
 Python
 C/C++
