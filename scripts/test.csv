@@ -1126,7 +1126,7 @@ Rust",UC Berkeley,rijard.barnes@gmail.com,"Geoscience
 Ecology
 Evolutionary Biology
 High-performance computing
-Computer science",0,3,1,0
+Computer science",0,3,0,0
 vc1492a,Python,"R
 JavaScript",NASA Jet Propulsion Laboratory,vc@valentino.io,"Anomaly Detection
 Natural Language Processing
@@ -7099,3 +7099,4 @@ HTML
 CSS",Java,"Institute for Auditory Neuroscience, Goettingen, Germany",lukasz.jablonski@wp.eu,"Computational Neuroscience
 Auditory Neuroscience
 Neuroengineering"
+ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software"
