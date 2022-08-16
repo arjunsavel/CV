@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",0,3,1,0
+Data Manipulation",1,4,1,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -1313,7 +1313,7 @@ Genomics",0,1,0,0
 untzag,python,c++,University of Wisconsin-Madison,blaise@untzag.com,"chemistry
 spectroscopy
 electronics
-instrumentation",0,2,2,0
+instrumentation",0,2,1,0
 garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",0,0,0,0
 sepandhaghighi,Python,"C++
 JavaScript
@@ -1650,7 +1650,7 @@ lionel68,R,Python,University of Gent,lionel.hertzog@ugent.be,"Statistics (hierar
 dntrinca,C/C++,Matlab,,dnarcistrinca@yahoo.com,tomography,0,0,0,0
 prisae,Python,Matlab,"TU Delft, NL",D.Werthmuller@TUDelft.nl,"Electromagnetic methods
 Geophysical exploration",0,0,0,0
-iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",0,2,1,0
+iimog,"perl, python, javascript, R","PHP, java","Comprehensive Heart Failure Center, University Hospital Würzburg, Germany",Ankenbrand_M@ukw.de,"Molecular Ecology, Genomics, Phylogenetics, DNA Metabarcoding",0,2,0,0
 sptennak,Python,"Java
 C++
 R",,sumudutennakoon@gmail.com,"Machine Learning
@@ -2087,7 +2087,7 @@ MapReduce
 Image and signal processing
 Linear algebra
 Data management
-Microscopy",1,4,2,0
+Microscopy",1,4,1,0
 kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
@@ -2533,7 +2533,7 @@ timothydmorton,python,,University of Southern California,tim.morton@gmail.com,"A
 Java",,Pfizer,tomasz.adamusiak@gmail.com,"medicine
 bioinformatics
 ontologies
-clinical informatics",0,1,1,0
+clinical informatics",0,1,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
 bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",1,3,1,0
 faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",0,4,0,0
@@ -2736,7 +2736,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",1,7,1,1
+tidyverse",2,8,1,1
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -3580,7 +3580,7 @@ mberacochea,"python
 cwl
 C#",nextflow,EMBL-EBI,mbc@ebi.ac.uk,"Metagenomics
 Genomics
-Pipelines",0,0,0,0
+Pipelines",1,1,0,0
 kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
@@ -4873,7 +4873,7 @@ Medical Imaging",0,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",1,4,2,1
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,4,3,2
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -5307,7 +5307,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",1,7,1,1
+Rlang",2,8,1,1
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",2,4,2,1
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -6317,7 +6317,7 @@ C++","java
 php",computer science,bencheikh.lehocine.am@gmail.com,"machine learning 
 deeplearning
 data science",0,0,0,0
-hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science",0,0,0,0
+hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science",1,1,0,0
 douweschulte,"Rust
 C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences,0,0,0,0
 nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
@@ -7098,5 +7098,7 @@ PHP
 HTML
 CSS",Java,"Institute for Auditory Neuroscience, Goettingen, Germany",lukasz.jablonski@wp.eu,"Computational Neuroscience
 Auditory Neuroscience
-Neuroengineering"
+Neuroengineering",0,0,0,0
 ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software"
+Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics"
+fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd
