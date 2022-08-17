@@ -4955,7 +4955,7 @@ felixriese,Python,Latex,OmicEra Diagnostics GmbH,review@felixriese.de,Machine Le
 jpenuchot,"C++, C, OCaml","JavaScript, Python","LRI, Paris-Saclay University",jpenuchot@lri.fr,"High performance computing, parallel computing, SIMD, GPGPU, template meta-programming",0,0,0,0
 db87,"Python, C, Cython","C++, Matlab",University of Adelaide,daniel.d.brown@adelaide.edu.au,"Physics, Gravitational waves",0,0,0,0
 levimcclenny,Python,R,"Texas A&M University, US Army Research Lab",levimcclenny@tamu.edu,"scientific machine learning, deep learning",0,1,0,0
-blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",0,1,1,1
+blbentley,"Matlab, Python, R","C, C++",The Open University,bbentley@cantab.net,"Neuroscience, computational biology, bioinformatics",0,1,1,0
 zoometh,"R
 Python",,ASM-CNRS UMR 5140 Université Montpellier,thomashuet7@gmail.com,"Graph Theory
 Network Analysis",0,2,2,1
@@ -7099,6 +7099,7 @@ HTML
 CSS",Java,"Institute for Auditory Neuroscience, Goettingen, Germany",lukasz.jablonski@wp.eu,"Computational Neuroscience
 Auditory Neuroscience
 Neuroengineering",0,0,0,0
-ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software"
-Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics"
+ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software",0,0,0,0
+Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,1
 fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd
+ali,python,python,physicsteacher56,physicsteacher56@gmail.com
