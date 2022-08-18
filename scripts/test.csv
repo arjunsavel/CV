@@ -450,7 +450,7 @@ Web/Internet Services/Standards/Protocols",0,2,0,0
 dlagrava,"Python
 C++","Java
 Perl",University of Canterbury,dlagrava@gmail.com,"Computational Fluid Dynamics
-Numerical methods",0,4,1,0
+Numerical methods",0,4,0,0
 zingale,"python, Fortran",C,Stony Brook University,michael.zingale@stonybrook.edu,"astrophysics, computational hydrodynamics",0,6,1,0
 glemaitre,python,C++,INRIA Paris-Saclay,g.lemaitre58@gmail.com,"Machine Learning
 Pattern Recognition
@@ -1357,7 +1357,7 @@ R
 bash","perl
 php", Institute of Environmental Science and Research Limited (ESR),joepio@gmail.com,"Genomics
 Bioinformatics",0,5,0,0
-harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",0,4,1,0
+harpolea,"Python, C++, Fortran",,Stony Brook University,alice.harpole@stonybrook.edu,"Astrophysics, Astronomy, Computational fluid dynamics ",0,4,0,0
 RcSepp,"Python
 C++
 C#
@@ -6459,7 +6459,7 @@ Finite/Spectral Element Methods
 Discontinuous Galerkin Methods
 Partial Differential Equations
 Numerical Linear Algebra
-Dynamical Systems",2,2,0,0
+Dynamical Systems",3,3,0,0
 kanishkan91,"R
 python",C,"Computational Scientist, PNNL (JGCRI)",kanishkan91@gmail.com,"Land, Land Use Change, Carbon accounting, Computational Modeling, GIS, Food modeling, Income Distributions",0,1,1,0
 cyberlawcodes,"javascript, python",python,developer,info@asklegal.io,legal - I have 20 years of experience as a lawyer,0,0,0,0
@@ -6921,7 +6921,7 @@ Computational Fluid Dynamics
 Material Modeling
 Injection
 Internal Combustion Engines
-Acoustics",0,0,0,0
+Acoustics",1,1,0,0
 WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,william.pettersson@glasgow.ac.uk,"Algorithms, graph theory",0,0,0,0
 shagunsodhani,Python,C++,Meta AI,sshagunsodhani@gmail.com,"Machine Learning
 Artificial Intelligence
@@ -7101,5 +7101,5 @@ Auditory Neuroscience
 Neuroengineering",0,0,0,0
 ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software",0,0,0,0
 Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,1
-fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd
+fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd,0,0,0,0
 ali,python,python,physicsteacher56,physicsteacher56@gmail.com
