@@ -723,7 +723,7 @@ Image Segmentation
 3D Printing",0,1,0,0
 robertodr,"C++
 Python
-CMake",Fortran, Hylleraas Centre for Quantum Molecular Sciences,roberto.d.remigio@uit.no,Quantum chemistry,0,0,0,0
+CMake",Fortran, Hylleraas Centre for Quantum Molecular Sciences,roberto.d.remigio@uit.no,Quantum chemistry,1,1,0,0
 rmsare,Python,"Cython, R",Stanford University,rmsare@stanford.edu,"Earth surface processes, geomorphology, tectonic geomorphology, image processing in Earth sciences, feature extraction in satellite imagery or topographic data",0,1,0,0
 lucashn,"python
 lua","java
@@ -1464,7 +1464,7 @@ R",Python,SRI International,edifice1989@gmail.com,"RNA-seq
 tumor drug target prediction 
 ",0,1,0,0
 leouieda,"Python, C","C++, Matlab",University of Hawaii at Manoa,leouieda@gmail.com,"Earth Science, Geoscience, Geophysics, Geodesy, Inverse Problems, Data Visualization",0,2,0,0
-ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific Computing,1,2,0,0
+ma-sadeghi,Python,Julia,McGill University,amin.sadeghi@mail.mcgill.ca,Scientific Computing,0,2,1,1
 jlincbio,"Perl
 R",C,Chiba Cancer Center,linjason@chiba-cc.jp,"bioinformatics
 genomics",0,1,0,0
@@ -2467,7 +2467,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",1,5,1,0
+visualisation",0,5,2,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,0,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -3114,7 +3114,7 @@ Julia",Technische Universität Berlin,henning.bonart@tu-berlin.de,"Numerical mat
 Computational Fluid Dynamics
 Statistics
 Data assimilation
-Data handling",1,4,1,0
+Data handling",0,4,2,1
 shalinshah1993,"MATLAB
 Python
 Java",,Ph.D. student,shalin.shah@duke.edu,Computational Biology,0,0,0,0
@@ -3699,7 +3699,7 @@ MATLAB",Julia,Postdoctoral Researcher,amin.sadeghi@uwaterloo.ca,"Porous material
 High performance computing
 Computational fluid dynamics
 Transport phenomena
-Electrochemistry",1,2,0,0
+Electrochemistry",0,2,1,1
 ashkelly,"python
 C",,Durham University,a.j.kelly@durham.ac.uk,"numerical methods, visualisation, n-body, scientific computing, astrophysics",0,0,0,0
 hasantahir,Matlab,C,University of Glasgow,Hasan.Abbas@glasgow.ac.uk,"Plasmonics
@@ -5622,7 +5622,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",1,2,1,0
+Ordinary & Partial Differential Equations",2,3,1,0
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,0,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -6128,7 +6128,7 @@ vinisalazar,Python,R,University of Melbourne,vwsalazar@student.unimelb.edu.au,"b
 metagenomics
 microbiome science
 microbial genomics",0,0,0,0
-jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",2,2,0,0
+jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",1,2,1,1
 Bugs and guidiance,English,Anything,Stepping stone to education,squesnel055@gmail.com,Yes,0,0,0,0
 JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu,"Robotics, Controls, Dynamics, Kalman Filtering",0,0,0,0
 farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"Bioengineering, Biological Data Science, Machine Learning in Biology",0,0,0,0
@@ -6568,7 +6568,7 @@ Computational Statistics",1,1,0,0
 Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops",0,0,0,0
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
-agent-based modeling",1,1,0,0
+agent-based modeling",0,1,1,1
 hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",1,1,0,0
 Dom-Owens-UoB,"R
 Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics,0,0,0,0
@@ -6663,7 +6663,7 @@ C
 Solidity
 Javascript","Kalinga Institute of Industrial Technology , KIIT",anshsarkar18@gmail.com,"Blockchain, Machine Learning, Algorithms, Physics",0,0,0,0
 nasserma,"Python, C",C++,University of Waterloo,nmabukhdeir@uwaterloo.ca,"computational fluid dynamics, image processing",0,0,0,0
-storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",1,1,0,0
+storyetfall,"Julia, Python",-,Harvard University,ggowri@g.harvard.edu,"Computational Biology,  Biophysics",0,1,1,1
 mhu48,R,Python,"University of California, Santa Barbara",mingzhaohu@ucsb.edu,"Survival analysis, longitudinal data analysis, mixed models, functional data analysis, state space models, dynamic models,",0,0,0,0
 tets,fortran,,test,test@example.org,"tests, testing,",0,0,0,0
 elauksap,"C++
@@ -7102,4 +7102,11 @@ Neuroengineering",0,0,0,0
 ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software",0,0,0,0
 Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,1
 fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd,0,0,0,0
-ali,python,python,physicsteacher56,physicsteacher56@gmail.com
+ali,python,python,physicsteacher56,physicsteacher56@gmail.com,,0,0,0,0
+@thegargiulian,R,,"HRDAG, University of Oxford",maria.gargiulo@nuffield.ox.ac.uk,"missing data, tidyverse, data analysis"
+phihes,"Python
+Javascript",,Technical University Berlin,philipp.hess@tu-berlin.de,"Innovation
+Standardization
+Online Communities
+Networks
+Data science"
