@@ -4656,7 +4656,7 @@ Thermodynamics
 Heat Transfer
 Fuel Cells
 Batteries
-Combustion",0,3,3,1
+Combustion",0,3,3,0
 csinva,"python, R","java, matlab",UC Berkeley,chandan_singh@berkeley.edu,"machine learning, data science, causal inference, computer vision",0,0,0,0
 jifarquharson,"Python
 G (LabVIEW)
@@ -7103,10 +7103,11 @@ ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.
 Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,1
 fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd,0,0,0,0
 ali,python,python,physicsteacher56,physicsteacher56@gmail.com,,0,0,0,0
-@thegargiulian,R,,"HRDAG, University of Oxford",maria.gargiulo@nuffield.ox.ac.uk,"missing data, tidyverse, data analysis"
+thegargiulian,R,,"HRDAG, University of Oxford",maria.gargiulo@nuffield.ox.ac.uk,"missing data, tidyverse, data analysis",0,0,0,0
 phihes,"Python
 Javascript",,Technical University Berlin,philipp.hess@tu-berlin.de,"Innovation
 Standardization
 Online Communities
 Networks
 Data science"
+ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk
