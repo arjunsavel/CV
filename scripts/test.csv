@@ -542,7 +542,7 @@ darrendahly,R,,University College Cork,ddahly@ucc.ie,"Biostats
 Epidemiology",0,0,0,0
 dhaine,R,Stata,Freelance consultant,denis.haine@gmail.com,Epidemiology,0,0,0,0
 tomfaulkenberry,R,Python,Tarleton State University,faulkenberry@tarleton.edu,"Psychology
-Biostatistics",0,6,0,0
+Biostatistics",1,7,0,0
 joongsup,R,,AT&T,jaylee@att.com,"Statistical process control, R work flow with other big data tools",0,0,0,0
 Gweissman,"R, Python",,"Perelman School of Medicine, University of Pennsylvania",gary.weissman@uphs.upenn.edu,"Medicine, clinical informatics, predictive models, NLP",0,0,0,0
 Suresh-lab,"R, C++, Matlab, C","Python, Perl, Java ",Johns Hopkins University ,ksuresh2@jhmi.edu,"Medicine, especially processing of microscopic images, analysis of sequencing data, statistical modeling",0,0,0,0
@@ -1314,7 +1314,7 @@ untzag,python,c++,University of Wisconsin-Madison,blaise@untzag.com,"chemistry
 spectroscopy
 electronics
 instrumentation",0,2,1,0
-garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",0,0,0,0
+garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",1,1,0,0
 sepandhaghighi,Python,"C++
 JavaScript
 Matlab
@@ -3838,7 +3838,7 @@ parallelization
 vectorization
 GPU
 FMM",0,1,0,0
-georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",0,1,1,0
+georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",1,2,1,0
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,0,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
@@ -4901,7 +4901,7 @@ MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Met
 Fluid Structure Interaction
 Virtual Element Methods",0,1,1,0
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science",0,0,0,0
-georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",0,1,1,0
+georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",1,2,1,0
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
@@ -5184,7 +5184,7 @@ R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
 Machine Learning
 Applied Science (Geophysics)",0,0,0,0
-salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization",0,1,1,0
+salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,"Fluid Mechanics, CFD, Uncertainty Quantification, Bayesian Optimization",1,2,1,0
 janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Materials Science, computational molecular science",0,1,1,0
 zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
 single cell
@@ -7109,5 +7109,6 @@ Javascript",,Technical University Berlin,philipp.hess@tu-berlin.de,"Innovation
 Standardization
 Online Communities
 Networks
-Data science"
+Data science",0,0,0,0
 ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk
+ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry"
