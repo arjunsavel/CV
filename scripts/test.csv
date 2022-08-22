@@ -119,7 +119,7 @@ Python
 CUDA
 MATLAB","Julia
 Mathematica",Lawrence Berkeley National Labs,loriordan@lbl.gov,"Quantum dynamics PDE (Schrodinger, Gross-Pitaevskii, etc.)
-Accelerator numerics (GPU, KNL)",1,3,0,0
+Accelerator numerics (GPU, KNL)",0,3,1,1
 nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
@@ -220,7 +220,7 @@ ethanwhite,"R
 Python",,University of Florida,ethan@weecology.org,"Ecology
 Data Packaging
 Data Cleaning
-Data Manipulation",1,4,1,0
+Data Manipulation",1,4,0,0
 skummerf,R,Python,Genentech,sarah.kummerfeld@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
 nanhung,R,python,Texas A&M University,d99622005@ntu.edu.tw,"Environmental Science
 Pharmacology
@@ -2033,7 +2033,7 @@ data visualization
 sport analytics",0,0,0,0
 callumrollo,Python,,Univeristy of East Anglia,c.rollo@outlook.com,"Oceanography
 Marine technology
-Geophysics",0,2,2,0
+Geophysics",0,2,1,0
 inakleinbottle,"Python
 Rust","C
 C++
@@ -4094,7 +4094,7 @@ DanielMyshkin,"Python, Kotlin, Go",Java,,danmyshkin@gmail.com,"Math, Computer Sc
 none,"fortran,sqlite,gawk,python,R,vb.net",c (but in previus answer only knows well the three first),,juragaro@gmail.com,"numeric packages, fluid structure interaction",0,0,0,0
 yangkcatiu,Python,,,yangkc@iu.edu,"Network science
 Social media",0,0,0,0
-callumrollo,python,julia,,c.rollo@outlook.com,oceanography,0,2,2,0
+callumrollo,python,julia,,c.rollo@outlook.com,oceanography,0,2,1,0
 agricolab,"Python
 Matlab","C
 Julia",,robert.guggenberger@uni-tuebingen.de,"Neuroscience
@@ -4738,7 +4738,7 @@ damienmarsic,Python,,Porton Biologics,damien.marsic@gmail.com,Bioinformatics,0,0
 abb58,"C/C++
 CUDA","Python
 SYCL
-OpenCL",Argonne National Laboratory,abhishekbagusetty@gmail.com,"Heterogeneous Computing, Molecular Dynamics,High Performance Computing",1,1,0,0
+OpenCL",Argonne National Laboratory,abhishekbagusetty@gmail.com,"Heterogeneous Computing, Molecular Dynamics,High Performance Computing",0,1,1,1
 richford,Python,Javascript (BootstrapVue),University of Washington,richiehalford@gmail.com,"Neuroimaging
 Machine Learning
 Citizen Science",0,0,0,0
@@ -5552,7 +5552,7 @@ Python",Université de Montréal,timothee.poisot@umontreal.ca,"ecology
 graph theory
 machine learning
 epidemiology
-computational biology",1,2,0,0
+computational biology",0,2,1,1
 michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction",0,0,0,0
 Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing",0,0,0,0
 Metafrancois,R,,University of Liège,francois.leonard@uliege.be,"methodology, statistics, meta-research, statistical power, behavioral neurosciences, psychology, psychopharmacology",0,0,0,0
@@ -6419,7 +6419,7 @@ differential equations
 probabilistic machine learning
 statistics",0,1,1,0
 mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering",0,0,0,0
-Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",1,1,0,0
+Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",0,1,1,1
 davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational biology
 comp chemistry",0,1,1,1
 hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
@@ -7110,5 +7110,5 @@ Standardization
 Online Communities
 Networks
 Data science",0,0,0,0
-ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk
+ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk,,0,0,0,0
 ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry"
