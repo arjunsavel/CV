@@ -1395,7 +1395,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1538,7 +1538,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -1680,6 +1680,32 @@
     "title": "TESS Delivers Five New Hot Giant Planets Orbiting Bright Stars from the Full-frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..194R",
     "volume": "161",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Savel, Arjun",
+      "Luger, Rodrigo",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Price-Whelan, Adrian",
+      "Hedges, Christina",
+      "Emilygilbert",
+      "Bouma, Luke",
+      "Brandt, Timothy D",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4604868",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-03-15",
+    "title": "exoplanet-dev/exoplanet: exoplanet v0.4.5",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4604868F",
+    "volume": null,
     "year": "2021"
   },
   {
