@@ -915,7 +915,7 @@ Computational Geology
 ",0,0,0,0
 jingpengw,Julia,python,Postdoctoral Research Associate,jingpeng@princeton.edu,"Image Processing
 Bioimage Informatics
-Computational Neuroscience",1,1,0,0
+Computational Neuroscience",2,2,0,0
 suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",0,0,0,0
 nsaunier,"Python
 C++","Java
@@ -1896,7 +1896,7 @@ cc-a,"Python
 C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
-mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,2,0,0
+mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",1,3,0,0
 sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",1,10,3,0
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
@@ -2587,7 +2587,7 @@ Machine learning",0,0,0,0
 danieledipompeo,Java,"Python, Elixir",University of L'Aquila,Daniele.dipompeo@univaq.it,"Performance, Model-Driven Engineering, software refactoring",0,1,0,0
 markziemann,"R
 Shell/Bash",,Deakin University,m.ziemann@deakin.edu.au,"Genomics
-Document analysis",1,1,0,0
+Document analysis",0,1,1,1
 GerJuli,"Python
 PHP",R,Neuroscience/biomedical engineering,julian-samuel@gebuehr.net,"Web platforms
 EEG+EMG analysis
@@ -4089,7 +4089,7 @@ billchenxi,"Python, R, C++",JavaScript,,billchenxi@uky.edu,"Machine Learning, De
 OmarShehata,"JavaScript, Python","R, C, C++, Julia, GLSL/HLSL/CUDA",,omar.sameh.shehat@gmail.com,"Statistics, geological modelling, climate modelling, mathematics",0,0,0,0
 markziemann,"R
 bash",,,mark.ziemann@gmail.com,"Genomics
-Bioinformatics",1,1,0,0
+Bioinformatics",0,1,1,1
 DanielMyshkin,"Python, Kotlin, Go",Java,,danmyshkin@gmail.com,"Math, Computer Science",0,0,0,0
 none,"fortran,sqlite,gawk,python,R,vb.net",c (but in previus answer only knows well the three first),,juragaro@gmail.com,"numeric packages, fluid structure interaction",0,0,0,0
 yangkcatiu,Python,,,yangkc@iu.edu,"Network science
@@ -4294,7 +4294,7 @@ Geographic Information Systems
 urban morphology
 Bayesian statistics",0,0,0,0
 sayakpaul,Python,JavaScript,Deep Learning Associate at PyImageSearch,spsayakpaul@gmail.com,"Computer Vision, Representation Learning, Model Optimization, Adversarial Robustness",0,0,0,0
-villaa,"C, C++, Python, Fortran",None,University of Colorado Denver,anthony.villano@ucdenver.edu,"dark matter, neutrons, Geant4 simulation",0,0,0,0
+villaa,"C, C++, Python, Fortran",None,University of Colorado Denver,anthony.villano@ucdenver.edu,"dark matter, neutrons, Geant4 simulation",1,1,0,0
 pmeier,Python,Matlab,"inIT - Institute Industrial IT, Technische Hochschule Ostwestfalen-Lippe (TH-OWL)",philip.meier@th-owl.de,"Machine Learning
 Deep Learning
 Neural Style Transfer",0,2,1,1
@@ -5075,7 +5075,7 @@ jingpengw,"python
 C++
 Julia",,Flatiron Institute,jwu@flatironinstitute.org,"Image Analysis
 Connectome
-Deep Learning",1,1,0,0
+Deep Learning",2,2,0,0
 kwstat,R,,Corteva Agriscience,kw.stat@gmail.com,Statistics,0,0,0,0
 vsangelidakis,"Matlab
 Python
@@ -5170,7 +5170,7 @@ Python",Julia,Duke University,twesleyb10@gmail.com,"Neuroscience
 Cell Biology
 Community Detection in Graphs",0,0,0,0
 tbirkandan,"SageMath, Python",,Istanbul Technical University,birkandant@itu.edu.tr,Symbolic calculations in physics,0,1,1,0
-villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",0,0,0,0
+villaa,"Python, C, C++","Matlab, Fortran77, Fortran90",University of Colorado Denver,anthony.villano@ucdenver.edu,"Nuclear Physics, Particle Physics, Cosmology, Dark Matter Direct Detection",1,1,0,0
 jmp75,"Python, C++, R","C#, F#",Commonwealth Scientific Research and Industrial Organisation (CSIRO),jean-michel.perraud@csiro.au,"Hydrology, numeric optimisation, environmental modelling, earth sciences",0,2,1,0
 cmaumet,"Python, Matlab, R","Matlab, R","Inria, Univ Rennes, CNRS, Inserm",camille.maumet@inria.fr,"neuroimaging, fMRI, pipelines",0,0,0,0
 wxwx1993,R,"SQL
@@ -5960,7 +5960,7 @@ ptmerz,"Python, C++, C","Matlab, Java, Fortran",University of Colorado Boulder,p
 Molecular dynamics
 Monte Carlo simulations
 Statistical physics
-Physical simulations",0,1,1,0
+Physical simulations",1,2,1,0
 burch-cm,R,"python, scala, spark",,christopher.m.burch@gmail.com,"functional paradigms / functional programming
 real option analysis
 algorithmic bias / ethics
@@ -6349,7 +6349,7 @@ Python",,Sage Bionetworks,jineta.banerjee@sagebionetworks.org,"Bioinformatics
 Genomics
 Transcriptomics
 Rare Diseases
-Machine learning in biology",1,1,0,0
+Machine learning in biology",0,1,1,1
 DanielRivasMD,"Julia
 Rust
 Go
@@ -7049,7 +7049,7 @@ jingpengw,"Python
 C++
 Julia",,Flatiron Institute,jingpeng.wu@gmail.com,"image processing
 3D image analysis
-cloud computing",1,1,0,0
+cloud computing",2,2,0,0
 skiptoniam,"R
 C++",Python,University of Melbourne,skiptoniam@gmail.com,"Spatial statistics
 Finite mixture models
@@ -7110,5 +7110,6 @@ Standardization
 Online Communities
 Networks
 Data science",0,0,0,0
-ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk,,0,0,0,0
+ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk,,1,1,0,0
 ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry"
+tonyewong,"R, Python, Julia","MATLAB, Mathematica, Fortran",Rochester Institute of Technology,tony.wong@rit.edu,"climate modeling, environmental modeling, data science, statistical learning"
