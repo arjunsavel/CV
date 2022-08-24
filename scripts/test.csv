@@ -1335,7 +1335,7 @@ andreysmelter,"Python, R",C++,University of Kentucky Markey Cancer Center,andrey
 mdmurbach,Python,Javascript,UW,mmurbach@uw.edu,Electrochemistry,0,0,0,0
 Aguang,R,"Julia in a few months, C++",Brown University,august.guang@gmail.com,"Bioinformatics, machine learning",0,0,0,0
 sivaramambikasaran,C++,"Python, MATLAB",Indian Institute of Technology Madras,sivaambi@alumni.stanford.edu,"Linear Algebra, PDE solvers, Scientific Computing",0,2,0,0
-standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,4,2,0
+standage,"Python, C, C++, Bash","R, Perl, Javascript",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"bioinformatics, genomics, molecular genetics",0,4,1,0
 justinshenk,Python,R,Peltarion (Sweden) and Radboud University (The Netherlands),shenkjustin@gmail.com,"Machine learning, data analysis and visualization, biology",0,2,0,0
 naltun,"BASH
 Go
@@ -1936,7 +1936,7 @@ TypedScript",UM FERI,stefan.kohek@um.si,"Computer graphics
 Evolutionary computation",0,0,0,0
 nidhog,"python, ","C, golang",None,i.elouafiq@gmail.com,"Data science, data engineering, machine learning, graphs and network theory, bioinformatics",0,1,0,0
 cmbiwer,Python,C++ and Fortran,Los Alamos National Laboratory,cmbiwer@lanl.gov,"Gravitational-waves/astronomy, X-ray/neutron diffraction, crystallography, workflow management systems",0,4,2,0
-standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,4,2,0
+standage,"Python, C, Perl, Bash","C++, R",National Biodefense Analysis and Countermeasures Center,daniel.standage@gmail.com,"Bioinformatics, molecular biology, genetics, genomics, forensics",0,4,1,0
 nniiicc,"R
 Python
 JS",,University of Washington,nmweber@uw.edu,Social Science,0,0,0,0
@@ -5351,7 +5351,7 @@ C++","JS
 C",University of the West of England,jenniferdavid87@gmail.com,mobile robots,0,0,0,0
 karma659,c++,Java,Jadavpur University,Karmakarakash659@gmail.com,web development/c++,0,0,0,0
 No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
-ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,1,0
+ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,0,0
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,1,1,0
 richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,0
@@ -6260,7 +6260,7 @@ vjbytes102,Python,"Matlab, R",Sage Bionetworks,vy386@nyu.edu,"Data Science, Mach
 nick-gorman,"Python
 R",,"School of Photovoltaics and Renewable Energy Engineering, University of New South Wales",n.gorman305@gmail.com,"Energy System Modelling
 Energy Market Modelling
-Energy System Data Analysis",1,1,0,0
+Energy System Data Analysis",0,1,1,1
 BenjMy,Python,,UNIPD,benjamin.mary@unipd.it,Geosciences,0,0,0,0
 Kraks,"Scala
 Haskell
@@ -6381,7 +6381,7 @@ C++
 Matlab/Octave",Fortran,United States Army Corp of Engineers (formerly),judacha@gmail.com,Lidar,0,0,0,0
 frydaydeep,Julia,,8615640960524,frydaydeep@gmail.com,Computational Mechanics,0,0,0,0
 stmcg,R,,"Department of Biostatistics, Harvard University",sean_mcgrath@g.harvard.edu,"Biostatistics, epidemiology, causal inference, machine learning",0,1,1,0
-MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,1,1,0,0
+MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,0,1,1,1
 ccamara,R,,University of Warwick,ccamara@pm.me,"data, spatial data, visualisation, maps, networks",0,0,0,0
 tschwinge,"C
 C++
@@ -7111,5 +7111,5 @@ Online Communities
 Networks
 Data science",0,0,0,0
 ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk,,1,1,0,0
-ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry"
+ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry",0,0,0,0
 tonyewong,"R, Python, Julia","MATLAB, Mathematica, Fortran",Rochester Institute of Technology,tony.wong@rit.edu,"climate modeling, environmental modeling, data science, statistical learning"
