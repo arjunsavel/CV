@@ -258,7 +258,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -859,7 +859,7 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4da0",
     "page": null,
@@ -1512,7 +1512,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
