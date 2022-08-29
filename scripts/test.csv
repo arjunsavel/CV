@@ -4562,7 +4562,7 @@ Compilers/Interpreters
 Data Science
 Machine Learning
 Logic Programming
-Computers in Art, Design, and Music",0,3,2,0
+Computers in Art, Design, and Music",0,3,1,0
 jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,0,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
@@ -6985,7 +6985,7 @@ C/C++","Javascript/Typescript
 Dart
 Java",University of Western Australia,nicholas.pritchard@uwa.edu.au,"High Performance Computing
 Astronomy (Radio)
-Computational workflow management systems",1,1,0,0
+Computational workflow management systems",0,1,1,1
 GeekLogan,"Python
 C++",,University of Michigan,loganaw@umich.edu,"Neuroscience
 Genetics
@@ -7012,7 +7012,7 @@ Artificial Intelligence
 Reproducible Science
 Systems biology",0,0,0,0
 epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations",0,0,0,0
-xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",1,1,0,0
+xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",0,1,1,1
 vijaymocherla,"Python
 C
 C++
@@ -7132,10 +7132,12 @@ matthiasdemuzere,python,,Ruhr-University Bochum,matthias.demuzere@rub.de,"(urban
 Land-atmosphere interactions
 Land cover and land use",0,0,0,0
 philippeller,python,,TU Munich,peller.phys@gmail.com,"statistics, particle physics, astro physics",0,0,0,0
-draabe,"Python, R, Matlab",,German Sport University Cologne,draabx@posteo.de,"Sport Science, Sports Analytics, Spatiotemporal Data, Tracking Data, Movement Data"
+draabe,"Python, R, Matlab",,German Sport University Cologne,draabx@posteo.de,"Sport Science, Sports Analytics, Spatiotemporal Data, Tracking Data, Movement Data",0,0,0,0
 jsun,"R
 Python",,The National Agriculture and Food Research Organization (NARO),sun@biunit.dev,"bioinformatics
 genetics
 plant science
 agriculture
 machine learning"
+https://github.com/arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems"
+JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical)
