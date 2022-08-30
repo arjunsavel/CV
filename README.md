@@ -1,5 +1,5 @@
 # CV
-[![Update publications](https://github.com/arjunsavel/CV/actions/workflows/update_pubs.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/update_pubs.yml) [![Add JOSS Reviews](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml) ![CV Actions](https://api.meercode.io/badge/arjunsavel/CV?type=ci-score&lastDay=14)
+[![Update publications](https://github.com/arjunsavel/CV/actions/workflows/update_pubs.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/update_pubs.yml) [![Add JOSS Reviews](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/add_review_nums.yml)   [![Build CV](https://github.com/arjunsavel/CV/actions/workflows/cv_add.yml/badge.svg)](https://github.com/arjunsavel/CV/actions/workflows/cv_add.yml) ![CV Actions](https://api.meercode.io/badge/arjunsavel/CV?type=ci-score&lastDay=14)
 
 My CV, [linked with Overleaf](https://www.overleaf.com/). See the compiled version on [my website](https://arjunsavel.github.io/).
 
