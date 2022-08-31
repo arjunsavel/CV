@@ -5624,7 +5624,7 @@ Complex Adaptive Systems
 Data Assimilation
 Ordinary & Partial Differential Equations",2,3,1,0
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
-ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,0,0,0
+ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",1,1,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
 akhmerov,python,,Delft University of Technology,josstheoj@antonakhmerov.org,physics,0,0,0,0
 jiweiqi,"julia
@@ -7063,7 +7063,7 @@ topographic analysis
 graph theory
 Landscapes Evolution Model",0,0,0,0
 lazear,"Rust, Haskell, Python",,Belharra Therapeutics,michaellazear92@gmail.com,"Proteomics, Mass spectrometry, Bioinformatics, File formats",0,0,0,0
-max-little,"Matlab, Python, C/C++, Haskell, Java, Assembler","R, Scala, Fortran","University of Birmingham, UK; MIT, USA",maxl@mit.edu,"Statistics, machine learning, numerical algorithms, signal processing, optimization, mathematical modelling",0,0,0,0
+max-little,"Matlab, Python, C/C++, Haskell, Java, Assembler","R, Scala, Fortran","University of Birmingham, UK; MIT, USA",maxl@mit.edu,"Statistics, machine learning, numerical algorithms, signal processing, optimization, mathematical modelling",1,1,0,0
 yogi-tud,"C++
 Cuda
 Python
@@ -7141,3 +7141,4 @@ agriculture
 machine learning",0,0,0,0
 arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems",0,0,0,0
 JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical)
+ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks"
