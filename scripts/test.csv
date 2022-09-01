@@ -2098,7 +2098,7 @@ njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that
 sairamgeethanath,"MATLAB
 Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
-Acquisition and reconstruction methods",0,1,1,1
+Acquisition and reconstruction methods",0,1,1,0
 dilawar,"Python
 C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,0,3,2,1
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
@@ -5201,7 +5201,7 @@ Macromolecular docking
 Molecular dynamics
 Computational biology
 Structural Biology
-Bioinformatics",0,2,2,1
+Bioinformatics",0,2,2,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
 tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
@@ -7140,5 +7140,5 @@ plant science
 agriculture
 machine learning",0,0,0,0
 arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems",0,0,0,0
-JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical)
+JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical),0,0,0,0
 ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks"
