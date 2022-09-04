@@ -1767,7 +1767,7 @@ health analytics
 wearables data
 ",0,1,0,0
 junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.com,Ecology,0,0,0,0
-sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",0,1,0,0
+sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",1,2,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",0,1,0,0
 EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,1,4,2,0
@@ -3586,7 +3586,7 @@ kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
 statistics",0,0,0,0
-munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",0,2,1,0
+munkm,Python,"Rust, JavaScript","National Center for Supercomputing Applications, UIUC",madicken.munk@gmail.com,"nuclear engineering, visualization, dataviz, nuclear physics, radiation transport, meshing, applied math (depends on application)",1,3,1,0
 kinow,"Java
 Python
 PHP
@@ -4163,7 +4163,7 @@ R
 javascript",,"Florida International University, Department of Psychology",kbott006@fiu.edu,"Neuroinformatics
 Neuroimaging
 Psychology
-Data science",0,3,1,1
+Data science",0,3,1,0
 chrisvoncsefalvay,Python,"Julia, C/C++",Starschema Ltd,chris@chrisvoncsefalvay.com,"Epidemiology, modelling, ABMs, geospatial, CV",0,1,0,0
 dstansby,Python,,University College London,d.stansby@ucl.ac.uk,"Solar physics, astrophysics",0,1,1,1
 mherman09,Fortran,"Python
@@ -4344,7 +4344,7 @@ HPC
 Astronomy",0,2,1,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,1,0,0
-yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",0,1,0,0
+yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",1,2,0,0
 pr4deepr,"Python, ImageJ Macro",Groovy (basic or beginner),Monash University,pradeep.rajasekhar@gmail.com,"Bioimage analysis, image processing, microscopy, data processing, visualisation, machine learning",0,0,0,0
 Bsingstad,Python,,University of Oslo,bjorn_sing@hotmail.com,Signal processing and Machine learning (in medical applications),0,0,0,0
 jonathanschilling,"Java, Python, Fortran, C, C++",Matlab,Max-Planck-Institute for Plasma Physics,jonathan.schilling@ipp.mpg.de,"numerics, data analysis, modeling, communication with hardware",0,0,0,0
@@ -6393,7 +6393,7 @@ Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance
 Compiler implementation",0,0,0,0
 raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",2,2,0,0
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software",0,1,1,0
-brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",2,3,1,1
+brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",2,3,1,0
 jimmielin,Fortran 90,"PHP
 Python
 Julia",Harvard University,hplin@seas.harvard.edu,"Atmospheric modeling
@@ -7146,5 +7146,5 @@ ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"
 kellijohnson-NOAA,R,"C++
 Fortran",Northwest Fisheries Science Center,kelli.johnson@noaa.gov,"Fisheries
 Simulations
-Bayesian models"
+Bayesian models",1,1,0,0
 https://github.com/SichengHe,"Fortran, python, julia",,MIT,sichengh@mit.edu,"numerical method, optimization, pde, automatic differentiation,  dynamical system, CFD, MDO"
