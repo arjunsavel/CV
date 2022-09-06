@@ -1189,7 +1189,7 @@ Systems Biology
 Microscopy Data Analysis
 Computer Vision
 Machine Learning
-physics, data wrangling, statistics, jupyter, climate modelling",0,1,1,0
+physics, data wrangling, statistics, jupyter, climate modelling",1,2,1,0
 trinker,r,,university at buffalo,tyler.rinker@gmail.com,"data visualization, text mining, sentiment analysis, data manipulation",0,2,0,0
 adibender,R,,"BDI, University of Oxford",bender.at.R@gmail.com,"statistics
 survival analysis
@@ -3569,7 +3569,7 @@ Geophysics
 Earthquake Science",0,0,0,0
 hadware,Python,C,CoML,hadrien.titeux@ens.fr,"Machine Learning
 NLP
-Audio processing",0,1,0,0
+Audio processing",1,2,0,0
 robinroche,"Python
 Matlab",,Universite de Technologie de Belfort-Montbeliard,robin.roche@utbm.fr,"Energy
 Power systems",1,4,1,0
@@ -4764,7 +4764,7 @@ Optimization",2,2,0,0
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
-phonetics",0,1,0,0
+phonetics",1,2,0,0
 gdancik,"R
 Python","C/C++
 Java",Eastern Connecticut State University,dancikg@easternct.edu,Bioinformatics,0,0,0,0
@@ -5468,7 +5468,7 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",0,1,1,1
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,2,2,0
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",1,3,2,0
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
@@ -7148,3 +7148,8 @@ Fortran",Northwest Fisheries Science Center,kelli.johnson@noaa.gov,"Fisheries
 Simulations
 Bayesian models",1,1,0,0
 https://github.com/SichengHe,"Fortran, python, julia",,MIT,sichengh@mit.edu,"numerical method, optimization, pde, automatic differentiation,  dynamical system, CFD, MDO"
+jmcbroome,"Python
+Cython",C++,"University of California, Santa Cruz",jmcbroome@gmail.com,"Bioinformatics
+Evolutionary genomics
+Phylogenetics
+NGS Pipelines"
