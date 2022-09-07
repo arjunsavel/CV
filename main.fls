@@ -1083,6 +1083,7 @@ INPUT supp_tex/pubs_unref.tex
 INPUT ./supp_tex/pubs_unref.tex
 INPUT supp_tex/pubs_unref.tex
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchri8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchri8t.vf
