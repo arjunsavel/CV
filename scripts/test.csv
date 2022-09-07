@@ -915,7 +915,7 @@ Computational Geology
 ",0,0,0,0
 jingpengw,Julia,python,Postdoctoral Research Associate,jingpeng@princeton.edu,"Image Processing
 Bioimage Informatics
-Computational Neuroscience",2,2,0,0
+Computational Neuroscience",1,2,1,1
 suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",0,0,0,0
 nsaunier,"Python
 C++","Java
@@ -1088,7 +1088,7 @@ machine learning",0,1,0,0
 mgckind,python,"Fortran, ",NCSA/University of Illinois at Urbana Champaign,mcarras2@illinois.edu,"astronomy
 computer science
 machine learning",0,2,0,0
-gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",1,3,1,0
+gflofst,"C, C++, Bash","Python, Java, Fortran",Sandia National Labs,gflofst@sandia.gov,"Workflow, IO, Storage, Reproducibility",0,3,2,1
 chadagreene,Matlab,,,chad@chadagreene.com,"glaciology, oceanography, climate",0,1,0,0
 whimian,Python,C/C++,China University of Geosciences,yuhao89@live.cn,"Geophysics
 Petrophysics
@@ -2536,7 +2536,7 @@ bioinformatics
 ontologies
 clinical informatics",0,1,0,0
 gaxler,Python,C++,Allegro.ai,g.axler@gmail.com,Optimization,0,0,0,0
-bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",1,3,1,0
+bede,Python,"JavaScript, Perl, Ruby, Bash","Nuffield Department of Medicine, University of Oxford",bedeabc@gmail.com,"Genomics, sequence analysis, evolutionary biology, epidemiology",0,3,2,1
 faroit,Python,Javascript,Inria,mail@faroit.com,"Signal processing, audio, speech, music, machine learning, deep learning",0,4,0,0
 dvanic,"R
 python
@@ -3286,7 +3286,7 @@ TA3,"Javascript, PHP,","Bash, Python",University of Huddersfield,taha.al-jody@hu
 y,nothing,no,y,a21689@korea.com,map,0,0,0,0
 dbrizard,Python,octave,Laboratoire de Biomécanique et Mécanique des Chocs (LBMC UMR_T9406),denis.brizard@ifsttar.fr,"mechanics
 wave propagation in solids
-impact mechanics",1,1,0,0
+impact mechanics",0,1,1,1
 marcoapintoo,"Nim, Java, C++, Python, R",Matlab/Octave,Oslo Metropolitan University,marcop@oslomet.no,"Signal processing, time series, statistical software",0,0,0,0
 dotsdl,Python,,,dotsdl@gmail.com,"Computational Chemistry
 Computational Biophysics",0,1,0,0
@@ -3376,7 +3376,7 @@ Reliability Analysis
 Design of Experiment
 Statistical Computing",0,4,2,2
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
-tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",1,2,1,0
+tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,2,2,1
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
 Oceanography
 Climate science",0,1,0,0
@@ -3971,7 +3971,7 @@ JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,0,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
 convex optimization",0,0,0,0
-elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",0,4,2,0
+elimillera,R,"Python, Julia",,elimillera@gmail.com,"Pharmaceutical Sciences, Clinical Data, Data Manipulation, CDISC Data Standards, Shiny Applications",1,5,2,0
 dnzoktay,"R
 STATA
 Julia",,,denizoktay.econ@gmail.com,"economics
@@ -4479,7 +4479,7 @@ Signal Processing
 Mineral Physics",0,1,0,0
 iammix,Python,,Aristotle University Of Thessaloniki,k.mixios@gmail.com,"Applied Mechanics
 Finite Element Method
-Structural Analysis",1,3,0,0
+Structural Analysis",0,3,1,1
 josehd,Python,,,josehd@cio.mx,"Optics
 Mathematics",0,0,0,0
 sabinomaggi,"Fortran, Python, R","Mathematica, AWK, bash",CNR National Research Council,sabino.maggi@cnr.it,"physics/solid state/superconductivity
@@ -4587,7 +4587,7 @@ Plasma Physics
 Numerical Methods
 Finite Element Method
 Particle-In-Cell",0,1,0,0
-spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",0,1,0,0
+spitschan,"Python, MATLAB",,University of Oxford,manuel.spitschan@psy.ox.ac.uk,"Neuroscience, psychology",1,2,0,0
 rurz,"Julia, Python",Mathematica,"National Institute of Astrophysics, Optics and Electronics",arurzp@gmail.com,"Polynomials, Hypergeometric functions, Quantum analysis packages, Vector transformation routines",0,1,0,0
 qpmnguyen,"R
 Julia",Python,Dartmouth College,quang.p.nguyen.gr@dartmouth.edu,"Microbiome
@@ -4919,7 +4919,7 @@ Anthropology
 Archaeology
 Human Evolution
 Ecology",0,1,1,0
-xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",1,1,0,0
+xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,1,1,1
 abhishekvp,"javascript
 Java
 PHP","C++
@@ -5076,7 +5076,7 @@ jingpengw,"python
 C++
 Julia",,Flatiron Institute,jwu@flatironinstitute.org,"Image Analysis
 Connectome
-Deep Learning",2,2,0,0
+Deep Learning",1,2,1,1
 kwstat,R,,Corteva Agriscience,kw.stat@gmail.com,Statistics,0,0,0,0
 vsangelidakis,"Matlab
 Python
@@ -5088,7 +5088,7 @@ Discrete element method
 Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
-Contact mechanics",1,1,0,0
+Contact mechanics",0,1,1,1
 msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,1,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",1,2,0,0
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,1,1,0
@@ -5157,7 +5157,7 @@ open science
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
 Particle physics",0,1,0,0
-tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",1,2,1,0
+tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,2,2,1
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
 kana4,R,Bash,Kana LLC,christophersugai@gmail.com,Bioinformatics,0,0,0,0
@@ -6081,7 +6081,7 @@ Viech,Python,,,maximilian.stahlberg@tu-berlin.de,"computer algebra systems
 mathematical optimization
 (distributionally) robust optimization
 network science / applied graph theory
-algorithms and complexity theory",2,2,0,0
+algorithms and complexity theory",1,2,1,1
 zadehsey,"Matlab
 Python",,Carnegie Mellon University,sghaffar@andrew.cmu.edu,"Mechanical Engineering
 Nanoscale Transport
@@ -6651,7 +6651,7 @@ density functional theory",0,0,0,0
 SJaeschke,"English, German","Mathematica, C/C++, R, Python",Freelancer,sjaeschke@gmail.com,"mCAS, Simulation, Statistics, Algorithms, Visualization",0,0,0,0
 flor14,R,Python,University of British Columbia,florencia.dandrea@gmail.com,"Ecotoxicological risk assessment, environmental sciences, aquatic biology, toxicology, contamination - dashboards, packages, reproducibility",0,0,0,0
 VenkteshV,"python,scala,java",javascript,Indraprastha Institute of Information technology,venkkratos@gmail.com,"education, Artificial Intelligence, NLP, CV",1,1,0,0
-vwxyzjn,python,,Drexel University,costa.huang@outlook.com,Reinforcement Learning,1,1,0,0
+vwxyzjn,python,,Drexel University,costa.huang@outlook.com,Reinforcement Learning,0,1,1,1
 VenkteshV,"Python
 Java
 Javascript",Scala,Indraprastha Institute of Information technology,venkteshv@iiitd.ac.in,"Natural Language Processing
@@ -6889,7 +6889,7 @@ Visualization and rendering
 Optimization
 Numerical computation
 Finite elements
-PDEs and ODEs",2,2,0,0
+PDEs and ODEs",1,2,1,1
 cmorris2945,python,C++,m2gen,ai.healhcare@yahoo.com,"computational biology, bioinformatics, cancer, computer vision, nlp",0,0,0,0
 schochastics,R,,GESIS -  Leibniz Institute for the Social Sciences,david.schoch@gesis.org,"network analysis
 data visualization",0,0,0,0
@@ -6906,7 +6906,7 @@ C",MATLAB,Aristotle University of Thessaloniki,k.mixios@gmail.com,"Structural En
 Mechanics
 Finite Element Method
 Machine Learning Procedures
-Optimization Methods",1,3,0,0
+Optimization Methods",0,3,1,1
 marcsit,Python,,Rhea System for the European Space Agency,marc.costa@ext.esa.int,Planetary Science,0,0,0,0
 svchb,"C
 C++
@@ -7050,7 +7050,7 @@ jingpengw,"Python
 C++
 Julia",,Flatiron Institute,jingpeng.wu@gmail.com,"image processing
 3D image analysis
-cloud computing",2,2,0,0
+cloud computing",1,2,1,1
 skiptoniam,"R
 C++",Python,University of Melbourne,skiptoniam@gmail.com,"Spatial statistics
 Finite mixture models
@@ -7147,9 +7147,14 @@ kellijohnson-NOAA,R,"C++
 Fortran",Northwest Fisheries Science Center,kelli.johnson@noaa.gov,"Fisheries
 Simulations
 Bayesian models",1,1,0,0
-https://github.com/SichengHe,"Fortran, python, julia",,MIT,sichengh@mit.edu,"numerical method, optimization, pde, automatic differentiation,  dynamical system, CFD, MDO"
+SichengHe,"Fortran, python, julia",,MIT,sichengh@mit.edu,"numerical method, optimization, pde, automatic differentiation,  dynamical system, CFD, MDO",0,0,0,0
 jmcbroome,"Python
 Cython",C++,"University of California, Santa Cruz",jmcbroome@gmail.com,"Bioinformatics
 Evolutionary genomics
 Phylogenetics
 NGS Pipelines"
+adamrjensen,Python,,Technical University of Denmark,arajen@dtu.dk,"Solar energy
+Photovoltics
+Solar thermal
+Solar resource assessment
+Solar radiation data"
