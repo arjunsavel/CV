@@ -1748,7 +1748,7 @@ Microarray
 NGS
 Next Generation Sequecning",0,1,0,0
 nearinj,"R, Java, Python",,Dalhousie University,jc235601@dal.ca,Metagenomics,0,0,0,0
-rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",1,3,1,0
+rlskoeser,python,javascript,Princeton University,rkoeser@princeton.edu,"web applications, data modeling and munging, text indexing and parsing, digital humanities",0,3,1,0
 sharad.jash,"C,C++,Python,java,shell scripting,PHP",,Institute For Plasma Research,sharad.jash@ipr.res.in,"Network security,web and application data ",0,0,0,0
 colleeneb,"Fortran
 C
@@ -4366,7 +4366,7 @@ Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
 Numerical analysis",0,2,0,0
-step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",1,2,1,0
+step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,2,1,0
 smutao/,"Python
 Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
@@ -6935,7 +6935,7 @@ gtonkinhill,"Python
 R",c++,University of Oslo,g.tonkinhill@gmail.com,"bioinformatics
 statistics
 genomics
-transcriptomics",0,1,1,1
+transcriptomics",1,2,1,1
 RBhupi,"R
 Python","C++ 
 NCL
@@ -7139,7 +7139,7 @@ Python",,The National Agriculture and Food Research Organization (NARO),sun@biun
 genetics
 plant science
 agriculture
-machine learning",0,0,0,0
+machine learning",1,1,0,0
 arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems",0,0,0,0
 JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical),0,0,0,0
 ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks",0,0,0,0
@@ -7157,13 +7157,13 @@ adamrjensen,Python,,Technical University of Denmark,arajen@dtu.dk,"Solar energy
 Photovoltics
 Solar thermal
 Solar resource assessment
-Solar radiation data"
+Solar radiation data",0,0,0,0
 masadcv,Python,C++,"Kings College London, UK",muhammad.asad@kcl.ac.uk,"Medical Images
 Healthcare AI
 AI
 Computer Vision
-Machine Learning"
-https://github.com/janvekarnaveed,Python,SQL,Amazon,janvekarnaveed@gmail.com,"Machine Learning, Python, SQL, Data Analytics, Data Visualization"
+Machine Learning",0,0,0,0
+janvekarnaveed,Python,SQL,Amazon,janvekarnaveed@gmail.com,"Machine Learning, Python, SQL, Data Analytics, Data Visualization",0,0,0,0
 ziyiyin97,Julia,"Python
 MATLAB",Georgia Institute of Technology,ziyi.yin@gatech.edu,"scientific machine learning
 inverse problem
@@ -7171,8 +7171,8 @@ PDE-constrained optimization
 numerical simulation
 scientific computing
 computational imaging
-uncertainty quantification"
-https://github.com/DEARLIBS,"Python, MATLAB, MAPLE",,"Apple, Inc",seongl2@uw.edu,Battery modeling
+uncertainty quantification",0,0,0,0
+DEARLIBS,"Python, MATLAB, MAPLE",,"Apple, Inc",seongl2@uw.edu,Battery modeling,0,0,0,0
 @imciner2,"C/C++
 Julia
 MATLAB",,The University of Manchester,ian.s.mcinerney@ieee.org,"Optimization
