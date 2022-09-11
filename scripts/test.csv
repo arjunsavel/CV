@@ -416,7 +416,7 @@ Biostatistics
 Cancer research applications",0,4,0,0
 serine,"python, R","javascript, BASH (shell scripting)",Monash Bioinformatics Platform,kirill.tsyganov@monash.edu,Bioinformatics tools/packages,0,3,0,0
 dvysardana,"Java, Python, R, C, C++",Scala,,sardanda@mail.uc.edu,"Computer Science, Machine Learning, Data Mining, Tools, Technology",0,1,1,0
-cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,1,0
+cole-brokamp,R,,Cincinnati Children's Hospital Medical Center,cole.brokamp@gmail.com,"reproducible research, geoinformatics, geospatial, random forest",0,1,0,0
 martinmodrak,"R
 C/C++
 OpenCL
@@ -1389,7 +1389,7 @@ MPI
 OpenMP
 Validation
 Testing",0,0,0,0
-jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,4,1,1
+jkanche,"R, Python, JavaScript, go"," Julia, Elixir, C, C++","University of Maryland, College Park",jayaram.kancherla@gmail.com,"Bioinformatics, data visualization",0,4,1,0
 jmborr,python,,Oak Ridge National Laboratory,borreguero@gmail.com,"neutron science, biophysics, physical chemistry, physics",0,1,0,0
 rpetit3,Python,"R, Perl, Bash","Emory University, Atlanta, GA, USA",robert.petit@emory.edu,Bacterial Genomics,0,2,0,0
 EduPH,"Python
@@ -2101,7 +2101,7 @@ Python","C++
 Perl",Columbia University in the City of New York,sairam.geethanath@columbia.edu,"Magnetic Resonance Imaging
 Acquisition and reconstruction methods",0,1,1,0
 dilawar,"Python
-C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,0,3,2,1
+C",C++,NCBS Bangalore,dilawar.s.rajput@gmail.com,Embedded System,0,3,1,1
 jakryd,"c++, c, python",,"Institute of Physics, Nicolaus Copernicus University, Toruń, Poland",jr@fizyka.umk.pl,"computational physics
 numerical methods
 machine learning
@@ -3530,7 +3530,7 @@ Java
 Elixir","University of Maryland, College Park",jayaram.kancherla@gmail.com,"biological data visualization
 bioinformatics
 data management
-data structures",0,4,1,1
+data structures",0,4,1,0
 lee-seon-woo,Python,C++,Inha University,x21999@inha.edu,"DeepLearning
 Abnormal Detection
 Object Detection
@@ -3538,7 +3538,7 @@ Image Processing
 Machine Learning
 Image Recognition
 Semantic Segmantation",0,0,0,0
-Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",1,3,0,0
+Himscipy,"Python, C++, C , MPI, OpenMP, Matlab, Bash",,Optimization and Control Engineer,himanshu90sharma@gmail.com,"High Performance Computing , Machine Learning, Data Science, Computational Fluid Dynamic , Energy Systems,  Uncertainty Quantification, Dynamics & Controls, Optimization, Probabilistic Programming, Finite Element Methods , Renewable Energy",2,4,0,0
 zeroset,C++,,Research Centre Jülich,mail@zeroset.dev,Scientific computing,0,2,0,0
 solanpaa,"Python, C++","Matlab, Julia, C, Go",Tampere University,janne.solanpaa@tuni.fi,"PDEs, ODEs, Computational Physics",0,0,0,0
 Ohjeah,Python,,Ambrosys GmbH,info@markusqua.de,"Physics
@@ -3839,7 +3839,7 @@ parallelization
 vectorization
 GPU
 FMM",0,1,0,0
-georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",1,2,1,0
+georgiastuart,"python, C, C++","R, java",The University of Texas at Dallas,georgia.stuart@gmail.com,"computational science, geophysics, uncertainty quantification",2,3,1,0
 adithirgis,R,,ILK Labs,adithiru095@gmail.com,"Shiny apps, geospatial data, data visualisation",0,2,0,0
 mjsull,Python,,Microba,mjsull@gmail.com,"Bacterial genomics
 Visualisation tools
@@ -4047,7 +4047,7 @@ cxwx,"C++,python","c++,python",,chenxu@ihep.ac.cn,"astronomy
 gamma-ray
 cosmic-ray",0,0,0,0
 ravivv,R,,,eranraviv@mail.com,Finance,0,0,0,0
-raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",0,2,1,1
+raivivek,"Python, R, Nim",Ruby,,vivekrai@umich.edu,"Genomics and Epigenomics, Statistical Genetics, GWAS, QTL etc",0,2,1,0
 yhy188,R,R,,huy170@psu.edu,Statistical; Design of experiments,0,0,0,0
 edusantana,"Ruby, Python",,,eduardo.ufpb@gmail.com,"Test,Markdown,Latex",0,0,0,0
 smasongarrison,R,,,garrissm@wfu.edu,"Psychology
@@ -4902,7 +4902,7 @@ MATLAB",Python,The University of Newcastle,balaje6@gmail.com,"Finite Element Met
 Fluid Structure Interaction
 Virtual Element Methods",0,1,1,0
 moldis-group,Fortran,Python,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry, Materials Science",0,0,0,0
-georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",1,2,1,0
+georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austin",georgia.stuart@austin.utexas.edu,"uncertainty quantification, statistics, geophysics, wave propagation, particle tracking",2,3,1,0
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
@@ -5179,7 +5179,7 @@ Python",Harvard University,xiw321@mail.harvard.edu,"Statistics
 Data Science
 Machine Learning
 Causal Inference
-Epidemiology",0,1,1,0
+Epidemiology",0,1,0,0
 Naeemkh,"Python 
 R",,Harvard University,nkhoshnevis@fas.harvard.edu,"Statistics
 Causal Inference
@@ -5204,7 +5204,7 @@ Computational biology
 Structural Biology
 Bioinformatics",0,2,2,0
 sdparsons,R,,University of Oxford,sam.parsons@psy.ox.ac.uk,"behavioural data processing, visualization, psychometrics",0,0,0,0
-tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,1,0
+tsamsonov,R,"Python, C++","Lomonosov Moscow State University, Faculty of Geography",tsamsonov@geogr.msu.ru,"spatial, cartography, GIS",0,1,0,0
 dmentipl,Python,Fortran,Bureau of Meteorology,daniel.mentiplay@protonmail.com,"Astrophysics
 Smoothed particle hydrodynamics",0,1,0,0
 joeweaver,"R, Python, C/C++, Rust","Julia,bash",Newcastle University,joe.e.weaver@gmail.com,"Microbiology, Environmental Engineering, Higher abstraction stuff for modelling in general (e.g. 'parameter sweep management')",0,1,0,0
@@ -5372,7 +5372,7 @@ Materials science",1,2,1,1
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
-dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",0,3,2,1
+dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",0,3,1,1
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
 Network Analysis",0,2,2,1
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
@@ -5986,7 +5986,7 @@ bioinformatics
 statistical genetics
 genome-wide association studies
 statistics
-biostatistics",1,2,1,1
+biostatistics",1,2,1,0
 JacksonMaxfield,Python,,University of Washington Information School,jmxbrown@uw.edu,"information systems, information archival, information retrieval, computational social science, image processing, open infrastructure",0,0,0,0
 womeimingzi11,"R
 SQL","Docker
