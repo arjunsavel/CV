@@ -1902,7 +1902,7 @@ sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
-Physics (plasmas, especially)",1,3,1,0
+Physics (plasmas, especially)",1,3,0,0
 clauswilke,R,"python
 C++",The University of Texas at Austin,wilke@austin.utexas.edu,"computational biology
 bioinformatics
@@ -3348,7 +3348,7 @@ jspaezp,"R
 Python",,Purdue Univ.,jpaezpae@purdue.edu,"Single cell sequencing
 RNA-seq
 Mass Spectrometry
-Bioinformatics",0,2,2,0
+Bioinformatics",0,2,1,0
 bozutemiz,"C#
 Python
 Matlab","Java
@@ -3793,7 +3793,7 @@ Process Modelling
 Process Control
 Process Optimization",0,1,1,0
 rajeshrinet,Python,,University of Cambridge,rs2004@cam.ac.uk,"Fluid dynamics, Bayesian inference, Colloids",0,1,0,0
-sigven,R,Python,"Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway",sigven@ifi.uio.no,"Text mining, bioinformatics, genomics",0,1,1,0
+sigven,R,Python,"Department of Tumor Biology, Institute for Cancer Research, Oslo University Hospital, Oslo, Norway",sigven@ifi.uio.no,"Text mining, bioinformatics, genomics",0,1,0,0
 AhmedArslan,Python; R,,Stanford University,aarslan@stanford.edu,Computational Biology; Bioinformatics,0,0,0,0
 chainsawriot,R,"Lisp
 Python",Mannheimer Zentrum für Europäische Sozialforschung,chung-hong.chan@mzes.uni-mannheim.de,"social science
@@ -4833,7 +4833,7 @@ Deep Learning
 Image Classification
 Time Series Data
 Astrophysics
-Cosmology",0,2,1,0
+Cosmology",0,2,0,0
 zgxn,"C
 C++
 Fortran","Python
@@ -4874,7 +4874,7 @@ Medical Imaging",0,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,4,3,1
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,4,2,1
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -5481,7 +5481,7 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning",0,3,2,0
+Machine Learning",0,3,1,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
@@ -7179,3 +7179,6 @@ MATLAB",,The University of Manchester,ian.s.mcinerney@ieee.org,"Optimization
 Linear Algebra
 Control Theory
 Embedded Systems"
+PrashantPD,"C
+R
+SQL",,Carbon Lamp,idprashantd@gmail.com,"Analytics, Data Science, Operations Research, Management Science"
