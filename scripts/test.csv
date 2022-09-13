@@ -802,7 +802,7 @@ MATLAB",University of Massachusetts Amherst,djsaunde@cs.umass.edu,"Machine learn
 Computational Neuroscience",0,0,0,0
 sdelandtsheer,Matlab,,University of Luxembourg,sebdelandtsheer@gmail.com,"Systems biology
 Computational biology
-",0,2,0,0
+",1,3,0,0
 vc1492a,"Python, R","JavaScript, Julia",NASA Jet Propulsion Laboratory,vc@valentino.io,"Anomaly detection, Python programming, network analysis, tree-based classifiers. ",0,5,0,0
 fboehm,R,none at this time,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics
 text analysis
@@ -6528,7 +6528,7 @@ sidihamady/,"C, C++, Python","Lua, Java",University of Lorraine,sidi.hamady@univ
 wentasah,"C/C++, Julia","Rust, Python, Shell, Go",Czech Technical University in Prague,michal.sojka@cvut.cz,"Embedded systems, operating systems, robotics",0,0,0,0
 sdelandtsheer,"python
 matlab",,University of Luxembourg,sebastien.delandtsheer@uni.lu,"systems biology
-computational biology",0,2,0,0
+computational biology",1,3,0,0
 FWuellhorst,"Python
 Modelica",,RWTH Aachen University,fabian.wuellhorst@rwth-aachen.de,"Energy Systems
 Buildings
@@ -6786,7 +6786,7 @@ JavaScript","Biomechanics Section, KU Leuven, Belgium",mojtaba.barzegari@kuleuve
 Computational mechanics
 Computational materials science
 Finite element
-Numerical methods",1,1,0,0
+Numerical methods",2,2,0,0
 jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
@@ -7173,12 +7173,16 @@ scientific computing
 computational imaging
 uncertainty quantification",0,0,0,0
 DEARLIBS,"Python, MATLAB, MAPLE",,"Apple, Inc",seongl2@uw.edu,Battery modeling,0,0,0,0
-@imciner2,"C/C++
+imciner2,"C/C++
 Julia
 MATLAB",,The University of Manchester,ian.s.mcinerney@ieee.org,"Optimization
 Linear Algebra
 Control Theory
-Embedded Systems"
+Embedded Systems",0,0,0,0
 PrashantPD,"C
 R
 SQL",,Carbon Lamp,idprashantd@gmail.com,"Analytics, Data Science, Operations Research, Management Science"
+cinnetcrash,"python
+bash
+R",javascript,Ankara University,gultekinnunal@gmail.com,"Bioinformatics
+Microbiology"
