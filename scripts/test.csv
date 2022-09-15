@@ -1507,7 +1507,7 @@ mkearney,R,python,University of Missouri,kearneymw@missouri.edu,"Social science,
 malmans2,"Python
 Matlab",,Johns Hopkins University,mattia.almansi@jhu.edu,"Oceanography
 Earth and Planetary Sciences
-Geophysical Fluid Dynamics",1,3,1,0
+Geophysical Fluid Dynamics",1,3,0,0
 osorensen,R,C++,University of Oslo,oystein.sorensen.1985@gmail.com,"Statistics, machine learning",0,3,0,0
 ksunden,"Python
 C
@@ -1770,7 +1770,7 @@ junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",1,2,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",0,1,0,0
-EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,1,4,2,0
+EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,4,3,1
 streeve,"Python
 C++","Matlab
 C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,0,0
@@ -4316,7 +4316,7 @@ steo85it,"python
 fortran",N/A,UMBC/NASA GSFC,stefano.bertone@umbc.edu,"astronomy
 planetary sciences
 orbit determination
-space geodesy",0,1,1,0
+space geodesy",0,1,0,0
 jamesrhester,"Python, Julia","Fortran, C, C++",Australian Nuclear Science and Technology Organisation,james.hester@ansto.gov.au,Crystallography,0,2,2,0
 xie186,Python,"R
 Perl
@@ -7185,7 +7185,11 @@ SQL",,Carbon Lamp,idprashantd@gmail.com,"Analytics, Data Science, Operations Res
 cinnetcrash,"python
 bash
 R",javascript,Ankara University,gultekinnunal@gmail.com,"Bioinformatics
-Microbiology"
-n8thangreen,R,,UCL,n.green@ucl.ac.uk,statistics
-championn,linux,,"Bharati Vidyapeeth's College of Engineering,Delhi",mohit.tiwari@bharatividyapeeth.edu,"linux,cyber security,networking,computer networks,cloud computing"
+Microbiology",0,0,0,0
+n8thangreen,R,,UCL,n.green@ucl.ac.uk,statistics,0,0,0,0
+championn,linux,,"Bharati Vidyapeeth's College of Engineering,Delhi",mohit.tiwari@bharatividyapeeth.edu,"linux,cyber security,networking,computer networks,cloud computing",0,0,0,0
 https://github.com/Mariosmsk,"python, matlab",qgis,"Research Software Engineer, KIOS Research and Innovation Center of Excellence, University of Cyprus",mkiria01@ucy.ac.cy,"EPANET, QGIS, water distribution systems"
+teddygroves,"Python
+Stan",,The Novo Nordisk Foundation Center for Biosustainability,groves.teddy@gmail.com,"Statistics, biochemistry, general software, sport analysis"
+@davidpagnon,Python,matlab,"CNRS Grenoble, France",Contact@david-pagnon.com,"biomechanics
+computer vision"
