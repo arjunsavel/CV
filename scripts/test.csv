@@ -1314,7 +1314,7 @@ Genomics",0,1,0,0
 untzag,python,c++,University of Wisconsin-Madison,blaise@untzag.com,"chemistry
 spectroscopy
 electronics
-instrumentation",0,2,1,0
+instrumentation",1,3,1,0
 garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",1,1,0,0
 sepandhaghighi,Python,"C++
 JavaScript
@@ -3150,7 +3150,7 @@ battery modeling
 phase-field
 chemo-mechanical
 multiphysics
-multiscale",0,5,1,1
+multiscale",0,5,1,0
 kblin,"Python, Go, C, Rust, TypeScript, JavaScript","C++, Obj-C, OCaml",Technical University of Denmark,kblin@biosustain.dtu.dk,"Bioinformatics, Genomics, web services",0,3,1,0
 GregoryAshton,Python,"C, MATLAB","School of Physics and Astronomy, Monash University, Vic 3800",gregory.ashton@ligo.org,"Open source software, statistics, Bayesian inference/Stochastic sampling, data visualization",0,1,0,0
 rchg,"Python
@@ -3638,7 +3638,7 @@ crack
 materials simulation
 plasticity
 metals
-plasticity",0,5,1,1
+plasticity",0,5,1,0
 jnarayan81,"Perl,Python",Java,UNLV,jnarayan81@gmail.com,"Next Generation Sequencing
 Breakpoints
 Comparative Genomics
@@ -5368,7 +5368,7 @@ Spatio-temporal models",0,0,0,0
 wcwitt,"Python
 C++
 Fortran",,University of Cambridge,witt.chuck@gmail.com,"Electronic structure
-Materials science",1,2,1,1
+Materials science",2,3,1,1
 Milantex,"TypeScript, JavaScript, PHP","Java, C/C++","Singidunum University, Belgrade, Serbia",milan.tair@gmail.com,"Web Applications, Internet of Things, Computer-Aided Education, Computer-Aided Assessment etc.",0,0,0,0
 alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
@@ -5783,7 +5783,7 @@ j3r3m1,"Python
 SQL
 Groovy",,University of Gothenburg,jeremy.bernard@zaclys.net,"Climate
 Energy
-Geographical Information System",0,1,1,1
+Geographical Information System",0,1,1,0
 harshitv09?tab=repositories,Python,,Indian Institute of Technology Roorkee,harshit@ce.iitr.ac.in,"Photogrammetry, Computer Vision, Point cloud, 3D GIS, 3D reconstruction",0,0,0,0
 tpurcell90,C++ and python,Matlab,Fritz-Haber-Institute,purcell@fhi-berlin.mpg.de,"Symbolic regression, machine learning, electronic structure, quantum chemistry, condensed matter physics, thermal transport, HTC frameworks",0,1,1,0
 kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
@@ -6845,7 +6845,7 @@ Embedded systems
 Robotics
 Biomechanics
 Control theory
-Optimisation",0,0,0,0
+Optimisation",1,1,0,0
 Nothing,"c++
 python",,ZheJiang University,chengqi0908@foxmail.com,DSP,0,0,0,0
 zhubonan,"Python, Julia",,University College London,bonan.zhu@ucl.ac.uk,"DFT Postprocessing, High-throughput calculation, crystal structure prediction",0,0,0,0
@@ -7188,8 +7188,8 @@ R",javascript,Ankara University,gultekinnunal@gmail.com,"Bioinformatics
 Microbiology",0,0,0,0
 n8thangreen,R,,UCL,n.green@ucl.ac.uk,statistics,0,0,0,0
 championn,linux,,"Bharati Vidyapeeth's College of Engineering,Delhi",mohit.tiwari@bharatividyapeeth.edu,"linux,cyber security,networking,computer networks,cloud computing",0,0,0,0
-https://github.com/Mariosmsk,"python, matlab",qgis,"Research Software Engineer, KIOS Research and Innovation Center of Excellence, University of Cyprus",mkiria01@ucy.ac.cy,"EPANET, QGIS, water distribution systems"
+Mariosmsk,"python, matlab",qgis,"Research Software Engineer, KIOS Research and Innovation Center of Excellence, University of Cyprus",mkiria01@ucy.ac.cy,"EPANET, QGIS, water distribution systems",0,0,0,0
 teddygroves,"Python
-Stan",,The Novo Nordisk Foundation Center for Biosustainability,groves.teddy@gmail.com,"Statistics, biochemistry, general software, sport analysis"
+Stan",,The Novo Nordisk Foundation Center for Biosustainability,groves.teddy@gmail.com,"Statistics, biochemistry, general software, sport analysis",0,0,0,0
 @davidpagnon,Python,matlab,"CNRS Grenoble, France",Contact@david-pagnon.com,"biomechanics
 computer vision"
