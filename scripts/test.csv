@@ -916,7 +916,7 @@ Computational Geology
 jingpengw,Julia,python,Postdoctoral Research Associate,jingpeng@princeton.edu,"Image Processing
 Bioimage Informatics
 Computational Neuroscience",1,2,1,1
-suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",0,0,0,0
+suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",1,1,0,0
 nsaunier,"Python
 C++","Java
 C",Polytechnique Montreal,nicolas.saunier@polymtl.ca,"artificial intelligence
@@ -3075,7 +3075,7 @@ proycon,"Python, C++, Rust",Javascript,Radboud University Nijmegen,proycon@anapr
 chrisleaman,python,,University of New South Wales,c.leaman@unsw.edu.au,"coastal geomorphology
 coastal engineering
 beach erosion",0,2,1,0
-suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",0,0,0,0
+suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",1,1,0,0
 kokan,"C++
 C",Go,,kokaipeter@gmail.com,"Compiler
 Log collection",0,0,0,0
@@ -4670,7 +4670,7 @@ petaripenev,python,javascript,Georgia Institute of Technology,peteripenev@gmail.
 evolutionary biology
 phylogenetics",0,0,0,0
 LogIN-,"R, Python, JS",PHP,University of Oxford,ivan.tomic@wrh.ox.ac.uk,"machine learning, biology, big data, web based software, API design",0,1,0,0
-bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",0,0,0,0
+bbrelje,"Python, FORTRAN",,University of Michigan,bbrelje@umich.edu,"Aerospace, CFD, geometry, optimization, engineering",1,1,0,0
 cknoll,Python,,Dresden University of Technology,carsten.knoll@tu-dresden.de,"Control Theory
 System Dynamics
 Knowledge Representation",0,0,0,0
@@ -6357,7 +6357,7 @@ Go
 R",,Uppsala University,danielrivasmd@gmail.com,"Medical applications
 Artificial Intelligence
 Bioinformatics
-Genomics",0,1,1,1
+Genomics",0,1,1,0
 SimonMolinsky,Python,"Java Script
 C",Digitree Group SA,simon@ml-gis-service.com,"Spatial Analytics
 GIS
@@ -6425,7 +6425,7 @@ davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational 
 comp chemistry",0,1,1,1
 hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
 vilim,"Python, Julia",,,mail@vil.im,"ML Tooling, Visualization, Neuroscience",0,0,0,0
-JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics,0,1,1,1
+JoranTiU,"R, STAN",JAGS,Tilburg University,j.jongerling@tilburguniversity.edu,Statistics,0,1,1,0
 Sdparsons,R,,RadboudUMC,sam.parsons@radboudumc.nl,"Cognition, psychometrics, reliability",0,0,0,0
 haoxx081github.umn.edu,"Fortran
 Julia",Python,University of Minnesota,haoxx081@umn.edu,"Computational fluid dynamics
