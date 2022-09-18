@@ -70,7 +70,7 @@ kellieotto,"R
 Python",,UC Berkeley Department of Statistics/Berkeley Institute for Data Science,kellieotto@berkeley.edu,"Frequentist statistics
 Machine learning
 Data tidying/manipulation
-Data visualization",0,8,1,0
+Data visualization",0,8,0,0
 AnsleyManke,Fortran/ C,Ferret command line syntax,"Pacific Marine Environmental Laboratory, NOAA",ansley.b.manke@noaa.gov,,0,1,0,0
 sbinet,Go,,IN2P3,binet@cern.ch,"High Energy Physics, file formats",0,0,0,0
 abhishekbajpayee,"Python
@@ -4264,7 +4264,7 @@ statistical modeling
 numerical mathematics",0,0,0,0
 https://bitbucket.org/ricardovilela/,Java,"PHP, C",University of São Paulo,ricardovilela@usp.br,"Software Engineering, Software Testing, Concurrent Software, Search-based Software Engineering, Education in Computer Science",0,0,0,0
 sibirrer,Python,,Stanford University,sibirrer@stanford.edu,cosmology and astrophysics,0,1,0,0
-prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,1,0
+prdm0,R,C/C++,"Department of Statistics, Federal University of Paraíba, João Pessoa, Paraíba - PB, Brazil",pedro.rafael.marinho@gmail.com,"Statistics, Data Science and Machine Learning",0,1,0,0
 shahmoradi,"Fortran, MATLAB, Python, R","C, Bash, Pascal, HTML, IDL","The University of Texas, Arlington",shahmoradi@utexas.edu,"Mathematical Modeling, Scientific Computing, Astrophysics, Bioinformatics, Proteomics,  Biomedical Data Science, Bayesian Probability Theory, Molecular Dynamics, Monte Carlo techniques, Uncertainty Quantification",1,2,1,0
 ramisetti,"C
 C++
@@ -5463,7 +5463,7 @@ Agent Based Simulation",0,1,1,0
 PharaohCola13,R,Python,New Mexico Institute of Mining and Technology,spencer.riley@student.nmt.edu,"Atmospheric Science, Astrophysics",0,0,0,0
 junghans,C++,Python,Los Alamos National Laboratory,junghans@votca.org,"Molecular simulations
 coarse-graining",0,1,1,0
-11michalis11,Python,"R, VBA",Cardiff University,PanayidesM@cardiff.ac.uk,"Mathematics, Operational Research, Game Theory, Statistics, Python",0,1,1,1
+11michalis11,Python,"R, VBA",Cardiff University,PanayidesM@cardiff.ac.uk,"Mathematics, Operational Research, Game Theory, Statistics, Python",0,1,1,0
 anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kist@fau.de,"Neuroscience
 Image processing
 Deep Learning
@@ -7193,3 +7193,7 @@ teddygroves,"Python
 Stan",,The Novo Nordisk Foundation Center for Biosustainability,groves.teddy@gmail.com,"Statistics, biochemistry, general software, sport analysis",0,0,0,0
 @davidpagnon,Python,matlab,"CNRS Grenoble, France",Contact@david-pagnon.com,"biomechanics
 computer vision"
+shadrackkimutai,"java,php,visual basic, javascript","java, visual basic and Php",Kipkabus Technical and Vocational College,shadrackkimutai@ktvc.ac.ke,Pattern Recognition and Automation
+shruti-singh,python,java,PhD Student,shrutisinghnr@gmail.com,"Natural language processing, Information Retrieval, Machine Learning, Deep Learning"
+JorgePerC,"Python
+Java",C/C++,--,cincololo@gmail.com,Robotics
