@@ -5070,7 +5070,7 @@ paleolimbot,"R
 C, C++ (in R packages)",Python,Fisheries and Oceans Canada,dewey@fishandwhistle.net,"Geology
 (Geo/water) chemistry
 Aquatic science
-Geographic information systems (GIS)",0,1,1,0
+Geographic information systems (GIS)",0,1,0,0
 nhtran93,R,Python,Max Planck Institute for Evolutionary Anthropology,han_tran@eva.mpg.de,"Data Science, Psychological Methods, Social Sciences, Stochastic simulations, Bayesian Statistics",0,0,0,0
 jingpengw,"python
 C++
@@ -5355,7 +5355,7 @@ No,C,Java,Foss,mohammedruman402@gmail.com,Mysore,0,0,0,0
 ayush9pandey,"Python, MATLAB","C, C++",California Institute of Technology,ayush.9.pandey@gmail.com,"Control Systems Theory, Synthetic Biology, Computational Biology, Systems Biology, Bioinformatics",0,1,0,0
 flowdalic,"Java, C++, C, Python, Scala, Haskell, Bash,",X10,Friedrich-Alexander University Erlangen-Nürnberg,flow@cs.fau.de,"many core, concurrency, parallelism, system software, operating systems",0,0,0,0
 dankelley,R,Julia,Dalhousie University,dan.kelley@dal.ca,Oceanography,0,1,1,0
-richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,1,0
+richardsc,R,,"Fisheries and Oceans Canada, Bedford Institute of Oceanography",clark.richards@gmail.com,"Oceanography, climate, cryosphere, atmosphere",0,1,0,0
 mariojppereira,OCaml,,NOVA LINCS,mjp.pereira@fct.unl.pt,"Funcional programming, deductive software verification",0,0,0,0
 felipefr,"Python, C++, Fortran","C, MATLAB",EPFL,f.rocha.felipe@gmail.com,"Numerical Methods, Finite Elements, Machine Learning, Neural Networks, Computational Mechanics",0,1,0,0
 tanho63,R,,,tan@tanho.ca,,0,0,0,0
@@ -7191,9 +7191,16 @@ championn,linux,,"Bharati Vidyapeeth's College of Engineering,Delhi",mohit.tiwar
 Mariosmsk,"python, matlab",qgis,"Research Software Engineer, KIOS Research and Innovation Center of Excellence, University of Cyprus",mkiria01@ucy.ac.cy,"EPANET, QGIS, water distribution systems",0,0,0,0
 teddygroves,"Python
 Stan",,The Novo Nordisk Foundation Center for Biosustainability,groves.teddy@gmail.com,"Statistics, biochemistry, general software, sport analysis",0,0,0,0
-@davidpagnon,Python,matlab,"CNRS Grenoble, France",Contact@david-pagnon.com,"biomechanics
-computer vision"
-shadrackkimutai,"java,php,visual basic, javascript","java, visual basic and Php",Kipkabus Technical and Vocational College,shadrackkimutai@ktvc.ac.ke,Pattern Recognition and Automation
-shruti-singh,python,java,PhD Student,shrutisinghnr@gmail.com,"Natural language processing, Information Retrieval, Machine Learning, Deep Learning"
+davidpagnon,Python,matlab,"CNRS Grenoble, France",Contact@david-pagnon.com,"biomechanics
+computer vision",0,0,0,0
+shadrackkimutai,"java,php,visual basic, javascript","java, visual basic and Php",Kipkabus Technical and Vocational College,shadrackkimutai@ktvc.ac.ke,Pattern Recognition and Automation,0,0,0,0
+shruti-singh,python,java,PhD Student,shrutisinghnr@gmail.com,"Natural language processing, Information Retrieval, Machine Learning, Deep Learning",0,0,0,0
 JorgePerC,"Python
 Java",C/C++,--,cincololo@gmail.com,Robotics
+p-ortmann,python,Java,KU Leuven,paul.ortmann@protonmail.com,"transport modelling
+scientific computing
+geospatial analysis
+network science
+optimization
+logistics"
+"Yes, I use GitHub for my researching purpose","Java, C++, Python",HTML,"Assistant Professor, CIS department, The University of Jordan, Aqaba",b.alahmad@ju.edu.jo,"Software Design, Software Testing, Software Engineering Education"
