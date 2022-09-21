@@ -1972,7 +1972,7 @@ biochemical networks
 information theory
 Bayesian inference
 parameter estimation
-model selection",1,4,2,1
+model selection",1,4,1,1
 lskatz,perl,rust,Centers for Disease Control and Prevention,lskatz@gmail.com,"genomic epidemiology
 bioinformatics in public health",0,0,0,0
 bliiir,"Python, SQL",R,Software Developer,rasgroth@gmail.com,"Time series analysis, Astronomy, Finance",0,0,0,0
@@ -3298,7 +3298,7 @@ diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
 coljac,"Python, Golang","Julia, Java",Swinburne University of Technology,colinjacobs@swin.edu.au,"Astronomy, Machine learning",0,3,0,0
-lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,1,0
+lilyminium,Python,,,lily.wang@anu.edu.au,Computational/theoretical chemistry,0,1,0,0
 shyamd,Python,,Lawrence Berkeley Labs,shyamd@lbl.gov,"Material Science, Chemistry",0,1,0,0
 diegoonna,python,javascript,University of Buenos Aires,diego.onna@gmail.com,"optics, material science, machine learning, DoE, chemometrics, nanotechnology",0,0,0,0
 aebergl,MATLAB,,Moffitt Cancer Center,anders.berglund@moffitt.org,Bioinformatics,0,0,0,0
@@ -4344,7 +4344,7 @@ HPC
 Astronomy",0,2,1,0
 jkbren,"python, R",MATLAB,Northeastern University,brennanjamesklein@gmail.com,"network science, dynamics on networks, graph theory, visualization, information theory, data science, inference, neuroscience, agent-based models",0,0,0,0
 JanCBrammer,Python,Matlab,Radboud University Nijmegen,jan.c.brammer@gmail.com,"Electrophysiology, Biosignals, Neuroscience, Psychology, Data-Visualization",0,1,0,0
-yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",1,2,0,0
+yadudoc,"Python, C","Java, C++",University of Chicago,yadu@uchicago.edu,"HPC, Cloud, Distributed systems, IoT, Parallel programming",2,3,0,0
 pr4deepr,"Python, ImageJ Macro",Groovy (basic or beginner),Monash University,pradeep.rajasekhar@gmail.com,"Bioimage analysis, image processing, microscopy, data processing, visualisation, machine learning",0,0,0,0
 Bsingstad,Python,,University of Oslo,bjorn_sing@hotmail.com,Signal processing and Machine learning (in medical applications),0,0,0,0
 jonathanschilling,"Java, Python, Fortran, C, C++",Matlab,Max-Planck-Institute for Plasma Physics,jonathan.schilling@ipp.mpg.de,"numerics, data analysis, modeling, communication with hardware",0,0,0,0
@@ -4414,7 +4414,7 @@ performance analysis
 development tools
 security
 web development
-internet of things",0,2,0,0
+internet of things",1,3,0,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,0,0
 rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,3,0,0
 kullrich,"R
@@ -4456,7 +4456,7 @@ Python","C
 C++","Mulliken Center for Theoretical Chemistry, University of Bonn",ehlert@thch.uni-bonn.de,"Computational Chemistry
 Quantum Chemistry
 Electronic structure methods
-Atomistic simulations",0,3,3,1
+Atomistic simulations",0,3,2,1
 elbeejay,Python,Matlab,University of Texas at Austin,jayaram.hariharan@gmail.com,"Coastal and fluvial geomorphology,
 Remote Sensing applications",0,1,0,0
 katschueler,R,"Python, Matlab","Medical Informatics Group, University of Frankfurt",katja.schueler@kgu.de,"data analysis, statistics, psychiatry, neuroscience, psychology",0,0,0,0
@@ -5290,7 +5290,7 @@ Software Engineering",0,0,0,0
 none,Stata,none,"NUST Business School, National University of Sciences and Technology, Pakistan",saadia.irfan@nbs.nust.edu.pk,Social science codes,0,0,0,0
 msharifian,Fortran,"C++, CUDA",Postdoctoral Research Associate,m.sharifian@sheffield.ac.uk,Computational Hydraulics,0,0,0,0
 edftercio,Python and Labview,Python and Labview,Universidade Federal de Minas Gerais,edf.tercio@hotmail.com,Neurocience,0,0,0,0
-OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",0,1,0,0
+OwenWard,R,Stan,Columbia University,owen.ward@columbia.edu,"Statistics, Data Science, Network Data",1,2,0,0
 vaneseltine,Python,,University of Michigan,matvan@umich.edu,"sociology, social science, record linkage, data management, SQL",0,1,1,0
 AnantHariharan1996,"Matlab,Python,Julia",Fortran,Brown University,anant_hariharan@brown.edu,"Geophysics,Seismology,Geology,Inverse Theory",0,0,0,0
 struckma,"R, Java, JavaScript, SQL","C++, C, PERL, Pascal, Prolog, Assembler, Python","Community Medicine, University Medicine Greifswald",stephan.struckmann@uni-greifswald.de,"Gene Regulation, PPI, DNA Conservation, Data Quality, Medical Studies, Drug Discovery",0,0,0,0
@@ -6017,7 +6017,7 @@ r3w0p,"Python, Java, C++, Ada",,,pow.a.edu@gmail.com,"internet of things, comple
 mhesselbarth,R,Cpp,"Ecology And Evolutionary Biology, University of Michigan",mhk.hesselbarth@gmail.com,"Ecological Modelling
 Individual-based modeling
 Spatial point pattern analysis
-Landscape ecology",0,0,0,0
+Landscape ecology",1,1,0,0
 adrien-matta,C++,"C, python","Normandie Univ, ENSICAEN, UNICAEN, CNRS/IN2P3, LPC Caen, 14000 Caen, France",matta@lpccaen.in2p3.fr,"Nuclear Physics, physics",0,0,0,0
 sandrinecharles,R,,University Claude Bernard Lyon 1,sandrine.charles@univ-lyon1.fr,"Mathematical biology
 Ecotoxicology
@@ -7203,5 +7203,6 @@ geospatial analysis
 network science
 optimization
 logistics",0,0,0,0
-"Yes, I use GitHub for my researching purpose","Java, C++, Python",HTML,"Assistant Professor, CIS department, The University of Jordan, Aqaba",b.alahmad@ju.edu.jo,"Software Design, Software Testing, Software Engineering Education"
+"Yes, I use GitHub for my researching purpose","Java, C++, Python",HTML,"Assistant Professor, CIS department, The University of Jordan, Aqaba",b.alahmad@ju.edu.jo,"Software Design, Software Testing, Software Engineering Education",0,0,0,0
 Balexandre23,R,,Florimond Desprez,bastian.alexandre23@outlook.com,"Plant breeding, genetics, experimental design"
+@egouldo,R,,University of Melbourne,Elliot.gould@unimelb.edu.au,"Ecology, Ecological Modelling, Metascience"
