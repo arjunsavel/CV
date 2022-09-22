@@ -2347,7 +2347,7 @@ andyfaff,Python,Igor Pro,Australian Nuclear Science and Technology Organisation,
 DougBurke,"Haskell, Python","Perl, Fortran, C, C++","Chandra X-ray Center, Center for Astrophysics | Harvard & Smithsonian",dburke@cfa.harvard.edu,"Astronomy, Astrophysics",0,1,1,0
 ricardogando,python,fortran77,"Observatório Nacional, Rio de Janeiro, Brazil",ogando@on.br,astronomy,0,0,0,0
 HeloiseS,Python,None (sorry python is all I know well),University of Auckland,hfstevance@gmail.com,Astronomy,0,3,1,0
-kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,2,0
+kramea,"Python, R",NetLogo,Palo Alto Research Center,kramea@parc.com,"Energy, Climate, machine learning, operations research",0,2,1,0
 seyhunsaral,"R, Python",,Max Planck Institute for Research on Collective Goods,saral@posteo.de,"Economics, Psychology",0,0,0,0
 ethanwharris,"Python,Java",,University of Southampton,ewah1g13@ecs.soton.ac.uk,"Machine Learning, Deep Learning, Computer Vision",0,2,0,0
 Jpata,"Python, C++",Julia,Caltech,Joosep.pata@cern.ch,"Particle physics, data processing, statistics, machine learning",0,0,0,0
@@ -2866,7 +2866,7 @@ Yes,C++,,University of Science and Technology Beijing,li.dy@dyfluid.com,"OpenFOA
 Multiphase flow
 CFD
 Population balance equation",0,0,0,0
-mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",0,4,2,2
+mcavs,R,R,"Eskisehir Technical University, Department of Statistics",mustafacavus@eskisehir.edu.tr,"Statistical Learning, Design of Experiment, Regression Models, Statistical Inference, Reliability Analysis, Life Modeling, Extreme Value Theory",1,5,2,2
 prateek.tiwari07gmail.com,java,"javascript,kotlin,php",Medical Journal,prateek.tiwari07@gmail.com,,0,0,0,0
 bzz,"Go, Java, Scala, Python, C","C++, JS",Independent Researcher,bzz@apache.org,"Software Engineering,
 Programming Languages Program Analysis, Machine Learning",0,0,0,0
@@ -3374,7 +3374,7 @@ Machine Learning
 Generalized Linear Models
 Reliability Analysis
 Design of Experiment
-Statistical Computing",0,4,2,2
+Statistical Computing",1,5,2,2
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
 tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,2,2,1
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
@@ -3933,7 +3933,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,0,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,3,1,0
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,3,0,0
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -5424,7 +5424,7 @@ VBA",,Geospatial Training Solutions & UCL,nick@geospatialtrainingsolutions.co.uk
 Spatial Data
 Geospatial Data
 Teaching
-Education",0,1,1,0
+Education",0,1,0,0
 mwt,"Python, R",,Northwestern University,matthew.thomas@northwestern.edu,"Math, Economics, Game theory",0,2,0,0
 rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laboratory,rountee@llnl.gov,"Linux kernel, system programming, telemetry, high performance computing",0,0,0,0
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,0
@@ -5541,7 +5541,7 @@ Mechanical Engineering
 Classical Mechanics",0,1,1,0
 lucaferranti,"julia
 matlab
-python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,5,4,2
+python",,University of Vaasa,lucaa.ferranti@gmail.com,"numerical methods, computer vision, signal processing, satellite positioning",1,5,4,1
 spectralcode,"C++
 CUDA",,Leibniz University Hannover,miroslav.zabic@hot.uni-hannover.de,"Optical Coherence Tomography
 Laser
@@ -7204,5 +7204,6 @@ network science
 optimization
 logistics",0,0,0,0
 "Yes, I use GitHub for my researching purpose","Java, C++, Python",HTML,"Assistant Professor, CIS department, The University of Jordan, Aqaba",b.alahmad@ju.edu.jo,"Software Design, Software Testing, Software Engineering Education",0,0,0,0
-Balexandre23,R,,Florimond Desprez,bastian.alexandre23@outlook.com,"Plant breeding, genetics, experimental design"
+Balexandre23,R,,Florimond Desprez,bastian.alexandre23@outlook.com,"Plant breeding, genetics, experimental design",0,0,0,0
 @egouldo,R,,University of Melbourne,Elliot.gould@unimelb.edu.au,"Ecology, Ecological Modelling, Metascience"
+rjorton,"Python, Java",,University of Glasgow,Richard.Orton@glasgow.ac.uk,"bioinformatics, virology, metagenomics"
