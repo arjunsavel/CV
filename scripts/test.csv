@@ -464,7 +464,7 @@ Metagenomics
 Comparative genomics",0,2,0,0
 ysimillides,"Julia
 Python",Matlab,UCL,yiannis.simillides.14@ucl.ac.uk,Differential Equations / Numerical Methods,0,3,0,0
-adibender,R,,"Statistical Consulting Unit, StaBLab, LMU Munich",bender.at.R@gmail.com,,1,1,0,0
+adibender,R,,"Statistical Consulting Unit, StaBLab, LMU Munich",bender.at.R@gmail.com,,0,1,1,1
 ocramz,Haskell,,,zocca.marco@gmail.com,"High-performance computing
 Numerical algorithms
 Compilers",1,1,0,0
@@ -687,7 +687,7 @@ Cadair,Python,,The University of Sheffield,stuart@cadair.com,"Solar Physics
 Astronomy",0,2,0,0
 duncanmmacleod,Python,,Cardiff University,duncanmmacleod@gmail.com,Gravitational waves,0,1,0,0
 adibender,R,,"Department of Statistics, LMU Munich",bender.at.R@gmail.com,"Survival Analysis
-Generalized Additive Mixed Models",1,1,0,0
+Generalized Additive Mixed Models",0,1,1,1
 ninjin,Julia,,University College London,pontus@stenetorp.se,"Machine Learning, Natural Language Processing",0,2,0,0
 virgesmith,"C++
 C ","Python
@@ -1193,7 +1193,7 @@ physics, data wrangling, statistics, jupyter, climate modelling",1,2,1,0
 trinker,r,,university at buffalo,tyler.rinker@gmail.com,"data visualization, text mining, sentiment analysis, data manipulation",0,2,0,0
 adibender,R,,"BDI, University of Oxford",bender.at.R@gmail.com,"statistics
 survival analysis
-spatial statistics",1,1,0,0
+spatial statistics",0,1,1,1
 jmborr,python,,"Neutrons Scattering Data Sciences, Oak Ridge National Laboratory",borreguero@gmail.com,"proteins, molecular dynamics, computational biology, neutrons, scattering",0,1,0,0
 gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiome, phylogenetics, applied machine learning",0,2,0,0
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
@@ -1597,7 +1597,7 @@ shivupa,"Python
 C++",,University of Pittsburgh,shu8@pitt.edu,"Chemistry
 Chemical Physics
 Electronic Structure
-Quantum Mechanics",1,2,0,0
+Quantum Mechanics",0,2,1,1
 trashbirdecology,R,,University of Nebraska-Lincoln,jessicaleighburnett@gmail.com,"Ecology
 Ecological modelling
 Ecological statistics
@@ -3033,7 +3033,7 @@ amandadumi,"Python
 C++",,University of Pittsburgh,amanda.e.dumi@gmail.com,"Chemistry
 Quantum Mechanics
 Molecular Dynamics
-Electronic Structure",1,3,0,0
+Electronic Structure",0,3,1,1
 sevberg,Python,"C++
 Julia
 Javascript","Forschungszentrum Juelich, IEK-3",s.ryberg@fz-juelich.de,"Energy system modelling
@@ -3376,7 +3376,7 @@ Reliability Analysis
 Design of Experiment
 Statistical Computing",1,5,2,2
 olade014,"Java, C's, Python, R studio, Android Studio","Swift, Swift, Nativ React, PHP",Advanced Knowledge in Information Technology,olayemiolamilekan1@gmail.com,"Artificial Intelligence, Machine Language, Cyber security, Web Development, Cryptography",0,0,0,0
-tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",0,2,2,1
+tijeco,python,"R, go",,coleti16@students.ecu.edu,"bioinformatics, genomics, molecular evolution",1,3,2,1
 DamienIrving,Python,,"Climate Change Research Centre, University of New South Wales",irving.damien@gmail.com,"Meteorology
 Oceanography
 Climate science",0,1,0,0
@@ -4536,7 +4536,7 @@ raghurama123,"Fortran, Python, Octave",Julia,Tata Institute of Fundamental Resea
 Materials Science
 Quantum Mechanics
 Quantum Chemistry
-Density Functional Theory",1,2,1,1
+Density Functional Theory",0,2,2,2
 pgg1610,Python,R,Graduate Research Assistant,pghaneka@purdue.edu,"Catalysis
 Material Science
 Reaction engineering
@@ -5157,7 +5157,7 @@ open science
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
 Particle physics",0,1,0,0
-tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,2,2,1
+tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",1,3,2,1
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
 kana4,R,Bash,Kana LLC,christophersugai@gmail.com,Bioinformatics,0,0,0,0
@@ -5812,7 +5812,7 @@ Monte Carlo
 Computer Vision",0,0,0,0
 scheiblr,"Python,JavaScript,PHP,PL/pgSQL","Rust,C++,Matlab","Institute of Artificial Intelligence and Informatics in Medicine, Chair of Medical Informatics,, University Hospital rechts der Isar, Technical University of Munich, Munich, Germany",raphael.scheible@tum.de,"Medical Computer Science, Natural Language Processing, Computer Graphics/Vision",0,1,1,0
 no,python,c++,Bioinformatics/ Computational Biology,minaammalik12@gmail.com,Bioinformatics/Computational Biology,0,0,0,0
-slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology",0,1,1,0
+slwu89,"R, C++",Julia,"University of California, Berkeley",slwood89@gmail.com,"Epidemiology, Biostatistics, Stochastic Simulation, Ecology",1,2,1,0
 Flowdalic,"C, C++, Java, Scala",,Friedrich-Alexander University Erlangen-Nürnberg (FAU),flow@cs.fau.de,"Operating Systems
 System Software
 Parallel and Concurrent Programming
@@ -6201,7 +6201,7 @@ Bash
 Ruby",Washington University in St. Louis,c.a.miller@wustl.edu,"Bioinformatics, Genomics, Cancer, Sequence Analysis",0,0,0,0
 aaaa,Java,,University of St Andrews,cr253@st-andrews.ac.uk,,0,0,0,0
 jackbrookes,C#,,UCL,jbrookes187@gmail.com,Virtual Reality,0,0,0,0
-slwu89,"R, C++","Julia, C",Institute for Health Metrics and Evaluation,slwood89@gmail.com,"Epidemiology, Biostatistics, Ecology, Stochastic Simulation",0,1,1,0
+slwu89,"R, C++","Julia, C",Institute for Health Metrics and Evaluation,slwood89@gmail.com,"Epidemiology, Biostatistics, Ecology, Stochastic Simulation",1,2,1,0
 itismeghasyam,"R
 Python","MATLAB
 C++",Sage Bionetworks,itismeghasyam@gmail.com,"Signal Processing
@@ -6391,7 +6391,7 @@ OpenACC
 Shell Scripting","OpenMP
 Java",Siemens Digital Industries Software,thomas@schwinge.name,"High Performance Computing
 Compiler implementation",0,0,0,0
-raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",1,2,1,1
+raghurama123,"Python, Fortran, Matlab",,Tata Institute of Fundamental Research,ramakrishnan@tifrh.res.in,"Molecules, Materials, Chemical Physics",0,2,2,2
 junghans,"C++, C,  Fortran, Python",,Los Alamos National Laboratory,junghans@votca.org,"Bio, molecular, atomic simulation software",0,1,1,0
 brunomontezano,R,Python and Bash,Federal University of Rio Grande do Sul,brunodoyt@gmail.com,"R packages in general, psychology and medicine data analysis, machine learning models (especially supervised learning), tidyverse-related R packages",2,3,1,0
 jimmielin,Fortran 90,"PHP
@@ -6565,7 +6565,7 @@ Psychtek,R,Basic terminal and Python,Melbourne University,aaron.willcox@unimelb.
 turgeonmaxime,"R
 Python",,University of Manitoba,max.turgeon@umanitoba.ca,"Survival analysis
 Biostatistics
-Computational Statistics",1,1,0,0
+Computational Statistics",0,1,1,1
 Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html","Python , c, c++",US bankcorp,poonamgargagrwl@gmail.com,"Opensource software tool , language , scripts , technology, engineering skills , digital transformation, agile transformation , Devops",0,0,0,0
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
@@ -7214,10 +7214,12 @@ Python
 SQL",,University of Amsterdam,b.f.d.clemm@uva.nl,"Statistical modelling
 Visualization
 Data summarization
-Data wrangling"
+Data wrangling",0,0,0,0
 https://github.com/AndreGosselink,"Python
 C++","C
 Go
 Julia","Institute of Medical Statistics and Computational Biology, University of Cologne, Cologne, North Rhine-Westphalia, Germany.",andre.gosselink@posteo.de,"Immunology
 Biology
 Representation Learning"
+kiranshila,"Rust, Julia, Clojure",,California Institute of Technology,me@kiranshila.com,"Electrical Engineering, RF Engineering, Radio Astronomy"
+shawankumarjha,Python,,Indian Institute of Technology Guwahati,shawankumarjha@gmail.com,Physics
