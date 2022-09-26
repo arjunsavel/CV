@@ -12,7 +12,7 @@ rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,10,1,1
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
 jankatins,Python,R,,,"network analysis, visualisations",0,3,0,0
 sealhuang,Python,"C, MATLAB",,,"neuroimaging, machine learning, image processing",0,1,0,0
-khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",0,6,3,1
+khinsen,Python,"C, Racket",,,"statistical physics, computational chemistry, computational biology",0,6,2,1
 ahurriyetoglu,Python,,,,"Natural language processing, Machine Learning, Data Mining",0,1,0,0
 katyhuff,"Python, C++",Fortran,,,"engineering, energy engineering, nuclear engineering, systems engineering, basic physics",0,3,0,0
 betatim,Python,C++,,,"Particle physics, machine-learning, physics, statistics",0,1,0,0
@@ -281,7 +281,7 @@ Data Access/Wrapping existing APIs",0,3,0,0
 Tgerke,R,NA,Asst Member of Cancer Epidemiology,travis.gerke@moffitt.org,"Biotatistics, genetics, public health, epidemiology",0,0,0,0
 nagoue,"R
 Python",Perl,Clermont Auvergne University,nadia.goue@uca.fr,Biology,0,1,0,0
-mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,1,0
+mnarayan,"MATLAB, python",R,Stanford University,manjarin@stanford.edu,"statistics, machine learning, neuroimaging (fMRI, M/EEG, Calcium Imaging)",0,6,0,0
 bradweiner,R,,Capture Higher Ed,bradweiner@gmail.com,"Education, Higher Education, Public Policy",0,0,0,0
 Ohmaddi,R,"Stata, Python",University of Oregon,oh73@cornell.edu,"Social science, blockchain related research",0,0,0,0
 tianxzhu,"Python, R","C++, javascript, Haskell",,xzhu.hsph@gmail.com,"machine learning, statistics",0,1,1,0
@@ -7215,11 +7215,14 @@ SQL",,University of Amsterdam,b.f.d.clemm@uva.nl,"Statistical modelling
 Visualization
 Data summarization
 Data wrangling",0,0,0,0
-https://github.com/AndreGosselink,"Python
+AndreGosselink,"Python
 C++","C
 Go
 Julia","Institute of Medical Statistics and Computational Biology, University of Cologne, Cologne, North Rhine-Westphalia, Germany.",andre.gosselink@posteo.de,"Immunology
 Biology
-Representation Learning"
-kiranshila,"Rust, Julia, Clojure",,California Institute of Technology,me@kiranshila.com,"Electrical Engineering, RF Engineering, Radio Astronomy"
+Representation Learning",0,0,0,0
+kiranshila,"Rust, Julia, Clojure",,California Institute of Technology,me@kiranshila.com,"Electrical Engineering, RF Engineering, Radio Astronomy",0,0,0,0
 shawankumarjha,Python,,Indian Institute of Technology Guwahati,shawankumarjha@gmail.com,Physics
+VaasuDevanS,Python,R,SceneSharp Technologies Inc.,vaasuceg.96@gmail.com,"Python Modules
+GIS
+Remote Sensing"
