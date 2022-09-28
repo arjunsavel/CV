@@ -1627,7 +1627,7 @@ R",Indian Institute of Technology Kanpur,avik.pal.2017@gmail.com,"Computer Visio
 Differentiable Programming",0,0,0,0
 EnigMATHic,"Python
 Matlab",,Victoria University,elizabethmcc@gmail.com,,0,0,0,0
-gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,0,1,1,1
+gregbryan,"C, C++, Python, FORTRAN",,Columbia University,greg.bryan@columbia.edu,astrophysics,0,1,1,0
 holtgrewe,"Python
 C/C++
 Bash
@@ -2116,7 +2116,7 @@ data science
 machine learning
 applied statistics
 visualization",0,0,0,0
-AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",1,4,2,0
+AustinTSchaffer,"Python, C#, F#, Lua, Docker","Java, Ruby, Pascal/Delphi, NodeJS",Professional and Enthusiast Software Engineer,schaffer.austin.t@gmail.com,"Not sure I have a preference. I want to code-review to try to catch things like ""glob.glob""",0,4,2,0
 russHyde,"R
 python",perl,University of Glasgow,russell.hyde@glasgow.ac.uk,Bioinformatics,0,0,0,0
 remi-pr,Python,,Tailored Data Solutions,remi@tailoreddatasolutions.fr,Neurosciences,0,0,0,0
@@ -2815,7 +2815,7 @@ no,C# Angular Javascript Scala Big Data Java,C C++ PYTHON SWIFT,IQVIA,aarumug86@
 fneum,"python
 julia",,Karlsruhe Institute of Technology,fabian.neumann@kit.edu,"energy system optimisation models
 time-series data analysis
-geospational data analysis",0,1,0,0
+geospational data analysis",1,2,0,0
 osolari,"R, python",python,Post-Doctoral Researcher in Statistics,solari@berkeley.edu,machine learning,0,1,0,0
 eviatarbach,"Python, Julia","Matlab, Fortran","Department of Atmospheric and Oceanic Science, University of Maryland, College Park",eviatarbach@protonmail.com,"Earth science, climate science, data science",0,3,1,0
 Deech08,Python,N/A,University of Wisconsin-Madison,krishnarao@astro.wisc.edu,"Astronomy
@@ -4177,7 +4177,7 @@ JeffreyCHoover,R,,"ATLAS, University of Kansas",jhoover4@ku.edu,"Psychometrics
 Statistics
 Modeling
 Data cleaning",0,0,0,0
-sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",1,3,0,0
+sneakers-the-rat,"Python, R, Javascript",MATLAB,University of Oregon,jlsaunders987@gmail.com,"Neuroscience, Audio, Realtime/Embedded, Computer Vision/Image Processing, Browser-based tools/scientific web infrastructure",0,3,0,0
 Repentinus,"C, C++, Python","Octave/Matlab, bash",Lancaster University & Free Software Foundation Europe,h.lohmus@lancaster.ac.uk,Remote sensing of the cryosphere,0,0,0,0
 csinva,Python,Java,UC Berkeley PhD Student,csinva@yahoo.com,"Machine learning, data visualization, computer vision, data analysis",0,0,0,0
 Het-Shah,"Python
@@ -5189,7 +5189,7 @@ salrm8,"Python, FORTRAN",MATLAB,KTH Royal Institute of Technology,salehr@kth.se,
 janash,Python,,The Molecular Sciences Software Institute,janash@vt.edu,"Materials Science, computational molecular science",0,1,1,0
 zhiiiyang,R,R,NanoString Technologies Inc,zhiyang@usc.edu,"statistics
 single cell
-spatial omics",0,1,1,1
+spatial omics",0,1,1,0
 BioAlvaro,R,,Institute of Physiology of the Czech Academy of Science,alvaro.sanchez@fgu.cas.cz,"Proteomics, Genomics",0,0,0,0
 alberto-battistel,Matlab,Python,"Institute of Technical Medicine (ITeM), Furtwangen University (HFU), Jakob-Kienzle-Strasse 17, 78054 Villingen-Schwenningen, Deutschland",alberto.battistel@rub.de,"Impedance spectroscopy
 impedance tomography
@@ -5710,7 +5710,7 @@ AustinTSchaffer,"Python
 NodeJS
 C#
 Rust
-(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,1,4,2,0
+(Willing to explore others)",Practically anything except C/C++/Assembly/APL,Independent Developer,schaffer.austin.t@gmail.com,Any,0,4,2,0
 Vaibhavdixit02,"Julia, Python, C++, Javascript",,Julia Computing,vaibhavyashdixit@gmail.com,,0,0,0,0
 SarthakJariwala,Python,,Palo Alto Research Center,sjariwala@parc.com,"Visualization, Image Analysis, Materials Science, API Development, Climate, Solar Technology, General Data Acquisition & Analysis",0,1,1,0
 mingzehuang,R,Python,Texas A&M University,sharkmanhmz@tamu.edu,"Computational Statistics, Machine Learning, Computational Finance, Computational Social Science",0,2,2,1
@@ -6306,7 +6306,7 @@ Insurance
 Banking and Finance",1,1,0,0
 chaypaterson,"C, C++, Python, Mathematica","R, PERL",University of Manchester,chay@mailaps.org,"Mathematical biology, statistical physics, cancer, cell biology, genomics, genetics, ordinary differential equations",0,0,0,0
 None,"Python, MATLAB, C++",FORTRAN,University of Massachusetts Amherst,srachakonda@umass.edu,"Computation Heat Transfer, Computation Fluid Dynamics, Numerical Analysis",0,0,0,0
-EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation",0,0,0,0
+EwaGomez,"python, LaTeX",,University of Applied Sciences Cologne,Eva-Maria.Grommes@th-koeln.de,"photovoltaic, renewable energy, energy simulation",1,1,0,0
 dominiquesydow,Python,,Sosei Heptares,dominique.sydow@gmail.com,"Cheminformatics
 Structural bioinformatics",0,1,1,0
 alexander-pastukhov,"R
@@ -6492,7 +6492,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",3,6,3,3
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",3,6,3,2
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -6541,7 +6541,7 @@ MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
 Computer Vision
 Signal Processing",0,0,0,0
 ProfLeao,Python,Julia,Federal Institute of Minas Gerais,reginaldo.junior@ifmg.edu.br,"Chemistry, Physics, Chemical Engineering, Medical Physics",1,1,0,0
-zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics",0,1,1,1
+zhiiiyang,R,,Bristol Myers Squibb,zhiyang@usc.edu,"Statistics, data science, machine learning, clinical trials, Bayesian statistics",0,1,1,0
 jorgedch,"Python
 Matlab",Javascript,Heldenkombinat Technologies GmbH,jorge@heldenkombinat.com,"artificial intelligence
 machine learning
@@ -6860,7 +6860,7 @@ zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimi
 hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications",1,1,0,0
 bungjeen,matlab julia,julia,code,my_jeen2555@hotmail.co.th,-,0,0,0,0
 ttricco,"Python, C++, Fortran",,Memorial University of Newfoundland,tstricco@mun.ca,"Smoothed particle hydrodynamics softwares.
-Astrophysical hydrodynamical simulation or analysis codes.",0,0,0,0
+Astrophysical hydrodynamical simulation or analysis codes.",1,1,0,0
 jhwohlgemuth,"Python
 JavaScript
 PowerShell","C#
@@ -7225,5 +7225,6 @@ kiranshila,"Rust, Julia, Clojure",,California Institute of Technology,me@kiransh
 shawankumarjha,Python,,Indian Institute of Technology Guwahati,shawankumarjha@gmail.com,Physics,0,0,0,0
 VaasuDevanS,Python,R,SceneSharp Technologies Inc.,vaasuceg.96@gmail.com,"Python Modules
 GIS
-Remote Sensing"
+Remote Sensing",0,0,0,0
 abougouffa,"C, C++, Python, Rust",Lisp,"Paris-Saclay University, SATIE",abdelhak.bougouffa@universite-paris-saclay.fr,Robotics
+ryanmrichard,"C++, Python, CMake",,Ames National Laboratory,rrichard@ameslab.gov,Computational chemistry
