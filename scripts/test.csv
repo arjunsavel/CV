@@ -723,7 +723,7 @@ Image Segmentation
 3D Printing",0,1,0,0
 robertodr,"C++
 Python
-CMake",Fortran, Hylleraas Centre for Quantum Molecular Sciences,roberto.d.remigio@uit.no,Quantum chemistry,1,1,0,0
+CMake",Fortran, Hylleraas Centre for Quantum Molecular Sciences,roberto.d.remigio@uit.no,Quantum chemistry,0,1,1,1
 rmsare,Python,"Cython, R",Stanford University,rmsare@stanford.edu,"Earth surface processes, geomorphology, tectonic geomorphology, image processing in Earth sciences, feature extraction in satellite imagery or topographic data",0,1,0,0
 lucashn,"python
 lua","java
@@ -1050,7 +1050,7 @@ fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, 
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
 stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",1,7,0,0
-vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",2,5,2,1
+vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",2,5,2,0
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
 davekinkead,"javascript
@@ -1770,7 +1770,7 @@ junbinzhao,R,no,Norwegian Institute of Bioeconomy Research,junbinzhao1985@gmail.
 sskutnik,"Python, C++, FORTRAN","Perl, Java",University of Tennessee-Knoxville,sskutnik@utk.edu,"Nuclear fuel cycles, international safeguards techniques, reactor physics methods & applications, radioactive waste management, radiation measurements",1,2,0,0
 alletsee,R,,,max.alletsee@gmail.com,"social science, political science, public policy, survey research, data science",0,1,0,0
 mih,"Python, C/C++, Shell",,Research Center Jülich,michael.hanke@gmail.com,"Neuroimaging, data management, psychology",0,1,0,0
-EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,4,3,1
+EricaEgg,Python,,University of Washington,egglee@uw.edu,Electrochemistry; renewable energy; transportation; Li-ion batteries; electric vehicles,0,4,2,1
 streeve,"Python
 C++","Matlab
 C",Lawrence Livermore National Lab,samtreeve@gmail.com,Materials science,0,1,0,0
@@ -2420,7 +2420,7 @@ amanjeev,"Python
 Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
-jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,1,1,1
+jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,1,1,0
 TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,3,1,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",1,3,1,0
+renewable energy",1,3,0,0
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -4700,7 +4700,7 @@ Fortran",,Netherlands eScience Center,n.renaud@esciencecenter.nl,"Computational 
 felipeZ,"Python
 Rust
 C++",Haskell,Netherlands eScience Center,f.zapata@esciencecenter.nl,Computational Chemistry,0,1,0,0
-krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",1,2,1,1
+krober10nd,"Python, MATLAB, C++, C, FORTRAN",,University of São Paulo,keithrbt0@gmail.com,"Mesh generation, finite elements, oceanography, meteorology",1,2,1,0
 mkhoshbin1,"Python
 Matlab",,Shahid Rajaee Teacher Training University,m.khoshbin@live.com,Mechanical Engineering,0,0,0,0
 mahsan321,"C
@@ -4883,7 +4883,7 @@ Parallel Programming",0,1,0,0
 a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,2,2,1
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,0,0
-vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",2,3,1,0
+vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",2,3,0,0
 JannisHoch,Python,,Utrecht University,jannishoch@gmail.com,"Geosciences, hydrology, flood risk",0,1,0,0
 jingnanshi,"C++, Python, C","Julia, MATLAB",Massachusetts Institute of Technology,jnshi@mit.edu,"Robotics, Computer Vision",0,1,1,0
 jbcaillau,"ocaml, python, matlab, julia, fortran","C, C++","Université Côte d’Azur, CNRS, Inria, LJAD",jean-baptiste.caillau@univ-cotedazur.fr,"optimization, control, edo, learning",0,1,1,0
@@ -5623,7 +5623,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",2,3,1,0
+Ordinary & Partial Differential Equations",1,3,2,1
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",1,1,0,0
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -5996,7 +5996,7 @@ Databases
 Ontology
 Neuroinformatics
 Multiple Sclerosis
-Functional Connectivity",0,1,1,1
+Functional Connectivity",0,1,1,0
 yhtang,"Python
 C++
 CUDA
@@ -7113,7 +7113,7 @@ Networks
 Data science",0,0,0,0
 ohenrich,C/C++,Python,"Department of Physics, University of Strathclyde, Glasgow, UK",oliver.henrich@strath.ac.uk,,1,1,0,0
 ethanbass,R,,"Cornell University, Department of Ecology and Evolutionary Biology",ethanbass@gmail.com,"ecology and evolution, analytical chemistry",0,0,0,0
-tonyewong,"R, Python, Julia","MATLAB, Mathematica, Fortran",Rochester Institute of Technology,tony.wong@rit.edu,"climate modeling, environmental modeling, data science, statistical learning",0,0,0,0
+tonyewong,"R, Python, Julia","MATLAB, Mathematica, Fortran",Rochester Institute of Technology,tony.wong@rit.edu,"climate modeling, environmental modeling, data science, statistical learning",1,1,0,0
 Gauriv96,na,,na,gauv0996@gmail.coom,,0,0,0,0
 justinvzyl,Python,Rust,Dexibit,Justin.vanzyl@gmail.com,"Chemistry
 Physics
@@ -7226,5 +7226,20 @@ shawankumarjha,Python,,Indian Institute of Technology Guwahati,shawankumarjha@gm
 VaasuDevanS,Python,R,SceneSharp Technologies Inc.,vaasuceg.96@gmail.com,"Python Modules
 GIS
 Remote Sensing",0,0,0,0
-abougouffa,"C, C++, Python, Rust",Lisp,"Paris-Saclay University, SATIE",abdelhak.bougouffa@universite-paris-saclay.fr,Robotics
-ryanmrichard,"C++, Python, CMake",,Ames National Laboratory,rrichard@ameslab.gov,Computational chemistry
+abougouffa,"C, C++, Python, Rust",Lisp,"Paris-Saclay University, SATIE",abdelhak.bougouffa@universite-paris-saclay.fr,Robotics,0,0,0,0
+ryanmrichard,"C++, Python, CMake",,Ames National Laboratory,rrichard@ameslab.gov,Computational chemistry,0,0,0,0
+Zongrui Dai,"R, Python, Linux",,"University of Michigan, Ann Arbor",daizr@umich.edu,"Bioinformatics, Biostatistics, Machine learning",0,0,0,0
+yidan-yang,"R
+C++
+MATLAB
+SQL
+Python",C,Rochester Institute of Technology,yy2513@rit.edu,"statistics
+computational math
+public health",0,0,0,0
+mhu48,"R, Python, C++, SQL, SAS",NONMEM,University of California Santa Barbara,mingzhaohu@ucsb.edu,"longitudinal data analysis, survival analysis, mixed models, regression models, high-dimensional data, functional data, nonparametric statistics, missing values, Kalman filters, sptial statistics, dynamic models, machine learning, deep learning",0,0,0,0
+EugeneHao,R,Python,Bristol Myers Squibb,eugenesun95@gmail.com,"Machine Learning, Graphical Model, High-dimension, Survey Sampling, Causal Inference, Time Series, Bayesian, Small Area Estimation, Missing Data",0,0,0,0
+praenubilus,Python,"Java, C, C++, C#",Graduate Researcher,yunhao@ufl.edu,"Confidential Computing, Computer Architecture, privacy preserving computing",0,0,0,0
+Zhongkai-Wang,R,,Gilead Sciences Inc.,zhongkai.wang6@gilead.com,Statistics
+lzyacht,R,C/C++,Georgetown University,yl814@georgetown.edu
+gurjaolab,R,,Columbia University,cd3335@cumc.columbia.edu,Genomics
+bcjaeger,R,C++,wake forest university school of medicine,bjaeger@wakehealth.edu,"supervised learning, longitudinal data analysis, imputation, random forests"
