@@ -3895,7 +3895,7 @@ Materials Science
 Quantum Mechanics
 Condensed Matter Science
 High Performance Computing",1,2,0,0
-pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,1,1,0
+pps121,"C, Python, R, Objective-c, GOlang","Python, R",,technical.partha@gmail.com,"Data Science, Machine Learning, NLP, healthcare, computational biology",0,1,0,0
 ldes89150,python,python,,ldes89150@gmail.com,"optics, physics",0,0,0,0
 schroedtert,"C++
 Python",Java,,tobias.schroedter@rwth-aachen.de,"Pedestrians dynamics
@@ -5492,7 +5492,7 @@ Julia
 Matlab",R,Barrow Neurological Institute,nicholas.sisco@barrowneuro.org,"Neuroimaging
 Structural Biology
 NMR
-Computational Biology",0,1,1,0
+Computational Biology",0,1,0,0
 karnigili,python,,Princeton,gili@princeton.edu,"cognitive neuro, RL, stan, model fitting, statistical models",0,0,0,0
 luckystarufo,"Python, C++",N/A,University of Washington,yliu814@uw.edu,"Mathematics, Physics, Machine Learning",0,0,0,0
 Decc Dameon,phyton,phyton,Universiti Sains Malaysia,zainab@usm.my,Technology,0,0,0,0
@@ -7245,5 +7245,5 @@ gurjaolab,R,,Columbia University,cd3335@cumc.columbia.edu,Genomics,0,0,0,0
 bcjaeger,R,C++,wake forest university school of medicine,bjaeger@wakehealth.edu,"supervised learning, longitudinal data analysis, imputation, random forests",0,0,0,0
 Syrov-Egor,"Python
 Rust",,Lobachevsky State University of Nizhny Novgorod,syrov@unn.ru,chemistry,0,0,0,0
-d,asd,,sda,asdasd@asdd.gg,sad
+d,asd,,sda,asdasd@asdd.gg,sad,0,0,0,0
 amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science"
