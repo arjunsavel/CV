@@ -4487,7 +4487,7 @@ physics/solid state
 data analysis
 data visualization",0,0,0,0
 kanderso-nrel,python,,National Renewable Energy Laboratory,kevin.anderson@nrel.gov,"photovoltaics
-renewable energy",1,3,0,0
+renewable energy",0,3,1,1
 slybloty,python,,N/A,slybloty@gmail.com,N/A,0,0,0,0
 satpreetsingh,Python,R,University of Washington,satsingh@uw.edu,"Data Science
 Machine Learning
@@ -7247,3 +7247,4 @@ Syrov-Egor,"Python
 Rust",,Lobachevsky State University of Nizhny Novgorod,syrov@unn.ru,chemistry,0,0,0,0
 d,asd,,sda,asdasd@asdd.gg,sad,0,0,0,0
 amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science"
+@urjoshi,"Java, SQL, Python",,Iowa State University,urjoshi@iastate.edu,"Software testing, software configurability, database management, genetic algorithms, bioinformatics, cyber-physical systems"
