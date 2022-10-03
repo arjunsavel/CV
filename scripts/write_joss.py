@@ -13,8 +13,10 @@ if num_reviewed == 1:
 else:
     project_word = 'projects'
     
-reviewed_line = f'\\item Reviewer, Journal of Open Source Software ({num_reviewed} {project_word} reviewed) (2020)\n'
-    
+# reviewed_line = f'\\item Reviewer, Journal of Open Source Software ({num_reviewed} {project_word} reviewed) (2020)\n'
+
+reviewed_line = '\\resumeItem{}{Reviewer, Journal of Open Source Software ' + f'({num_reviewed} {project_word} reviewed) ' + '(2020--present)}\n'
+
 for i, line in enumerate(f1):
     if 'Reviewer, Journal of Open Source Software' in line:
         f1[i] = reviewed_line
