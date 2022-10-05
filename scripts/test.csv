@@ -713,7 +713,7 @@ Assembly",,matthew.fernandez@gmail.com,"Formal verification
 Operating systems
 Programming Language Runtimes
 Virtualization
-Compilers",0,0,0,0
+Compilers",1,1,0,0
 neuromusic,Python,,Allen Institute for Brain Science,justin.kiggins@gmail.com,"Neuroscience
 Psychology",0,1,0,0
 JesperDramsch,"Python, Matlab",Octave ,DTU,jesper@dramsch.net,"Geoscience, machine learning",0,2,0,0
@@ -7247,10 +7247,11 @@ Syrov-Egor,"Python
 Rust",,Lobachevsky State University of Nizhny Novgorod,syrov@unn.ru,chemistry,0,0,0,0
 d,asd,,sda,asdasd@asdd.gg,sad,0,0,0,0
 amirhessam88,Python,,Florida State University,atahmassebi@fsu.edu,"Machine Learning, Data Science",0,0,0,0
-@urjoshi,"Java, SQL, Python",,Iowa State University,urjoshi@iastate.edu,"Software testing, software configurability, database management, genetic algorithms, bioinformatics, cyber-physical systems"
-earth-chris,Python,"IDL, R",Salo Sciences,cba@salo.ai,"ecology, biogeography, remote sensing, earth observations, ecosystem services, machine learning"
+urjoshi,"Java, SQL, Python",,Iowa State University,urjoshi@iastate.edu,"Software testing, software configurability, database management, genetic algorithms, bioinformatics, cyber-physical systems",0,0,0,0
+earth-chris,Python,"IDL, R",Salo Sciences,cba@salo.ai,"ecology, biogeography, remote sensing, earth observations, ecosystem services, machine learning",0,0,0,0
 pederengelstad,R,,Colorado State University,peder.engelstad@colostate.edu,"Remote Sensing
 Spatial Modeling
-Invasion Ecology"
-siboehm,"Python, C++",,,mail@siboehm.com,"Deep Learning (particularly DL Systems, distributed training, inference speedups), LLVM Compilers"
+Invasion Ecology",0,0,0,0
+siboehm,"Python, C++",,,mail@siboehm.com,"Deep Learning (particularly DL Systems, distributed training, inference speedups), LLVM Compilers",0,0,0,0
 welch16,R,,UW Madison,rwelch2@wisc.edu,"Bioinformatics, Genomics, Statistics"
+-,".net , Software engineering,PHP , PYTHON","R, Statistical tools",V.K.KRISHNA MENON COLLEGE,ry280888@gmail.com,Computer Science
