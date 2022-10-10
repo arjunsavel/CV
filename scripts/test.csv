@@ -112,7 +112,7 @@ biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
-Computer Networks. ",0,5,2,1
+Computer Networks. ",0,5,2,0
 mlxd,"C
 C++
 Python
@@ -1441,7 +1441,7 @@ Geophysics
 Geology
 Earth Sciences",0,1,1,0
 github.com/sara-02,Python,,Independent,sarahmasud02@gmail.com,"Machine Learning, Data Analytics",0,0,0,0
-gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,4,1,1
+gcdeshpande,"C,C++, Java,C#,PHP,Python,Julia,JavaScript, HTML,","Rust,Perl","KLS Gogte Institute of Technology, Belagavi",gcdeshpande@hotmail.com,"Artificial intelligence, Machine Learning, Internet of Things, Cryptography, Cyber Security, Web and Mobile apps",0,4,1,0
 erahulkulkarni,"C
 Shell Script
 Python","C++
@@ -3138,7 +3138,7 @@ shanamatthews,"Python, Java, C#",C++,Microsoft,shana.l.matthews@gmail.com,"data 
 computing education
 software engineering
 cloud computing",0,0,0,0
-cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,6,3,0
+cmaimone,"R, Python",,Northwestern University,christina.maimone@northwestern.edu,"Social science, text analysis, general data manipulation, data visualization",0,6,2,0
 yangbai90,"fortran
 cpp
 c
@@ -4366,7 +4366,7 @@ Finite volume methods
 Finite difference methods
 Runge-Kutta and linear multistep methods
 Numerical analysis",0,2,0,0
-step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,2,1,0
+step21,"python, js, rust","C, logic-based languages, database languages, julia",European University Institute,florian.idelberger@eui.eu,"law, computable law,  language design, logic, knowledge management, document management, general data gathering and analysis",0,2,0,0
 smutao/,"Python
 Fortran
 C++",,Southern Methodist University,yunwent@smu.edu,"Theoretical Chemistry
@@ -6340,7 +6340,7 @@ multivariate statistics
 statistics
 shiny
 biostatistics",0,0,0,0
-sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",1,1,0,0
+sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,1,1,1
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
 kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",1,1,0,0
 vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",0,0,0,0
@@ -7263,5 +7263,10 @@ stellar populations
 nearby galaxies
 evolved stars
 spectral energy distributions",0,0,0,0
-adafede,"R, Python",,University of Geneva,adriano.rutz@unige.ch,"metabolomics, analytical chemistry, chromatography, phytochemistry, pharmacognosy"
+adafede,"R, Python",,University of Geneva,adriano.rutz@unige.ch,"metabolomics, analytical chemistry, chromatography, phytochemistry, pharmacognosy",0,0,0,0
 andreashappe,"C, Python, Ruby, Go, JavaScript","Scala, c#","TU Wien, Austria; self-employed pen-tester/app-sec specialist",andreashappe@snikt.net,"security, pentration-testing, vulnerability-assessments, architectures, threat-modeling"
+ComanderKai77,"C#
+Python
+GD-Script
+Java
+PHP",,,k.ruske@ostfalia.de
