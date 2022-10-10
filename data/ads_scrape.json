@@ -317,26 +317,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Savel, Arjun",
-      "Kempton, Eliza",
-      "Komacek, Thaddeus",
-      "Rauscher, Emily",
-      "Bean, Jacob"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Rasmussen, Kaitlin C.",
       "Rahman, Fahin",
       "Beltz, Hayley",
@@ -359,6 +339,26 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Savel, Arjun",
+      "Kempton, Eliza",
+      "Komacek, Thaddeus",
+      "Rauscher, Emily",
+      "Bean, Jacob"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
     "volume": "54",
     "year": "2022"
   },
