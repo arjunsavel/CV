@@ -542,7 +542,7 @@ darrendahly,R,,University College Cork,ddahly@ucc.ie,"Biostats
 Epidemiology",0,0,0,0
 dhaine,R,Stata,Freelance consultant,denis.haine@gmail.com,Epidemiology,0,0,0,0
 tomfaulkenberry,R,Python,Tarleton State University,faulkenberry@tarleton.edu,"Psychology
-Biostatistics",1,7,0,0
+Biostatistics",0,7,1,1
 joongsup,R,,AT&T,jaylee@att.com,"Statistical process control, R work flow with other big data tools",0,0,0,0
 Gweissman,"R, Python",,"Perelman School of Medicine, University of Pennsylvania",gary.weissman@uphs.upenn.edu,"Medicine, clinical informatics, predictive models, NLP",0,0,0,0
 Suresh-lab,"R, C++, Matlab, C","Python, Perl, Java ",Johns Hopkins University ,ksuresh2@jhmi.edu,"Medicine, especially processing of microscopic images, analysis of sequencing data, statistical modeling",0,0,0,0
@@ -642,7 +642,7 @@ jrbourbeau,Python,,University of Wisconsin-Madison,jrbourbeau@gmail.com,"Physics
 Machine learning",0,1,0,0
 marcocamma,Python,,CNRS / University of Rennes 1,marco.cammarata@univ-rennes1.fr ,"Physics, x-ray, large facilities, scattering, absorption",0,0,0,0
 janfreyberg,"Python
-R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",1,8,1,0
+R",,ASI Data Science,jan.freyberg@gmail.com,"Neuroscience, data science, machine learning, psychology",0,8,2,1
 fernandoandreotti,"Matlab
 Python",C++,"University of Oxford, Institute of Biomedical Engineering",xorissao@gmail.com,"Biomedical Engineering, Machine Learning",0,1,0,0
 Dredamonsta1 ,"Python, JavaScript, Ruby on Rails ","C#, java ",,andre_w3@yahoo.com,All,0,0,0,0
@@ -915,7 +915,7 @@ Computational Geology
 ",0,0,0,0
 jingpengw,Julia,python,Postdoctoral Research Associate,jingpeng@princeton.edu,"Image Processing
 Bioimage Informatics
-Computational Neuroscience",1,2,1,1
+Computational Neuroscience",0,2,2,2
 suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",1,1,0,0
 nsaunier,"Python
 C++","Java
@@ -1050,7 +1050,7 @@ fjboehm,R,,University of Wisconsin-Madison,frederick.boehm@gmail.com,"genetics, 
 swyoung,"html, css",,Montana State University,swyoung@montana.edu,"user experience, assessment, privacy, social media",0,0,0,0
 dpsanders,Julia,"Python, C, (not too advanced) C++","Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México",dpsanders@ciencias.unam.mx,Numerics,0,2,0,0
 stsievert,Python,,UW–Madison,sievert.scott@me.com,"Optimization, distributed systems, machine learning and related mathematics, adaptive sampling, image processing",1,7,0,0
-vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",2,5,1,0
+vijaysm,C/C++/MATLAB,Python,Argonne National Laboratory,mahadevan@anl.gov,"linear algebra, meshing, solvers, workflow tools",1,5,2,1
 ja-thomas,R,Python,Ludwig-Maximilians-University Munich,janek.thomas@stat.uni-muenchen.de,"Machine Learning
 Statistics",0,1,0,0
 davekinkead,"javascript
@@ -1315,7 +1315,7 @@ untzag,python,c++,University of Wisconsin-Madison,blaise@untzag.com,"chemistry
 spectroscopy
 electronics
 instrumentation",1,3,1,0
-garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",1,1,0,0
+garretrc,R,,Miami University,garretrc@miamioh.edu,"Data Visualization, Geospatial Tools",0,1,1,1
 sepandhaghighi,Python,"C++
 JavaScript
 Matlab
@@ -1721,7 +1721,7 @@ jiangyuinsar,"matlab, python",julia,University of Liverpool,Yu.Jiang@liverpool.a
 (2) Tectonics: repeating earthquakes, earthquake swarm",0,0,0,0
 natpt,"C, C++",,Samsung,soohong.park@samsung.com,"Networking, Cloud, Data, IoT",0,0,0,0
 matloff,"R, Python","C, C++, Java, Intel assembler, bash, etc.","UC Davis, CS Dept. (formerly Stat Dept.)",matloff@cs.ucdavis.edu,"statistics, machine learning, pure math",0,0,0,0
-CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",1,2,0,0
+CamDavidsonPilon,Python,,Independent,cam.davidson.pilon@gmail.com,"Survival Analysis, MLE",0,2,1,1
 fcdimitr,"C/C++
 MATLAB",Julia,Aristotle University of Thessaloniki,fcdimitr@auth.gr,"Parallel computing
 Numerical analysis",0,0,0,0
@@ -1823,7 +1823,7 @@ snikumbh,"R, Python, Matlab",C++,Imperial College London & MRC London Institute 
 mstimberg,"Python
 C/C++
 CUDA",,"Sorbonne Université, Paris, France",marcel.stimberg@inserm.fr,"computational neuroscience
-simulation technology",1,5,1,0
+simulation technology",0,5,2,1
 rewbenio,MATLAB/SciLab,Python,Data engineer,rewbenio@gmail.com,"Machine Learning
 Neural Networks
 Novelty Detection
@@ -2789,7 +2789,7 @@ Jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"
 japindado,"Python
 Octave",,Pindiac LLC,japindado@pindiac.com,"Machine Learning
 Bioinformatics",0,0,0,0
-CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",1,2,0,0
+CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,2,1,1
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
 stochastic programming",0,3,2,0
@@ -3191,7 +3191,7 @@ C++
 Bash",MATLAB,"Sorbonne Université, INSERM, CNRS, Institut de la Vision, Paris, France",marcel.stimberg@inserm.fr,"Computational neuroscience
 general data science
 visualizations
-applied mathematics (numerical integration of ODEs, etc.)",1,5,1,0
+applied mathematics (numerical integration of ODEs, etc.)",0,5,2,1
 sk-sahu,R,Python,Bionivid Technology,sangramsahu15@gmail.com,Genomics and Bioinformatics,0,0,0,0
 N/A,C++,"C, Fortran",IBM Research,vkal@ibm.com,"Numerical Linear Algebra, AI",0,0,0,0
 hmenager,"Python
@@ -5076,7 +5076,7 @@ jingpengw,"python
 C++
 Julia",,Flatiron Institute,jwu@flatironinstitute.org,"Image Analysis
 Connectome
-Deep Learning",1,2,1,1
+Deep Learning",0,2,2,2
 kwstat,R,,Corteva Agriscience,kw.stat@gmail.com,Statistics,0,0,0,0
 vsangelidakis,"Matlab
 Python
@@ -5790,7 +5790,7 @@ kmichael08,Python,,University of Warsaw,kuzba.michal@gmail.com,"Machine Learning
 Interpretable Machine Learning
 Natural Language Processing
 Statistics",1,2,1,0
-jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",1,1,0,0
+jameshgrn,Python,,Indiana University,jhgearon@iu.edu,"Geospatial Analysis, Sedimentolgoical & Geomorphological Tools, Remote Sensing Analysis, Remote Sensing Data Infrastructure, Geospatial APIs",0,1,1,1
 Yes,Matlab,Fortran,Nanjing University of Aeronautics and Astronautics,gejiuhao@163.com,NDT,0,0,0,0
 jdreo,"C++
 Python
@@ -7050,7 +7050,7 @@ jingpengw,"Python
 C++
 Julia",,Flatiron Institute,jingpeng.wu@gmail.com,"image processing
 3D image analysis
-cloud computing",1,2,1,1
+cloud computing",0,2,2,2
 skiptoniam,"R
 C++",Python,University of Melbourne,skiptoniam@gmail.com,"Spatial statistics
 Finite mixture models
@@ -7264,9 +7264,17 @@ nearby galaxies
 evolved stars
 spectral energy distributions",0,0,0,0
 adafede,"R, Python",,University of Geneva,adriano.rutz@unige.ch,"metabolomics, analytical chemistry, chromatography, phytochemistry, pharmacognosy",0,0,0,0
-andreashappe,"C, Python, Ruby, Go, JavaScript","Scala, c#","TU Wien, Austria; self-employed pen-tester/app-sec specialist",andreashappe@snikt.net,"security, pentration-testing, vulnerability-assessments, architectures, threat-modeling"
+andreashappe,"C, Python, Ruby, Go, JavaScript","Scala, c#","TU Wien, Austria; self-employed pen-tester/app-sec specialist",andreashappe@snikt.net,"security, pentration-testing, vulnerability-assessments, architectures, threat-modeling",0,0,0,0
 ComanderKai77,"C#
 Python
 GD-Script
 Java
 PHP",,,k.ruske@ostfalia.de
+MmasterT,"Python, Go",Go,Earlham institute,mariano.olivera-fedi@earlham.ac.uk,"Bioinformatics, Structural Biology, Genome assembly and Genome annotation, Metagenomics."
+ZeitgeberH,"Python
+Matlab",R,Baylor College of Medicine,wukong.flamingo@gmail.com,Neuroscience
+bobmyhill,python,C++,University of Bristol,bob.myhill@bristol.ac.uk,"geochemistry
+geophysics
+seismology
+planetary science
+thermodynamics"
