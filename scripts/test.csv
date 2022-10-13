@@ -6,7 +6,7 @@ wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
 amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,0,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
-nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",1,11,1,0
+nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",0,11,2,1
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
 rougier,Python,C/C++,,,"Computational Neuroscience, Machine learning",0,10,1,0
 krother,Python,"Java, Go, Haskell",,,"biology, computational biology, bioinformatics, machine learning, data management, databases, project management, education",0,7,0,0
@@ -102,13 +102,6 @@ mdoucet,python,"C, Fortran",Oak Ridge National Laboratory,doucetm@ornl.gov,"Phys
 jkmacc-LANL,Python,Matlab,Los Alamos National Laboratory,jkmacc@lanl.gov,"Seismology
 Geophysics",0,2,1,0
 CBenghi,c#,"c, c++",Northumbria University,claudio.benghi@northmbria.ac.uk,"Civil Engineering, Architecture, Construction, BIM, GIS ",0,3,1,0
-road2stat,R,,"Seven Bridges Genomics, Inc.",me@nanx.me,"machine learning
-bioinformatics
-cheminformatics
-drug discovery
-variable selection
-high-dimensional data
-biological sequence analysis",0,1,0,0
 iljah,"C++, Python","C, Fortran, JavaScript, OpenCL",Finnish Meteorological Institute,ilja.honkonen@fmi.fi,"High performance computing, computational physics",0,6,0,0
 pgadige,Python,JavaScript,,poojagadige@gmail.com,"Django, Web applications, Microservices",0,0,0,0
 gradvohl,"C, Java, C++",Python,University of Campinas,gradvohl@ft.unicamp.br,"Operating systems, Distributed systems, Software security,
@@ -678,7 +671,7 @@ numerical solution of ODEs/PDEs in general",0,1,0,0
 louiseadennis,Java,"Prolog, Python, Miscellaneous BDI languages",University of Liverpool,L.A.Dennis@liverpool.ac.uk,"BDI Agent Programming Languages, Theorem Provers, Model Checkers",0,0,0,0
 ansgarwenzel,R,"python
 C++",Qbiz UK,ansgar.wenzel@gmail.com,"Data Science
-Knot Theory",0,0,0,0
+Knot Theory",1,1,0,0
 mzamoraz,"Matlab
 Fortran90",python,"University of California, San Diego",mzamoraz@eng.ucsd.edu,"Computational fluid dynamics
 Stratocumulus cloud models
@@ -6323,7 +6316,7 @@ douweschulte,"Rust
 C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences,0,0,0,0
 nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
 magnetoenceophalography analysis",0,0,0,0
-bauer-alex,R,,"Department of Statistics, LMU Munich, Munich, Germany",alex.bauer93@posteo.de,"Spatio-temporal statistics, Functional data analysis, Data visualization, Applied statistics",1,1,0,0
+bauer-alex,R,,"Department of Statistics, LMU Munich, Munich, Germany",alex.bauer93@posteo.de,"Spatio-temporal statistics, Functional data analysis, Data visualization, Applied statistics",0,1,1,1
 rashoba,"Python, PHP,",JavaScript,@Rollademy,rasheedatoba@gmail.com,Data Science,0,0,0,0
 abdelkrim-bsr,R,R,Chouaib Doukkali University,bouasria.a@ucd.ac.ma,Machine Learning,0,0,0,0
 vikasbukhari,JavaScript,"C, C++, JAVA","School of Engineering and Technology, BGSBU Rajouri",vikassyed@gmail.com,"Web, Android",0,0,0,0
@@ -7278,3 +7271,4 @@ geophysics
 seismology
 planetary science
 thermodynamics"
+Hanyu0814,Python,R,University of Southern California,hyu376@usc.edu,"Algorithms, Operations Research"
