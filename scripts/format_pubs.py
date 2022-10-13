@@ -176,7 +176,7 @@ if __name__ == "__main__":
 
     summary = (
         "citations: {1} / "
-        "h-index: {2} ({0}) /"
+        "h-index: {2} ({0}) / "
         "{3} first-author"
     ).format(date.today(), ncitations, hindex, nfirst)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
