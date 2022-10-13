@@ -110,7 +110,7 @@ def format_pub(args):
         )
 
     if pub["volume"] is not None:
-        fmt += ", \\textbf{{{0}}}".format(pub["volume"])
+        fmt += ", {{{0}}}".format(pub["volume"])
 
     if pub["page"] is not None:
         fmt += ", {0}".format(pub["page"])
