@@ -567,7 +567,7 @@ Scheme
 Ada",Università degli Studi di Milano,maurizio.tomasi@unimi.it,"Astrophysics
 Cosmology
 Numerical analysis
-Statistics",0,9,1,1
+Statistics",0,9,1,0
 lmullen,R,,George Mason University,lincoln@lincolnmullen.com,"history, text analysis, mapping",0,2,0,0
 ellessenne,R,,"Biostatistics Research Group, Department of Health Sciences, University of Leicester",lssndrgsprn@gmail.com,"Epidemiology
 Biostatistics",1,2,0,0
@@ -1390,7 +1390,7 @@ R
 Haskell",Matlab,Universidad de Sevilla,epaluzo@us.es,"Topology
 Algebraic Topology
 Machine Learning
-Deep Learning",0,4,0,0
+Deep Learning",1,5,0,0
 bagheria,Python,"R
 C++",Utrecht University,a.bagheri@uu.nl,"Text Mining
 Natural Language Processing
@@ -1856,7 +1856,7 @@ Python
 ",Matlab,Universidad de Sevilla,epaluzo@us.es,"Machine learning
 Topological Data Analysis
 Computational Topology
-Mathematics",0,4,0,0
+Mathematics",1,5,0,0
 vitorsr,"GNU Octave
 MATLAB
 Octave
@@ -1891,7 +1891,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",1,3,0,0
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,11,3,0
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,11,2,0
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -2348,7 +2348,7 @@ karinlag,python,"java
 R",Norwegian Veterinary Institute,karin.lagesen@gmail.com,"bioinformatics
 microbial genomics",0,1,0,0
 santoshmh,"Python, C++",IDL,Arizona State University,santosh.harish@asu.edu,Astronomy/Astrophysics,0,0,0,0
-martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,0,2,1,0
+martinagvilas,Python,Matlab,Max-Planck-Institute AE,martinagonzalezvilas@gmail.com,Neuroscience/Psychology/Cognitive Science,0,2,0,0
 remram44,"Python
 C
 C++
@@ -3659,7 +3659,7 @@ mayrmt,C++,,University of the Bundeswehr Munich,mayr.mhpc@googlemail.com,"linear
 multiphysics
 algebraic multigrid",0,1,1,0
 dbadrian,"C++, Python",Julia,"Bosch Center for Artificial Intelligence, Department of Neuroinformatics - University Ulm",david.adrian@de.bosch.com,"Computer Vision, ML/AI",0,0,0,0
-skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",1,3,0,0
+skadio,Python,Java,Brown University,serdark@cs.brown.edu,"Machine Learning, Combinatorial Optimization, Artificial Intelligence, Constraint Programming, Mathematical Programming, Local Search Heuristics, Resource Allocation, Boolean Satisfiability",0,3,1,1
 santoshkumarradha,"python
 Julia",C++,Case Western Reserve University,srr70@case.edu,"Physics
 Condensed matter physics",0,0,0,0
@@ -4351,7 +4351,7 @@ linear algebra
 topological data analysis
 geometric data analysis
 unsupervised machine learning
-dimensionality reduction",0,1,0,0
+dimensionality reduction",1,2,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
 ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
@@ -4832,7 +4832,7 @@ C++
 Fortran","Python
 R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
-ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,0,0,0
+ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,1,1,0,0
 matthewfeickert,"Python
 C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,4,2,1
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
@@ -5423,7 +5423,7 @@ rountree,"C,R,bash,python,LaTeX","Rust,C++",Lawrence Livermore National Laborato
 Tam-Pham,Python,R,Nanyang Technological University,phamttam17@gmail.com,Physiological signal processing,0,1,1,0
 vasudev-sharma,Python,,Masters student at University of Toronto,sharmavasudev1998@gmail.com,"Deep Learning, Medical Imaging, Computer Vision, Machine Learning",0,0,0,0
 zen-juen,"R
-Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology",0,1,1,0
+Python",,Nanyang Technological University,lauzenjuen@gmail.com,"social science, psychology, neurophysiology",0,1,0,0
 KAClough,"C, C++, Python","Fortran, Mathematica, Matlab",University of Oxford,katy.a.clough@gmail.com,"Numerical relativity, General relativity, Relativistic astrophysics, Astroparticle physics",0,0,0,0
 benjaminbolling,"Python
 MatLab","C++
@@ -7270,5 +7270,14 @@ bobmyhill,python,C++,University of Bristol,bob.myhill@bristol.ac.uk,"geochemistr
 geophysics
 seismology
 planetary science
-thermodynamics"
+thermodynamics",0,0,0,0
 Hanyu0814,Python,R,University of Southern California,hyu376@usc.edu,"Algorithms, Operations Research"
+Sklumpe,Python,Tcl,Max-Planck-Institute for Biochemistry,klumpe@biochem.mpg.de,"Structural Biology, Image Processing, FIB-SEM, TEM"
+@cprudhom,Java,Python,IMT Atlantique,charles.prudhomme@imt-atlantique.fr,"Mathematical programming
+Constraint programming
+Boolean satisfaction
+Linear programming"
+faosorios,"R, C, Fortran",,Universidad Tecnica Federico Santa Maria,felipe.osorios@usm.cl,"Linear and nonlinear regression
+Multivariate analysis
+Influence diagnostics y residual analysis"
+@dimejimudele,Python,R,Harvard University,mudeledimeji@gmail.com,"Remote sensing, Data science, Machine Learning"
