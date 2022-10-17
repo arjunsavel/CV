@@ -130,7 +130,7 @@ Bioinformatics
 
 
 ",0,1,0,0
-JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",0,4,3,1
+JaroslavHron,"C, D, Python, Fortran",C++,"Mathematical Institute, Charles University, Prag, Czech Republic",jaroslav.hron@mff.cuni.cz,"CFD, FEM, numerical software, iterative solvers, linear algebra",0,4,2,1
 andim,Python,"R, C",Princeton University,andimscience@gmail.com,"Optimization, computational biology",0,1,0,0
 dowobeha,"Ruby, Scala, Swift, Bash","Python, Perl, C++, C",University of Illinois at Urbana-Champaign,lanes@illinois.edu,"Computational linguistics, machine translation",0,0,0,0
 HimanshuAwasthi95,Python,"C 
@@ -820,7 +820,7 @@ rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western R
 Biostatistics/Epidemiology
 Topological data analysis
 Mathematical oncology
-Data visualization",0,6,2,0
+Data visualization",0,6,1,0
 sonal-raj,"Python
 Java
 C++",Scala,"National Institute of Technology, Jamshedpur, India",sonal.nitjsr@gmail.com,"Python
@@ -2081,7 +2081,7 @@ MapReduce
 Image and signal processing
 Linear algebra
 Data management
-Microscopy",0,4,2,1
+Microscopy",0,4,1,1
 kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
@@ -2461,7 +2461,7 @@ nmstreethran,Python,"Web applications (HTML, CSS, JavaScript)",University of Sta
 environmental science
 web scraping
 data analysis
-visualisation",0,5,2,1
+visualisation",0,5,1,1
 ipelupessy,python fortran C,,Netherlands eScience Center,i.pelupessy@esciencecenter.nl,"astronomy, oceanography",0,1,0,0
 vivekvenkris,C/C++/Java,Python,Max Planck Institute for Radio Astronomy,vkrishnan@mpifr-bonn.mpg.de,Astrophysics,0,0,0,0
 koldunovn,python,,MARUM/AWI,koldunovn@gmail.com,"oceanography, climate modeling, earth system science",0,1,0,0
@@ -3996,7 +3996,7 @@ Paul92,"C, C++, Python",,,paul.gafton@gmail.com,"Computer vision, machine learni
 ozanerturk,Javascript,"Python
 C#",,ozanerturk17@gmail.com,"concurrency
 simulation",0,0,0,0
-brunaw,"R, Julia, python, c++","stan, JAGS, shiny",,brunadaviesw@gmail.com,"Statistics, machine learning, open research, music information retrieval",1,6,1,0
+brunaw,"R, Julia, python, c++","stan, JAGS, shiny",,brunadaviesw@gmail.com,"Statistics, machine learning, open research, music information retrieval",1,6,0,0
 joewandy,"Python
 JavaScript",R .. maybe,,joe.wandy@glasgow.ac.uk,"Bioinformatics
 Machine learning
@@ -5507,7 +5507,6 @@ kevinlu1248,Python,"Javascript, SQL, HTML, CSS, PHP",University of Waterloo,kevi
 Gggg,Ffg,,Gggg,fggg@ghg.com,Gggg,0,0,0,0
 github.com/aju100,Python,terraform,,ajutamang10@outlook.com,devops,0,0,0,0
 wiljnich; wiljnichepa,"Python, R","Extensions to R/Python - notebooks, scripting, visualization (Shiny, Dash, etc.)",US Environmental  Protection Agency,wiljnich@gmail.com,"Environmental programming, visualization, climate, prediction/forecasting, hazardous waste, government, public access/FOIA",0,0,0,0
-bgyori,Python,,Harvard Medical School,benjamin_gyori@hms.harvard.edu,"Systems biology, bioinformatics, mathematical modeling",0,0,0,0
 ftarlaci,Python,C++,OpenTeams,fatmatarlaciphd@gmail.com,"Artificial Intelligence, Natural Language Processing, Machine Learning",0,0,0,0
 rogeriojorge,"Python, C++, Mathematica, Matlab",Fortran,"Max-Planck Institute for Plasma Physics, Greifswald, Germany",rogeriodejesusjorge@gmail.com,"Physics, Plasma Physics, Nuclear Fusion",0,0,0,0
 hknd23,"R
@@ -5735,18 +5734,7 @@ Numerical methods
 Antenna design
 Plasmonics
 Photonics",0,1,0,0
-bgyori,"Python
-Java
-R
-C++
-Javascript
-HTML
-SQL","Java
-R
-C++
-Javascript
-HTML
-SQL",Laboratory of Systems Pharmacology Harvard Medical School,ben.gyori@gmail.com,"Biology-related software, Molecular Biology",0,0,0,0
+bgyori,Python,,Laboratory of Systems Pharmacology Harvard Medical School,ben.gyori@gmail.com,"Biology-related software, Molecular Biology",0,0,0,0
 gdev7,"Python, C++, Fortran90",C,Indian Institute of Technology Kanpur,halderprosun7@gmail.com,"Molecular Simulation, Chemical Engineering, Physical Chemistry",0,0,0,0
 GaurangTandon,"Python3
 JavaScript (ES6)","C/C++
@@ -5758,8 +5746,8 @@ Performance oriented applications (fast Python/C++/Rust, flamegraphs, perf stat)
 OlgerSiebinga,Python,"Matlab
 Java",Delft University of Technology,o.siebinga@tudelft.nl,"Human-Robot Interaction
 Driver modelling
-Robotics",0,1,1,0
-KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,1,0
+Robotics",0,1,0,0
+KanishAnand,Python/Java,C++/JavaScript,"International Institute of Information Technology, Hyderabad",kanish.anand@students.iiit.ac.in,"Basic Robotics,  Webapps, Data Analytics, Basic Machine Learning",0,1,0,0
 fartist,R,,"University of California, Berkeley",fengji@berkeley.edu,statistics; psychometrics; latent variable; causal inference; social science,0,2,2,0
 sa501428,"Java, Python, MATLAB",C++,"Rice University, Baylor College of Medicine",shamim@rice.edu,"Bioinformatics, Computational Biology, Genomics, General Computing",0,0,0,0
 tgoelles,"Python, Wolfram",Fortran,Virtual Vehicle Research GmbH,thomas.goelles@gmail.com,"LIDAR, Point clouds, glacier, ice, snow",1,1,0,0
@@ -5835,7 +5823,7 @@ Visualizations",0,0,0,0
 olejandro,"python
 GAMS
 javascript",,University College Cork,olexandr.balyk@ucc.ie,"energy systems modelling
-scenario analysis",0,2,2,1
+scenario analysis",0,2,1,1
 franjoim,R,"Python
 Bash","Department of Psychiatry, University of Florida",franjo@franjo.us,"Genetics
 Epidemiology
@@ -7280,3 +7268,5 @@ Multivariate analysis
 Influence diagnostics y residual analysis",0,0,0,0
 dimejimudele,Python,R,Harvard University,mudeledimeji@gmail.com,"Remote sensing, Data science, Machine Learning",0,0,0,0
 @bvreede,"Python, R",,Netherlands eScience Center,b.vreede@esciencecenter.nl,"evolutionary biology,  developmental biology"
+SimonBiggs,Python,Typescript,Radiotherapy AI,simon.biggs@radiotherapy.ai,"Radiation Oncology Medical Physics
+Machine Learning"
