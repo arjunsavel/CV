@@ -888,7 +888,7 @@ Java
 C++","LIACS, Leiden University",s.j.van.rijn@liacs.leidenuniv.nl,"Natural Computing/Evolutionary Algorithms
 Optimization
 Data Science
-Machine Learning",1,4,0,0
+Machine Learning",0,4,1,1
 lucask07,"Python
 MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",1,4,0,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,5,1,0
@@ -1191,7 +1191,7 @@ jmborr,python,,"Neutrons Scattering Data Sciences, Oak Ridge National Laboratory
 gavinmdouglas,Python and R,,Dalhousie University,gavin.douglas@dal.ca,"Microbiome, phylogenetics, applied machine learning",0,2,0,0
 vissarion_,c++,python,University of Athens,fisikop@gmail.com,"computational geometry, scientific computing",0,0,0,0
 matbesancon,Julia,"Golang, Python, R, Matlab, Scilab, Scala, Rust",École Polytechnique de Montréal,mathieu.besancon@polymtl.ca,"Mathematical optimization, statistics, data analysis, game theory, scientific computing",0,4,0,0
-chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,1,1,0,0
+chkoar,Python,,University of Patras,char@upatras.gr,machine learning; data mining; global optimization,0,1,1,1
 jeffhammond,"Fortran, C, C++",,Intel Corporation,jeff.science@gmail.com,"Quantum chemistry, electronic structure, molecular dynamics, dense linear algebra, tensor algebra",0,1,0,0
 PingjunChen,Python,C++,University of Florida,chenpingjun@gmx.com,"machine learning
 biomedical image analysis
@@ -3282,7 +3282,7 @@ wave propagation in solids
 impact mechanics",0,1,1,1
 marcoapintoo,"Nim, Java, C++, Python, R",Matlab/Octave,Oslo Metropolitan University,marcop@oslomet.no,"Signal processing, time series, statistical software",0,0,0,0
 dotsdl,Python,,,dotsdl@gmail.com,"Computational Chemistry
-Computational Biophysics",0,1,0,0
+Computational Biophysics",1,2,0,0
 madvn,Python,C++,"Indiana University, Bloomington",madvncv@gmail.com,"Neuroscience
 Neural Networks
 Information theory
@@ -3765,7 +3765,7 @@ dhrubajyoti98,"C
 C++","Java
 Python","Department of Physics, Indian Institute of Technology Madras, Chennai, India",dhrubajyoti98@physics.iitm.ac.in,"Nonlinear Dynamics
 Computational Physics",0,0,0,0
-ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",0,3,1,0
+ziatdinovmax,Python,,Oak Ridge National Laboratory,ziatdinovmax@gmail.com,"Microscopy, Imaging, Materials, Characterization, Machine Learning, Deep learning, Bayesian analysis",1,4,1,0
 georgebisbas,"Python
 C
 Matlab",,Imperial College London,g.bisbas18@imperial.ac.uk,High Performance Computing,0,0,0,0
@@ -3865,7 +3865,7 @@ Guile",,taw-joss@bitwiz.me.uk,"Diffraction
 Crystallography
 Free-electron lasers
 Synchrotron radiation
-X-rays",0,0,0,0
+X-rays",1,1,0,0
 yguitton,"French, English","R, VBA",,yann.guitton@oniris-nantes.fr,"Metabolomics, Mass Spectrometry, Chemistry",0,1,1,1
 mashuo10,Matlab,,,mashuo@zju.edu.cn,"Tensegrity, FEM, dynamics",0,0,0,0
 marcoapintoo/,"C, Java, Python, R","C++, C#, D, Haskell",,pinto.marco@live.com,"Signal processing, and machine learning.",0,0,0,0
@@ -5004,7 +5004,7 @@ C++",,"Institute of Environmental Physics, University of Heidelberg, Germany",yu
 Network Models
 Theoretical Ecology
 Modelling Frameworks
-Data Processing Pipelines",1,2,1,0
+Data Processing Pipelines",0,2,2,1
 baileythegreen,"Python
 bash
 LaTeX",,University of Strathclyde,baileythegreen@gmail.com,"bioinformatics
@@ -7269,12 +7269,17 @@ Influence diagnostics y residual analysis",0,0,0,0
 dimejimudele,Python,R,Harvard University,mudeledimeji@gmail.com,"Remote sensing, Data science, Machine Learning",0,0,0,0
 bvreede,"Python, R",,Netherlands eScience Center,b.vreede@esciencecenter.nl,"evolutionary biology,  developmental biology",0,0,0,0
 SimonBiggs,Python,Typescript,Radiotherapy AI,simon.biggs@radiotherapy.ai,"Radiation Oncology Medical Physics
-Machine Learning"
-dataplayer12,"C, C++, Python, MATLAB, CUDA","Rust, Javascript",University of Electro-Communications Tokyo,jaiyamsharma@icloud.com,"Deep Learning, AI, Robotics"
-santule,"Python, javascript",R,University of Queensland,s.tule@uq.net.au,"Bioinformatics, visualisation, algorithms"
+Machine Learning",0,0,0,0
+dataplayer12,"C, C++, Python, MATLAB, CUDA","Rust, Javascript",University of Electro-Communications Tokyo,jaiyamsharma@icloud.com,"Deep Learning, AI, Robotics",0,0,0,0
+santule,"Python, javascript",R,University of Queensland,s.tule@uq.net.au,"Bioinformatics, visualisation, algorithms",0,0,0,0
 sjswerdloff@gmail.com,"Python
 C#
 Java
 C++",C,Elekta Pty Ltd,sjswerdloff@gmail.com,"Medical Physics
 Medical Imaging
 Radiation Therapy"
+mn5hk,Python,"Matlab, R",Indian Institute of Science,aminshk50@outlook.com,GIS
+HemanthHaridas,Python,"Fortran
+C/C++",Indian Institute of Technology Gandhinagar,hemanth.h@iitgn.ac.in,Molecular Dynamics
+https://github.com/HuaizhengZhang,Python,Go,Alibaba Group,huaizhen001@ntu.edu.sg,Machine Learning
+@astrophpeter,Python,,"UC Santa Cruz, USA",petermcgill94@gmail.com,astrophysics
