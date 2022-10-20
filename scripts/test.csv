@@ -4264,7 +4264,7 @@ C++
 Python",Matlab,Principal Scientist,ramisetti@serc.res.in,Computational Mechanics,0,1,0,0
 JackTyson,"Python, C, C++, Matlab",,University of Southampton,jack@mirrorpark.net,"Nanotechnology, Optics, Physics, Electronic Engineering",0,0,0,0
 BjornFJohansson,Python,,University of Minho,bjorn_johansson@bio.uminho.pt,bioinformatics,0,0,0,0
-kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University College London",leevi.kerkela@protonmail.com,MRI,0,0,0,0
+kerkelae,Python,,"UCL Great Ormond Street Institute of Child Health, University College London",leevi.kerkela@protonmail.com,MRI,1,1,0,0
 iwebnet.id,Java,php,Perpusnas,rizkitafaja@gmail.com,sience,0,0,0,0
 wjnbreu,"HTML, CSS, Javascript, Python",SQL,Independent,wjnb@hey.com,"UX/UI Design, Information Architecture, Front End Development, Database Design",0,0,0,0
 db,"python, php",c++,BMKG Indonesia,kenconex@gmail.com,web,0,0,0,0
@@ -6038,7 +6038,7 @@ hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management sc
 gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com,,0,0,0,0
 Palash63,R,SAS,University of Kansas Medical Center,psharma4@kumc.edu,"Clinical Trial; Survival Analysis, Machine learning",0,0,0,0
 Narayana-Rao,"HTML, JS, C, C++, python, MATLAB",,Indian Institute of Technology Bombay,narayanarao.bhogapurapu@gmail.com,"Microwave Remote Sensing, Optical Remote Sensing, Agriculture, Machine learning, QGIS",0,1,1,0
-curtcorum,"Python, Matlab","c, c++",University of Iowa,curtis-corum@uiowa.edu,"MRI, fMRI, SDR",0,0,0,0
+curtcorum,"Python, Matlab","c, c++",University of Iowa,curtis-corum@uiowa.edu,"MRI, fMRI, SDR",1,1,0,0
 richelbilderbeek,"C++, R, Rust","Python, C",University of Groningen,richel@richelbilderbeek.nl,"phylogenetics, epidemiology, immunology, bioinformatics, theoretical biology",0,0,0,0
 alessandroamaranto,"Python
 R
@@ -6906,7 +6906,7 @@ WPettersson,"Python, C, C++, R","Ruby, PHP, Perl, Rust",University of Glasgow,wi
 shagunsodhani,Python,C++,Meta AI,sshagunsodhani@gmail.com,"Machine Learning
 Artificial Intelligence
 Algorithms
-Data Structures",0,0,0,0
+Data Structures",1,1,0,0
 rahulporuri,Python,,Enthought,rahul.poruri@gmail.com,scientific software,0,0,0,0
 igor-marques,shell / bash,,CICECO - University of Aveiro,oliveiramarques.igor@gmail.com,"Molecular Modelling (Molecular Dynamics, DFT calculations)",0,0,0,0
 hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
@@ -7121,7 +7121,7 @@ agriculture
 machine learning",1,1,0,0
 arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems",0,0,0,0
 JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical),0,0,0,0
-ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks",0,0,0,0
+ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks",1,1,0,0
 kellijohnson-NOAA,R,"C++
 Fortran",Northwest Fisheries Science Center,kelli.johnson@noaa.gov,"Fisheries
 Simulations
@@ -7272,14 +7272,15 @@ SimonBiggs,Python,Typescript,Radiotherapy AI,simon.biggs@radiotherapy.ai,"Radiat
 Machine Learning",0,0,0,0
 dataplayer12,"C, C++, Python, MATLAB, CUDA","Rust, Javascript",University of Electro-Communications Tokyo,jaiyamsharma@icloud.com,"Deep Learning, AI, Robotics",0,0,0,0
 santule,"Python, javascript",R,University of Queensland,s.tule@uq.net.au,"Bioinformatics, visualisation, algorithms",0,0,0,0
-sjswerdloff@gmail.com,"Python
+sjswerdloffgmail.com,"Python
 C#
 Java
 C++",C,Elekta Pty Ltd,sjswerdloff@gmail.com,"Medical Physics
 Medical Imaging
-Radiation Therapy"
-mn5hk,Python,"Matlab, R",Indian Institute of Science,aminshk50@outlook.com,GIS
+Radiation Therapy",0,0,0,0
+mn5hk,Python,"Matlab, R",Indian Institute of Science,aminshk50@outlook.com,GIS,0,0,0,0
 HemanthHaridas,Python,"Fortran
-C/C++",Indian Institute of Technology Gandhinagar,hemanth.h@iitgn.ac.in,Molecular Dynamics
-https://github.com/HuaizhengZhang,Python,Go,Alibaba Group,huaizhen001@ntu.edu.sg,Machine Learning
+C/C++",Indian Institute of Technology Gandhinagar,hemanth.h@iitgn.ac.in,Molecular Dynamics,0,0,0,0
+HuaizhengZhang,Python,Go,Alibaba Group,huaizhen001@ntu.edu.sg,Machine Learning,0,0,0,0
 @astrophpeter,Python,,"UC Santa Cruz, USA",petermcgill94@gmail.com,astrophysics
+sunnivi,"python, fortran",,Norwegian Geotechnical Institute,sunniva.indrehus@gmail.com,"geotechnical software, physics, climate modelling"
