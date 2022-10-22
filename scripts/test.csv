@@ -1865,7 +1865,7 @@ R",Federal University of Rio Grande do Norte,vitorsr+JOSS@gmail.com,"Image Proce
 Inverse Problems
 Machine Learning
 Optimization
-Signal Processing",1,2,1,1
+Signal Processing",1,2,1,0
 maurov,Python,,"Univ. Grenoble Alpes, CNRS, IRD, Irstea, Météo France, OSUG, FAME, 38000 Grenoble, France",mauro.rovezzi@esrf.fr,"X-ray spectroscopy
 X-ray optics",0,0,0,0
 kellykochanski,"Python, Matlab","Fortran90, Julia",University of Colorado Boulder,kelly.kochanski@gmail.com,"Earth and climate science (preferred: geomorphology, snow science, hydrology)",0,1,0,0
@@ -2785,7 +2785,7 @@ Bioinformatics",0,0,0,0
 CamDavidsonPilon,Python,,University of Guelph,cam.davidson.pilon@gmail.com,"survival analysis, numerical methods",0,2,1,1
 odow,Julia,,Northwestern University,oscar.dowson@northwestern.edu,"JuMP
 optimization
-stochastic programming",0,3,2,0
+stochastic programming",1,4,2,0
 arthur-e,Python,Javascript,"University of Montana, Numerical Terradynamic Simulation Group",endsley@umich.edu,"spatial sciences
 geography
 remote sensing
@@ -7150,7 +7150,7 @@ PDE-constrained optimization
 numerical simulation
 scientific computing
 computational imaging
-uncertainty quantification",0,0,0,0
+uncertainty quantification",1,1,0,0
 DEARLIBS,"Python, MATLAB, MAPLE",,"Apple, Inc",seongl2@uw.edu,Battery modeling,0,0,0,0
 imciner2,"C/C++
 Julia
@@ -7283,9 +7283,11 @@ HemanthHaridas,Python,"Fortran
 C/C++",Indian Institute of Technology Gandhinagar,hemanth.h@iitgn.ac.in,Molecular Dynamics,0,0,0,0
 HuaizhengZhang,Python,Go,Alibaba Group,huaizhen001@ntu.edu.sg,Machine Learning,0,0,0,0
 astrophpeter,Python,,"UC Santa Cruz, USA",petermcgill94@gmail.com,astrophysics,0,0,0,0
-sunnivi,"python, fortran",,Norwegian Geotechnical Institute,sunniva.indrehus@gmail.com,"geotechnical software, physics, climate modelling"
+sunnivi,"python, fortran",,Norwegian Geotechnical Institute,sunniva.indrehus@gmail.com,"geotechnical software, physics, climate modelling",0,0,0,0
 mtomasini,"Python
 R",C++,"University of Gothenburg, SE",matteo.tomasini@gu.se,"Computational biology 
 Ecology and evolution
-Genomics"
-XinhuiLi,Python,MATLAB,Georgia Institute of Technology,xli993@gatech.edu,"neuroimaging, machine learning, neuroinformatics"
+Genomics",0,0,0,0
+XinhuiLi,Python,MATLAB,Georgia Institute of Technology,xli993@gatech.edu,"neuroimaging, machine learning, neuroinformatics",0,0,0,0
+calebsjin,R,,Bristol-Myers Squibb Company,jinsq1@gmail.com,Statistics
+tamnva,R,Fortran,Helmholtz Centre for Environmental Research - UFZ,tamnva@gmail.com,Hydrology
