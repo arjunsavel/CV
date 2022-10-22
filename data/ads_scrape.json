@@ -1,27 +1,5 @@
 [
   {
-    "arxiv": "2204.12996",
-    "authors": [
-      "Beltz, Hayley",
-      "Rauscher, Emily",
-      "Kempton, Eliza M. -R.",
-      "Malsky, Isaac",
-      "Ochs, Grace",
-      "Arora, Mireya",
-      "Savel, Arjun"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac897b",
-    "page": 140,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-10-00",
-    "title": "Magnetic Drag and 3D Effects in Theoretical High-resolution Emission Spectra of Ultrahot Jupiters: the Case of WASP-76b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..140B",
-    "volume": "164",
-    "year": "2022"
-  },
-  {
     "arxiv": "2210.08996",
     "authors": [
       "Lillo-Box, J.",
@@ -97,6 +75,28 @@
     "title": "TOI-969: a late-K dwarf with a hot mini-Neptune in the desert and an eccentric cold Jupiter",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221008996L",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2204.12996",
+    "authors": [
+      "Beltz, Hayley",
+      "Rauscher, Emily",
+      "Kempton, Eliza M. -R.",
+      "Malsky, Isaac",
+      "Ochs, Grace",
+      "Arora, Mireya",
+      "Savel, Arjun"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac897b",
+    "page": 140,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-10-00",
+    "title": "Magnetic Drag and 3D Effects in Theoretical High-resolution Emission Spectra of Ultrahot Jupiters: the Case of WASP-76b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..140B",
+    "volume": "164",
     "year": "2022"
   },
   {
