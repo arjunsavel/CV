@@ -1684,7 +1684,7 @@ Fortran
 Python",,Swansea University,c.kadapa@swansea.ac.uk,"Finite Element Analysis
 Computational Fluid Dynamics
 Fluid-Structure Interaction
-Structural Dynamics",0,8,1,1
+Structural Dynamics",1,9,1,1
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
 TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,4,2,1
 shreyasbapat,"Python
@@ -7289,5 +7289,7 @@ R",C++,"University of Gothenburg, SE",matteo.tomasini@gu.se,"Computational biolo
 Ecology and evolution
 Genomics",0,0,0,0
 XinhuiLi,Python,MATLAB,Georgia Institute of Technology,xli993@gatech.edu,"neuroimaging, machine learning, neuroinformatics",0,0,0,0
-calebsjin,R,,Bristol-Myers Squibb Company,jinsq1@gmail.com,Statistics
+calebsjin,R,,Bristol-Myers Squibb Company,jinsq1@gmail.com,Statistics,0,0,0,0
 tamnva,R,Fortran,Helmholtz Centre for Environmental Research - UFZ,tamnva@gmail.com,Hydrology
+@zatkins-dev,"C++, C, Python 3",C#,University of Colorado Boulder,zach.atkins@colorado.edu,"Asynchronous Algorithms, Krylov Methods, Finite Element Methods"
+windweb,python,python,,admin@windweb.ru
