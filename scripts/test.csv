@@ -2640,7 +2640,7 @@ Neuroinformatics
 Bioinformatics
 Biophysics
 Biology
-Neurobiology",0,2,0,0
+Neurobiology",1,3,0,0
 sachsmc,R,,Karolinska Institute,sachsmc@gmail.com,"Statistics
 biostatistics
 medicine
@@ -3710,7 +3710,7 @@ Finite element/volume methods",0,1,0,0
 samuelduchesne,python,C#,Massachusetts Institute of Technology,samueld@mit.edu,"Building Energy Modeling
 Solar Energy
 District Energy Modeling
-Energy Hub Optimization",0,3,1,0
+Energy Hub Optimization",1,4,1,0
 xiaoya,c,python,ECNU,22@qq.com,software,0,0,0,0
 test,C,,test,test@test.com,sorry it a test for my understanding,0,0,0,0
 ShiyongYu-cloud,"MATLAB
@@ -3874,7 +3874,7 @@ hoangtn,R,,,tanhoang.nguyen@vcuhealth.org,Bioinformatics,0,0,0,0
 florian-huber,Python,,,f.huber@esciencecenter.nl,"Mass spectrometry
 Metabolomics
 Cell biology
-Biological physics",0,0,0,0
+Biological physics",1,1,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
 ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,2,1,1
@@ -5861,7 +5861,7 @@ arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Info
 appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics",0,0,0,0
 yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com,,0,0,0,0
 ebezzam,Python,"MATLAB
-C++",École polytechnique fédérale de Lausanne,eric.bezzam@epfl.ch,"Audio signal processing, ultrasound, optical wave propagation, signal processing",0,0,0,0
+C++",École polytechnique fédérale de Lausanne,eric.bezzam@epfl.ch,"Audio signal processing, ultrasound, optical wave propagation, signal processing",1,1,0,0
 fernandomayer,R,,Federal University of Paraná,fernandomayer@gmail.com,"Statistics
 Computational Statistics
 Bayesian Statistics
@@ -6513,7 +6513,7 @@ Modelica",,RWTH Aachen University,fabian.wuellhorst@rwth-aachen.de,"Energy Syste
 Buildings
 HVAC
 Heat Pumps
-Renewable Energy",0,0,0,0
+Renewable Energy",1,1,0,0
 Sj-Amani,"C++
 Python
 MATLAB",C,Senior Robotics Engineer,sajjad.amani@alumni.ut.ac.ir,"Geophysics
@@ -7292,13 +7292,14 @@ XinhuiLi,Python,MATLAB,Georgia Institute of Technology,xli993@gatech.edu,"neuroi
 calebsjin,R,,Bristol-Myers Squibb Company,jinsq1@gmail.com,Statistics,0,0,0,0
 tamnva,R,Fortran,Helmholtz Centre for Environmental Research - UFZ,tamnva@gmail.com,Hydrology,0,0,0,0
 zatkins-dev,"C++, C, Python 3",C#,University of Colorado Boulder,zach.atkins@colorado.edu,"Asynchronous Algorithms, Krylov Methods, Finite Element Methods",0,0,0,0
-windweb,python,python,,admin@windweb.ru
-O,LKM,OPK,فواز فهد,fawaz.440055@gmail.com,LOIJ
-@maxwanglei,R,,Ohio State University,Lei.Wang2@osumc.edu,"Biomedical Informatics 
-NLP"
+windweb,python,python,,admin@windweb.ru,,0,0,0,0
+O,LKM,OPK,فواز فهد,fawaz.440055@gmail.com,LOIJ,0,0,0,0
+maxwanglei,R,,Ohio State University,Lei.Wang2@osumc.edu,"Biomedical Informatics 
+NLP",0,0,0,0
 kaustavbhattacharjee,"Python
 Javascript",,New Jersey Institute of Technology,kaustavbhatt94@gmail.com,"Data analysis
 Programming
 Data visualization
-Privacy"
+Privacy",0,0,0,0
 https://github.com/zhenchun,"R, Python",,duke university,zhenchun.yang@duke.edu,"air pollution, temporal-spatial analysis"
+ben-aaron188,R,,Tilburg University & University College London,bennett.kleinberg@tilburguniversity.edu,"statistics, natural language processing,  machine learning"
