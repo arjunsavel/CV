@@ -4753,7 +4753,7 @@ GIS
 Civil Engineering
 UAS Inspections
 Computer Vision
-Optimization",2,2,0,0
+Optimization",1,2,1,1
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
@@ -6868,7 +6868,7 @@ Visualization and rendering
 Optimization
 Numerical computation
 Finite elements
-PDEs and ODEs",1,2,1,1
+PDEs and ODEs",0,2,2,2
 cmorris2945,python,C++,m2gen,ai.healhcare@yahoo.com,"computational biology, bioinformatics, cancer, computer vision, nlp",0,0,0,0
 schochastics,R,,GESIS -  Leibniz Institute for the Social Sciences,david.schoch@gesis.org,"network analysis
 data visualization",0,0,0,0
@@ -7303,13 +7303,13 @@ Data visualization
 Privacy",0,0,0,0
 zhenchun,"R, Python",,duke university,zhenchun.yang@duke.edu,"air pollution, temporal-spatial analysis",0,0,0,0
 ben-aaron188,R,,Tilburg University & University College London,bennett.kleinberg@tilburguniversity.edu,"statistics, natural language processing,  machine learning",0,0,0,0
-trdunsworth,"R, Python, C#, Java, SQL","Julia, Perl",Northcentral University,t.dunsworth0602@o365.ncu.edu,"Data Analytics, Data Science, SQL Code"
-wexlergroup,Python,,Washington University in St. Louis,wexler@wustl.edu,Chemistry and materials
+trdunsworth,"R, Python, C#, Java, SQL","Julia, Perl",Northcentral University,t.dunsworth0602@o365.ncu.edu,"Data Analytics, Data Science, SQL Code",0,0,0,0
+wexlergroup,Python,,Washington University in St. Louis,wexler@wustl.edu,Chemistry and materials,0,0,0,0
 gianthk,"Python
 Matlab",,Synchrotron-light for Experimental Science and Applications in the Middle East,gianthk.iori@gmali.com,"imaging
 biomechanics
 synchrotron physics
-numerical simulation"
+numerical simulation",0,0,0,0
 mikesha2,"Julia
 Python",Lean,Penn State College of Medicine,cms6712@psu.edu,"Neural networks
 Differentiable programming
