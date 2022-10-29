@@ -251,7 +251,7 @@ R",The Walter and Eliza Hall Institute of Medical Research,alan.rubin@wehi.edu.a
 Genomics
 Computational Biology
 Bioinformatics
-Protein Science",0,6,1,0
+Protein Science",0,6,0,0
 mlep,C,,"INRA, France",Frederic.Darboux@inra.fr,"Soil science, hydrology",0,0,0,0
 AdeBytes,"Matlab, Python,C/C++",,"Department of Geology & Geophysics, Texas A&M University",adewale@tamu.edu,"Geoscience, Petroleum Geology",0,0,0,0
 alexanderfurnas ,"R, Python ",,University of Michigan ,zfurnas@umich.edu,"Data visualization, networks, text analysis",0,0,0,0
@@ -2234,7 +2234,7 @@ Web Programming
 Algorithms
 Network Science",0,1,0,0
 fhg,java,c++,11,kwjian0329@gmail.com,,0,0,0,0
-amitkumarj441,"Python, C++, Scala ",Rust,University of Bedfordshire,amitkumarj441@gmail.com,"Machine Learning, Deep Learning, Quantum Mechanics, Quantum Cognition, Information Retrieval, NLP, Medical Imaging, Computer Vision",0,0,0,0
+amitkumarj441,"Python, C++, Scala ",Rust,University of Bedfordshire,amitkumarj441@gmail.com,"Machine Learning, Deep Learning, Quantum Mechanics, Quantum Cognition, Information Retrieval, NLP, Medical Imaging, Computer Vision",1,1,0,0
 vbaliga,R,,"Dept. of Zoology, University of British Columbia",vbaliga@zoology.ubc.ca,"r-packages
 rstats
 muscle physiology
@@ -4524,7 +4524,7 @@ Task Design",0,1,0,0
 kgoebber,Python,Python,Valparaiso University,kevin.goebbert@valpo.edu,"atmospheric science
 climate science
 meteorology",0,0,0,0
-bernardsilenou,R,,Mr,bernard.silenou@helmholtz-hzi.de,Statistics,0,1,1,0
+bernardsilenou,R,,Mr,bernard.silenou@helmholtz-hzi.de,Statistics,0,1,0,0
 raghurama123,"Fortran, Python, Octave",Julia,Tata Institute of Fundamental Research Hyderabad,ramakrishnan@tifrh.res.in,"Computational Chemistry
 Materials Science
 Quantum Mechanics
@@ -4899,7 +4899,7 @@ georgiastuart,"python, c++, c","R, matlab, javascript","Oden Institute, UT Austi
 ssujit,"R, Python",,Leibniz Institute for Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Science, Spatial Science, GIS",0,0,0,0
 chartgerink,"JavaScript, R, NodeJS",Python,Liberate Science GmbH,chris@libscie.org,"Meta-research, statistics, psychology",0,0,0,0
 aaronspring,python,,Max-Planck-Institute for Meteorology,aaron.spring@mpimet.mpg.de,"predictability, predictions, Earth System Models, skill scores, carbon cycle",0,0,0,0
-raoulcollenteur,Python,,University of Graz,raoul.collenteur@uni-graz.at,"Geosciences, Hydrology",0,1,1,0
+raoulcollenteur,Python,,University of Graz,raoul.collenteur@uni-graz.at,"Geosciences, Hydrology",0,1,0,0
 yongzesong,R,Matlab,Curtin University,yongze.song@curtin.edu.au,"GIS, Spatial analysis, geography, remote sensing, environment and ecology",0,0,0,0
 vickysharma0812,Fortran,,Postdoctoral fellow,vickysharma0812@gmail.com,"Linear Algebra
 Finite Element Methods
@@ -5475,7 +5475,7 @@ Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
 Machine Learning",0,3,1,0
-wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,2,0
+wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,1,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
 Machine Learning",0,0,0,0
@@ -6116,7 +6116,7 @@ JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu
 farnazmdi,Python,Julia,University of California Los Angeles,farnazmdi@ucla.edu,"Bioengineering, Biological Data Science, Machine Learning in Biology",0,0,0,0
 mikemahoney218,"R
 Bash","Python
-C#",State University of New York College of Environmental Science and Forestry,mike.mahoney.218@gmail.com,"geospatial / spatial, ecology, environmental science, machine learning (applications, not algorithms), visualization",1,1,0,0
+C#",State University of New York College of Environmental Science and Forestry,mike.mahoney.218@gmail.com,"geospatial / spatial, ecology, environmental science, machine learning (applications, not algorithms), visualization",0,1,1,1
 ylz0,"Python, Java, R, JavaScript, Scala, Perl",,Leidos Inc.,ylz0@cdc.gov,"Data Science, Bioinformatics",0,0,0,0
 AnthonyOfSeattle,"Python
 R","C++
@@ -7024,7 +7024,7 @@ Compilers
 Neuromorphic computing",0,0,0,0
 espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics",1,1,0,0
 gasparl,"JavaScript, R",,University of Konstanz,lkcsgaspar@gmail.com,"online research tools, (web-based) software for psychological assessment, any research software that focuses on user-friendliness and clarity",0,0,0,0
-amitkumarj441,"Python, C++",Scala,University College London (UCL),amitkumarj441@gmail.com,"Artificial Intelligence, Quantum Machine Learning, Natural Language Processing, Medical Imaging, Blockchain",0,0,0,0
+amitkumarj441,"Python, C++",Scala,University College London (UCL),amitkumarj441@gmail.com,"Artificial Intelligence, Quantum Machine Learning, Natural Language Processing, Medical Imaging, Blockchain",1,1,0,0
 jingpengw,"Python
 C++
 Julia",,Flatiron Institute,jingpeng.wu@gmail.com,"image processing
@@ -7316,3 +7316,4 @@ Differentiable programming
 Machine learning
 Molecular dynamics
 Theorem proving"
+@zcstanley,"python, matlab",,CIRES/NOAA PSL,zofia.stanley@noaa.gov,"data assimilation, inverse problems, geophysical modeling, computational mathematics"
