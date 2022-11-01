@@ -7316,10 +7316,12 @@ Differentiable programming
 Machine learning
 Molecular dynamics
 Theorem proving",0,0,0,0
-@zcstanley,"python, matlab",,CIRES/NOAA PSL,zofia.stanley@noaa.gov,"data assimilation, inverse problems, geophysical modeling, computational mathematics"
-https://github.com/luismanriqueruiz,"R, python",,Zeals,luismanriqueruiz@gmail.com,"City planning, AI"
-@npettiaux,python,,Université libre de Bruxelles & Athénée Robert Catteau & Educode,nicolas@pettiaux.be,"Physics
+zcstanley,"python, matlab",,CIRES/NOAA PSL,zofia.stanley@noaa.gov,"data assimilation, inverse problems, geophysical modeling, computational mathematics",0,0,0,0
+luismanriqueruiz,"R, python",,Zeals,luismanriqueruiz@gmail.com,"City planning, AI",0,0,0,0
+npettiaux,python,,Université libre de Bruxelles & Athénée Robert Catteau & Educode,nicolas@pettiaux.be,"Physics
 Mathematics
 Teaching
-Creative Commons licensing"
+Creative Commons licensing",0,0,0,0
 zamantousif,"C++, Python",Matlab,Worcester Polytechnic Institute,zamantousif@gmail.com,"Robotics, Perception, Planning and Control, Game development"
+popovstefan,"Python
+Java",r,University of Ljubljana,steffan.popov@protonmail.com,"Machine Learning, Computer Vision"
