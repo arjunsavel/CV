@@ -1962,7 +1962,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -2282,27 +2282,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Savel, A. B.",
-      "Dressing, C. D.",
-      "Hirsch, L.",
-      "Ciardi, D.",
-      "Fleming, J. P.",
-      "Christiansen, J."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "A closer look at planet occurrence rates: AO follow-up of 71 stars in the Kepler field",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23537502S",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Dressing, C. D.",
       "Giacalone, S.",
       "Abrahams, E. S.",
@@ -2322,6 +2301,27 @@
     "pubdate": "2020-01-00",
     "title": "Using TESS to Investigate the Frequency of Planetary Systems Orbiting Cool Dwarfs",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23532705D",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Savel, A. B.",
+      "Dressing, C. D.",
+      "Hirsch, L.",
+      "Ciardi, D.",
+      "Fleming, J. P.",
+      "Christiansen, J."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "A closer look at planet occurrence rates: AO follow-up of 71 stars in the Kepler field",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23537502S",
     "volume": "235",
     "year": "2020"
   }
