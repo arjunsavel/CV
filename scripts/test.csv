@@ -1526,7 +1526,7 @@ nicgaspar,Python,,Tulane University,ngaspari@tulane.edu,Fluvial geomorphology; T
 dandavies99,Python,,Imperial College London,dandavies99@gmail.com,"Materials science
 Inorganic chemistry
 Computational chemistry
-Materials informatics",0,2,1,1
+Materials informatics",0,2,1,0
 soroushj,"Python
 Java
 JavaScript",C#,Guilan NLP Group,soroush.javadi@gmail.com,"Machine Learning
@@ -2444,7 +2444,7 @@ Fipanther,"Python, C++","Fortran, CUDA",UNSW Canberra at the Australian Defence 
 JeffWalton-PSC,"Python, Fortran",C,Paul Smith's College,jwalton@paulsmiths.edu,"Data analysis, remote sensing, image processing, celestial mechanics",0,1,0,0
 christinahedges,Python,"C++
 IDL",Bay Area Environmental Research Institute,christina.l.hedges@nasa.gov,"Astronomy
-Astrophysics",1,3,0,0
+Astrophysics",0,3,1,1
 fhorrobin,"Julia
 Python
 C
@@ -4353,7 +4353,7 @@ geometric data analysis
 unsupervised machine learning
 dimensionality reduction",2,3,0,0
 dinacmistry; DMistry-IDM,Python,,Institute for Disease Modeling,dina.c.mistry@gmail.com,"Network Science, infectious disease modeling, agent based modeling, information spreading, contact patterns, mobility networks and patterns, complex contagions",0,0,0,0
-ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,1,3,0,0
+ranocha,Julia,,King Abdullah University of Science and Technology,mail@ranocha.de,numerical methods for ordinary and partial differential equations,2,4,0,0
 ketch,"Python, Fortran",MATLAB,King Abdullah University of Science & Technology,david.ketcheson@kaust.edu.sa,"Numerical methods for ODEs and PDEs, especially wave equations
 Finite volume methods
 Finite difference methods
@@ -4912,7 +4912,7 @@ Anthropology
 Archaeology
 Human Evolution
 Ecology",0,1,1,0
-xaviercm94,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,1,1,1
+kasasxav,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,1,1,1
 abhishekvp,"javascript
 Java
 PHP","C++
@@ -5082,7 +5082,7 @@ Structural engineering
 Geotechnical Engineering
 Solid body statics & dynamics
 Contact mechanics",0,1,1,1
-msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,1,0
+msalibian,R,,The University of British Columbia,matias@stat.ubc.ca,"Regression (parametric or non-parametric), Functional Data Analysis, Robust Statistics",0,2,0,0
 DrMattG,R,,Norwegian Institute for Nature Research,matthew.grainger@nina.no,"Ecology, Conservation, Systematic Review, Meta-analysis, Evidence synthesis, bibliometrix analysis",0,2,1,1
 Subho07,"Python, MATLAB, C++","VB.NET, ENVI IDL",Indian Institute of Technology Bombay,sdey2307@gmail.com,"Microwave remote sensing, optical remote sensing, agricultural science, aquacultural science, machine learning",0,1,1,0
 willu47,Python,,KTH Royal Institute of Technology,wusher@kth.se,"Energy
@@ -5846,7 +5846,7 @@ GDScript",University of Bristol,Christopher.Woods@bristol.ac.uk,"Computational c
 Biomolecular modelling
 Epidemiological modelling",0,1,1,1
 PeterKraus,Python,Fortran,Empa - Swiss Federal Laboratories for Materials Science and Technology,peter@tondon.de,"Experimental chemistry
-Computational chemistry",0,1,1,1
+Computational chemistry",0,1,1,0
 kprokopi,Python,C,Aristotle University of Thessaloniki,kprokopi@gmail.com,"Data Science
 Scientific Computing
 Numerical Analysis
@@ -6467,7 +6467,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",3,6,3,2
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,6,4,3
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -6678,7 +6678,7 @@ Network inference",1,1,0,0
 GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
 Parallel Computing
 Workflow Management Systems",0,0,0,0
-MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,",1,1,0,0
+MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,",2,2,0,0
 farhadrclass,"Julia, Python","Matlab, Java",PhD student at GERAD,farhad.rahbarnia@polymtl.ca,"Machine Learning, Optimization",0,0,0,0
 simonpcouch,R,,RStudio PBC,simonpatrickcouch@gmail.com,"Frequentist statistics
 Predictive Modeling
@@ -6743,7 +6743,7 @@ SYCL","FORTRAN
 Java
 C
 OpenCL
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,0,1,1,1
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,,0,1,1,0
 robertszafa,"Python
 C++
 SYCL
@@ -6751,7 +6751,7 @@ OpenCL
 CUDA","C
 Java
 Fortran
-Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
+Haskell",University of Glasgow,r.szafarczyk.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,1,1,0
 mbarzegary,"C
 C++
 C#
@@ -7335,5 +7335,21 @@ Astronomy
 Machine Learning
 Data Engineering",0,0,0,0
 kingyin3613,Python,Matlab,Northwestern University,haoyin2022@u.northwestern.edu,"mechanics
-materials"
-w-luo-academic,"python, matlab, c++",mathematica,California Institute of Technology,wen-luo@caltech.edu,engineering mechanics
+materials",0,0,0,0
+w-luo-academic,"python, matlab, c++",mathematica,California Institute of Technology,wen-luo@caltech.edu,engineering mechanics,0,0,0,0
+catrionamurray,Python,,University of Colorado Boulder,Catriona.Murray@colorado.edu,Exoplanets,0,1,1,1
+paxtonfitzpatrick,Python,"JavaScript
+Bash/Zsh
+HTML
+CSS/SCSS",Dartmouth College,paxtonfitzpatrick@gmail.com,"Psychology
+Computational Neuroscience
+Human Memory
+Natural Language Processing
+Data Visualization
+Docker
+IPython/Jupyter
+Git
+Dimensionality Reduction
+Reproducible Research
+Online Research"
+j,python,java,trh,marutinmaruthi7@gmail.com,fgnh
