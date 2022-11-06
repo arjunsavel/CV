@@ -1580,7 +1580,7 @@ Finite-element methods
 Particle methods",0,4,0,0
 banesullivan,Python,,Colorado School of Mines,banesullivan@gmail.com,"3D visualization
 geophysics
-geoscience",1,2,0,0
+geoscience",0,2,1,1
 adi3,"C, C++, Python, Javascript","Ruby, Java, Visual Basic, PHP",Toposens GmbH,adisin8@gmail.com,"Robotics, Automotive, Aerospace, Webapps",1,7,0,0
 davidbeckingsale,C++,"C
 Fortran
@@ -2267,7 +2267,7 @@ Data Science
 Ecology",0,1,0,0
 supark87,Python,,Bioinformatics fellow,subinpark@gatech.edu,NGS/Genome analysis,0,0,0,0
 jessepisel,Python,,University of Texas at Austin,jesse.pisel@austin.utexas.edu,"Geoscience
-Geology",1,2,0,0
+Geology",0,2,1,1
 castelao,"Python
 Rust",Matlab,Scripps Institution of Oceanography,castelao@ucsd.edu,"Oceanography
 Geosciences
@@ -4753,7 +4753,7 @@ GIS
 Civil Engineering
 UAS Inspections
 Computer Vision
-Optimization",1,2,1,1
+Optimization",0,2,2,2
 hadware,Python,,Département d'Études Cognitives,hadrien.titeux@ens.fr,"audio processing
 machine learning (for audio)
 linguistics
@@ -4838,7 +4838,7 @@ C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, p
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,0,0
-pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg.de,Bioinformatics,1,1,0,0
+pjb7687,Python,C/C++,German Cancer Research Center (DKFZ),j.park@dkfz-heidelberg.de,Bioinformatics,0,1,1,1
 rafaelab,"C++
 Python","C
 Julia",Radboud University Nijmegen,8rafael@gmail.com,"Astroparticle Physics
@@ -4912,7 +4912,7 @@ Anthropology
 Archaeology
 Human Evolution
 Ecology",0,1,1,0
-kasasxav,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,1,1,1
+kasasxav,"Python, Java","C, C++",KTH,xaviercm@kth.se,"Microscopy, Image processing",0,0,0,0
 abhishekvp,"javascript
 Java
 PHP","C++
@@ -6678,7 +6678,7 @@ Network inference",1,1,0,0
 GlassOfWhiskey,"C++, Java, Python",,University of Torino,iacopo.colonnelli@unito.it,"High Performance Computing
 Parallel Computing
 Workflow Management Systems",0,0,0,0
-MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,",2,2,0,0
+MaximLippeveld,"Python, Java, R","C, C++",Ghent University,lippeveld.maxim@gmail.com,"Machine learning, data science, image analysis, distributed programming, bioinformatics,",1,2,1,1
 farhadrclass,"Julia, Python","Matlab, Java",PhD student at GERAD,farhad.rahbarnia@polymtl.ca,"Machine Learning, Optimization",0,0,0,0
 simonpcouch,R,,RStudio PBC,simonpatrickcouch@gmail.com,"Frequentist statistics
 Predictive Modeling
@@ -6808,7 +6808,7 @@ chtld,"c++, python, matlab, javascript","matlab, c/c++, javascript, python",Nort
 pjb7687,"Python
 C/C++
 C#",Java,Pusan National University,jeongbin.park@pusan.ac.kr,"Bioinformatics
-Software Development",1,1,0,0
+Software Development",0,1,1,1
 askuric,"pyhton
 c
 cpp
@@ -6910,7 +6910,7 @@ gtonkinhill,"Python
 R",c++,University of Oslo,g.tonkinhill@gmail.com,"bioinformatics
 statistics
 genomics
-transcriptomics",1,2,1,0
+transcriptomics",0,2,2,1
 RBhupi,"R
 Python","C++ 
 NCL
@@ -7114,7 +7114,7 @@ Python",,The National Agriculture and Food Research Organization (NARO),sun@biun
 genetics
 plant science
 agriculture
-machine learning",1,1,0,0
+machine learning",0,1,1,1
 arkajitmandal,Python,Java-Script,Columbia University,arkajitmandal@gmail.com,"Quantum Dynamics, Open Quantum Systems",0,0,0,0
 JunOu,Python,Fortran,"California State Polytechnic University, Humboldt",jun.ou@humboldt.edu,Engineering (Materials/Mechanical),0,0,0,0
 ady00,"Python, Java, C++, Swift","Solidity, Rust",Student,advayb2018@gmail.com,"AI/ML, frameworks",1,1,0,0
@@ -7351,5 +7351,23 @@ IPython/Jupyter
 Git
 Dimensionality Reduction
 Reproducible Research
-Online Research"
+Online Research",0,1,0,0
 j,python,java,trh,marutinmaruthi7@gmail.com,fgnh
+@Abinashbunty,"Python
+JavaScript
+HTML
+R","C
+C++
+Java",University of Amsterdam,iamabinash98@gmail.com,"Data Analysis
+Quantum algorithms
+Machine Learning
+Web development
+Cyber Security"
+sandeep-ps,"Python
+MATLAB
+Java
+C++","C
+JavaScript","National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign",sandeeps@illinois.edu,"Data Analysis
+RESTful API
+Computer Vision
+Machine Learning"
