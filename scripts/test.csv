@@ -3257,7 +3257,7 @@ Biomedical Informatics
 Medical Informatics
 Clinical Informatics
 Biomedical Natural Language Processing",0,0,0,0
-a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",0,2,1,1
+a3sha2,"python, R, bash","Python, R, Matlab",UPenn,azeez.adebimpe@outlook.com,"functional and structural neuroimaging, neuroinformatics",0,2,1,0
 jmansour,"Python
 C
 C++",Fortran,Monash University,john.mansour@monash.edu,"Applied Geophysics
@@ -4873,7 +4873,7 @@ C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
 Mesh Datastructure
 Parallel Programming",0,1,0,0
-a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,2,1,1
+a3sha2,"python, bash","R,matlab",University of Pennsylvania,azeez.adebimpe@outlook.com,"mri,fmri,EEG",0,2,1,0
 zhuhaoyu848,python,python,snu,746180830@qq.com,ML,0,0,0,0
 justinchuntingho,R,,Sciences Po,justin.chunting.ho@sciencespo.fr,"text analysis, network analysis, social media",0,1,0,0
 vahid-sb,"Python, Matlab, C","Fortran, Julia",Max Planck Institute,vsb.control@protonmail.com,"Computational neuroscience in particular micromanaging and EEG Analysis, epidemiology, control theory, Eye-tracking and computer vision.",0,3,2,2
@@ -5566,7 +5566,7 @@ Image Analysis
 Data Engineering
 Good Software Engineering Practises
 Docker",0,1,0,0
-fAndreuzzi,Python,"Java, Dart, C",SISSA,andreuzzi.francesco@gmail.com,"Graph theory, Set theory, CFD, ROM, Dynamical systems",0,1,1,1
+fAndreuzzi,Python,"Java, Dart, C",SISSA,andreuzzi.francesco@gmail.com,"Graph theory, Set theory, CFD, ROM, Dynamical systems",0,1,1,0
 kelseydcooper,R,Python,Indiana University,keldcoop@gmail.com,"Climate change, aerospace, weather, water, biodiversity, citizen science, policy, public administration, data analysis, regulation, international development, economic development, education, workforce, research and development, federal grants, government",0,0,0,0
 schruste,"C++
 python",,University of Göttingen,lehrenfeld@math.uni-goettingen.de,"Numerical PDEs
@@ -6467,7 +6467,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,6,4,3
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,6,4,2
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -7352,8 +7352,8 @@ Git
 Dimensionality Reduction
 Reproducible Research
 Online Research",0,1,0,0
-j,python,java,trh,marutinmaruthi7@gmail.com,fgnh
-@Abinashbunty,"Python
+j,python,java,trh,marutinmaruthi7@gmail.com,fgnh,0,0,0,0
+Abinashbunty,"Python
 JavaScript
 HTML
 R","C
@@ -7362,7 +7362,7 @@ Java",University of Amsterdam,iamabinash98@gmail.com,"Data Analysis
 Quantum algorithms
 Machine Learning
 Web development
-Cyber Security"
+Cyber Security",0,0,0,0
 sandeep-ps,"Python
 MATLAB
 Java
