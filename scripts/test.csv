@@ -3556,7 +3556,7 @@ johanneswerner,"Python
 R",,"Department of Biological Oceanography, Leibniz Institute of Baltic Sea Research",johannes.werner@io-warnemuende.de,"bioinformatics
 (in the field of microbial ecology/environmental microbiology)",0,1,0,0
 e-dub,Python,,Free University of Bozen-Bolzano,erich.wehrle@unibz.it,"Mechanical engineering, numerical optimization, design optimization, vibrations, structural mechanics",0,1,0,0
-fwitte,Python,,Research assistant at Flensburg University of Applied Sciences,joss@witte.sh,"Thermodynamics, Thermal Engineering, Power Plant Design and Simulation",1,2,0,0
+fwitte,Python,,Research assistant at Flensburg University of Applied Sciences,joss@witte.sh,"Thermodynamics, Thermal Engineering, Power Plant Design and Simulation",0,2,1,1
 calum-chamberlain,Python,,Victoria University of Wellington,calum.chamberlain@vuw.ac.nz,"Seismology
 Geophysics
 Earthquake Science",0,0,0,0
@@ -7018,7 +7018,7 @@ Lean",KTH Royal Institute of Technology,jeped@kth.se,"Computational neuroscience
 Deep learning
 Compilers
 Neuromorphic computing",0,0,0,0
-espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics",1,1,0,0
+espottesmith,"Python, Julia","C, C++",Lawrence Berkeley National Laboratory,espottesmith@gmail.com,"chemical kinetics, chemical reaction networks, thermodynamics, stochastic algorithms, reactive dynamics",0,1,1,1
 gasparl,"JavaScript, R",,University of Konstanz,lkcsgaspar@gmail.com,"online research tools, (web-based) software for psychological assessment, any research software that focuses on user-friendliness and clarity",0,0,0,0
 amitkumarj441,"Python, C++",Scala,University College London (UCL),amitkumarj441@gmail.com,"Artificial Intelligence, Quantum Machine Learning, Natural Language Processing, Medical Imaging, Blockchain",1,1,0,0
 jingpengw,"Python
@@ -7371,3 +7371,7 @@ JavaScript","National Center for Supercomputing Applications, University of Illi
 RESTful API
 Computer Vision
 Machine Learning"
+alizma,"Python, C++, Julia",,Brown University,alexey_izmailov@brown.edu,"Finite element methods for numerical solutions to PDE
+Reduced-order modelling in parametric PDE"
+guandaruman,html,,Technical University of Mombasa,guandaruman@yahoo.co.uk,ojs
+kdhusia,Python R,R,University of Arkansas Medical Sciences,KDhusia@uams.edu,Bioinformatics
