@@ -6766,7 +6766,7 @@ jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
 Soil science",0,0,0,0
-ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,1,1,1
+ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,1,1,0
 Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,1,1,1
 Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
@@ -6921,7 +6921,7 @@ esf0,"C, C++, Python",,Aston Institute of Photonic Technologies,e.sedov@g.nsu.ru
 Photonics",0,0,0,0
 zfergus,"C++, Python","JavaScript, Java",New York University,zfergus@nyu.edu,"Computer Graphics, Scientific Computing, Simulation",0,0,0,0
 imcatta,"Python, Typescript, Java","C++, Javascript",University of Bergamo,andrea.cattaneo@unibg.it,"Agent-based modeling, Rehabilitation, VR, Motion capture, Pose detection",0,0,0,0
-massimotorquati,C++,C,"Computer Science Department -- University of Pisa, Italy",massimo.torquati@unipi.it,Parallel Programming,0,1,1,1
+massimotorquati,C++,C,"Computer Science Department -- University of Pisa, Italy",massimo.torquati@unipi.it,Parallel Programming,0,1,1,0
 vardhah,Python,Matlab,Vanderbilt University,harsh.vardhan@vanderbilt.edu,System design,0,0,0,0
 https://jenniferdavidgithub.com,"C++
 python
@@ -7390,3 +7390,6 @@ Remote sensing
 Satellites
 Radiative transfer
 Cloud physics"
+spholmes,R,,Stanford University,sph@stanford.edu,"Statistics, Ecology, Microbiome"
+alexsquires,python,,University College London,alex.g.squires@gmail.com,computational materials chemistry
+jdalzatec and jdalzatec-hourly,"python, javascript, c++","java, fortran",Hourly.io,jdalzatec@unal.edu.co,"computational physics, ML, algorithms,"
