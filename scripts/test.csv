@@ -1182,7 +1182,7 @@ Systems Biology
 Microscopy Data Analysis
 Computer Vision
 Machine Learning
-physics, data wrangling, statistics, jupyter, climate modelling",1,2,1,0
+physics, data wrangling, statistics, jupyter, climate modelling",0,2,2,1
 trinker,r,,university at buffalo,tyler.rinker@gmail.com,"data visualization, text mining, sentiment analysis, data manipulation",0,2,0,0
 adibender,R,,"BDI, University of Oxford",bender.at.R@gmail.com,"statistics
 survival analysis
@@ -3286,7 +3286,7 @@ Computational Biophysics",1,2,0,0
 madvn,Python,C++,"Indiana University, Bloomington",madvncv@gmail.com,"Neuroscience
 Neural Networks
 Information theory
-Optimization methods",1,1,0,0
+Optimization methods",0,1,1,1
 diehlpk,"C
 C++
 Python",bash,Center of Computation & Technology (LSU),me@diehlpk.de,Computational mathematics,0,0,0,0
@@ -5457,7 +5457,7 @@ anki-xyz,Python,C#,Friedrich-Alexander-University Erlangen-Nürnberg,andreas.kis
 Image processing
 Deep Learning
 Artificial Intelligence",0,1,1,0
-hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",1,3,2,0
+hayesall,"Python,Java,Julia,Cython,Racket,Bash,Prolog","Usually work in Racket, but fairly competent in other Lisp dialects (Closure, Common, Scheme, Hylang)",Indiana University Bloomington,hayesall@iu.edu,"machine-learning,statistical-relational-artificial-intelligence,health-informatics,android-apps",0,3,3,1
 adswa,Python,,"Institute for Neuroscience and Medicine, Research Center Juelich, Germany",adina.wagner@t-online.de,"Neuroscience, data management, Psychology",0,1,0,0
 smith42,Python,BASH,University of Hertfordshire,m.smith28@herts.ac.uk,"Machine Learning
 Astronomy
@@ -5611,7 +5611,7 @@ CMake",C,"Interdisciplinary Center for Scientific Computing, Heidelberg Universi
 Finite Element Methods
 Complex Adaptive Systems
 Data Assimilation
-Ordinary & Partial Differential Equations",1,3,2,1
+Ordinary & Partial Differential Equations",0,3,3,2
 gabett,R,"C#, Python, SQL",Sapienza University of Rome,gabriele.etta@uniroma1.it,"Computational Social Science, Network Science, Data Handling, Data Visualization",0,0,0,0
 ulf1,Python,"JavaScript, C++, SQL",Berlin-Brandenburgische Akademie der Wissenschaften,hamster@bbaw.de,"NLP, Neural Networks, Statistics, Time Series, Dynamic Systems, Optimization, Genetic Algorithms, Operations Research, Engineering Design, Economics, Linguistics, Humanities",0,1,1,1
 gmxavier,"Python, R",Fortran,Collaborator,gilberto.xavier@lps.ufrj.br,"chemical engineering, process control, chemometrics, acoustic emission, computational intelligence, fault detection and diagnosis, flow assurance",0,0,0,0
@@ -6028,7 +6028,7 @@ QibangLiu,"C++
 Python
 Matlab",,Kansas State University,qibangliu@ksu.edu,,0,0,0,0
 tmigot,Julia,"Matlab
-Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,1,1,0,0
+Python",Polytechnique Montreal,tangi.migot@gmail.com,Optimization,0,1,1,1
 bhpayne,Python,,None,ben.is.located@gmail.com,Physics,0,0,0,0
 hiDaDeng,Python,,Harbin Institute of Technology,thunderhit@qq.com,"management science, data collecting, text mining, computational sociology",0,0,0,0
 gerrishons,Python,"C++, Rust, C",Secretum Inc,s.gerrishon@gmail.com,,0,0,0,0
@@ -7230,7 +7230,7 @@ Invasion Ecology",0,0,0,0
 siboehm,"Python, C++",,,mail@siboehm.com,"Deep Learning (particularly DL Systems, distributed training, inference speedups), LLVM Compilers",0,0,0,0
 welch16,R,,UW Madison,rwelch2@wisc.edu,"Bioinformatics, Genomics, Statistics",0,1,1,0
 -,".net , Software engineering,PHP , PYTHON","R, Statistical tools",V.K.KRISHNA MENON COLLEGE,ry280888@gmail.com,Computer Science,0,0,0,0
-meandmytram,Python,Julia,Université de Sherbrooke,berezutskii@phystech.edu,"Quantum information, tensor networks",0,0,0,0
+meandmytram,Python,Julia,Université de Sherbrooke,berezutskii@phystech.edu,"Quantum information, tensor networks",1,1,0,0
 zhenmuw.edu,"Python,R",C,University of Washington,zhenm@uw.edu,"Statistics, machine learning, genomics",0,0,0,0
 s-goldman,python,,SOFIA/USRA,steven.r.goldman@nasa.gov,"spectral data
 imaging data
@@ -7392,5 +7392,5 @@ Radiative transfer
 Cloud physics",0,0,0,0
 spholmes,R,,Stanford University,sph@stanford.edu,"Statistics, Ecology, Microbiome",0,0,0,0
 alexsquires,python,,University College London,alex.g.squires@gmail.com,computational materials chemistry,0,0,0,0
-jdalzatec and jdalzatec-hourly,"python, javascript, c++","java, fortran",Hourly.io,jdalzatec@unal.edu.co,"computational physics, ML, algorithms,"
+jdalzatec and jdalzatec-hourly,"python, javascript, c++","java, fortran",Hourly.io,jdalzatec@unal.edu.co,"computational physics, ML, algorithms,",0,0,0,0
 https://github.com/vipinagrawal25,"C,C++, Python","Matlab, Julia","Nordita, stockholm university",vipinagrawal25@gmail.com,"Fluid dynamics, Elasticity, Bio-Physics"
