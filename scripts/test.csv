@@ -924,7 +924,7 @@ Machine learning
 Cancer research",0,4,1,0
 Rgcjk,Python; c++; Fortran; ,Java; matlab; really I’ll do anything,Sandia National Laboratories ,ryangcoleman@gmail.com,Computer science; algorithms; computational geometry; computational biology; computational chemistry,0,0,0,0
 nmullins,"Java, JavaScript, C++, C#, Perl, PHP, Python",Any,Software Engineer and Teacher,nmullins@umich.edu,"Agile development, game dev, web dev",0,0,0,0
-joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,4,1,1
+joethorley,R,,Poisson Consulting Ltd.,joe@poissonconsulting.ca,Statistical Models,0,4,1,0
 usethedata,python,"Ruby, C++, R, FORTRAN",Oak Ridge National Laboratory,wilsonbe@ornl.gov,"Most things with a science application, but particularly Earth and Environmental Sciences, Remote Sensing, and Chemistry.  From a computing perspective, I'm strongest in information/data architecture and back-end.  ",0,2,0,0
 arose,"TypeScript, JavaScript, Python,  glsl","Java, C","UC San Diego, RCSB PDB",alexander.rose@weirdbyte.de,"Molecular Graphics, Chem Comp, Molecular Dynamics, Bioinformatics",0,2,0,0
 Andytwoods ,"Python, javascript. ",,,andytwoods@gmail.com,"Psychology, online research",0,0,0,0
@@ -1553,7 +1553,7 @@ JavaScript/CoffeeScript","Golang
 PHP",University of Minnesota,rabdill@umn.edu,"web portals/data visualization
 infrastructure automation
 containerization
-bioinformatics",0,3,1,0
+bioinformatics",0,3,0,0
 brechmos,Python,"Java, C++, C",Space Telescope Science Institute,craig@brechmos.org,"Medical Imaging, Astronomy",0,0,0,0
 kMutagene,F#,,"Computational Systems Biology, TU Kaiserslautern",kevin-schneider@mutagene.de,"Bioinformatics, Computational Biology, other F# projects after taking a first look. ",0,0,0,0
 jeeteshchel,"Java
@@ -3038,7 +3038,7 @@ Parallel computing",0,0,0,0
 emptymalei,Python,,Saloodo!,leima.137@gmail.com,"Data Science
 Computational Neuroscience
 Astrophysics
-High Energy Physics",0,1,1,0
+High Energy Physics",0,1,0,0
 willprice,Python,Java,University of Bristol,will.price@bristol.ac.uk,"Computer Vision
 Deep Learning
 ML",0,0,0,0
@@ -3877,7 +3877,7 @@ Cell biology
 Biological physics",1,1,0,0
 jokergoo,R,Perl,,z.gu@dkfz.de,Bioinformatics,0,0,0,0
 jbytecode,"java, julia, R, dart, python",,,mhsatman@gmail.com,"computational statistics, evolutionary optimization, optimization, operations research",0,1,0,0
-ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,2,1,1
+ChristopherLucas,"R,Python","C++, JavaScript",,christopher.lucas@wustl.edu,"Machine Learning, Econometrics, Bayesian Statistics, Signal Processing, Computer Vision",0,2,1,0
 rowlandseymour,R,,,Rowland.Seymour@nottingham.ac.uk,"Bayesian Computation, MCMC, Epidemiology",0,2,2,1
 mturiansky,"Python
 Fortran
@@ -6735,7 +6735,7 @@ PDEs
 SDEs",1,1,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,"Edge Computing, IoT, Machine Learning",0,0,0,0
 cocoa-xu,"C++,C,Python,Elixir","Rust,Java",University of Glasgow,r.xu.1@research.gla.ac.uk,Euro-Par 2022 Special Issue,0,0,0,0
-azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue,0,1,1,1
+azoitl,"Java, C++",,Johannes Kepler University Linz,alois.zoitl@jku.at,Euro-Par 2022 Special Issue,0,1,1,0
 robertszafa,"Python
 C++
 CUDA
@@ -6767,8 +6767,8 @@ fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
 Soil science",0,0,0,0
 ARMartinelli,"C++, C, Python and Haskell",Fortran and Java,University of Turin,albertoriccardo.martinelli@unito.it,Euro-Par 2022 Special Issue,0,1,1,0
-Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,1,1,1
-Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
+Tokuso,"C++, C, Python, Java",,University of Glasgow,ole.stubben@glasgow.ac.uk,"Systems, distributed and parallel technologies, low carbon and sustainable computing",0,1,1,0
+Tokuso,"C++, C","Python, Java",University of Glagow,ole.stubben@glasgow.ac.uk,Euro-Par 2022 Special Issue,0,1,1,0
 a,Python,C#,Shanghai University of Engineering Science,a17277free@hotmail.com,,0,0,0,0
 ddhendriks,Python,C,University of Surrey,davidhendriks93@gmail.com,"Physics
 Astrophysics",0,0,0,0
@@ -6905,7 +6905,7 @@ Algorithms
 Data Structures",1,1,0,0
 rahulporuri,Python,,Enthought,rahul.poruri@gmail.com,scientific software,0,0,0,0
 igor-marques,shell / bash,,CICECO - University of Aveiro,oliveiramarques.igor@gmail.com,"Molecular Modelling (Molecular Dynamics, DFT calculations)",0,0,0,0
-hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,0,1,1,1
+hwloidl,"Haskell, C, C#, Java","OCaml, SML, ARM Assembler, Kotlin",Heriot-Watt University,H.W.Loidl@hw.ac.uk,Euro-Par 2022 Special Issue,0,1,1,0
 gtonkinhill,"Python
 R",c++,University of Oslo,g.tonkinhill@gmail.com,"bioinformatics
 statistics
