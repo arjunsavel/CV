@@ -6105,7 +6105,7 @@ mbagagli,"Python, Matlab","bash, csh",Istituto Nazionale di Geofisica e Vulcanol
 vinisalazar,Python,R,University of Melbourne,vwsalazar@student.unimelb.edu.au,"bioinformatics
 metagenomics
 microbiome science
-microbial genomics",1,1,0,0
+microbial genomics",0,1,1,1
 jasondegraw,"Python, C/C++, Fortran/FORTRAN",,Oak Ridge National Laboratory,degrawjw@ornl.gov,"Building performance simulation, multizone airflow analysis, building energy modeling, building information modeling, computational fluid dynamics, general thermo-fluid sciences, fluid dynamics and heat transfer",0,2,2,2
 Bugs and guidiance,English,Anything,Stepping stone to education,squesnel055@gmail.com,Yes,0,0,0,0
 JHartzer,"C++, Python","C, Fortran, Ada",Texas A&M University,jmhartzer@tamu.edu,"Robotics, Controls, Dynamics, Kalman Filtering",0,0,0,0
@@ -6225,7 +6225,7 @@ Search Engines
 Information Retrieval
 Fuzzy Matching
 Ontology
-Taxonomy",1,1,0,0
+Taxonomy",0,1,1,1
 neothethird,JavaScript,,LMU Munich,j.sprinz@campus.lmu.de,"Human Computation, Crowdsourcing, Software Quality Assurance, Open-Source Software Development",0,0,0,0
 guxiaob,Matlab and Python,R,University of Ottawa,xzhao117@uottawa.ca,"Biomechancis
 Rehabilitation
@@ -6830,7 +6830,7 @@ Microbiome Science
 Microbial Genomics
 Marine Microbiology
 Marine Biogeography
-Scientific Python",1,1,0,0
+Scientific Python",0,1,1,1
 zoltanmaric,"Scala, Python","Java, Elixir",None,zoltanmaric@pm.me,"Energy Optimisation, Capacity Expansion",0,0,0,0
 hgandhi2411,Python,,University of Rochester,hgandhi@ur.rochester.edu,"Chemistry, Chemical engineering, Deep learning applications",1,1,0,0
 bungjeen,matlab julia,julia,code,my_jeen2555@hotmail.co.th,-,0,0,0,0
@@ -7394,3 +7394,6 @@ spholmes,R,,Stanford University,sph@stanford.edu,"Statistics, Ecology, Microbiom
 alexsquires,python,,University College London,alex.g.squires@gmail.com,computational materials chemistry,0,0,0,0
 jdalzatec and jdalzatec-hourly,"python, javascript, c++","java, fortran",Hourly.io,jdalzatec@unal.edu.co,"computational physics, ML, algorithms,",0,0,0,0
 https://github.com/vipinagrawal25,"C,C++, Python","Matlab, Julia","Nordita, stockholm university",vipinagrawal25@gmail.com,"Fluid dynamics, Elasticity, Bio-Physics"
+Tomcruseal,"C++, C, Scala, Java, Python, C#, Scheme, Clojure","Kotlin, Rust, SQL, Matlab",University of Edinburgh,zhibo.li@ed.ac.uk,"Systems, Compiler, Parallel/Distributed Cloud/Computing, PL theory"
+@N-Wouda,"Python, C++","Java, JavaScript, C",University of Groningen,nielswouda@gmail.com,"Operations research in general, stochastic programming, linear programming, (meta)heuristics for combinatorial optimization"
+Thfriedrich,"C++, Matlab, Python",,University of Antwerp,thomas.friedrich87@outlook.de,"Scientific, image processing, GUI"
