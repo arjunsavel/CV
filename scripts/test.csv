@@ -4132,7 +4132,7 @@ Graph theory",0,1,0,0
 aponsero,"Python, R",,,aponsero@email.arizona.edu,Bioinformatics,0,0,0,0
 alexrockhill,Python,"C, R, MATLAB, JavaScript",University of Oregon,aprockhill@mailbox.org,"neuroscience
 human physiology
-applied math",0,0,0,0
+applied math",1,1,0,0
 marshallmcdonnell,Python,"JavaScript
 C/C++
 Java
@@ -4867,7 +4867,7 @@ Medical Imaging",0,1,0,0
 dxm447,"Python
 MATLAB",,Oak Ridge National Laboratory,mukherjeed@ornl.gov,"Electron Microscopy
 Image Processing",0,1,1,0
-cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,4,2,1
+cescalara,"C/C++, Python, Stan","Julia, FORTRAN",Technische Universität München,capel.francesca@gmail.com,"Astrophysics, Statistics",0,4,2,0
 cedricchevalier19,"Rust
 C
 C++",,CEA,cedric.chevalier@cea.fr,"Combinatorial Optimization
@@ -6318,7 +6318,7 @@ biostatistics",0,0,0,0
 sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,1,1,1
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
 kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",1,1,0,0
-vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",0,0,0,0
+vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",1,1,0,0
 dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :),0,0,0,0
 jaybee84,"R
 Python",,Sage Bionetworks,jineta.banerjee@sagebionetworks.org,"Bioinformatics
@@ -6435,7 +6435,7 @@ Finite/Spectral Element Methods
 Discontinuous Galerkin Methods
 Partial Differential Equations
 Numerical Linear Algebra
-Dynamical Systems",3,3,0,0
+Dynamical Systems",2,3,1,1
 kanishkan91,"R
 python",C,"Computational Scientist, PNNL (JGCRI)",kanishkan91@gmail.com,"Land, Land Use Change, Carbon accounting, Computational Modeling, GIS, Food modeling, Income Distributions",0,1,1,0
 cyberlawcodes,"javascript, python",python,developer,info@asklegal.io,legal - I have 20 years of experience as a lawyer,0,0,0,0
@@ -6650,7 +6650,7 @@ Matlab","Python
 R",MOX - Department of Mathematics - Politecnico di Milano,pasqualeclaudio.africa@polimi.it,"Numerical analysis
 Mathematical modeling
 HPC
-High Performance Computing",1,1,0,0
+High Performance Computing",0,1,1,1
 vferat,Python,,UNIGE,victor.ferat@live.fr,Neurosciences,0,0,0,0
 navdeep-G,"Python, R, Java","C, C++",H2O.ai,mr.navdeepgill@gmail.com,"Machine learning, Statistics",0,0,0,0
 tao364744553,Python,,Dassault Systems,fei.tao@3ds.com,"Physics, mechanics, materials, mathematics",0,0,0,0
@@ -6761,7 +6761,7 @@ JavaScript","Biomechanics Section, KU Leuven, Belgium",mojtaba.barzegari@kuleuve
 Computational mechanics
 Computational materials science
 Finite element
-Numerical methods",3,3,0,0
+Numerical methods",2,3,1,1
 jlarsen-usgs,"python
 fortran",,U.S. Geological Survey,jlarsen@usgs.gov,"Hydrology
 Hydrogeology
@@ -7393,7 +7393,10 @@ Cloud physics",0,0,0,0
 spholmes,R,,Stanford University,sph@stanford.edu,"Statistics, Ecology, Microbiome",0,0,0,0
 alexsquires,python,,University College London,alex.g.squires@gmail.com,computational materials chemistry,0,0,0,0
 jdalzatec and jdalzatec-hourly,"python, javascript, c++","java, fortran",Hourly.io,jdalzatec@unal.edu.co,"computational physics, ML, algorithms,",0,0,0,0
-https://github.com/vipinagrawal25,"C,C++, Python","Matlab, Julia","Nordita, stockholm university",vipinagrawal25@gmail.com,"Fluid dynamics, Elasticity, Bio-Physics"
-Tomcruseal,"C++, C, Scala, Java, Python, C#, Scheme, Clojure","Kotlin, Rust, SQL, Matlab",University of Edinburgh,zhibo.li@ed.ac.uk,"Systems, Compiler, Parallel/Distributed Cloud/Computing, PL theory"
-@N-Wouda,"Python, C++","Java, JavaScript, C",University of Groningen,nielswouda@gmail.com,"Operations research in general, stochastic programming, linear programming, (meta)heuristics for combinatorial optimization"
-Thfriedrich,"C++, Matlab, Python",,University of Antwerp,thomas.friedrich87@outlook.de,"Scientific, image processing, GUI"
+vipinagrawal25,"C,C++, Python","Matlab, Julia","Nordita, stockholm university",vipinagrawal25@gmail.com,"Fluid dynamics, Elasticity, Bio-Physics",0,0,0,0
+Tomcruseal,"C++, C, Scala, Java, Python, C#, Scheme, Clojure","Kotlin, Rust, SQL, Matlab",University of Edinburgh,zhibo.li@ed.ac.uk,"Systems, Compiler, Parallel/Distributed Cloud/Computing, PL theory",0,0,0,0
+N-Wouda,"Python, C++","Java, JavaScript, C",University of Groningen,nielswouda@gmail.com,"Operations research in general, stochastic programming, linear programming, (meta)heuristics for combinatorial optimization",0,0,0,0
+Thfriedrich,"C++, Matlab, Python",,University of Antwerp,thomas.friedrich87@outlook.de,"Scientific, image processing, GUI",0,0,0,0
+jeremylt,"Rust, C, Julia, Python",Fortran,CU Boulder,jeremy@jeremylt.org,"HPC, finite elements",1,1,0,0
+StevenClontz,"Python, JavaScript, Ruby",,University of South Alabama,sclontz@southalabama.edu,Mathematics,0,0,0,0
+lparsons,"Python, R",Perl,Princeton University,lparsons@princeton.edu,"Bioinformatics, workflows"
