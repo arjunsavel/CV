@@ -909,7 +909,7 @@ Computational Geology
 jingpengw,Julia,python,Postdoctoral Research Associate,jingpeng@princeton.edu,"Image Processing
 Bioimage Informatics
 Computational Neuroscience",0,2,2,2
-suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",1,1,0,0
+suyashkumar,"Go, Python, Javascript, Matlab, Java, C ",C++,Duke University & Gradient Health,suyash.kumar@duke.edu,"Massively scalable software, parallel cloud computation, machine learning, ultrasound, genomics",0,1,1,1
 nsaunier,"Python
 C++","Java
 C",Polytechnique Montreal,nicolas.saunier@polymtl.ca,"artificial intelligence
@@ -1343,7 +1343,7 @@ KedoKudo,Python,"C
 Fortran",Carnegie Mellon University,chenz3@andrew.cmu.edu,"high-energy X-ray diffraction
 crystal plasticity
 finite element
-dislocation dynamics",1,3,0,0
+dislocation dynamics",0,3,1,1
 jdeligt,"C++
 Java
 Python
@@ -3068,7 +3068,7 @@ proycon,"Python, C++, Rust",Javascript,Radboud University Nijmegen,proycon@anapr
 chrisleaman,python,,University of New South Wales,c.leaman@unsw.edu.au,"coastal geomorphology
 coastal engineering
 beach erosion",0,2,0,0
-suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",1,1,0,0
+suyashkumar,"Python, Go, C++, Java, Javascript, Typescript","C, HTML",Google Health,suyash@suyashkumar.com,"Healthcare, distributed systems, networking, ultrasound, medical imaging, DICOM, FHIR,",0,1,1,1
 kokan,"C++
 C",Go,,kokaipeter@gmail.com,"Compiler
 Log collection",0,0,0,0
@@ -3330,7 +3330,7 @@ Biology:
     - Stochastic simulations
     - Genetic analysis pipelines
     - RNASeq
-    - Sequence alignment",2,6,2,0
+    - Sequence alignment",1,6,3,1
 wjakethompson,R,Stan,University of Kansas,wjakethompson@gmail.com,"Educational measurement
 Diagnostic classification models
 Cognitive diagnostic models
@@ -3941,7 +3941,7 @@ Pyrometallurgy
 Physical metallurgy
 Welding metallurgy
 Thermodynamics and thermochemistry",0,0,0,0
-adamltyson,Python,MATLAB,,adam.tyson@ucl.ac.uk,"Image analysis, neuroscience, data visualisation.",0,0,0,0
+adamltyson,Python,MATLAB,,adam.tyson@ucl.ac.uk,"Image analysis, neuroscience, data visualisation.",1,1,0,0
 http://github.com/joyjitchatterjee,Python,"C
 C++
 Java",,j.chatterjee-2018@hull.ac.uk,"Expert Systems
@@ -5874,7 +5874,7 @@ KedoKudo,"Python
 C++
 Cuda
 Go","Matlab
-Julia",Oak Ridge National Lab,zhangc@ornl.gov,"Neutron diffraction, X-ray diffraction, constitutive modeling, data visualization",1,3,0,0
+Julia",Oak Ridge National Lab,zhangc@ornl.gov,"Neutron diffraction, X-ray diffraction, constitutive modeling, data visualization",0,3,1,1
 MarDiehl,"Fortran
 Python",,"KU Leuven, Department of Materials Engineering and Department of Computer Science",martin.diehl@kuleuven.be,"Materials Science
 Computational Mechanics",0,0,0,0
@@ -7076,7 +7076,7 @@ CSS",Java,"Institute for Auditory Neuroscience, Goettingen, Germany",lukasz.jabl
 Auditory Neuroscience
 Neuroengineering",0,0,0,0
 ptiede,Julia,"Python, C++",Center for Astrophysics | Harvard & Smithsonian,paul.tiede@cfa.harvard.edu,"Astrostatistics, Gravity, Radio Astronomy, Astro software",0,0,0,0
-Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,1
+Onoddil,"Python, fortran",,University of Exeter,onoddil@pm.me,"Photometry, astrometry, young star formation, statistics",0,1,1,0
 fdf,ffff,fffffeee,fdfsdf,sdsds@sfsdf.lf,efdcfd,0,0,0,0
 ali,python,python,physicsteacher56,physicsteacher56@gmail.com,,0,0,0,0
 thegargiulian,R,,"HRDAG, University of Oxford",maria.gargiulo@nuffield.ox.ac.uk,"missing data, tidyverse, data analysis",0,0,0,0
@@ -7400,3 +7400,15 @@ Thfriedrich,"C++, Matlab, Python",,University of Antwerp,thomas.friedrich87@outl
 jeremylt,"Rust, C, Julia, Python",Fortran,CU Boulder,jeremy@jeremylt.org,"HPC, finite elements",1,1,0,0
 StevenClontz,"Python, JavaScript, Ruby",,University of South Alabama,sclontz@southalabama.edu,Mathematics,0,0,0,0
 lparsons,"Python, R",Perl,Princeton University,lparsons@princeton.edu,"Bioinformatics, workflows"
+https://github.com/ranzhengcode,"C/C++
+MATLAB/GNU Octave
+Python
+Fortran
+R","Java
+C#",Harbin Institute of Technology,ranzheng@outlook.com,"Materials Science
+Physics
+Mathematics
+Data Analysis and Visualization
+Molecular Dynamics
+First Principle Calculation"
+AP6YC,"Julia, Python, MATLAB","C, C++, C#",Missouri University of Science and Technology,sap625@mst.edu,"Machine learning, deep learning, clustering"
