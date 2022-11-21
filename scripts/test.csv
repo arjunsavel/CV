@@ -117,7 +117,7 @@ nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
 machine learning applied to astronomy",0,1,0,0
-stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,7,1,0
+stuartcampbell,"Python, C/C++, bash/scripting","Fortran, Java ",Brookhaven National Laboratory,scampbell@bnl.gov,"Neutron scattering, x-ray techniques, Condensed matter physics",0,7,0,0
 ThomasA,Python,Matlab,Aalborg University,tha@es.aau.dk,"Signal processing, image processing, compressed sensing, signal/image reconstruction",0,2,0,0
 dhhagan,python,"julia, R, c++",MIT,dhagan@mit.edu,"Atmospheric Science, ML",0,4,0,0
 biswapriyamisra,R,,Texas Biomedical Research Institute,bbmisraccb@gmail.com,"Metabolomics, LC-MS, GC-MS, mass spectrometry, pathways, networks",0,1,0,0
@@ -332,7 +332,7 @@ Python
 Lisp
 Go","C++
 Smalltalk",Los Alamos National Laboratory,mark@galassi.org,"Physics
-Software Engineering",0,1,1,0
+Software Engineering",0,1,0,0
 tomsing1,R,,Denali Therapeutics,sandmann.t@gmail.com,"Biology, genetics, science, teaching",1,6,1,0
 Fusionet24 ,R,"C#,python",Data scientist ,fusionet24@hotmail.com,"Data science, education ",0,0,0,0
 corybrunson,R,,University of Connecticut,cornelioid@gmail.com,"packages
@@ -369,7 +369,7 @@ pdebuyl,"Python
 Fortran","C
 Bash",KU Leuven,pierre.debuyl@kuleuven.be,"Physics
 Stochastic Dynamics
-Numerical simulations",0,2,1,0
+Numerical simulations",0,2,0,0
 sctyner,R,,CSAFE / Iowa State University,sctyner@iastate.edu,"graphics / data viz, anything statistics",0,1,0,0
 conradstack,R,"python
 bash","Mars, Incorporated",conrad.stack@gmail.com,"bioinformatics
@@ -1508,7 +1508,7 @@ C++
 Arduino",,University of Wisconsin–Madison,sunden@wisc.edu,"Chemistry
 Instrumentation
 Spectroscopy
-",0,1,1,0
+",0,1,0,0
 steven-murray,"Python
 ","Fortran90, C",Arizona State University,steven.g.murray@asu.edu,"Astrophysics, mathematical techniques",0,1,0,0
 dsurujon,"python
@@ -7416,3 +7416,4 @@ gsapijaszko,"R
 C++",,,grzegorz@sapijaszko.net,spatial analysis/GIS/,0,0,0,0
 takdavid,Python,"Javascript, Perl, PHP, SQL","Research Institute for Linguistics, Budapest, Hungary",takdavid@gmail.com,Linguistics; DevOps; Infrastructure-as-code; web programming,0,0,0,0
 divya2661,JAVA,"Scala, Go",,divn2661@gmail.com,"Distributed Systems, Feature Store"
+@ExtremOPS,Python,,ETH Zurich,c.goering@gmx.ch,Mechanical Engineering
