@@ -112,7 +112,7 @@ Python
 CUDA
 MATLAB","Julia
 Mathematica",Lawrence Berkeley National Labs,loriordan@lbl.gov,"Quantum dynamics PDE (Schrodinger, Gross-Pitaevskii, etc.)
-Accelerator numerics (GPU, KNL)",0,3,1,1
+Accelerator numerics (GPU, KNL)",0,3,1,0
 nilesh-patil,"python
 R",,University of Rochester,nilesh.patil@rochester.edu,"deep learning
 machine learning
@@ -4732,7 +4732,7 @@ damienmarsic,Python,,Porton Biologics,damien.marsic@gmail.com,Bioinformatics,0,0
 abb58,"C/C++
 CUDA","Python
 SYCL
-OpenCL",Argonne National Laboratory,abhishekbagusetty@gmail.com,"Heterogeneous Computing, Molecular Dynamics,High Performance Computing",0,1,1,1
+OpenCL",Argonne National Laboratory,abhishekbagusetty@gmail.com,"Heterogeneous Computing, Molecular Dynamics,High Performance Computing",0,1,1,0
 richford,Python,Javascript (BootstrapVue),University of Washington,richiehalford@gmail.com,"Neuroimaging
 Machine Learning
 Citizen Science",0,0,0,0
@@ -5541,7 +5541,7 @@ Python",Université de Montréal,timothee.poisot@umontreal.ca,"ecology
 graph theory
 machine learning
 epidemiology
-computational biology",0,2,1,1
+computational biology",0,2,1,0
 michaeltouati,"Fortran, Python, C, C++","Java, Cuda",CLPU,michaelj.touati@gmail.com,"Plasma Physics, Astrophysics, Laser-Plasma Interaction",0,0,0,0
 Rob-luke,"Python, Julia",Matlab,Macquarie University,robert.luke@mq.edu.au,"Neuroimaging, auditory science and signal processing",0,0,0,0
 Metafrancois,R,,University of Liège,francois.leonard@uliege.be,"methodology, statistics, meta-research, statistical power, behavioral neurosciences, psychology, psychopharmacology",0,0,0,0
@@ -6395,7 +6395,7 @@ differential equations
 probabilistic machine learning
 statistics",0,1,0,0
 mrbuche,Python,,Sandia National Laboratories,mrbuche@sandia.gov,"mechanics, statistical mechanics, thermodynamics, solid mechanics, constitutive theory, continuum mechanics, mathematics, differential equations, polymers, applied math, dynamics, mechanical engineering",0,0,0,0
-Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",0,1,1,1
+Zitzeronion,Julia,"C++, Python",Roskilde University,zitz@ruc.dk,"Computational fluid dynamics, Data analysis",0,1,1,0
 davidegraff,Python,,Harvard CCB / MIT ChemE,deg711@g.harvard.edu,"computational biology
 comp chemistry",0,1,1,0
 hvoltbb,"R, python, c++",C,Virginia Tech,eidotog@gmail.com,"Ecology, biology, fishery, conservation",0,0,0,0
@@ -7415,5 +7415,7 @@ AP6YC,"Julia, Python, MATLAB","C, C++, C#",Missouri University of Science and Te
 gsapijaszko,"R
 C++",,,grzegorz@sapijaszko.net,spatial analysis/GIS/,0,0,0,0
 takdavid,Python,"Javascript, Perl, PHP, SQL","Research Institute for Linguistics, Budapest, Hungary",takdavid@gmail.com,Linguistics; DevOps; Infrastructure-as-code; web programming,0,0,0,0
-divya2661,JAVA,"Scala, Go",,divn2661@gmail.com,"Distributed Systems, Feature Store"
+divya2661,JAVA,"Scala, Go",,divn2661@gmail.com,"Distributed Systems, Feature Store",0,0,0,0
 @ExtremOPS,Python,,ETH Zurich,c.goering@gmx.ch,Mechanical Engineering
+versatran01,"C++, Python",,"Skydio,  Inc.",versatran01@gmail.com,"robotics, computer vision, SLAM"
+@hewei8622,"python, matlab",C++,King's College London,wei.4.he@kcl.ac.uk,"energy storage, energy system, energy-water nexus"
