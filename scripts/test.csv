@@ -4,7 +4,7 @@ tacaswell,Python,C++,,,"Plotting in Python, soft matter physics, xray science",0
 desilinguist,Python,"R, JavaScript",,,"Natural language processing, machine learning, scientific computing, information visualization, plotting",0,7,0,0
 wrathematics,R,C/C++,,,"High performance computing, linear algebra, statistics",0,4,0,0
 Mankoff,Python,"Cctave, IDL, ORG",,,"earth science, cryosphere",0,0,0,0
-amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",0,14,0,0
+amoeba,R,"Python, Ruby",,,"Ecology, stats, viz, systems",1,15,0,0
 jordigh,C++,"C, Matlab, Python, Octave, ",,,"Mathematics, numerical analysis, statistics",0,3,0,0
 nicoguaro,Python,"MATLAB, Fortran",,,"Physics, Math",2,13,2,1
 hausen,C/C++,"Java, Python",,,"Algorithms, combinatorics, graphs",0,2,0,0
@@ -431,7 +431,7 @@ Computational biology
 Sequence analysis
 Genome analysis
 Evolution
-Ecology",0,5,1,0
+Ecology",1,6,1,0
 hainesr,"Ruby
 Java
 C
@@ -881,7 +881,7 @@ Mixed Models
 Bayesian Inference
 Functional Data Analysis
 Dimension Reduction Methods
-Spatial Data Analysis",0,5,0,0
+Spatial Data Analysis",1,6,0,0
 amarkos,R,Matlab,Democritus University of Thrace,amarkos@eled.duth.gr,"Clustering, Dimensionality reducation",0,0,0,0
 sjvrijn,Python,"C
 Java
@@ -890,7 +890,7 @@ Optimization
 Data Science
 Machine Learning",0,4,1,1
 lucask07,"Python
-MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",2,5,0,0
+MATLAB",,University of St. Thomas,koerner.lucas@stthomas.edu,"instrument control, (possibly) image analysis, experiment data analysis (physics or EE based)",1,5,0,0
 dirmeier,"R, Python, C++",Java,ETH Zurich,simon.dirmeier@gmx.de,"Computer Science, Statistics, Machine Learning, Computational Biology, Bioinformatics",0,5,1,0
 steven-murray,Python,Fortran,Curtin University,steven.murray@curtin.edu.au,Astronomy,0,1,0,0
 kbarnhart,python,R,University of Colorado at Boulder,barnhark@colorado.edu,"geomorphology
@@ -4557,7 +4557,7 @@ Data Science
 Machine Learning
 Logic Programming
 Computers in Art, Design, and Music",0,3,1,0
-jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",1,1,0,0
+jodemaey,"Python, Fortran",,Royal Meteorological Institute of Belgium,jodemaey@meteo.be,"Physics, nonlinear sciences, climate sciences, meteorology, statistical mechanics, fluid dynamics, sensor models.",0,1,0,0
 glyg,Python,,CENTURI - Aix-Marseille University,guillaume@damcb.com,"biophysics, physical biology, bioimage analysis",0,0,0,0
 andrewryh/,"Python
 C++",Fortran,Argonne National Laboratory,arykhlevskii@anl.gov,Scientific software for nuclear or mechanical engineering,0,0,0,0
@@ -5218,7 +5218,7 @@ MatLab","C++
 Julia",European Spallation Source ERIC,benjaminbolling@icloud.com,"General physics and mathematics
 Various algorithms",0,0,0,0
 peterakirk,"Python, R, MATLAB",Bash,"Institute of Cognitive Neuroscience, University College London",p.kirk@ucl.ac.uk,"fMRI, neuroimaging, psychophysiology, respiration, heart rate variability",0,0,0,0
-balos1,"C, C++",Python,Lawrence Livermore National Laboratory,balos1@llnl.gov,Mathematical software,1,1,0,0
+balos1,"C, C++",Python,Lawrence Livermore National Laboratory,balos1@llnl.gov,Mathematical software,0,1,0,0
 ricardogando,python,,Observatorio Nacional,ogando@on.br,"astronomy
 astrophysics",0,0,0,0
 amygalanter,"Python
@@ -6238,7 +6238,7 @@ vjbytes102,Python,"Matlab, R",Sage Bionetworks,vy386@nyu.edu,"Data Science, Mach
 nick-gorman,"Python
 R",,"School of Photovoltaics and Renewable Energy Engineering, University of New South Wales",n.gorman305@gmail.com,"Energy System Modelling
 Energy Market Modelling
-Energy System Data Analysis",0,1,1,1
+Energy System Data Analysis",0,1,1,0
 BenjMy,Python,,UNIPD,benjamin.mary@unipd.it,Geosciences,0,0,0,0
 Kraks,"Scala
 Haskell
@@ -6357,7 +6357,7 @@ C++
 Matlab/Octave",Fortran,United States Army Corp of Engineers (formerly),judacha@gmail.com,Lidar,0,0,0,0
 frydaydeep,Julia,,8615640960524,frydaydeep@gmail.com,Computational Mechanics,0,0,0,0
 stmcg,R,,"Department of Biostatistics, Harvard University",sean_mcgrath@g.harvard.edu,"Biostatistics, epidemiology, causal inference, machine learning",0,1,1,0
-MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,0,1,1,1
+MoLi7,"R, Python",,General Dynamics Information Technology Inc.,mo.vico.li@gmail.com,environmental modeling,0,1,1,0
 ccamara,R,,University of Warwick,ccamara@pm.me,"data, spatial data, visualisation, maps, networks",0,0,0,0
 tschwinge,"C
 C++
@@ -7419,11 +7419,11 @@ divya2661,JAVA,"Scala, Go",,divn2661@gmail.com,"Distributed Systems, Feature Sto
 ExtremOPS,Python,,ETH Zurich,c.goering@gmx.ch,Mechanical Engineering,0,0,0,0
 versatran01,"C++, Python",,"Skydio,  Inc.",versatran01@gmail.com,"robotics, computer vision, SLAM",0,0,0,0
 hewei8622,"python, matlab",C++,King's College London,wei.4.he@kcl.ac.uk,"energy storage, energy system, energy-water nexus",0,0,0,0
-dleske,"C, C++, Python, Go, Bourne-type shells (not really preferred but sometimes it's the most appropriate option)",Perl,University of Victoria,dleske@uvic.ca,"General libraries, research delivery software (like for portals)--not analysis software for specific disciplines (I am a research software developer, not a scientist; I have a BSc in CSc, not a PhD in genomics)"
-cauliyang,"C++, Rust, Python",C,Northwestern University,yangyang.li@northwestern.edu,Bioinformatics
-markhahn,"Python, C",Perl,McMaster University,mark.c.hahn@gmail.com,"HPC, scheduling, performance, systems"
-jarry7,"Python, Julia",MATLAB,NREL,jarry7@gmail.com,Energu
-zhangjy-ge,python,"C/C++, MATLAB",General Electric,jiayong.zhang@ge.com,"X-ray imaging, tomography, machine learning"
+dleske,"C, C++, Python, Go, Bourne-type shells (not really preferred but sometimes it's the most appropriate option)",Perl,University of Victoria,dleske@uvic.ca,"General libraries, research delivery software (like for portals)--not analysis software for specific disciplines (I am a research software developer, not a scientist; I have a BSc in CSc, not a PhD in genomics)",0,0,0,0
+cauliyang,"C++, Rust, Python",C,Northwestern University,yangyang.li@northwestern.edu,Bioinformatics,0,0,0,0
+markhahn,"Python, C",Perl,McMaster University,mark.c.hahn@gmail.com,"HPC, scheduling, performance, systems",0,0,0,0
+jarry7,"Python, Julia",MATLAB,NREL,jarry7@gmail.com,Energu,0,0,0,0
+zhangjy-ge,python,"C/C++, MATLAB",General Electric,jiayong.zhang@ge.com,"X-ray imaging, tomography, machine learning",0,0,0,0
 matthewbeleck,"Java
 Python
 Ruby
@@ -7436,3 +7436,18 @@ Ontologies (OWL)
 API
 Cloud Technologies
 ETL tools"
+https://github.com/bsgalvan,Python,"MATLAB, Bash","Physical Research Laboratory, Navrangpura, Ahmedabad, India",bharathsaiguhan@gmail.com,"Astrophysics, Physics, Astronomy, Data Analysis"
+jlevente,"Python
+R
+JavaScript","PostgreSQL/postgis with Pl/pgsql
+Some bash/shell",Florida International University,ljuhasz@fiu.edu,"geographic information science
+GIS (geographic information systems)
+urban science/planning
+environmental science
+mapping/cartography"
+ppfn,Fortran,C++,"Univ Rennes, CNRS, IPR (Institut de Physique de Rennes) - UMR 6251, F-35000 Rennes, France",benjamin.desrousseaux@univ-rennes1.fr,"Astrophysics
+Astrochemistry
+Molecular Physics"
+amorenobr,"Python, Julia, Fortran",,Universidad Antonio Nariño,alexander.moreno@uan.edu.co,Physics/High Energy Physics
+@xinyiguan,"Python,  Javascript",,DCML EPFL,xinyi.guan@epfl.ch,"music,  cognitive science,  psychology"
+https://github.com/moiren,Python,javascript,Autodesk,ym2429@tc.columbia.edu,"data science, collaboration"
