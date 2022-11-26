@@ -4078,7 +4078,7 @@ pandas
 Project Jupyter
 Materials Science
 Chemical Engineering
-Scientific Software",0,2,1,1
+Scientific Software",0,2,1,0
 billchenxi,"Python, R, C++",JavaScript,,billchenxi@uky.edu,"Machine Learning, Deep Learning, Bioinformatics",0,0,0,0
 OmarShehata,"JavaScript, Python","R, C, C++, Julia, GLSL/HLSL/CUDA",,omar.sameh.shehat@gmail.com,"Statistics, geological modelling, climate modelling, mathematics",0,0,0,0
 markziemann,"R
@@ -4834,7 +4834,7 @@ R",Lawrence Berkeley National Laboratory,iozgen@lbl.gov,"Fluid mechanics
 Hydrology",0,0,0,0
 ismailguzel,Python and R,Julia,Istanbul Technical University,iguzel@itu.edu.tr,Topological Data Analysis and Time Series,0,1,1,1
 matthewfeickert,"Python
-C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,4,2,1
+C++",,University of Illinois at Urbana-Champaign,mfeickert@gmail.com,"physics, particle physics, high energy physics",1,4,2,0
 asntech,"Python, R, PHP",,Stanford University,azizk@stanford.edu,"bioinformatics, web interfaces, application programming interfaces, open science",0,0,0,0
 ChristopherHaydenTodd,Python,"C++, Java, Golang, Rust, JavaScript/Node.js, Perl",Two Six Labs,Christopher.Hayden.Todd@gmail.com,"software architecture, software engineering, data science, data engineering, testing (unit/integration), reproducibility, infrastructure, OOP, functional programming, UI/UX, database architecture, API specification, RESTful APIs",0,0,0,0
 FedericoComoglio,R,python,,federico.comoglio@gmail.com,"bioinformatics, data science, machine learning",0,1,0,0
@@ -7450,12 +7450,15 @@ Astrochemistry
 Molecular Physics",0,0,0,0
 amorenobr,"Python, Julia, Fortran",,Universidad Antonio Nariño,alexander.moreno@uan.edu.co,Physics/High Energy Physics,0,0,0,0
 xinyiguan,"Python,  Javascript",,DCML EPFL,xinyi.guan@epfl.ch,"music,  cognitive science,  psychology",0,0,0,0
-https://github.com/moiren,Python,javascript,Autodesk,ym2429@tc.columbia.edu,"data science, collaboration"
+moiren,Python,javascript,Autodesk,ym2429@tc.columbia.edu,"data science, collaboration",0,0,0,0
 pnsaevik,python,"java
 matlab
 fortran
 c/c++","Institute of Marine Research, Norway",a5606@hi.no,"mathematics
-oceanography"
-KryptonNerd,"Python, R","C, C++, C#",Swansea University,Rob_Jess@outlook.com,Biomedical Engineering
-nkrusch,"Coq, JavaScript, Python","Kotlin, Java, C, C#",Augusta University,nrusch@augusta.edu,"software engineering tools, verification, static analysis, mechanical proofs, complexity, program analysis"
+oceanography",0,0,0,0
+KryptonNerd,"Python, R","C, C++, C#",Swansea University,Rob_Jess@outlook.com,Biomedical Engineering,0,0,0,0
+nkrusch,"Coq, JavaScript, Python","Kotlin, Java, C, C#",Augusta University,nrusch@augusta.edu,"software engineering tools, verification, static analysis, mechanical proofs, complexity, program analysis",0,0,0,0
 ProfBragin,OPL,Python,"University of California, Riverside",mbragin@engr.ucr.edu,Discrete Optimization
+https://github.com/ajayrawat,"Fortran
+Matlab
+Python",Julia,Indira Gandhi Centre for Atomic Research,ajayrawat@igcar.gov.in,Computational Fluid Dynamics
