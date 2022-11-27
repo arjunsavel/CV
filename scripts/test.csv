@@ -1054,7 +1054,7 @@ Julia","Javascript/typescript
 Matlab",MIT,malmaud@gmail.com,"Machine learning
 Bayesian statistics
 Julia packages
-Physics simulators",1,7,1,0
+Physics simulators",0,7,2,1
 GregaVrbancic,"Python, Java",JavaScript,"University of Maribor, Faculty of Electrical engineering and Computer Science",grega.vrbancic@gmail.com,"Machine learning, Deep learning, Data Mining",0,5,1,0
 jjharden,R,,University of Notre Dame,jeff.harden@nd.edu,"Simulation, statistical models, causal inference",0,2,0,0
 HaoZeke,"C++
@@ -1891,7 +1891,7 @@ C
 Fortran",C++,Imperial College,c.cave-ayland@imperial.ac.uk,"Physical sciences
 Engineering",0,0,0,0
 mdavezac,"Julia, Python, C++","R, C, Fortran",Imperial College London,m.davezac@ic.ac.uk,"Physics, Condensed Matter Physics, Quantum Mechanics, Chemistry, BioPhysics, Applied Mathematics",0,3,1,1
-sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",3,12,2,0
+sara-02,Python,,"Research Associate, IIIT-Delhi",sarahmasud02@gmail.com,"Complex Networks, Recommendation Systems, NLP",2,12,3,1
 gakhov,Python,"PHP, Ada",ferret go GmbH,andrii.gakhov@gmail.com,"Data structures, generic computer science, NLP, ML, mathematical modelling, statistics",0,0,0,0
 StanczakDominik,"Python
 Julia",,University of Warsaw,stanczakdominik@gmail.com,"Numerical simulation
@@ -3926,7 +3926,7 @@ R",bash,,jared.andrews@stjude.org,"Bioinformatics
 Genomics",0,1,0,0
 canerturkmen,Python,R,,turkmen.ac@gmail.com,"Machine learning, data science, statistics",0,0,0,0
 milicag,python,modelica,,mgrahovac@lbl.gov,"energy, engineering, economy, policy",0,0,0,0
-neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",1,3,0,0
+neerajdhanraj,R,Python,,neerajdhanraj@eng.au.dk,"Data science, time series, forecasting, prediction, visualization, data cleaning, optimization, energy",0,3,1,1
 stevemacenski,"C++, Python",C,,stevenmacenski@gmail.com,Robotics,0,0,0,0
 ekaterinailin,Python,,,eilin@aip.de,"Stellar activity, stellar flares, cool stars",0,0,0,0
 shyamd,Python,,,shyamd@lbl.gov,"Material Science
@@ -4409,7 +4409,7 @@ security
 web development
 internet of things",1,3,0,0
 salleuska,R,"C ++, Julia",UC Berkeley,sally.paganin@berkeley.edu,"Statistics, Bayesian modeling, optimization, data visualization",0,1,0,0
-rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,1,3,0,0
+rMassimiliano,R; Julia,Cpp,Harvard Medical School/ Dana-Farber Cancer Institute,m_russo@hms.harvard.edu,Statistics; AI; ML; Bayesian modeling; Data visualization,0,3,1,1
 kullrich,"R
 python",,Max Planck Institute for Evolutionary Biology,ullrich@evolbio.mpg.de,"bioinformatics
 computational biology
@@ -6317,7 +6317,7 @@ shiny
 biostatistics",0,0,0,0
 sdhutchins,"Python, R","PHP, Go",University of Alabama at Birmingham,shutchins@uab.edu,"Genomics, Transcriptomics, RNA-Seq, Metagenomics, Genetics, etc.",0,1,1,1
 ciropom,"python, R, C, bash",java,Fondazione The Microsoft Research - University of Trento Centre for Computational and Systems Biology,danilo.tomasoni@cryptolab.net,"bioinformatics, systems biology",0,0,0,0
-kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",1,1,0,0
+kauedesousa,R,,CGIAR,k.desousa@cgiar.org,"Environmental Sciences, Reproducibility, Agricultural Sciences, Spatial Analysis",0,1,1,1
 vaniisgh,"Python, Go, C++",Java,,vanisingh@live.co.uk,"Bioinformatics, Computer Science",1,1,0,0
 dgtlmoon,"Python, PHP",C,,leigh@morresi.net,anything :),0,0,0,0
 jaybee84,"R
@@ -7458,7 +7458,8 @@ c/c++","Institute of Marine Research, Norway",a5606@hi.no,"mathematics
 oceanography",0,0,0,0
 KryptonNerd,"Python, R","C, C++, C#",Swansea University,Rob_Jess@outlook.com,Biomedical Engineering,0,0,0,0
 nkrusch,"Coq, JavaScript, Python","Kotlin, Java, C, C#",Augusta University,nrusch@augusta.edu,"software engineering tools, verification, static analysis, mechanical proofs, complexity, program analysis",0,0,0,0
-ProfBragin,OPL,Python,"University of California, Riverside",mbragin@engr.ucr.edu,Discrete Optimization
+ProfBragin,OPL,Python,"University of California, Riverside",mbragin@engr.ucr.edu,Discrete Optimization,0,0,0,0
 https://github.com/ajayrawat,"Fortran
 Matlab
 Python",Julia,Indira Gandhi Centre for Atomic Research,ajayrawat@igcar.gov.in,Computational Fluid Dynamics
+frangio68,C++,C,"Dipartimento di Informatica, Università di Pisa",frangio@di.unipi.it,"optimization algorithms, modelling systems"
