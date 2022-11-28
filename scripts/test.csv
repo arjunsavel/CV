@@ -1686,7 +1686,7 @@ Computational Fluid Dynamics
 Fluid-Structure Interaction
 Structural Dynamics",1,9,1,1
 kvnamipara,Python,"C, Matlab","Software Engineer @Rippling, Coauthor of Data Retriever",kvnamipara@gmail.com,"Data Wrangling, Data science, Python libraries",0,0,0,0
-TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,4,2,1
+TomDonoghue,Python,,"University of California, San Diego",tdonoghue.research@gmail.com,"cognitive and computational neuroscience, electrophysiology, digital signal processing, behavioural tasks, data analysis",0,4,2,0
 shreyasbapat,"Python
 JavaScript
 Rust
@@ -4017,7 +4017,7 @@ Statistics only when very rudimentary/applied (i.e. I'm not skilled at mathemati
 ginettelafit,R,,,ginette.lafit@kuleuven.be,"Gaussian Graphical Models, l1 regularization, mixed effect models",0,0,0,0
 ginettelafit,R,,,ginettelafit@kuleuven.be,"Gaussian Graphical Models, l1 regularization, mixed effect models",0,0,0,0
 luketudge,"Python, R",linux shell?,,luketudge@gmail.com,"psychophysics, vision",0,0,0,0
-gagolews,"Python, R, C++","Cython, Julia, LaTeX",,m.gagolewski@deakin.edu.au,"Machine Learning, Clustering, Aggregation, Statistics, Fuzzy, Sports, Informetrics, Bibliometrics",0,2,1,1
+gagolews,"Python, R, C++","Cython, Julia, LaTeX",,m.gagolewski@deakin.edu.au,"Machine Learning, Clustering, Aggregation, Statistics, Fuzzy, Sports, Informetrics, Bibliometrics",0,2,1,0
 mamunm,Python,"Julia, java, fortran",,mamun.che06@gmail.com,"Computational chemistry, materials science",0,0,0,0
 Hedrick-ARS,Python,"Matlab
 C",,andrew.hedrick@usda.gov,"Hydrology
@@ -5149,7 +5149,7 @@ open science
 - version control",1,3,2,0
 aazuspan,Python,,ORISE,aa.zuspan@gmail.com,"Remote Sensing, spatial analysis, Google Earth Engine",0,0,0,0
 JostMigenda,Python,,King’s College London,jost.migenda@kcl.ac.uk,"Astrophysics
-Particle physics",0,1,0,0
+Particle physics",1,2,0,0
 tijeco,"Python,go,R","Julia,java,c,c++",Postdoctoral fellow,coleti16@students.ecu.edu,"Deep Learning, bioinformatics, protein structure, evolution, molecular evolution, computational biology",0,3,3,2
 HTian1997,Python3,Java,Southern Methodist University,haot@smu.edu,Computational Biology,0,0,0,0
 kapsakcj,"bash, python, perl,",,Theiagen Genomics,kapsakcj@gmail.com,"Bioinformatics, Microbial/pathogen genomics, Public Health, Genomic Epidemiology",0,1,0,0
@@ -5367,7 +5367,7 @@ alexamici,Python,,B-Open,alexamici@gmail.com,"Remote sensing
 Climate / Weather",0,0,0,0
 dilawar,"C,C++, Python, PHP, Haskell","Rust, Nim, Verilog, VHDL, Java",Subconscious Compute Pvt. Ltd.,dilawar.s.rajput@gmail.com,"System Biology, Electrical Engineering, Computer Science, Neuroscience",0,3,1,0
 jGaboardi,Python,,Penn State University,jgaboardi@gmail.com,"Spatial Analysis
-Network Analysis",0,2,2,1
+Network Analysis",0,2,2,0
 crhea93,"Python, C++",Javascript,Université de Montréal,carter.rhea@umontreal.ca,"Astronomy, 
 Machine Learning",0,3,1,0
 dbarneche,R,,Australian Institute of Marine Science,d.barneche@aims.gov.au,"Ecology, Statistics",0,0,0,0
@@ -6207,7 +6207,7 @@ Fortran",0,0,0,0
 ingeborggjerde,Python,,Simula Research Laboratory,ingeborg@simula.no,"Finite element methods, PDEs",0,0,0,0
 jwirsich,"Matlab, Java, Python","C++, Groovy, Javascript",University of Geneva,jonathan.wirsich@unige.ch,"Neuroscience, Neuroimaging",0,0,0,0
 hemmelig,Python (3) with C extensions,,University of Cambridge,conor.bacon@gmail.com,"Computational geosciences (e.g. seismology, waveform simulation, geochemical analyses)
-Signal processing",0,1,1,1
+Signal processing",0,1,1,0
 KonradHoeffner,Rust,"Python
 JavaScript
 Java",Leipzig University,konrad.hoeffner@uni-leipzig.de,"Semantic Web
@@ -6467,7 +6467,7 @@ stevokeyo,Python: R,Perl; Command line,Kenya medical research Institute,stepheno
 Reproducibility
 RNA-Seq
 Bioinformatics pipeline",0,0,0,0
-Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,6,4,2
+Athene-ai,"R, Python",Julia,University of Studies Gabriele d'Annunzio Chieti-Pescara,danielacialfi@gmail.com,"data science .Computer Science, Information Science , Computational Mechanics,Open Source Software,Mathematics, Social Sciences, Economics, statistics,Stochastic simulations, statistical physics,machine learning, geographic data science, spatial analysis, probabilistic programming, Game Theory,  Social Dynamics,computational cognitive modelling, cognitive science, cognitive neuroscience, Stochastic processes,PDEs, neurosciences,non-linear dynamics/dynamical systems,Regression Models",2,6,4,1
 fredstro,Python,,University of Nottingham,fredrik.stromberg@nottingham.ac.uk,Mathematics,0,0,0,0
 andres-patrignani,"Matlab
 Python",,Kansas State University,andrespatrignani@ksu.edu,"Hydrology, Earth Sciences, Agriculture",0,0,0,0
@@ -6545,7 +6545,7 @@ Poonamgargagrwl,"Java , golang , groovy , gradle , spring boot , python , html",
 zhenwu0728,Julia,Python,Massachusetts Institute of Technology,zhenwu@mit.edu,"oceanography
 individual-based modeling
 agent-based modeling",0,1,1,0
-hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",0,1,1,1
+hvgazula,"Python, MATLAB",MATLAB,Massachusetts General Hospital/Harvard Medical School,hvgazula@umich.edu,"Deep Learning, Machine Learning, Neuroinformatics, Neuroimaging",0,1,1,0
 Dom-Owens-UoB,"R
 Julia",,University of Bristol,dom.owens@bristol.ac.uk,Statistics,0,0,0,0
 bioedd,"Python
@@ -6611,7 +6611,7 @@ mukeshdroid,"python
 c++
 c",,Kathmandu University,mukeshtiwari200102@gmail.com,"Mathematics
 Physics",0,0,0,0
-hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging",0,1,1,1
+hvgazula,"Python, MATLAB",,Harvard Medical School/Mass General Hospital,hvgazula@umich.edu,"Machine Learning, Deep Learning, Neuroimaging",0,1,1,0
 sanjayankur31,"Python
 C/C++
 Bash
@@ -7459,7 +7459,14 @@ oceanography",0,0,0,0
 KryptonNerd,"Python, R","C, C++, C#",Swansea University,Rob_Jess@outlook.com,Biomedical Engineering,0,0,0,0
 nkrusch,"Coq, JavaScript, Python","Kotlin, Java, C, C#",Augusta University,nrusch@augusta.edu,"software engineering tools, verification, static analysis, mechanical proofs, complexity, program analysis",0,0,0,0
 ProfBragin,OPL,Python,"University of California, Riverside",mbragin@engr.ucr.edu,Discrete Optimization,0,0,0,0
-https://github.com/ajayrawat,"Fortran
+ajayrawat,"Fortran
 Matlab
-Python",Julia,Indira Gandhi Centre for Atomic Research,ajayrawat@igcar.gov.in,Computational Fluid Dynamics
+Python",Julia,Indira Gandhi Centre for Atomic Research,ajayrawat@igcar.gov.in,Computational Fluid Dynamics,0,0,0,0
 frangio68,C++,C,"Dipartimento di Informatica, Università di Pisa",frangio@di.unipi.it,"optimization algorithms, modelling systems"
+canimus,python,ruby,Independent Researcher,canimus@gmail.com,"data engineering
+data quality
+machine learning
+data operations
+pyspark
+bioinformatics
+bigdata"
