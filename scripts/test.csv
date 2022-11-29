@@ -3865,7 +3865,7 @@ Guile",,taw-joss@bitwiz.me.uk,"Diffraction
 Crystallography
 Free-electron lasers
 Synchrotron radiation
-X-rays",1,1,0,0
+X-rays",0,1,1,1
 yguitton,"French, English","R, VBA",,yann.guitton@oniris-nantes.fr,"Metabolomics, Mass Spectrometry, Chemistry",0,1,1,0
 mashuo10,Matlab,,,mashuo@zju.edu.cn,"Tensegrity, FEM, dynamics",0,0,0,0
 marcoapintoo/,"C, Java, Python, R","C++, C#, D, Haskell",,pinto.marco@live.com,"Signal processing, and machine learning.",0,0,0,0
@@ -4766,7 +4766,7 @@ stemangiola,R,none,WEHI,mangiola.s@wehi.edu.au,"Biostatistics
 Bioinformatics
 Cancer biology
 transcriptomics
-tidyverse",0,1,1,0
+tidyverse",0,1,0,0
 sea-bass,"Python
 MATLAB
 C++",,Massachusetts Institute of Technology,sebas.a.castro@gmail.com,"Robotics
@@ -4779,7 +4779,7 @@ Control Systems",0,1,1,0
 stemangiola,R,none,WEHI,mangiolastefano@gmail.com,"Bioinformatics
 Biostatistics
 Visualisation
-Tidyverse",0,1,1,0
+Tidyverse",0,1,0,0
 xuyxu,"Python
 Matlab","C++
 Cython",Nanjing University,xuyx@lamda.nju.edu.cn,"Machine Learning
@@ -5132,7 +5132,7 @@ Clustering",0,3,1,0
 apizzuto,Python,,University of Wisconsin-Madison,alex.j.pizzuto@gmail.com,"Physics
 Particle physics
 Astrophysics
-Statistics",0,1,1,0
+Statistics",0,1,0,0
 RohitRathore1,"Julia, c/c++, Python",JavaScript,"Master's Student in Mathematics & Computing at Birla Institute of Technology, Mesra",rohitrathore.imh55@gmail.com,"Data Science & Machine Learning, Software Engineering",0,0,0,0
 sbozzolo,"Python, C, Emacs Lisp, LaTeX",Bash,"Department of Astronomy, The University of Arizona",gabrielebozzola@email.arizona.edu,"Numerical Relativity, Gravitational-Wave Astronomy, Ecosystem/Infrastructure Tools",0,1,1,0
 aaronpeikert,"R
@@ -6961,7 +6961,7 @@ C/C++","Javascript/Typescript
 Dart
 Java",University of Western Australia,nicholas.pritchard@uwa.edu.au,"High Performance Computing
 Astronomy (Radio)
-Computational workflow management systems",1,2,1,1
+Computational workflow management systems",1,2,1,0
 GeekLogan,"Python
 C++",,University of Michigan,loganaw@umich.edu,"Neuroscience
 Genetics
@@ -6988,7 +6988,7 @@ Artificial Intelligence
 Reproducible Science
 Systems biology",0,0,0,0
 epspebble,"Python, MATLAB","Julia, Fortran","Trinity Western University, Canada",simon.tse@twu.ca,"Pattern Formation, Differential Equations Solvers, Continuation of Solutions, Bifurcation Diagram Computations",0,0,0,0
-xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",1,3,2,2
+xtruan,"JavaScript, Python, Java","C++, Go",National Renewable Energy Lab,struan.clark@nrel.gov,"Software Engineering, Data Analytics",1,3,2,1
 vijaymocherla,"Python
 C
 C++
@@ -7462,7 +7462,7 @@ ProfBragin,OPL,Python,"University of California, Riverside",mbragin@engr.ucr.edu
 ajayrawat,"Fortran
 Matlab
 Python",Julia,Indira Gandhi Centre for Atomic Research,ajayrawat@igcar.gov.in,Computational Fluid Dynamics,0,0,0,0
-frangio68,C++,C,"Dipartimento di Informatica, Università di Pisa",frangio@di.unipi.it,"optimization algorithms, modelling systems"
+frangio68,C++,C,"Dipartimento di Informatica, Università di Pisa",frangio@di.unipi.it,"optimization algorithms, modelling systems",0,0,0,0
 canimus,python,ruby,Independent Researcher,canimus@gmail.com,"data engineering
 data quality
 machine learning
@@ -7470,3 +7470,11 @@ data operations
 pyspark
 bioinformatics
 bigdata"
+nilzon123,Python,R,Researcher,nilzon.aguirrev@gmail.com,Geoscience
+marcoghislieri,"Matlab
+R
+Python",,"Politecnico di Torino, Department of Electronics and Telecommunications",marco.ghislieri@polito.it,"Motion analysis
+Gait
+EMG
+Muscle synergies
+ANN"
