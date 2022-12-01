@@ -2414,7 +2414,7 @@ Rust","C
 Nix",,aj@amanjeev.com,"System, Web",0,0,0,0
 fretchen,python,,Universität Heidelberg,fnj@kip.uni-heidelberg.de,physics,0,0,0,0
 jsheunis,"Matlab, Python",N/a,Eindhoven University of Technology,jsheunis@gmail.com,Neuroinformatics. fMRI data analysis. Data quality control.,0,1,1,0
-TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,3,1,0
+TomGoffrey,"Fortran, Python","C, C++",University of Warwick,t.goffrey.1@warwick.ac.uk,"Astrophysics (my main area of expertise is in stellar physics, but I also have some background in planetary physics), plasma physics, hydrodynamics (shock capturing and modelling in particular), magnetohydrodynamics (I have worked a lot on non-ideal MHD in particular), radiation transport, (large )linear systems, time-integration methods, finite volume methods, arbitrary/Lagrangian meshes, multi-material flow.",0,3,0,0
 zpace,python,,University of Wisconsin-Madison,zpace@astro.wisc.edu,"Astronomy/astrophysics: spectroscopy, stellar populations, galaxies, HII regions, chemical evolution",0,2,0,0
 craddm,R,Matlab,"University of Lincoln, UK",mcraddock@lincoln.ac.uk,"psychology
 cognitive neuroscience
@@ -2730,7 +2730,7 @@ Data mining
 Trajectory inference
 Network inference
 Docker
-tidyverse",2,8,1,0
+tidyverse",1,8,2,1
 akuederle,Python,"Javascript
 Matlab",Machine Learning and Data Analytics Lab  Friedrich-Alexander Universität Erlangen-Nürnberg (FAU),arne.kuederle@fau.de,"Motion Analysis
 IMUs
@@ -3574,7 +3574,7 @@ mberacochea,"python
 cwl
 C#",nextflow,EMBL-EBI,mbc@ebi.ac.uk,"Metagenomics
 Genomics
-Pipelines",1,1,0,0
+Pipelines",0,1,1,1
 kylemath,"python
 matlab",javascript,University of Alberta,kyle.mathewson@ualberta.ca,"signal processing
 3d vis
@@ -5301,7 +5301,7 @@ pipeline management
 singularity
 dimensionality reduction
 tidyverse
-Rlang",2,8,1,0
+Rlang",1,8,2,1
 tuliofalmeida,Python,"MATLAB, C++/C",Edmond and Lily Safra International Institute of Neuroscience/Santos Dumont Institute,tuliofalmeida@hotmail.com,"Micro controllers, Neuroscience, Deep Learning,  Human Kinematics, Inertial Measure Unit, 3D printing, Biomechanics",0,4,4,2
 xiaowuc2,"Python, C",Matlab,Computer Science Undergraduate Student(3rd Year),rohitmandal814566@gmail.com,"Machine Learning, Artificial Intelligence, Python, Mathematics, Computer Vision",0,0,0,0
 FranciscoReveriano,Python,C++,Duke University,Francisco.Reveriano@duke.edu,"Deep Learning
@@ -6293,7 +6293,7 @@ C++","java
 php",computer science,bencheikh.lehocine.am@gmail.com,"machine learning 
 deeplearning
 data science",0,0,0,0
-hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science",1,1,0,0
+hseabolt,"Perl, Bash, R, Python, Nextflow","Ruby, SQL + variants",Leidos Inc,ngr8@cdc.gov,"Bioinformatics, mathematical biology, computational biology, genomics, phylogenetics, reproducible science",0,1,1,1
 douweschulte,"Rust
 C#",Python,Utrecht University,d.schulte@uu.nl,Life Sciences,0,0,0,0
 nschawor,python,matlab,Ernst Strüngmann Institute for Neuroscience,natalie.schaworonkow@esi-frankfurt.de,"electroencephalography analysis
@@ -7477,5 +7477,5 @@ Python",,"Politecnico di Torino, Department of Electronics and Telecommunication
 Gait
 EMG
 Muscle synergies
-ANN"
+ANN",0,0,0,0
 Robaina,Python,"Javascript,  R",University of La Laguna,srobaina@ull.edu.es,"Bioinformatics, Computational Biology,  Metagenomics, Metabolic Modeling"
