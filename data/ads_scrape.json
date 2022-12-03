@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": "2212.00641",
+    "authors": [
+      "Savel, Arjun B.",
+      "Hirsch, Lea A.",
+      "Gill, Holden",
+      "Dressing, Courtney D.",
+      "Ciardi, David R."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-12-00",
+    "title": "SImMER: A Pipeline for Reducing and Analyzing Images of Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221200641S",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2210.08996",
     "authors": [
       "Lillo-Box, J.",
