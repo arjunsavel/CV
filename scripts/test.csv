@@ -814,7 +814,7 @@ hugoribeiro,Python,,,hugodea.ribeiro@gmail.com,,0,0,0,0
 vyasr,"Python
 C++
 C","R
-Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,4,1,0
+Java",University of Michigan,vramasub@umich.edu,"Soft matter physics, high performance computing, machine learning, linear algebra, particle simulation",0,4,0,0
 arosen93,Python,MATLAB,Northwestern University,rosen@u.northwestern.edu,"Computational chemistry, quantum chemistry, thermodynamics and kinetics, chemical engineering",0,3,0,0
 rrrlw,R,"Java, C++","Cleveland Clinic Lerner College of Medicine, Case Western Reserve University",raoul.wadhwa@case.edu,"Medicine/Health
 Biostatistics/Epidemiology
@@ -2327,7 +2327,7 @@ R
 C++",Julia,The Hong Kong University of Science and Technology,jvdmc@connect.ust.hk,"finance
 machine learning
 signal processing
-optimisation",0,2,1,0
+optimisation",0,2,0,0
 johnveitch,"Python, C",,University of Glasgow,john.veitch@glasgow.ac.uk,"Gravitational waves, signal processing, Bayesian inference",0,0,0,0
 liz-is,"R
 Python",,Max Planck Institute for Molecular Biomedicine,liz.ing-simmons@mpi-muenster.mpg.de,"Genomics
@@ -3791,7 +3791,7 @@ chainsawriot,R,"Lisp
 Python",Mannheimer Zentrum für Europäische Sozialforschung,chung-hong.chan@mzes.uni-mannheim.de,"social science
 communication studies
 political science
-digital humanties",0,2,1,0
+digital humanties",0,2,0,0
 reality,"Groovy
 Go
 OWL
@@ -3958,7 +3958,7 @@ Vue",,,jdalzatec@unal.edu.co,"Physics
 Web development
 Numerical methods
 Web scraping
-Linear Algebra",0,1,0,0
+Linear Algebra",1,2,0,0
 JBorrow,"python
 C",,,joshua.borrow@durham.ac.uk,astrophysics,0,1,0,0
 bleyerj,Python,Matlab,,jeremy.bleyer@enpc.fr,"computational mechanics
@@ -5508,7 +5508,7 @@ hknd23,"R
 Python",,Pennsylvania State University,nguyenhuynh831@gmail.com,"Political Science
 Statistics
 Mixture Models
-Spatial Statistics",0,1,1,0
+Spatial Statistics",0,1,0,0
 papachristoumarios,Python,"C++, R, Julia",Cornell University,papachristoumarios@cs.cornell.edu,"Data Science, Statistics, Network Science, Machine Learning, Algorithms",0,2,1,0
 Hosseinsharifii,Python,HTML,"Department of Mechanical Engineering, University of Kentucky",hossein.sharifi@uky.edu,,0,0,0,0
 singhomics,Python,,,jasdeepsingh4326@gmail.com,,0,0,0,0
@@ -5851,7 +5851,7 @@ Scientific Computing
 Numerical Analysis
 Machine Learning",0,0,0,0
 Walelign Tewabe,"PHP, Python",C++,"School of computing, Institute of technology, Debre Markos University, Debre Markos, Ethiopia",waleligntewabe@gmail.com,"NLP, Machine Learning, Software Engineering",0,0,0,0
-htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",0,1,1,0
+htjb,Python,,University of Cambridge,htjb2@cam.ac.uk,"Astrophysics, Statistics, Optimization",0,1,0,0
 arianesasso,Python,,Hasso Plattner Institute,ariane.sasso@gmail.com,"Health Informatics, Medical Informatics, Machine Learning in Healthcare",0,1,1,1
 appukuttan-shailesh,"Python, JavaScript, React","C, C++","Université Paris-Saclay, CNRS, Institut des Neurosciences Paris-Saclay, Saclay, 91400, France",shailesh.appukuttan@cnrs.fr,"Neuroscience, Neuroinformatics",0,0,0,0
 yannikschaelte,python,,University of Bonn,yannik.schaelte@gmail.com,,0,0,0,0
@@ -7447,7 +7447,7 @@ mapping/cartography",0,0,0,0
 ppfn,Fortran,C++,"Univ Rennes, CNRS, IPR (Institut de Physique de Rennes) - UMR 6251, F-35000 Rennes, France",benjamin.desrousseaux@univ-rennes1.fr,"Astrophysics
 Astrochemistry
 Molecular Physics",0,0,0,0
-amorenobr,"Python, Julia, Fortran",,Universidad Antonio Nariño,alexander.moreno@uan.edu.co,Physics/High Energy Physics,0,0,0,0
+amorenobr,"Python, Julia, Fortran",,Universidad Antonio Nariño,alexander.moreno@uan.edu.co,Physics/High Energy Physics,1,1,0,0
 xinyiguan,"Python,  Javascript",,DCML EPFL,xinyi.guan@epfl.ch,"music,  cognitive science,  psychology",0,0,0,0
 moiren,Python,javascript,Autodesk,ym2429@tc.columbia.edu,"data science, collaboration",0,0,0,0
 pnsaevik,python,"java
@@ -7484,9 +7484,13 @@ Actuarial science
 Finance
 Stochastic algorithms",0,0,0,0
 pydemull,R,,IFEPSA,pydemull@uco.fr,"activity monitor data processing
-Shiny apps"
-https://github.com/rmrmg,Python,javascript,Allchemy Inc.,rafal.m.roszak@gmail.com,chemistry
+Shiny apps",0,0,0,0
+rmrmg,Python,javascript,Allchemy Inc.,rafal.m.roszak@gmail.com,chemistry,0,0,0,0
 billbrod,python,,Flatiron Institute,billbrod@gmail.com,"neuroscience
 vision science
-psychology"
-luxaritas,"TypeScript, Python, Go","PHP, JavaScript, Scala, C#, Java",Howard Hughes Medical Institute,jonathan@luxaritas.com,"Development tooling, data structures/protocols, cloud, software engineering and architecture, web development, UI/UX, games, RNA design, citizen science, project management, multimedia production and pipelines, music, collaborative tools"
+psychology",0,0,0,0
+luxaritas,"TypeScript, Python, Go","PHP, JavaScript, Scala, C#, Java",Howard Hughes Medical Institute,jonathan@luxaritas.com,"Development tooling, data structures/protocols, cloud, software engineering and architecture, web development, UI/UX, games, RNA design, citizen science, project management, multimedia production and pipelines, music, collaborative tools",0,0,0,0
+fabbiologia,R,,"Scripps Institution of Oceanography, University of California San Diego",ffavoretto@ucsd.edu,"Ecology
+Fishery
+Conservation"
+jmiszczak,Python,Java,"Institute of Theoretical and Applied Informatics, Polish Academy of Sciences",jarek@miszczak.eu,"quantum computing, agent-based modeling"
