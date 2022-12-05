@@ -241,7 +241,7 @@ amabdallah,"Matlab
 Python",,Utah State University,amabdallah@aggiemail.usu.edu,,0,0,0,0
 IgorBaratta,"Python
 Matlab",C++,Federal University of Minas GeraisIgorBaratta,baratta@ufmg.br,"Computational Electromagnetics
-Finite Element Methods",0,4,0,0
+Finite Element Methods",1,5,0,0
 jakobbossek,R,,"Information Systems and Statistics, University of Münster, Germany",j.bossek@gmail.com,"(combinatorial) optimization, machine learning, viszalization",0,1,0,0
 carlosjoseRG,"ROS
 C/C++",,"Beta Robots, SL",carlos@beta-robots.com,Robotics,0,0,0,0
@@ -7492,5 +7492,12 @@ psychology",0,0,0,0
 luxaritas,"TypeScript, Python, Go","PHP, JavaScript, Scala, C#, Java",Howard Hughes Medical Institute,jonathan@luxaritas.com,"Development tooling, data structures/protocols, cloud, software engineering and architecture, web development, UI/UX, games, RNA design, citizen science, project management, multimedia production and pipelines, music, collaborative tools",0,0,0,0
 fabbiologia,R,,"Scripps Institution of Oceanography, University of California San Diego",ffavoretto@ucsd.edu,"Ecology
 Fishery
-Conservation"
+Conservation",0,0,0,0
 jmiszczak,Python,Java,"Institute of Theoretical and Applied Informatics, Polish Academy of Sciences",jarek@miszczak.eu,"quantum computing, agent-based modeling"
+tukss,"C
+C++
+Fortran
+Python","Julia
+Lua",Los Alamos National Laboratory,philipp@slh-code.org,"(magneto)hydrodynamics
+nuclear reaction networks
+stellar evolution"
