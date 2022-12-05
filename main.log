@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  30 NOV 2022 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  5 DEC 2022 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-10-26>
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -22,12 +22,12 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen140
 ) (./orcidlink.sty
 Package: orcidlink 2021/06/11 v1.0.4 Linked ORCiD logo macro package
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -82,12 +82,12 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count193
 )
-\@linkdim=\dimen139
+\@linkdim=\dimen141
 \Hy@linkcounter=\count194
 \Hy@pagecounter=\count195
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -100,7 +100,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 \Hy@SavedSpaceFactor=\count196
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -110,8 +110,6 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-\stockwidth=\dimen140
-\stockheight=\dimen141
 Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count197
 
@@ -151,7 +149,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -547,7 +545,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks30
 \verbatim@line=\toks31
 \verbatim@in@stream=\read3
@@ -568,8 +566,8 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 (./supp_tex/cvstyle.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
-rs
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip55
 \f@nch@O@elh=\skip56
 \f@nch@O@erh=\skip57
@@ -1116,10 +1114,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 (./supp_tex/pubs_unref.tex)
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 262.
+(Font)              scaled to size 7.68005pt on input line 261.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 262.
- [2] [3]
+(Font)              scaled to size 7.68005pt on input line 261.
+ [2]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 341.
+ [3]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 374.
  [4] (./main.aux)
@@ -1127,13 +1128,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4101B82DEE062AAEF9D0981BC9FD7789;2373.
  ) 
 Here is how much of TeX's memory you used:
- 24507 strings out of 475066
- 448189 string characters out of 5780777
- 760943 words of memory out of 5000000
- 45421 multiletter control sequences out of 15000+600000
- 529787 words of font info for 113 fonts, out of 8000000 for 9000
+ 24518 strings out of 474971
+ 448237 string characters out of 5778125
+ 762947 words of memory out of 5000000
+ 45527 multiletter control sequences out of 15000+600000
+ 531853 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,12n,118p,540b,779s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,12n,118p,540b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}{/opt/texliv
 e/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/opt/texliv
 e/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</opt/texlive/texd
@@ -1145,10 +1146,10 @@ type1/public/mathdesign/mdbch/md-chb8t.pfb></opt/texlive/texdir/texmf-dist/font
 s/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texlive/texdir/texmf-dist/
 fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (4 pages, 108509 bytes).
+Output written on main.pdf (4 pages, 108946 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
+ 226 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
  22 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
 

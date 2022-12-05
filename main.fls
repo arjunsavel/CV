@@ -1089,6 +1089,7 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchri8t.
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
