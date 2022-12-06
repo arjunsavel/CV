@@ -51,28 +51,44 @@ def check_inpress(pub):
 
     return pub['title'] in in_press
 
-def check_studentpaper(pub):
+def format_for_students(pub):
     """
-    Checks whether a given paper is in the inpress data file.
-    If so, it should go under "peer-reviewed" in the CV — with the 
-    caveat that it's in press.
+    formats a publication to add students in first 5 authors.
+    """
+    import json
 
-    Inputs
-    -------
-    :pub: (dict) publication object. Needs to have 'title' key.
-    """
-    f = open('../data/student_papers.txt')
-    student_papers = f.readlines()
+    # Opening JSON file.
+    f = open('../data/students.json')
+
+    # returns JSON object as 
+    # a dictionary
+    data = json.load(f)
     f.close()
-
-    return pub['title'] in student_papers
+    student_names = data.keys()
+    
+    # todo: refactor below
+    for student_name in student_names:
+        last_name, first_name = student_name.split(', ')
+        first_initial = first_name[0]
+        start_year, end_year = data[student_name].split(', ')
+        start_year, end_year = eval(start_year), eval(end_year)
+        pub_year = eval(pub["year"])
+        if start_year <= pub_year and end_year >= pub_year:
+            # todo: fix, as will catch overlapping last names.
+            ns = [
+                i
+                for i in range(len(pub["authors"]))
+                if last_name in pub["authors"][i]
+            ]
+            if len(ns) > 0:
+                n = ns[0]
+                pub["authors"][n] = '*' + pub["authors"][n]
+    return pub
+    
 
 def format_pub(args):
     ind, pub = args
 
-    # add asterisk ahead of student papers
-    if check_studentpaper(pub):
-        fmt += '*'
 
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [
@@ -81,6 +97,8 @@ def format_pub(args):
         if "Savel" in pub["authors"][i]
     ][0]
     pub["authors"][n] = "\\textbf{Savel, Arjun}"
+    
+    pub = format_for_students(pub)
     
     pub_title = pub["title"].replace('{\\&}amp;', '\&') # for latex literal interp.
     
