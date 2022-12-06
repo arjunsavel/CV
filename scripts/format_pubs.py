@@ -27,6 +27,7 @@ JOURNAL_MAP = {
     "IAU General Assembly": "IAU",
     "Astronomy and Astrophysics": "\\aanda",
     "American Astronomical Society Meeting Abstracts": "AAS",
+    "Journal of Open Source Software": "JOSS"
 }
 
 
