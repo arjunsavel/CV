@@ -7493,7 +7493,7 @@ luxaritas,"TypeScript, Python, Go","PHP, JavaScript, Scala, C#, Java",Howard Hug
 fabbiologia,R,,"Scripps Institution of Oceanography, University of California San Diego",ffavoretto@ucsd.edu,"Ecology
 Fishery
 Conservation",0,0,0,0
-jmiszczak,Python,Java,"Institute of Theoretical and Applied Informatics, Polish Academy of Sciences",jarek@miszczak.eu,"quantum computing, agent-based modeling"
+jmiszczak,Python,Java,"Institute of Theoretical and Applied Informatics, Polish Academy of Sciences",jarek@miszczak.eu,"quantum computing, agent-based modeling",0,0,0,0
 tukss,"C
 C++
 Fortran
@@ -7501,3 +7501,4 @@ Python","Julia
 Lua",Los Alamos National Laboratory,philipp@slh-code.org,"(magneto)hydrodynamics
 nuclear reaction networks
 stellar evolution"
+Maocx,Python,,KU Leuven,mart.willocx@kuleuven.be,"Bio-inspired design, data science"
