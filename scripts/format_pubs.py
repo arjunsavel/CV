@@ -89,6 +89,7 @@ def format_for_students(pub):
 
 def format_pub(args):
     ind, pub, short = args
+    pub = pub.copy()
 
 
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
