@@ -188,11 +188,11 @@ if __name__ == "__main__":
             print(pub["title"])
             pub["doctype"] = "article"
     
-    ref = [p for p in pubs if p["doctype"] == "article"]
-    unref = [p for p in pubs if p["doctype"] == "eprint"]
+    ref_list = [p for p in pubs if p["doctype"] == "article"]
+    unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
-    npapers = len(ref)
+    npapers = len(ref_list)
     nfirst = sum(1 for p in pubs if "Savel" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
@@ -207,16 +207,16 @@ if __name__ == "__main__":
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
     
-    # todo: refactor. this is gross.
-    short = [False for i in range(len(ref))]
+    # todo: refactor. this is gross. maybe some kind of partial func.
+    short = [False for i in range(len(ref_list))]
     
-    ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref, short)))
-    unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref, short)))
+    ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
+    unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
     
     # todo: refactor. this is gross.
     short = [True for i in range(len(ref))]
-    ref_short = list(map(format_pub, zip(range(len(ref), 0, -1), ref, short)))
-    unref_short = list(map(format_pub, zip(range(len(unref), 0, -1), unref, short)))
+    ref_short = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
+    unref_short = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
     # now check whether 
 
