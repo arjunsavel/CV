@@ -107,7 +107,7 @@ def format_pub(args):
     if short:
         cutoff_length = 1
     else:
-        cutoff_length = 1
+        cutoff_length = 4
     
     if len(pub["authors"]) > cutoff_length:
         fmt += "; ".join(pub["authors"][:4])
