@@ -27,6 +27,7 @@ JOURNAL_MAP = {
     "IAU General Assembly": "IAU",
     "Astronomy and Astrophysics": "\\aanda",
     "American Astronomical Society Meeting Abstracts": "AAS",
+    "Journal of Open Source Software": "JOSS"
 }
 
 
@@ -87,7 +88,8 @@ def format_for_students(pub):
     
 
 def format_pub(args):
-    ind, pub = args
+    ind, pub, short = args
+    pub = pub.copy()
 
 
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
@@ -102,11 +104,16 @@ def format_pub(args):
     
     pub_title = pub["title"].replace('{\\&}amp;', '\&') # for latex literal interp.
     
-    if len(pub["authors"]) > 5:
+    if short:
+        cutoff_length = 1
+    else:
+        cutoff_length = 1
+    
+    if len(pub["authors"]) > cutoff_length:
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
-        if n >= 4:
-            others = len(pub['authors']) - 4
+        if n >= cutoff_length - 1:
+            others = len(pub['authors']) - (cutoff_length - 1)
             fmt += "\\ ({{{0}}} other co-authors, ".format(others)
             fmt += "incl.\\ \\textbf{Savel, Arjun})"
     elif len(pub["authors"]) > 1:
@@ -127,13 +134,13 @@ def format_pub(args):
             pub["pub"].strip("0123456789# "), pub["pub"]
         )
 
-    if pub["volume"] is not None:
+    if pub["volume"] is not None and not short:
         fmt += ", {{{0}}}".format(pub["volume"])
 
-    if pub["page"] is not None:
+    if pub["page"] is not None and not short:
         fmt += ", {0}".format(pub["page"])
 
-    if pub["arxiv"] is not None:
+    if pub["arxiv"] is not None and not (short and pub["pub"] in [None, "ArXiv e-prints"]):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if check_inpress(pub):
@@ -181,11 +188,11 @@ if __name__ == "__main__":
             print(pub["title"])
             pub["doctype"] = "article"
     
-    ref = [p for p in pubs if p["doctype"] == "article"]
-    unref = [p for p in pubs if p["doctype"] == "eprint"]
+    ref_list = [p for p in pubs if p["doctype"] == "article"]
+    unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
-    npapers = len(ref)
+    npapers = len(ref_list)
     nfirst = sum(1 for p in pubs if "Savel" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
@@ -199,9 +206,17 @@ if __name__ == "__main__":
     ).format(date.today(), ncitations, hindex, nfirst)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
-
-    ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
-    unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
+    
+    # todo: refactor. this is gross. maybe some kind of partial func.
+    short = [False for i in range(len(ref_list))]
+    
+    ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
+    unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
+    
+    # todo: refactor. this is gross.
+    short = [True for i in range(len(ref))]
+    ref_short = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
+    unref_short = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
     # now check whether 
 
@@ -209,4 +224,9 @@ if __name__ == "__main__":
         f.write("\n\n".join(ref))
     with open("../supp_tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
+        
+    with open("../supp_tex/pubs_ref_short.tex", "w") as f:
+        f.write("\n\n".join(ref_short))
+    with open("../supp_tex/pubs_unref_short.tex", "w") as f:
+        f.write("\n\n".join(unref_short))
         
