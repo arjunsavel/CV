@@ -110,9 +110,9 @@ def format_pub(args):
         cutoff_length = 4
     
     if len(pub["authors"]) > cutoff_length:
-        fmt += "; ".join(pub["authors"][:4])
+        fmt += "; ".join(pub["authors"][:cutoff_length])
         fmt += "; \\etal"
-        if n >= cutoff_length - 1:
+        if n >= cutoff_length - 1 and not short:
             others = len(pub['authors']) - (cutoff_length - 1)
             fmt += "\\ ({{{0}}} other co-authors, ".format(others)
             fmt += "incl.\\ \\textbf{Savel, Arjun})"
@@ -140,7 +140,7 @@ def format_pub(args):
     if pub["page"] is not None and not short:
         fmt += ", {0}".format(pub["page"])
 
-    if pub["arxiv"] is not None and not (short and pub["pub"] in [None, "ArXiv e-prints"]):
+    if pub["arxiv"] is not None and not short or pub["pub"] in [None, "ArXiv e-prints"]):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if check_inpress(pub):
