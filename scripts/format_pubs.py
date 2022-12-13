@@ -140,7 +140,7 @@ def format_pub(args):
     if pub["page"] is not None and not short:
         fmt += ", {0}".format(pub["page"])
 
-    if pub["arxiv"] is not None and not short or pub["pub"] in [None, "ArXiv e-prints"]):
+    if pub["arxiv"] is not None and not short or pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if check_inpress(pub):
