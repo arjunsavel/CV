@@ -198,11 +198,10 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
 
-
     summary = (
         "citations: {1} / "
         "h-index: {2} / "
-        "{3} first-author refereed, 2 under review  ({0})"
+        "{3} first-author refereed, 1 under review  ({0})"
     ).format(date.today(), ncitations, hindex, nfirst)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
