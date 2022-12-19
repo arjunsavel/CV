@@ -111,7 +111,7 @@ def format_pub(args):
     
     if len(pub["authors"]) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
-        fmt += "; \\etal"
+        fmt += "\\etal"
         if n >= cutoff_length - 1 and not short:
             others = len(pub['authors']) - (cutoff_length - 1)
             fmt += "\\ ({{{0}}} other co-authors, ".format(others)
