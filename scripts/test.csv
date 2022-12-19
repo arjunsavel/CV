@@ -7567,5 +7567,13 @@ RDF
 SKOS",0,0,0,0
 robrwo,"Perl, Bash/Shell, Prolog, JavaScript, HTML/CSS","Python, Haskell, Java",Multiple,joss@rrwo.uk.eu.org,Multiple,0,0,0,0
 kulbachcedric,Python,,FZI,cedric.kulbach@googlemail.com,"Machine Learning, Data Streams",0,0,0,0
-https://github.com/bstarynk,"RefPerSys, Ocaml, C++, C","C, Rust",CEA LIST,basile@starynkevitch.net,symbolic computation / artificial intelligence / Linux
+bstarynk,"RefPerSys, Ocaml, C++, C","C, Rust",CEA LIST,basile@starynkevitch.net,symbolic computation / artificial intelligence / Linux,0,0,0,0
 a2un,"python, JAVA, JavaScript, C, C++,R, Julia","Julia, R, Python, C, C++,Python",University of Pittsburgh,arl122@pitt.edu,"NLP, AI, ML, HCI, CS"
+jjerphan,"Python, Cython, C, C++, Fortran","Scala, Rust",Inria,pro@jjerphan.xyz,"Applied Mathematics, Statistics, Computer Science"
+@akritiko,"python
+bash script",,,apostolos@kritikos.me,"open source software engineering
+agile methodologies
+open data
+open government
+software reuse
+software resilience"
