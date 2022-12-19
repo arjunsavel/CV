@@ -2,12 +2,16 @@
 Heavily inspired by dfm/cv/scripts/render.py
 """
 
-import ads
 from datetime import date
 from operator import itemgetter
 import json
 import importlib.util
 import os
+
+GOOGLE_SCHOLAR=False
+FORMAT_STYLE = 'text'
+FIRSTNAME = 'Arjun'
+LASTNAME = 'Savel'
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
@@ -85,37 +89,39 @@ def format_for_students(pub):
                 n = ns[0]
                 pub["authors"][n] = '*' + pub["authors"][n]
     return pub
-    
 
-def format_pub(args):
-    ind, pub, short = args
-    pub = pub.copy()
-
-
-    fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
-    n = [
-        i
-        for i in range(len(pub["authors"]))
-        if "Savel" in pub["authors"][i]
-    ][0]
-    pub["authors"][n] = "\\textbf{Savel, Arjun}"
-    
-    pub = format_for_students(pub)
-    
-    pub_title = pub["title"].replace('{\\&}amp;', '\&') # for latex literal interp.
-    
-    if short:
-        cutoff_length = 1
+def format_index(ind):
+    if FORMAT_STYLE == 'latex':
+        return "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     else:
-        cutoff_length = 4
-    
-    if len(pub["authors"]) > cutoff_length:
+        return str(ind)
+
+def format_title(title):
+    if FORMAT_STYLE == 'latex':
+        return title.replace('{\\&}amp;', '\&') # for latex literal interp.
+    else:
+        return title.replace('{\\&}amp;', '&')  # for latex literal interp.
+
+def format_authors(authors, cutoff_length, short, n):
+    """
+    fix how the authors are formatted.
+    """
+    fmt = ''
+
+    if len(authors) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
-        fmt += "\\etal"
+        if FORMAT_STYLE == "latex":
+            fmt += "\\etal"
+        else:
+            fmt += "et al. "
         if n >= cutoff_length - 1 and not short:
             others = len(pub['authors']) - (cutoff_length - 1)
-            fmt += "\\ ({{{0}}} other co-authors, ".format(others)
-            fmt += "incl.\\ \\textbf{Savel, Arjun})"
+            if FORMAT_STYLE == "latex":
+                fmt += "\\ ({{{0}}} other co-authors, ".format(others)
+                fmt += "incl.\\ \\textbf{{{0}}, {{1}}})".format(LASTNAME, FIRSTNAME)
+            else:
+                fmt += "({{{0}}} other co-authors, ".format(others)
+                fmt += f"incl. {LASTNAME}, {FIRSTNAME})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -123,11 +129,47 @@ def format_pub(args):
         fmt += pub["authors"][0]
 
     fmt += " {0}".format(pub["year"])
+    return fmt
 
-    if pub["doi"] is not None:
-        fmt += ", \\doi{{{0}}}{{{1}}}".format(pub["doi"], pub_title)
+def format_doi(doi, pub_title):
+    fmt = ''
+    if FORMAT_STYLE == 'latex':
+        if doi is not None:
+            fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
+        else:
+            fmt += ", \\emph{{{0}}}".format(pub_title)
     else:
-        fmt += ", \\emph{{{0}}}".format(pub_title)
+        if doi is not None:
+            fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
+        else:
+            fmt += ", \\emph{{{0}}}".format(pub_title)
+
+    return fmt
+
+def format_pub(args):
+    ind, pub, short = args
+    pub = pub.copy()
+
+
+    fmt = format_index(ind)
+    n = [
+        i
+        for i in range(len(pub["authors"]))
+        if LASTNAME in pub["authors"][i]
+    ][0]
+    pub["authors"][n] = "\\textbf{{{0}}, {{1}}}".format(LASTNAME, FIRSTNAME)
+    
+    pub = format_for_students(pub)
+    
+    pub_title = format_title(pub["title"])
+    
+    if short:
+        cutoff_length = 1
+    else:
+        cutoff_length = 4
+
+    fmt += format_authors(pub['authors'], cutoff_length, short, n)
+    fmt += format_doi(pub['doi'], pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(
@@ -158,18 +200,18 @@ def format_pub(args):
         fmt += " [\\href{{{0}}}{{{1} citations}}]".format(
             pub["url"], pub["citations"]
         )
-        
-    #elif pub["url"] is not None and pub["citations"] == 0: 
-    #   fmt += " [\\href{{{0}}}]".format(
-    #          pub["url"]
-    # )
 
     return fmt
 
 
 if __name__ == "__main__":
-    with open("../data/ads_scrape.json", "r") as f:
-        pubs = json.load(f)
+
+    if GOOGLE_SCHOLAR:
+        with open("../data/google_scholar_scrape.json", "r") as f:
+            pubs = json.load(f)
+    else:
+        with open("../data/ads_scrape.json", "r") as f:
+            pubs = json.load(f)
     
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
@@ -195,7 +237,7 @@ if __name__ == "__main__":
 
     # Compute citation stats
     npapers = len(ref_list)
-    nfirst = sum(1 for p in pubs if "Savel" in p["authors"][0])
+    nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
@@ -219,8 +261,11 @@ if __name__ == "__main__":
     ref_short = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
     unref_short = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
-    # now check whether 
 
+
+
+
+    # for now, written to tex files even if they're gonna be used in a text file.
     with open("../supp_tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("../supp_tex/pubs_unref.tex", "w") as f:
