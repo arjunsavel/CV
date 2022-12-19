@@ -133,6 +133,8 @@ def format_pub(args):
         fmt += ", " + JOURNAL_MAP.get(
             pub["pub"].strip("0123456789# "), pub["pub"]
         )
+        if short:
+            fmt += "\\ "
 
     if pub["volume"] is not None and not short:
         fmt += ", {{{0}}}".format(pub["volume"])
