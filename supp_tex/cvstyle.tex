@@ -3,7 +3,10 @@
 \usepackage{geometry}
 \usepackage{hyperref}
 \usepackage{ifthen}
+\usepackage{advdate}
+
 \geometry{tmargin=1in,bmargin=2.5in,lmargin=0.7in,rmargin=0.7in,includefoot,footskip=25pt}
+
 
 \renewcommand{\today}{\the\year-\ifnum\month<10 0\fi\the\month-\ifnum\day<10 0\fi\the\day}
 % \usepackage[yyyymmdd]{datetime}
@@ -35,6 +38,7 @@
   \newcommand{\isbn}[1]{{\footnotesize(\textsc{isbn:}{#1})}}
   \newcommand{\arxiv}[1]{{\href{http://arxiv.org/abs/#1}{arXiv:{#1}}}}
 
+\newcommand{\yesterday}{\AdvanceDate[-1]\today}
 % Section headings.
 \newcommand{\cvheading}[1]{\addvspace{1ex}\pagebreak[2]\par\textbf{#1}\nopagebreak\vspace{-0.4em}}
 
@@ -76,7 +80,7 @@
 \lhead{\deemph{Arjun Baliga Savel}}
 \chead{\deemph{Curriculum Vitae}}
 \rhead{\deemph{\thepage}}
-\cfoot{\deemph{\textit{References available upon request.} \textit{Last updated: \today. CV version tag linked \href{https://github.com/arjunsavel/CV/releases/tag/\today}{here}.}}}
+\cfoot{\deemph{\textit{References available upon request.} \textit{Last updated: \yesterday. CV version tag linked \href{https://github.com/arjunsavel/CV/releases/tag/\today}{here}.}}}
 
 % Journal names.
 \newcommand{\aj}{AJ}
