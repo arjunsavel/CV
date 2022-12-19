@@ -122,7 +122,7 @@ def format_pub(args):
     else:
         fmt += pub["authors"][0]
 
-    fmt += ", {0}".format(pub["year"])
+    fmt += " {0}".format(pub["year"])
 
     if pub["doi"] is not None:
         fmt += ", \\doi{{{0}}}{{{1}}}".format(pub["doi"], pub_title)
