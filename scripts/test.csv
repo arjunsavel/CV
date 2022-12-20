@@ -1149,7 +1149,7 @@ neuroimaging",0,7,0,0
 ghammad,python,"C++, Matlab",University of Liège,gregory.hammad@hotmail.fr,"physics, high-energy physics, neurosciences, time-series",0,0,0,0
 Nazeeefa,"Bash, Python, R, Awk",,Lund University,fatima.nazeefa@gmail.com,"Bioinformatics, Genomics, Computational Biology, Biostatistics",0,0,0,0
 JonathanReardon,"Python, R, Bash/Shell Scripting",,Durham University,jonathanjreardon@gmail.com,"Psychology, Neuroscience, Data Visualisation, Neuroimaging, Machine Learning, Stimulus Presentation, Statistics, Plotting",0,6,0,0
-ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,2,1,0
+ejolly,Python,"R, Matlab, Javascript",Dartmouth College,eshin.jolly.gr@dartmouth.edu,"Supervised + unsupervised learning, regression modeling, time-series analysis, statistics, web-development, data visualization",0,2,0,0
 cr458,python,,LANL,christopher.x.ren@gmail.com,"Physics
 Materials Science
 Electron Microscopy",0,1,0,0
@@ -4187,7 +4187,7 @@ MATLAB
 Python",University of Canterbury,tlcfem@gmail.com,FEM,0,1,0,0
 muchrons,"Python, C, C++, Java, C#",,Wroclaw University of Science and Technology,mariusz.uchronski@pwr.edu.pl,,0,0,0,0
 henrykironde,Python,"R, Julia, C++",University of Florida,henrykironde@gmail.com,"Data science
-Security",0,5,3,0
+Security",0,5,2,0
 ssujit,"R, Python",NA,Leibniz Institute of Ecological Urban and Regional Development,s.sikder@ioer.de,"Urban Data, Geographical Information System",0,0,0,0
 Kudusch,"R
 Python","R
@@ -5469,7 +5469,7 @@ robbisg,python,"Matlab
 Javascript
 C","Department of Neuroscience, Imaging and Clinical Sciences",roberto.guidotti@unich.it,"Neuroimaging
 Neuroscience
-Machine Learning",0,3,1,0
+Machine Learning",0,3,0,0
 wesleyburr,R,Fortran,Trent University,wesleyburr@trentu.ca,"Statistics, Time Series, Astrophysics, Geophysics, Spectrometry, Chemometrics, Education",0,2,1,0
 andrewtarzia,Python,N/a,Imperial college London,andrew.tarzia@gmail.com,"Chemistry,  cheminformatics",0,2,2,0
 neelnanda-io,Python,,UC Berkeley,neelnanda27@gmail.com,"AI
@@ -5922,7 +5922,7 @@ Java
 C
 C++",,Universidad Alfonso X El Sabio,zijie.cong@gmail.com,"Ontology Engineering
 Optimization",0,0,0,0
-chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,1,1,0
+chrisbrickhouse,"Python, R, PHP, JS, PraatScript","HTML, LESS, CSS, Lua, Perl",Stanford University,brickhouse@stanford.edu,"Linguistics, acoustics, anthropology",0,1,0,0
 fag123123,الانجليزيه,,fag123123,f.a.g.g.3055@gmail.com,,0,0,0,0
 synthaze,Python,"Bash
 Awk
@@ -7568,8 +7568,8 @@ SKOS",0,0,0,0
 robrwo,"Perl, Bash/Shell, Prolog, JavaScript, HTML/CSS","Python, Haskell, Java",Multiple,joss@rrwo.uk.eu.org,Multiple,0,0,0,0
 kulbachcedric,Python,,FZI,cedric.kulbach@googlemail.com,"Machine Learning, Data Streams",0,0,0,0
 bstarynk,"RefPerSys, Ocaml, C++, C","C, Rust",CEA LIST,basile@starynkevitch.net,symbolic computation / artificial intelligence / Linux,0,0,0,0
-a2un,"python, JAVA, JavaScript, C, C++,R, Julia","Julia, R, Python, C, C++,Python",University of Pittsburgh,arl122@pitt.edu,"NLP, AI, ML, HCI, CS"
-jjerphan,"Python, Cython, C, C++, Fortran","Scala, Rust",Inria,pro@jjerphan.xyz,"Applied Mathematics, Statistics, Computer Science"
+a2un,"python, JAVA, JavaScript, C, C++,R, Julia","Julia, R, Python, C, C++,Python",University of Pittsburgh,arl122@pitt.edu,"NLP, AI, ML, HCI, CS",0,0,0,0
+jjerphan,"Python, Cython, C, C++, Fortran","Scala, Rust",Inria,pro@jjerphan.xyz,"Applied Mathematics, Statistics, Computer Science",0,0,0,0
 @akritiko,"python
 bash script",,,apostolos@kritikos.me,"open source software engineering
 agile methodologies
@@ -7577,3 +7577,4 @@ open data
 open government
 software reuse
 software resilience"
+jguhlin,"Rust, Clojure, Perl, Python","R, JavaScript","Postdoctoral Researcher with Genomics Aotearoa and University of Otago, Biochemistry Department",joseph.guhlin@gmail.com,"Bioinformatics, Computational Biology"
