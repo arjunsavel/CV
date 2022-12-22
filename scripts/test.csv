@@ -648,7 +648,7 @@ Geospatial analysis",0,1,0,0
 mgalloy,"IDL (Interactive Data Language)
 Python
 CUDA",Objective C,National Center for Atmospheric Research (NCAR),mgalloy@ucar.edu,"GPU
-Solar",1,6,0,0
+Solar",0,6,1,1
 sarats,"C, Fortran, Python",C++,Oak Ridge National Laboratory,sarat@ornl.gov,"High Performance Computing, Computational Science, Data Analytics, Climate Science, Optimization Algorithms.",0,5,0,0
 mdelcambre,python,,,mark@delcambre.com,civil engineering,0,0,0,0
 sssomani,Python,,Icahn School of Medicine at Mount Sinai,sulaiman.somani@gmail.com,"Deep learning, machine learning, computer vision, geometric modeling",0,0,0,0
@@ -2086,7 +2086,7 @@ kavir1698,Julia,,University of Zurich,arv.kavir@gmail.com,"Agent-based modeling
 Computational biology
 Bioinformatics",0,0,0,0
 marekborowiec,Python,None,University of Idaho,petiolus@gmail.com,"Bioinformatics
-Phylogenetics",1,1,0,0
+Phylogenetics",0,1,1,1
 dgursoy,Python,,Argonne National Laboratory ,dgursoy@anl.gov,Image processing,0,1,0,0
 njtierney,R,NA,Monash,nicholas.tierney@gmail.com,"Data Visualisation, Tools that facilitate data analysis, Exploratory data analysis, statistics",0,3,0,0
 sairamgeethanath,"MATLAB
@@ -7577,8 +7577,12 @@ open data
 open government
 software reuse
 software resilience",0,0,0,0
-jguhlin,"Rust, Clojure, Perl, Python","R, JavaScript","Postdoctoral Researcher with Genomics Aotearoa and University of Otago, Biochemistry Department",joseph.guhlin@gmail.com,"Bioinformatics, Computational Biology"
-makoeppel,"Python, VHDL","C++, C, JavaScript","Johannes-Gutenberg University, Mainz",mkoeppel@uni-mainz.de,"Machine Learning, FPGA, Hardware Design"
+jguhlin,"Rust, Clojure, Perl, Python","R, JavaScript","Postdoctoral Researcher with Genomics Aotearoa and University of Otago, Biochemistry Department",joseph.guhlin@gmail.com,"Bioinformatics, Computational Biology",0,0,0,0
+makoeppel,"Python, VHDL","C++, C, JavaScript","Johannes-Gutenberg University, Mainz",mkoeppel@uni-mainz.de,"Machine Learning, FPGA, Hardware Design",0,0,0,0
 karanprime,Python,"Mathematica
 Julia",Helmholtz-Zentrum Dresden-Rossendorf,k.shah@hzdr.de,"Machine Learning
 Physics-Informed Machine Learning"
+pkairys,"julia
+python",matlab,Argonne National Laboratory,pkairys@anl.gov,"quantum computing
+quantum physics
+computational physics"
