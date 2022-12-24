@@ -3459,7 +3459,7 @@ hmacdope,"Python
 FORTRAN
 C++",C,Australian National University,hugomacdermott@gmail.com,"Computational Chemistry
 Computational Biology
-HPC",0,3,1,1
+HPC",0,3,1,0
 simonom,"Python, Matlab",Fortran,"National Centre for Atmospheric Science, University of Manchester",simon.omeara@manchester.ac.uk,"Environmental Science,  Atmospheric Science, Physics, Chemistry, Citizen Science, Public Engagement",0,1,1,0
 kir0ul,Python,,,a.pierre@zaclys.net,,0,0,0,0
 matael,"Python
@@ -4142,7 +4142,7 @@ Molecular Dynamics
 Web Applications",0,3,1,1
 williamfgc,"C++, Fortran, C, Python, Julia",R,Oak Ridge National Laboratory,godoywf@ornl.gov,"Scientific code, computational physics, data management, high performance computing",0,1,0,0
 Emma-k-ward,"Matlab, R",,Freie Universitaet Berlin,emma.ward@fu-berlin.de,"Infant development, autism, predictive processing, EEG, eye-tracking",0,1,0,0
-sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,1,1,0
+sara-shiho,python,,Northwestern University,sara.a.shiho@gmail.com,"machine learning, statistics, web scraping, APIs",0,1,0,0
 miketuri,"Perl
 C
 C++
@@ -4700,7 +4700,7 @@ C++
 Python",,"University of Engineering and Technology, (UET)",muhammad_ahsan321@yahoo.com,"Internet of Things
 Security",0,0,0,0
 pmyteh,"R
-Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",0,2,1,0
+Python",LaTeX,"University of Liverpool, Department of Communication and Media",T.E.Nicholls@liverpool.ac.uk,"Computational social science, especially focused towards communication and political science, and particularly packages focused on text analysis",0,2,0,0
 prasantapal,"C
 C++ 
 Mathematica
@@ -7586,14 +7586,14 @@ pkairys,"julia
 python",matlab,Argonne National Laboratory,pkairys@anl.gov,"quantum computing
 quantum physics
 computational physics",0,0,0,0
-suhanmappingideas,"Python, JavaScript",JavaScript,Texas State University,su.han@txstate.edu,"Geographic Information Science, Geovisaulization"
-louvetv,"Python, C++, fortran",Julia,CNRS,violaine.louvet@univ-grenoble-alpes.fr,"Mathematics, data science, signal processing"
-jonasyde,R,,Monell Chemical Senses Center,jjunge@monell.org,"food science,  visualization"
+suhanmappingideas,"Python, JavaScript",JavaScript,Texas State University,su.han@txstate.edu,"Geographic Information Science, Geovisaulization",0,0,0,0
+louvetv,"Python, C++, fortran",Julia,CNRS,violaine.louvet@univ-grenoble-alpes.fr,"Mathematics, data science, signal processing",0,0,0,0
+jonasyde,R,,Monell Chemical Senses Center,jjunge@monell.org,"food science,  visualization",0,0,0,0
 sea-shunned,Python,,University College London,seashunned@gmail.com,"Machine learning
 Unsupervised learning
 Clustering
 Evolutionary algorithms
-Neuroimaging"
-gurpreet-bioinfo,R,Bash,"University of Alabama at Birmingham, AL, USA",gurpreet.bioinfo@gmail.com,"Bioinformatics, Computational Biology, NGS"
+Neuroimaging",0,0,0,0
+gurpreet-bioinfo,R,Bash,"University of Alabama at Birmingham, AL, USA",gurpreet.bioinfo@gmail.com,"Bioinformatics, Computational Biology, NGS",0,0,0,0
 yangli-stat,"R
 python",,Florida Atlantic University,yangli@fau.edu,"statistics, network science, data science, spatial analysis"
