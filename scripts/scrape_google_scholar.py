@@ -3,8 +3,6 @@ import requests
 import numpy as np
 import time
 import json
-import pdb
-import html
 
 def clean_citation(citation):
     """
@@ -66,8 +64,8 @@ def get_scrape_google_scholar(author):
 
     full_url = 'https://scholar.google.com/' + personal_url
 
-    response = requests.get(full_url,headers=headers)
-    new_soup = BeautifulSoup(response.content,features="html.parser")
+    response = requests.get(full_url, headers=headers)
+    new_soup = BeautifulSoup(response.content, features="html.parser")
 
     citations = []
     cleaned_articles = []

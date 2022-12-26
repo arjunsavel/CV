@@ -9,7 +9,6 @@ import importlib.util
 import os
 import requests
 from bs4 import BeautifulSoup
-import pdb
 
 GOOGLE_SCHOLAR = False
 FORMAT_STYLE = 'text'
@@ -253,7 +252,6 @@ def format_pub(args):
 
 if __name__ == "__main__":
 
-
     if GOOGLE_SCHOLAR:
         with open("../data/google_scholar_scrape.json", "r") as f:
             pubs = json.load(f)
@@ -318,8 +316,6 @@ if __name__ == "__main__":
     short = [True for i in range(len(ref))]
     ref_short = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
     unref_short = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
-
-
 
 
 

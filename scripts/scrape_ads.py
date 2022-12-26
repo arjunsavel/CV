@@ -3,13 +3,13 @@ Heavily inspired by dfm/cv/update-astro-pubs
 """
 
 import ads
-from datetime import date
 from operator import itemgetter
 import json
 import importlib.util
 import os
 import time
 import requests
+
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
