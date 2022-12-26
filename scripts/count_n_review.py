@@ -15,7 +15,9 @@ def count_pubs(filename):
     Output
     ------
         :n_pubs: (int) number of pubs in file
+        :n_first: (int) number of first-author pubs in file
     """
+    
     f = open(filename)
     f1 = f.readlines()
     f.close()
@@ -33,10 +35,14 @@ def count_pubs(filename):
 
 
 if __name__ == "__main__":
-    n_pubs = 0
-    n_pubs += count_pubs('../supp_tex/pubs_unref.tex')
-    n_pubs += count_pubs('../supp_tex/pubs_submitted.tex')
+    n_unref, n_first_unref = count_pubs('../supp_tex/pubs_unref.tex')
+    n_submitted, n_first_submitted = count_pubs('../supp_tex/pubs_submitted.tex')
 
+    n_pubs = n_unref + n_submitted
     # write to file
     with open('../supp_tex/n_review.tex', 'w') as f:
         f.wite(n_pubs)
+
+    with open('../supp_tex/n_first_submit.tex', 'w') as f:
+        f.wite(n_first_submitted)
+        
