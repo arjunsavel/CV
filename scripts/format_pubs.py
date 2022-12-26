@@ -8,6 +8,9 @@ from operator import itemgetter
 import json
 import importlib.util
 import os
+import requests
+from bs4 import BeautifulSoup
+import pdb
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
@@ -51,8 +54,6 @@ def check_duplicates(ref_list):
     return ref_list
 
 
-
-
 def check_inpress(pub):
     """
     Checks whether a given paper is in the inpress data file.
@@ -64,15 +65,26 @@ def check_inpress(pub):
     :pub: (dict) publication object. Needs to have 'title' key.
     """
 
-    # read in the in press data
+    # # read in the in press data
     f = open('../data/in_press.txt')
     in_press = f.readlines()
     f.close()
-    
+
     for i, press in enumerate(in_press):
         in_press[i] = press.split('\n')[0]
 
-    return pub['title'] in in_press
+    if pub['title'] in in_press:
+        return True
+    else:
+        # more general case
+        URL = 'http://arxiv.org/abs/' + pub['arxiv']
+
+        page = requests.get(URL)
+
+        soup = BeautifulSoup(page.content, "html.parser")
+        results = soup.find(class_="comments")
+        return 'accepted' in results.text.lower()
+
 
 def format_for_students(pub):
     """
@@ -192,7 +204,6 @@ def format_pub(args):
 if __name__ == "__main__":
     with open("../data/ads_scrape.json", "r") as f:
         pubs = json.load(f)
-    
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     
