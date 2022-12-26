@@ -226,12 +226,15 @@ if __name__ == "__main__":
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
+    
+    with open("../supp_tex/n_first_submit.tex") as f:
+        nfirst_submit = eval(f.readlines()[0].split('\n')[0])
 
     summary = (
         "citations: {1} / "
         "h-index: {2} / "
-        "{3} first-author refereed, 1 under review  ({0})"
-    ).format(date.today(), ncitations, hindex, nfirst)
+        "{3} first-author refereed, {4} under review  ({0})"
+    ).format(date.today(), ncitations, hindex, nfirst, nfirst_submit)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
     
