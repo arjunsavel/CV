@@ -8,7 +8,6 @@ from operator import itemgetter
 import json
 import importlib.util
 import os
-import pdb
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
@@ -42,7 +41,6 @@ def check_duplicates(ref_list):
     todo: make some other check for similarity in author list.
     todo: title similarity check should be inclusive of weird character changes.
     """
-    # pdb.set_trace()
     for ref in ref_list:
         for i, other_ref in enumerate(ref_list.copy()):
             if check_preprint(other_ref) and not check_preprint(ref) and ref['title'] == other_ref['title']:
