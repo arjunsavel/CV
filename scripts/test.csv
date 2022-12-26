@@ -2938,7 +2938,7 @@ cheloff,"R
 Python",,UTC,marceloamores61@gmail.com,"Environmental & Earth Sciences
 Cosmology
 Mathematical Models",0,0,0,0
-Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,1,3,1,0
+Ebedthan,"R, Perl, Python","Bash, C",Institut National Polytechnique Félix Houphouët-Boigny,anicet.ebou@gmail.com,Bioinformatics,1,3,0,0
 -,"Python
 Javascript
 php","R
@@ -4197,7 +4197,7 @@ florian-rosenthal,"Matlab
 C++",Python,Karlsruhe Institute of Technology,rosenthal@kit.edu,"Signal Processing
 Automatic Control",0,0,0,0
 SvenVanPoucke,Python,RapidMiner,Ziekenhuis Oost-Limburg,svanpoucke@gmail.com,Medicine,0,0,0,0
-telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,2,1,0
+telatin,perl; nim; python,,Quadram Institute Bioscience,andrea.telatin@gmail.com,next-generation sequencing; microbial genomics; metagenomics; bioinformatics workflows;,0,2,0,0
 j-andrews7,"R
 Python",,St. Jude Children's Research Hospital,jared.andrews07@gmail.com,"Bioinformatics
 Data visualization
@@ -5831,7 +5831,7 @@ vimalthilak,Python,"C++, C",,vimalthilak@gmail.com,"Machine Learning
  Deep Learning
  Signal Processing",1,1,0,0
 mfleschutz,Python,,Munster Technological University,mfleschutz@gmail.com,Sustainable energy,0,0,0,0
-Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",1,3,1,0
+Ebedthan,"Rust, R, Python, Perl, JavaScript, Bash","C/C++, Java","Bioinformatic Team, Institut National Polytechnique Félix Houphouët-Boigny",anicet.ebou@gmail.com,"Bioinformatics, Genomics, Metagenomics, Algorithms",1,3,0,0
 chryswoods,"Python
 R
 C++
@@ -7597,3 +7597,4 @@ Neuroimaging",0,0,0,0
 gurpreet-bioinfo,R,Bash,"University of Alabama at Birmingham, AL, USA",gurpreet.bioinfo@gmail.com,"Bioinformatics, Computational Biology, NGS",0,0,0,0
 yangli-stat,"R
 python",,Florida Atlantic University,yangli@fau.edu,"statistics, network science, data science, spatial analysis"
+cgi,python,go,software engineer and manager,saasknight@proton.me,all
