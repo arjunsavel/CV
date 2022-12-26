@@ -218,8 +218,6 @@ if __name__ == "__main__":
     ref_list = check_duplicates(ref_list)
     unref_list = check_duplicates(unref_list)
 
-    pdb.set_trace()
-
     # Compute citation stats
     npapers = len(ref_list)
     nfirst = sum(1 for p in pubs if "Savel" in p["authors"][0])
