@@ -25,12 +25,11 @@ CLASSIFIERS = [
     'Topic :: Scientific/Engineering :: Astronomy'
 
 ]
-INSTALL_REQUIRES = ["numpy",
-		   "matplotlib",
-		   "numba",
-		   "tqdm",
-		   "astropy",
-		   "pandas"]
+INSTALL_REQUIRES = ["pandas",
+			"numpy",
+			"gsheets",
+			"ads",
+			"beautifulsoup4"]
 
 ###################################################################
 
