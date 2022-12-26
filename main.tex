@@ -22,6 +22,9 @@
 \usepackage{xcolor}
 
 \usepackage[utf8]{inputenc}
+\usepackage{readarray}
+\readdef{supp_tex/n_review}\nreview
+
 \input{supp_tex/cvstyle}
 
 
@@ -102,8 +105,12 @@
 
 \newcommand{\shortershorterSection}[1]{\vspace{-10pt}\subsection{#1}}
 
+
+
 \newcounter{countername}
-\setcounter{countername}{3} %need a way to set this from number of under review papers!
+
+\setcounter{countername}{\nreview} %need a way to set this from number of under review papers!
+
 
 
 \def\firstoftwo#1#2{#1}
