@@ -8,6 +8,7 @@ from operator import itemgetter
 import json
 import importlib.util
 import os
+import pdb
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(
@@ -29,6 +30,29 @@ JOURNAL_MAP = {
     "American Astronomical Society Meeting Abstracts": "AAS",
     "The Journal of Open Source Software": "JOSS"
 }
+
+def check_preprint(pub):
+    """
+    checks whether a publication is just a preprint.
+    """
+    return "ArXiv" in pub['pub'] or "arXiv" in pub['pub']
+def check_duplicates(ref_list):
+    """
+    Checks a given reference list for duplicates. If there are duplicates...joins them!
+    todo: make some other check for similarity in author list.
+    todo: title similarity check should be inclusive of weird character changes.
+    """
+    # pdb.set_trace()
+    for ref in ref_list:
+        for i, other_ref in enumerate(ref_list.copy()):
+            if check_preprint(other_ref) and not check_preprint(ref) and ref['title'] == other_ref['title']:
+                ref['arxiv'] = other_ref['arxiv']
+                ref['citations'] += other_ref['citations']
+                del ref_list[i]
+
+    return ref_list
+
+
 
 
 def check_inpress(pub):
@@ -192,6 +216,11 @@ if __name__ == "__main__":
     
     ref_list = [p for p in pubs if p["doctype"] == "article"]
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
+
+    ref_list = check_duplicates(ref_list)
+    unref_list = check_duplicates(unref_list)
+
+    pdb.set_trace()
 
     # Compute citation stats
     npapers = len(ref_list)
