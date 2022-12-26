@@ -8,7 +8,7 @@ import json
 import importlib.util
 import os
 
-GOOGLE_SCHOLAR=False
+GOOGLE_SCHOLAR = False
 FORMAT_STYLE = 'text'
 FIRSTNAME = 'Arjun'
 LASTNAME = 'Savel'
