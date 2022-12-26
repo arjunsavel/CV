@@ -7,6 +7,9 @@ from operator import itemgetter
 import json
 import importlib.util
 import os
+import requests
+from bs4 import BeautifulSoup
+import pdb
 
 GOOGLE_SCHOLAR = False
 FORMAT_STYLE = 'text'
@@ -34,6 +37,26 @@ JOURNAL_MAP = {
     "The Journal of Open Source Software": "JOSS"
 }
 
+def check_preprint(pub):
+    """
+    checks whether a publication is just a preprint.
+    """
+    return "ArXiv" in pub['pub'] or "arXiv" in pub['pub']
+def check_duplicates(ref_list):
+    """
+    Checks a given reference list for duplicates. If there are duplicates...joins them!
+    todo: make some other check for similarity in author list.
+    todo: title similarity check should be inclusive of weird character changes.
+    """
+    for ref in ref_list:
+        for i, other_ref in enumerate(ref_list.copy()):
+            if check_preprint(other_ref) and not check_preprint(ref) and ref['title'] == other_ref['title']:
+                ref['arxiv'] = other_ref['arxiv']
+                ref['citations'] += other_ref['citations']
+                del ref_list[i]
+
+    return ref_list
+
 
 def check_inpress(pub):
     """
@@ -46,15 +69,26 @@ def check_inpress(pub):
     :pub: (dict) publication object. Needs to have 'title' key.
     """
 
-    # read in the in press data
+    # # read in the in press data
     f = open('../data/in_press.txt')
     in_press = f.readlines()
     f.close()
-    
+
     for i, press in enumerate(in_press):
         in_press[i] = press.split('\n')[0]
 
-    return pub['title'] in in_press
+    if pub['title'] in in_press:
+        return True
+    else:
+        # more general case
+        URL = 'http://arxiv.org/abs/' + pub['arxiv']
+
+        page = requests.get(URL)
+
+        soup = BeautifulSoup(page.content, "html.parser")
+        results = soup.find(class_="comments")
+        return 'accepted' in results.text.lower()
+
 
 def format_for_students(pub):
     """
@@ -167,6 +201,20 @@ def format_pub(args):
     else:
         cutoff_length = 4
 
+    
+    if len(pub["authors"]) > cutoff_length:
+        fmt += "; ".join(pub["authors"][:cutoff_length])
+        fmt += " \\etal "
+        if n >= cutoff_length - 1 and not short:
+            others = len(pub['authors']) - (cutoff_length - 1)
+            fmt += "\\ ({{{0}}} other co-authors, ".format(others)
+            fmt += "incl.\\ \\textbf{Savel, Arjun})"
+    elif len(pub["authors"]) > 1:
+        fmt += "; ".join(pub["authors"][:-1])
+        fmt += "; \\& " + pub["authors"][-1]
+    else:
+        fmt += pub["authors"][0]
+
     fmt += format_authors(pub['authors'], cutoff_length, short, n)
     fmt += format_doi(pub['doi'], pub_title)
 
@@ -205,6 +253,7 @@ def format_pub(args):
 
 if __name__ == "__main__":
 
+
     if GOOGLE_SCHOLAR:
         with open("../data/google_scholar_scrape.json", "r") as f:
             pubs = json.load(f)
@@ -212,6 +261,10 @@ if __name__ == "__main__":
         with open("../data/ads_scrape.json", "r") as f:
             pubs = json.load(f)
     
+
+    with open("../data/ads_scrape.json", "r") as f:
+        pubs = json.load(f)
+
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
     
@@ -234,18 +287,24 @@ if __name__ == "__main__":
     ref_list = [p for p in pubs if p["doctype"] == "article"]
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
+    ref_list = check_duplicates(ref_list)
+    unref_list = check_duplicates(unref_list)
+
     # Compute citation stats
     npapers = len(ref_list)
     nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
+    
+    with open("../supp_tex/n_first_submit.tex") as f:
+        nfirst_submit = eval(f.readlines()[0].split('\n')[0])
 
     summary = (
         "citations: {1} / "
         "h-index: {2} / "
-        "{3} first-author refereed, 1 under review  ({0})"
-    ).format(date.today(), ncitations, hindex, nfirst)
+        "{3} first-author refereed, {4} under review  ({0})"
+    ).format(date.today(), ncitations, hindex, nfirst, nfirst_submit)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
     

@@ -22,6 +22,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Savel, Arjun B.",
+      "Hirsch, Lea A.",
+      "Gill, Holden",
+      "Dressing, Courtney D.",
+      "Ciardi, David R."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1088/1538-3873/aca4f9",
+    "page": 124501,
+    "pub": "Publications of the Astronomical Society of the Pacific",
+    "pubdate": "2022-12-00",
+    "title": "SImMER: A Pipeline for Reducing and Analyzing Images of Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022PASP..134l4501S",
+    "volume": "134",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Newton, E. R.",
       "Rampalli, R.",
       "Kraus, A. L.",
@@ -1944,7 +1964,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2061,7 +2081,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2220,7 +2240,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -2296,7 +2316,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
