@@ -65,8 +65,7 @@ def format_for_students(pub):
     # Opening JSON file.
     f = open('../data/students.json')
 
-    # returns JSON object as 
-    # a dictionary
+    # returns JSON object as a dictionary
     data = json.load(f)
     f.close()
     student_names = data.keys()
