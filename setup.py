@@ -14,15 +14,14 @@ NAME = "CV"
 PACKAGES = find_packages(where="src")
 META_PATH = os.path.join("scripts", "__init__.py")
 CLASSIFIERS = [
-    "Development Status :: 1 - Planning",
-    "Intended Audience :: Developers",
-    "Intended Audience :: Science/Research",
+    "Development Status :: 5 - Production/Stable",
     "Natural Language :: English",
     "License :: OSI Approved :: MIT License",
     "Operating System :: Unix",
     "Operating System :: MacOS",
     "Programming Language :: Python",
-    'Topic :: Scientific/Engineering :: Astronomy'
+    'Topic :: Text Processing :: Markup :: LaTeX'
+
 
 ]
 INSTALL_REQUIRES = ["pandas",
