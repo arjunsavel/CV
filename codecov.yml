@@ -7,3 +7,5 @@ coverage:
     - "tests"
     - "scripts/utf8totex.py"
     - "scripts/__init__.py"
+    - "cv/scripts/utf8totex.py"
+    - "cv/scripts/__init__.py"
