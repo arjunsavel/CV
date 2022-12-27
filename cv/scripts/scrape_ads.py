@@ -3,6 +3,7 @@ Heavily inspired by dfm/cv/update-astro-pubs
 """
 
 import importlib.util
+import inspect
 import json
 import os
 import time
@@ -13,7 +14,8 @@ import requests
 
 import cv
 
-here = os.path.join(os.path.abspath(cv.__file__), "scripts")
+cv_path = inspect.getfile(cv).split("__init")[0]
+here = os.path.join(cv_path, "scripts")
 # here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
