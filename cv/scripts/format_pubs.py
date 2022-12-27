@@ -19,6 +19,10 @@ FORMAT_STYLE = "text"
 FIRSTNAME = "Arjun"
 LASTNAME = "Savel"
 
+cv_root = inspect.getfile(cv).split("cv")[0]
+data_path = os.path.join(cv_root, "data")
+supp_tex_path = os.path.join(cv_root, "supp_tex")
+
 cv_path = inspect.getfile(cv).split("__init")[0]
 here = os.path.join(cv_path, "scripts")
 # here = os.path.abspath("")
@@ -82,7 +86,7 @@ def check_inpress(pub):
     """
 
     # # read in the in press data
-    f = open("../data/in_press.txt")
+    f = open(os.path.join(data_path, "in_press.txt"))
     in_press = f.readlines()
     f.close()
 
@@ -113,7 +117,7 @@ def format_for_students(pub):
     import json
 
     # Opening JSON file.
-    f = open("../data/students.json")
+    f = open(os.path.join(data_path, "students.json"))
 
     # returns JSON object as a dictionary
     data = json.load(f)
@@ -264,13 +268,13 @@ def format_pub(args):
 if __name__ == "__main__":
 
     if GOOGLE_SCHOLAR:
-        with open("../data/google_scholar_scrape.json", "r") as f:
+        with open(os.path.join(data_path, "google_scholar_scrape.json"), "r") as f:
             pubs = json.load(f)
     else:
-        with open("../data/ads_scrape.json", "r") as f:
+        with open(os.path.join(data_path, "ads_scrape.json"), "r") as f:
             pubs = json.load(f)
 
-    with open("../data/ads_scrape.json", "r") as f:
+    with open(os.path.join(data_path, "ads_scrape.json"), "r") as f:
         pubs = json.load(f)
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
@@ -304,7 +308,7 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
 
-    with open("../supp_tex/n_first_submit.tex") as f:
+    with open(os.path.join(supp_tex_path, "n_first_submit.tex")) as f:
         nfirst_submit = eval(f.readlines()[0].split("\n")[0])
 
     summary = (
@@ -312,7 +316,7 @@ if __name__ == "__main__":
         "h-index: {2} / "
         "{3} first-author refereed, {4} under review  ({0})"
     ).format(date.today(), ncitations, hindex, nfirst, nfirst_submit)
-    with open("../supp_tex/pubs_summary.tex", "w") as f:
+    with open(os.path.join(supp_tex_path, "pubs_summary.tex"), "w") as f:
         f.write(summary)
 
     # todo: refactor. this is gross. maybe some kind of partial func.
@@ -329,12 +333,12 @@ if __name__ == "__main__":
     )
 
     # for now, written to tex files even if they're gonna be used in a text file.
-    with open("../supp_tex/pubs_ref.tex", "w") as f:
+    with open(os.path.join(supp_tex_path, "pubs_ref.tex"), "w") as f:
         f.write("\n\n".join(ref))
-    with open("../supp_tex/pubs_unref.tex", "w") as f:
+    with open(os.path.join(supp_tex_path, "pubs_unref.tex"), "w") as f:
         f.write("\n\n".join(unref))
 
-    with open("../supp_tex/pubs_ref_short.tex", "w") as f:
+    with open(os.path.join(supp_tex_path, "pubs_ref_short.tex"), "w") as f:
         f.write("\n\n".join(ref_short))
-    with open("../supp_tex/pubs_unref_short.tex", "w") as f:
+    with open(os.path.join(supp_tex_path, "pubs_unref_short.tex"), "w") as f:
         f.write("\n\n".join(unref_short))

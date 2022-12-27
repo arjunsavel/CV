@@ -14,6 +14,9 @@ import requests
 
 import cv
 
+cv_root = inspect.getfile(cv).split("cv")[0]
+data_path = os.path.join(cv_root, "data")
+
 cv_path = inspect.getfile(cv).split("__init")[0]
 here = os.path.join(cv_path, "scripts")
 # here = os.path.abspath("")
@@ -102,5 +105,5 @@ if __name__ == "__main__":
         paper_dict = get_papers("Savel, Arjun Baliga")
 
     print(paper_dict)
-    with open("../data/ads_scrape.json", "w") as f:
+    with open(os.path.join(data_path, "ads_scrape.json"), "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
