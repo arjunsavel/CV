@@ -119,6 +119,20 @@ def check_inpress(pub):
         return results.text and "accepted" in results.text.lower()
 
 
+def add_student_attribution(pub, last_name, start_year, end_year):
+    """
+    Adds an asterisk to a student's name.
+    """
+    pub_year = eval(pub["year"])
+    if start_year <= pub_year and end_year >= pub_year:
+        # todo: fix, as will catch overlapping last names.
+        ns = [i for i in range(len(pub["authors"])) if last_name in pub["authors"][i]]
+        if len(ns) > 0:
+            n = ns[0]
+            pub["authors"][n] = "*" + pub["authors"][n]
+    return pub
+
+
 def format_for_students(pub):
     """
     formats a publication to add students in first 5 authors.
@@ -137,15 +151,9 @@ def format_for_students(pub):
         last_name, first_name = student_name.split(", ")
         start_year, end_year = data[student_name].split(", ")
         start_year, end_year = eval(start_year), eval(end_year)
-        pub_year = eval(pub["year"])
-        if start_year <= pub_year and end_year >= pub_year:
-            # todo: fix, as will catch overlapping last names.
-            ns = [
-                i for i in range(len(pub["authors"])) if last_name in pub["authors"][i]
-            ]
-            if len(ns) > 0:
-                n = ns[0]
-                pub["authors"][n] = "*" + pub["authors"][n]
+
+        pub = add_student_attribution(pub, last_name, start_year, end_year)
+
     return pub
 
 
