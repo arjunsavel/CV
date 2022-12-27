@@ -179,12 +179,10 @@ def add_other_coauthors(string, others):
     return string
 
 
-def format_authors(authors, cutoff_length, short, n):
+def format_authors(fmt, authors, cutoff_length, short, n):
     """
     fix how the authors are formatted.
     """
-    fmt = ""
-
     if len(authors) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
 
@@ -205,8 +203,7 @@ def format_authors(authors, cutoff_length, short, n):
     return fmt
 
 
-def format_doi(doi, pub_title):
-    fmt = ""
+def format_doi(fmt, doi, pub_title):
     if FORMAT_STYLE == "latex":
         if doi is not None:
             fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
@@ -249,8 +246,8 @@ def format_pub(args):
     else:
         fmt += pub["authors"][0]
 
-    fmt += format_authors(pub["authors"], cutoff_length, short, n)
-    fmt += format_doi(pub["doi"], pub_title)
+    fmt = format_authors(fmt, pub["authors"], cutoff_length, short, n)
+    fmt = format_doi(fmt, pub["doi"], pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(pub["pub"].strip("0123456789# "), pub["pub"])
