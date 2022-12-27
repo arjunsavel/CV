@@ -1,5 +1,6 @@
 import unittest
 
+import gsheets
 from cv.scrape_google_scholar import *
 from cv.scrape_joss import *
 from cv.scrape_ads import *
