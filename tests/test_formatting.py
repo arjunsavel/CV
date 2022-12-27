@@ -1,6 +1,5 @@
 import unittest
-from scripts import *
-from CV.format_pubs import *
+from cv.scripts.format_pubs import *
 class TestFormatStudent(unittest.TestCase):
 
     def test_format_student_not_in_pub(self):

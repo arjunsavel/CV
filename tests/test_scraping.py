@@ -1,9 +1,9 @@
 import unittest
 
 import gsheets
-from cv.scrape_google_scholar import *
-from cv.scrape_joss import *
-from cv.scrape_ads import *
+from cv.scripts.scrape_google_scholar import *
+from cv.scripts.scrape_joss import *
+from cv.scripts.scrape_ads import *
 
 class TestGoogleScholar(unittest.TestCase):
 
