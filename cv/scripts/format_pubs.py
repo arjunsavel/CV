@@ -39,6 +39,22 @@ with open(os.path.join(data_path, "in_press.txt")) as f:
 
 
 def write_tex_file(filename, contents):
+    """
+    Writes a set of strings to a .tex file.
+
+    Inputs
+    ------
+        :filename: (str) JUST THE ACTUAL NAME of the file. directory is passed from above.
+        :contents: (str) what goes in the file?
+
+    Outputs
+    -------
+        None
+
+    Side effects
+    ------------
+        Creates or overwrites the file it says it'll write to.
+    """
     with open(os.path.join(supp_tex_path, filename), "w") as f:
         f.write("\n\n".join(contents))
 
@@ -46,6 +62,14 @@ def write_tex_file(filename, contents):
 def check_preprint(pub):
     """
     checks whether a publication is just a preprint.
+
+    Inputs
+    ------
+        :pub: (dict) a object containing all the publication information.
+
+    Outputs
+    -------
+        True if it's a preprint. False otherwise.
     """
     return "ArXiv" in pub["pub"] or "arXiv" in pub["pub"]
 
@@ -53,6 +77,15 @@ def check_preprint(pub):
 def check_preprint_match(ref1, ref2):
     """
     Checks whether two references have the same title.
+
+    Inputs
+    ------
+        :ref1: (dict) pub doing the checking. the supposed journal article.
+        :ref2: (dict) pub being checked against. The supposed preprint
+
+    Outputs
+    -------
+        True if they match on title!
     """
     return (
         check_preprint(ref2)
@@ -62,6 +95,24 @@ def check_preprint_match(ref1, ref2):
 
 
 def match_arxiv(ref, other_ref, i, ref_list):
+    """
+    Do the articles match? If so, ref gets the arxiv and citations from other_ref.
+
+    Inputs
+    ------
+        :ref: (dict) pub doing the checking. the supposed journal article.
+        :other_ref: (dict) pub being checked against. The supposed preprint
+        :i: (int) index in the ref_list that other_ref is at.
+        :ref_list: (list of dicts) all the pubs in a list.
+
+    Outputs
+    ------
+        None
+
+    Side Effects
+    ------------
+        Mutates the ref arxiv and citations field.
+    """
     if check_preprint_match(ref, other_ref):
         ref["arxiv"] = other_ref["arxiv"]
         ref["citations"] += other_ref["citations"]
@@ -73,6 +124,13 @@ def check_duplicates(ref_list):
     Checks a given reference list for duplicates. If there are duplicates...joins them!
     todo: make some other check for similarity in author list.
     todo: title similarity check should be inclusive of weird character changes.
+
+    Inputs
+    ------
+        :ref_list: (list of dicts) all the pubs
+
+    Outputs
+        :ref_list: (list of dicts) same as above, but now matched on arxiv.
     """
     for ref in ref_list:
         for i, other_ref in enumerate(ref_list.copy()):
@@ -90,6 +148,10 @@ def check_inpress(pub):
     Inputs
     -------
     :pub: (dict) publication object. Needs to have 'title' key.
+
+    Outputs
+    -------
+        True if it's inpress!
     """
 
     # # read in the in press data
@@ -146,6 +208,16 @@ def format_for_students(pub):
 
 
 def format_index(ind):
+    """
+    Formats the index depending on whether it's LaTeX or a text file.
+
+    Inputs
+    ------
+        :ind: (int) index of a given pub.
+
+    Outputs
+        A str. The formatted index.
+    """
     if FORMAT_STYLE == "latex":
         return "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     return str(ind)
