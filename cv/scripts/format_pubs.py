@@ -59,7 +59,6 @@ def check_preprint_match(ref1, ref2):
         and ref["title"] == ref2["title"]
         and not check_preprint(ref1)
     )
-    return ref["title"] == ref2["title"]
 
 
 def check_duplicates(ref_list):
@@ -95,6 +94,7 @@ def check_inpress(pub):
         in_press[i] = press.split("\n")[0]
 
     if pub["title"] in in_press:
+        pub["doctype"] = "article"
         return True
     else:
         # more general case
@@ -104,6 +104,8 @@ def check_inpress(pub):
 
         soup = BeautifulSoup(page.content, "html.parser")
         results = soup.find(class_="comments")
+        if results.text and "accepted" in results.text.lower():
+            pub["doctype"] = "article"
         return results.text and "accepted" in results.text.lower()
 
 
@@ -134,7 +136,6 @@ def format_for_students(pub):
     f.close()
     student_names = data.keys()
 
-    # todo: refactor below
     for student_name in student_names:
         last_name, first_name = student_name.split(", ")
         start_year, end_year = data[student_name].split(", ")
@@ -309,9 +310,7 @@ if __name__ == "__main__":
 
     # want to include in press articles under refereed
     for pub in pubs:
-        if check_inpress(pub):
-            print(pub["title"])
-            pub["doctype"] = "article"
+        check_inpress(pub)
 
     ref_list = [p for p in pubs if p["doctype"] == "article"]
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
