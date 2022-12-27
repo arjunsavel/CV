@@ -12,6 +12,8 @@ from operator import itemgetter
 import requests
 from bs4 import BeautifulSoup
 
+import cv
+
 GOOGLE_SCHOLAR = False
 FORMAT_STYLE = "text"
 FIRSTNAME = "Arjun"
