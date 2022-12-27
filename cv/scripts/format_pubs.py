@@ -179,10 +179,15 @@ def add_other_coauthors(string, others):
     return string
 
 
-def format_authors(fmt, authors, cutoff_length, short, n):
+def format_authors(fmt, authors, short, n):
     """
     fix how the authors are formatted.
     """
+    if short:
+        cutoff_length = 1
+    else:
+        cutoff_length = 4
+
     if len(authors) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
 
@@ -228,12 +233,7 @@ def format_pub(args):
 
     pub_title = format_title(pub["title"])
 
-    if short:
-        cutoff_length = 1
-    else:
-        cutoff_length = 4
-
-    fmt = format_authors(fmt, pub["authors"], cutoff_length, short, n)
+    fmt = format_authors(fmt, pub["authors"], short, n)
     fmt = format_doi(fmt, pub["doi"], pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
