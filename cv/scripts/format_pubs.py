@@ -67,12 +67,15 @@ def check_duplicates(ref_list):
     todo: make some other check for similarity in author list.
     todo: title similarity check should be inclusive of weird character changes.
     """
+    copy = ref_list.copy()
     for ref in ref_list:
-        for i, other_ref in enumerate(ref_list.copy()):
+        i = 0
+        for other_ref in copy:
             if check_preprint_match(ref, other_ref):
                 ref["arxiv"] = other_ref["arxiv"]
                 ref["citations"] += other_ref["citations"]
                 del ref_list[i]
+                i += i
 
     return ref_list
 
