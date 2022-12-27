@@ -3,6 +3,7 @@ Heavily inspired by dfm/cv/scripts/render.py
 """
 
 import importlib.util
+import inspect
 import json
 import os
 from datetime import date
@@ -16,7 +17,9 @@ FORMAT_STYLE = "text"
 FIRSTNAME = "Arjun"
 LASTNAME = "Savel"
 
-here = os.path.abspath("")
+cv_path = inspect.getfile(cv).split("__init")[0]
+here = os.path.join(cv_path, "scripts")
+# here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
 )
