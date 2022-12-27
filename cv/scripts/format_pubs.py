@@ -100,17 +100,16 @@ def check_inpress(pub):
     if pub["title"] in in_press:
         pub["doctype"] = "article"
         return True
-    else:
-        # more general case
-        URL = "http://arxiv.org/abs/" + pub["arxiv"]
+    # more general case
+    URL = "http://arxiv.org/abs/" + pub["arxiv"]
 
-        page = requests.get(URL)
+    page = requests.get(URL)
 
-        soup = BeautifulSoup(page.content, "html.parser")
-        results = soup.find(class_="comments")
-        if results.text and "accepted" in results.text.lower():
-            pub["doctype"] = "article"
-        return results.text and "accepted" in results.text.lower()
+    soup = BeautifulSoup(page.content, "html.parser")
+    results = soup.find(class_="comments")
+    if results.text and "accepted" in results.text.lower():
+        pub["doctype"] = "article"
+    return results.text and "accepted" in results.text.lower()
 
 
 def add_student_attribution(pub, last_name, start_year, end_year):
@@ -153,15 +152,13 @@ def format_for_students(pub):
 def format_index(ind):
     if FORMAT_STYLE == "latex":
         return "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
-    else:
-        return str(ind)
+    return str(ind)
 
 
 def format_title(title):
     if FORMAT_STYLE == "latex":
         return title.replace("{\\&}amp;", "\&")  # for latex literal interp.
-    else:
-        return title.replace("{\\&}amp;", "&")  # for latex literal interp.
+    return title.replace("{\\&}amp;", "&")
 
 
 def add_etal(string):
