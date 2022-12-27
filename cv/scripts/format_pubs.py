@@ -220,10 +220,8 @@ def format_doi(doi, pub_title):
         else:
             fmt += ", \\emph{{{0}}}".format(pub_title)
     else:
-        if doi is not None:
-            fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
-        else:
-            fmt += ", \\emph{{{0}}}".format(pub_title)
+        # can't hyperlink text?
+        fmt += ", {0}".format(pub_title)
 
     return fmt
 
