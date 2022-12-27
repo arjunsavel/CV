@@ -115,11 +115,7 @@ def check_inpress(pub):
 
         soup = BeautifulSoup(page.content, "html.parser")
         results = soup.find(class_="comments")
-        if results.text:
-            return "accepted" in results.text.lower()
-        else:
-            # if no comments
-            return False
+        return results.text and "accepted" in results.text.lower()
 
 
 def format_for_students(pub):
