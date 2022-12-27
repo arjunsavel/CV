@@ -59,10 +59,15 @@ def check_preprint(pub):
     return "ArXiv" in pub["pub"] or "arXiv" in pub["pub"]
 
 
-def check_title_match(ref1, ref2):
+def check_preprint_match(ref1, ref2):
     """
     Checks whether two references have the same title.
     """
+    return (
+        check_preprint(ref2)
+        and ref["title"] == ref2["title"]
+        and not check_preprint(ref1)
+    )
     return ref["title"] == ref2["title"]
 
 
@@ -74,11 +79,7 @@ def check_duplicates(ref_list):
     """
     for ref in ref_list:
         for i, other_ref in enumerate(ref_list.copy()):
-            if (
-                check_preprint(other_ref)
-                and not check_preprint(ref)
-                and check_title_match(ref, other_ref)
-            ):
+            if check_preprint_match(ref, other_ref):
                 ref["arxiv"] = other_ref["arxiv"]
                 ref["citations"] += other_ref["citations"]
                 del ref_list[i]
@@ -122,7 +123,6 @@ def format_for_students(pub):
     """
     formats a publication to add students in first 5 authors.
     """
-    import json
 
     # Opening JSON file.
     f = open(os.path.join(data_path, "students.json"))
@@ -135,7 +135,6 @@ def format_for_students(pub):
     # todo: refactor below
     for student_name in student_names:
         last_name, first_name = student_name.split(", ")
-        first_initial = first_name[0]
         start_year, end_year = data[student_name].split(", ")
         start_year, end_year = eval(start_year), eval(end_year)
         pub_year = eval(pub["year"])
