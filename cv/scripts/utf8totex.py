@@ -794,16 +794,14 @@ utf82latex = {
 # ------------------------------------------------------------------------------------------------
 
 
-def utf8totex(
-    s, non_ascii_only=False, brackets=True, substitute_bad_chars=False
-):
+def utf8totex(s, non_ascii_only=False, brackets=True, substitute_bad_chars=False):
     # s = unicode(s); # make sure s is unicode
     s = unicodedata.normalize("NFC", s)
 
     if not s:
         return ""
 
-    result = u""
+    result = ""
     for ch in s:
         # log.longdebug("Encoding char %r", ch)
         if non_ascii_only and ord(ch) < 127:
@@ -813,16 +811,14 @@ def utf8totex(
             if lch is not None:
                 # add brackets if needed, i.e. if we have a substituting macro.
                 # note: in condition, beware, that lch might be of zero length.
-                result += (
-                    "{" + lch + "}" if brackets and lch[0:1] == "\\" else lch
-                )
+                result += "{" + lch + "}" if brackets and lch[0:1] == "\\" else lch
             elif (ord(ch) >= 32 and ord(ch) <= 127) or (ch in "\n\r\t"):
                 # ordinary printable ascii char, just add it
                 result += ch
             else:
                 # non-ascii char
                 log.warning(
-                    u"Character cannot be encoded into LaTeX: U+%04X - `%s'"
+                    "Character cannot be encoded into LaTeX: U+%04X - `%s'"
                     % (ord(ch), ch)
                 )
                 if substitute_bad_chars:

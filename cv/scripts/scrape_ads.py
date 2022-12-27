@@ -11,7 +11,7 @@ from operator import itemgetter
 import ads
 import requests
 
-here = os.path.abspath('')
+here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
 )
@@ -19,6 +19,7 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 # need to add ADS token
+
 
 def get_papers(author):
     papers = list(
@@ -77,26 +78,24 @@ def get_papers(author):
                 page=page,
                 arxiv=aid[0] if len(aid) else None,
                 citations=(
-                    paper.citation_count
-                    if paper.citation_count is not None
-                    else 0
+                    paper.citation_count if paper.citation_count is not None else 0
                 ),
                 url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
             )
         )
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
+
 if __name__ == "__main__":
     # tries once more if there's a timeout error
     try:
-        paper_dict = get_papers('Savel, Arjun Baliga')
+        paper_dict = get_papers("Savel, Arjun Baliga")
     except requests.Timeout as err:
-        print('Timeout error')
+        print("Timeout error")
         print(err)
         time.sleep(60)
-        paper_dict = get_papers('Savel, Arjun Baliga')
-        
+        paper_dict = get_papers("Savel, Arjun Baliga")
+
     print(paper_dict)
     with open("../data/ads_scrape.json", "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
-    

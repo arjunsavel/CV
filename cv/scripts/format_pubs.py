@@ -12,11 +12,11 @@ import requests
 from bs4 import BeautifulSoup
 
 GOOGLE_SCHOLAR = False
-FORMAT_STYLE = 'text'
-FIRSTNAME = 'Arjun'
-LASTNAME = 'Savel'
+FORMAT_STYLE = "text"
+FIRSTNAME = "Arjun"
+LASTNAME = "Savel"
 
-here = os.path.abspath('')
+here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
 )
@@ -34,14 +34,17 @@ JOURNAL_MAP = {
     "IAU General Assembly": "IAU",
     "Astronomy and Astrophysics": "\\aanda",
     "American Astronomical Society Meeting Abstracts": "AAS",
-    "The Journal of Open Source Software": "JOSS"
+    "The Journal of Open Source Software": "JOSS",
 }
+
 
 def check_preprint(pub):
     """
     checks whether a publication is just a preprint.
     """
-    return "ArXiv" in pub['pub'] or "arXiv" in pub['pub']
+    return "ArXiv" in pub["pub"] or "arXiv" in pub["pub"]
+
+
 def check_duplicates(ref_list):
     """
     Checks a given reference list for duplicates. If there are duplicates...joins them!
@@ -50,9 +53,13 @@ def check_duplicates(ref_list):
     """
     for ref in ref_list:
         for i, other_ref in enumerate(ref_list.copy()):
-            if check_preprint(other_ref) and not check_preprint(ref) and ref['title'] == other_ref['title']:
-                ref['arxiv'] = other_ref['arxiv']
-                ref['citations'] += other_ref['citations']
+            if (
+                check_preprint(other_ref)
+                and not check_preprint(ref)
+                and ref["title"] == other_ref["title"]
+            ):
+                ref["arxiv"] = other_ref["arxiv"]
+                ref["citations"] += other_ref["citations"]
                 del ref_list[i]
 
     return ref_list
@@ -61,7 +68,7 @@ def check_duplicates(ref_list):
 def check_inpress(pub):
     """
     Checks whether a given paper is in the inpress data file.
-    If so, it should go under "peer-reviewed" in the CV — with the 
+    If so, it should go under "peer-reviewed" in the CV — with the
     caveat that it's in press.
 
     Inputs
@@ -70,25 +77,25 @@ def check_inpress(pub):
     """
 
     # # read in the in press data
-    f = open('../data/in_press.txt')
+    f = open("../data/in_press.txt")
     in_press = f.readlines()
     f.close()
 
     for i, press in enumerate(in_press):
-        in_press[i] = press.split('\n')[0]
+        in_press[i] = press.split("\n")[0]
 
-    if pub['title'] in in_press:
+    if pub["title"] in in_press:
         return True
     else:
         # more general case
-        URL = 'http://arxiv.org/abs/' + pub['arxiv']
+        URL = "http://arxiv.org/abs/" + pub["arxiv"]
 
         page = requests.get(URL)
 
         soup = BeautifulSoup(page.content, "html.parser")
         results = soup.find(class_="comments")
         if results.text:
-            return 'accepted' in results.text.lower()
+            return "accepted" in results.text.lower()
         else:
             # if no comments
             return False
@@ -101,49 +108,50 @@ def format_for_students(pub):
     import json
 
     # Opening JSON file.
-    f = open('../data/students.json')
+    f = open("../data/students.json")
 
     # returns JSON object as a dictionary
     data = json.load(f)
     f.close()
     student_names = data.keys()
-    
+
     # todo: refactor below
     for student_name in student_names:
-        last_name, first_name = student_name.split(', ')
+        last_name, first_name = student_name.split(", ")
         first_initial = first_name[0]
-        start_year, end_year = data[student_name].split(', ')
+        start_year, end_year = data[student_name].split(", ")
         start_year, end_year = eval(start_year), eval(end_year)
         pub_year = eval(pub["year"])
         if start_year <= pub_year and end_year >= pub_year:
             # todo: fix, as will catch overlapping last names.
             ns = [
-                i
-                for i in range(len(pub["authors"]))
-                if last_name in pub["authors"][i]
+                i for i in range(len(pub["authors"])) if last_name in pub["authors"][i]
             ]
             if len(ns) > 0:
                 n = ns[0]
-                pub["authors"][n] = '*' + pub["authors"][n]
+                pub["authors"][n] = "*" + pub["authors"][n]
     return pub
 
+
 def format_index(ind):
-    if FORMAT_STYLE == 'latex':
+    if FORMAT_STYLE == "latex":
         return "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     else:
         return str(ind)
 
+
 def format_title(title):
-    if FORMAT_STYLE == 'latex':
-        return title.replace('{\\&}amp;', '\&') # for latex literal interp.
+    if FORMAT_STYLE == "latex":
+        return title.replace("{\\&}amp;", "\&")  # for latex literal interp.
     else:
-        return title.replace('{\\&}amp;', '&')  # for latex literal interp.
+        return title.replace("{\\&}amp;", "&")  # for latex literal interp.
+
 
 def format_authors(authors, cutoff_length, short, n):
     """
     fix how the authors are formatted.
     """
-    fmt = ''
+    fmt = ""
 
     if len(authors) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
@@ -152,7 +160,7 @@ def format_authors(authors, cutoff_length, short, n):
         else:
             fmt += "et al. "
         if n >= cutoff_length - 1 and not short:
-            others = len(pub['authors']) - (cutoff_length - 1)
+            others = len(pub["authors"]) - (cutoff_length - 1)
             if FORMAT_STYLE == "latex":
                 fmt += "\\ ({{{0}}} other co-authors, ".format(others)
                 fmt += "incl.\\ \\textbf{{{0}}, {{1}}})".format(LASTNAME, FIRSTNAME)
@@ -168,9 +176,10 @@ def format_authors(authors, cutoff_length, short, n):
     fmt += " {0}".format(pub["year"])
     return fmt
 
+
 def format_doi(doi, pub_title):
-    fmt = ''
-    if FORMAT_STYLE == 'latex':
+    fmt = ""
+    if FORMAT_STYLE == "latex":
         if doi is not None:
             fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
         else:
@@ -183,34 +192,29 @@ def format_doi(doi, pub_title):
 
     return fmt
 
+
 def format_pub(args):
     ind, pub, short = args
     pub = pub.copy()
 
-
     fmt = format_index(ind)
-    n = [
-        i
-        for i in range(len(pub["authors"]))
-        if LASTNAME in pub["authors"][i]
-    ][0]
+    n = [i for i in range(len(pub["authors"])) if LASTNAME in pub["authors"][i]][0]
     pub["authors"][n] = "\\textbf{{{0}}, {{1}}}".format(LASTNAME, FIRSTNAME)
-    
+
     pub = format_for_students(pub)
-    
+
     pub_title = format_title(pub["title"])
-    
+
     if short:
         cutoff_length = 1
     else:
         cutoff_length = 4
 
-    
     if len(pub["authors"]) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
         fmt += " \\etal "
         if n >= cutoff_length - 1 and not short:
-            others = len(pub['authors']) - (cutoff_length - 1)
+            others = len(pub["authors"]) - (cutoff_length - 1)
             fmt += "\\ ({{{0}}} other co-authors, ".format(others)
             fmt += "incl.\\ \\textbf{Savel, Arjun})"
     elif len(pub["authors"]) > 1:
@@ -219,13 +223,11 @@ def format_pub(args):
     else:
         fmt += pub["authors"][0]
 
-    fmt += format_authors(pub['authors'], cutoff_length, short, n)
-    fmt += format_doi(pub['doi'], pub_title)
+    fmt += format_authors(pub["authors"], cutoff_length, short, n)
+    fmt += format_doi(pub["doi"], pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
-        fmt += ", " + JOURNAL_MAP.get(
-            pub["pub"].strip("0123456789# "), pub["pub"]
-        )
+        fmt += ", " + JOURNAL_MAP.get(pub["pub"].strip("0123456789# "), pub["pub"])
         if short:
             fmt += "\\ "
 
@@ -235,22 +237,21 @@ def format_pub(args):
     if pub["page"] is not None and not short:
         fmt += ", {0}".format(pub["page"])
 
-    if (pub["arxiv"] is not None and not short) or pub["pub"] in [None, "ArXiv e-prints"]:
+    if (pub["arxiv"] is not None and not short) or pub["pub"] in [
+        None,
+        "ArXiv e-prints",
+    ]:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if check_inpress(pub):
         # need to add caveat!
-        fmt += ' (in press)'
-        
+        fmt += " (in press)"
+
     if pub["url"] is not None and pub["citations"] == 1:
-        fmt += " [\\href{{{0}}}{{{1} citation}}]".format(
-            pub["url"], pub["citations"]
-        )
-        
+        fmt += " [\\href{{{0}}}{{{1} citation}}]".format(pub["url"], pub["citations"])
+
     elif pub["url"] is not None and pub["citations"] > 1:
-        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(
-            pub["url"], pub["citations"]
-        )
+        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"], pub["citations"])
 
     return fmt
 
@@ -263,14 +264,12 @@ if __name__ == "__main__":
     else:
         with open("../data/ads_scrape.json", "r") as f:
             pubs = json.load(f)
-    
 
     with open("../data/ads_scrape.json", "r") as f:
         pubs = json.load(f)
 
-
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
-    
+
     # want to include articles and preprints, but not Zenodo repos.
     pubs = [
         p
@@ -280,13 +279,13 @@ if __name__ == "__main__":
             and p["pub"] != "Zenodo Software Release"
         )
     ]
-    
+
     # want to include in press articles under refereed
     for pub in pubs:
         if check_inpress(pub):
             print(pub["title"])
             pub["doctype"] = "article"
-    
+
     ref_list = [p for p in pubs if p["doctype"] == "article"]
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
@@ -299,9 +298,9 @@ if __name__ == "__main__":
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
-    
+
     with open("../supp_tex/n_first_submit.tex") as f:
-        nfirst_submit = eval(f.readlines()[0].split('\n')[0])
+        nfirst_submit = eval(f.readlines()[0].split("\n")[0])
 
     summary = (
         "citations: {1} / "
@@ -310,28 +309,27 @@ if __name__ == "__main__":
     ).format(date.today(), ncitations, hindex, nfirst, nfirst_submit)
     with open("../supp_tex/pubs_summary.tex", "w") as f:
         f.write(summary)
-    
+
     # todo: refactor. this is gross. maybe some kind of partial func.
     short = [False for i in range(len(ref_list))]
-    
+
     ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
     unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
-    
+
     # todo: refactor. this is gross.
     short = [True for i in range(len(ref))]
     ref_short = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
-    unref_short = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
-
-
+    unref_short = list(
+        map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short))
+    )
 
     # for now, written to tex files even if they're gonna be used in a text file.
     with open("../supp_tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("../supp_tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
-        
+
     with open("../supp_tex/pubs_ref_short.tex", "w") as f:
         f.write("\n\n".join(ref_short))
     with open("../supp_tex/pubs_unref_short.tex", "w") as f:
         f.write("\n\n".join(unref_short))
-        
