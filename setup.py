@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 ###################################################################
 
 NAME = "cv"
-PACKAGES = find_packages(where="./")
+PACKAGES = find_packages()
 META_PATH = os.path.join("scripts", "__init__.py")
 CLASSIFIERS = [
     "Development Status :: 5 - Production/Stable",
