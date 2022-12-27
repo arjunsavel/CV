@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+cv/cv.egg-info/PKG-INFO
+cv/cv.egg-info/SOURCES.txt
+cv/cv.egg-info/dependency_links.txt
+cv/cv.egg-info/not-zip-safe
+cv/cv.egg-info/requires.txt
+cv/cv.egg-info/top_level.txt
+cv/scripts/__init__.py
+cv/scripts/count_n_review.py
+cv/scripts/format_pubs.py
+cv/scripts/scrape_ads.py
+cv/scripts/scrape_google_scholar.py
+cv/scripts/scrape_joss.py
+cv/scripts/utf8totex.py
+cv/scripts/write_joss.py
