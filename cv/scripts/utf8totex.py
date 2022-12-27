@@ -852,8 +852,8 @@ if __name__ == "__main__":
         print("\n-------------\n")
 
     except:
-        import pdb
+        # import pdb
         import sys
 
         print("\nEXCEPTION: " + unicode(sys.exc_info()[1]) + "\n")
-        pdb.post_mortem()
+        # pdb.post_mortem()

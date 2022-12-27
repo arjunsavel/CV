@@ -5,8 +5,7 @@ import codecs
 import os
 import re
 
-from setuptools import setup, find_packages
-
+from setuptools import find_packages, setup
 
 ###################################################################
 
@@ -20,15 +19,9 @@ CLASSIFIERS = [
     "Operating System :: Unix",
     "Operating System :: MacOS",
     "Programming Language :: Python",
-    'Topic :: Text Processing :: Markup :: LaTeX'
-
-
+    "Topic :: Text Processing :: Markup :: LaTeX",
 ]
-INSTALL_REQUIRES = ["pandas",
-			"numpy",
-			"gsheets",
-			"ads",
-			"beautifulsoup4"]
+INSTALL_REQUIRES = ["pandas", "numpy", "gsheets", "ads", "beautifulsoup4"]
 
 ###################################################################
 
@@ -52,8 +45,7 @@ def find_meta(meta):
     Extract __*meta*__ from META_FILE.
     """
     meta_match = re.search(
-        r"^__{meta}__ = ['\"]([^'\"]*)['\"]".format(meta=meta),
-        META_FILE, re.M
+        r"^__{meta}__ = ['\"]([^'\"]*)['\"]".format(meta=meta), META_FILE, re.M
     )
     if meta_match:
         return meta_match.group(1)
@@ -71,7 +63,7 @@ if __name__ == "__main__":
         author_email=find_meta("email"),
         maintainer=find_meta("author"),
         maintainer_email=find_meta("email"),
-	    package_data={'': ['README.md', 'LICENSE']},
+        package_data={"": ["README.md", "LICENSE"]},
         long_description=read("README.md"),
         long_description_content_type="text/x-rst",
         packages=PACKAGES,
