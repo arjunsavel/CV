@@ -47,6 +47,11 @@ JOURNAL_MAP = {
 }
 
 
+def write_tex_file(filename, contents):
+    with open(os.path.join(supp_tex_path, filename), "w") as f:
+        f.write("\n\n".join(contents))
+
+
 def check_preprint(pub):
     """
     checks whether a publication is just a preprint.
@@ -333,12 +338,7 @@ if __name__ == "__main__":
     )
 
     # for now, written to tex files even if they're gonna be used in a text file.
-    with open(os.path.join(supp_tex_path, "pubs_ref.tex"), "w") as f:
-        f.write("\n\n".join(ref))
-    with open(os.path.join(supp_tex_path, "pubs_unref.tex"), "w") as f:
-        f.write("\n\n".join(unref))
-
-    with open(os.path.join(supp_tex_path, "pubs_ref_short.tex"), "w") as f:
-        f.write("\n\n".join(ref_short))
-    with open(os.path.join(supp_tex_path, "pubs_unref_short.tex"), "w") as f:
-        f.write("\n\n".join(unref_short))
+    write_tex_file("pubs_ref.tex", ref)
+    write_tex_file("pubs_unref.tex", unref)
+    write_tex_file("pubs_ref_short.tex", ref_short)
+    write_tex_file("pubs_unref_short.tex", unref_short)
