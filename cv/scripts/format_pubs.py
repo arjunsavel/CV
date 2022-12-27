@@ -233,19 +233,6 @@ def format_pub(args):
     else:
         cutoff_length = 4
 
-    if len(pub["authors"]) > cutoff_length:
-        fmt += "; ".join(pub["authors"][:cutoff_length])
-        fmt += " \\etal "
-        if n >= cutoff_length - 1 and not short:
-            others = len(pub["authors"]) - (cutoff_length - 1)
-            fmt += "\\ ({{{0}}} other co-authors, ".format(others)
-            fmt += "incl.\\ \\textbf{Savel, Arjun})"
-    elif len(pub["authors"]) > 1:
-        fmt += "; ".join(pub["authors"][:-1])
-        fmt += "; \\& " + pub["authors"][-1]
-    else:
-        fmt += pub["authors"][0]
-
     fmt = format_authors(fmt, pub["authors"], cutoff_length, short, n)
     fmt = format_doi(fmt, pub["doi"], pub_title)
 
