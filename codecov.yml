@@ -5,3 +5,5 @@ coverage:
   ignore:
     - "__init__.py"
     - "tests"
+    - "scripts/utf8totex.py"
+    - "scripts/__init__.py"
