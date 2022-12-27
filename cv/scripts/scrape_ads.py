@@ -11,6 +11,8 @@ from operator import itemgetter
 import ads
 import requests
 
+import cv
+
 here = os.path.join(os.path.abspath(cv.__file__), "scripts")
 # here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
