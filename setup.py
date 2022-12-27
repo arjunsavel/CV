@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 ###################################################################
 
-NAME = "CV"
+NAME = "cv"
 PACKAGES = find_packages(where="src")
 META_PATH = os.path.join("scripts", "__init__.py")
 CLASSIFIERS = [
