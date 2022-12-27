@@ -1,5 +1,5 @@
 import unittest
-
+from scripts import *
 from CV.format_pubs import *
 class TestFormatStudent(unittest.TestCase):
 
