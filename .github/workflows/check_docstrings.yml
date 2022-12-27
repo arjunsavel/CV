@@ -1,0 +1,36 @@
+name: Docstrings
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events only for main branch
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of >=1 jobs, run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of job
+    steps:
+      - uses: actions/checkout@main
+        with:
+          submodules: 'true'
+      - name: Setup Python
+        uses: actions/setup-python@main
+        with:
+          python-version: 3.8
+      - name: Check docstrings
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install --upgrade setuptools
+          python3 -m pip install -e .
+          pip3 install docstr-coverage
+          
+          docstr-coverage cv/scripts --exclude=utf8totex.py --verbose=2 --badge=data/badge.csv
