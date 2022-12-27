@@ -132,14 +132,10 @@ def format_for_students(pub):
     """
 
     # Opening JSON file.
-    f = open(os.path.join(data_path, "students.json"))
+    with open(os.path.join(data_path, "students.json")) as f:
+        data = json.load(f).keys()
 
-    # returns JSON object as a dictionary
-    data = json.load(f)
-    f.close()
-    student_names = data.keys()
-
-    for student_name in student_names:
+    for student_name in data.keys():
         last_name, first_name = student_name.split(", ")
         start_year, end_year = data[student_name].split(", ")
         start_year, end_year = eval(start_year), eval(end_year)
