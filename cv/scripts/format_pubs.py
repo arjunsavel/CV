@@ -2,11 +2,12 @@
 Heavily inspired by dfm/cv/scripts/render.py
 """
 
+import importlib.util
+import json
+import os
 from datetime import date
 from operator import itemgetter
-import json
-import importlib.util
-import os
+
 import requests
 from bs4 import BeautifulSoup
 

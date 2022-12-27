@@ -2,14 +2,14 @@
 Heavily inspired by dfm/cv/update-astro-pubs
 """
 
-import ads
-from operator import itemgetter
-import json
 import importlib.util
+import json
 import os
 import time
-import requests
+from operator import itemgetter
 
+import ads
+import requests
 
 here = os.path.abspath('')
 spec = importlib.util.spec_from_file_location(

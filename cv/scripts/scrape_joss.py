@@ -1,8 +1,9 @@
+import sys
+
+import numpy as np
 import pandas as pd
 from gsheets import Sheets
-import numpy as np
 
-import sys
 
 def get_joss_table(data):
 

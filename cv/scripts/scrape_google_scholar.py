@@ -1,8 +1,10 @@
-from bs4 import BeautifulSoup
-import requests
-import numpy as np
-import time
 import json
+import time
+
+import numpy as np
+import requests
+from bs4 import BeautifulSoup
+
 
 def clean_citation(citation):
     """

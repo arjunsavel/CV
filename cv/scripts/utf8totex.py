@@ -24,8 +24,8 @@
 #
 
 
-import unicodedata
 import logging
+import unicodedata
 
 log = logging.getLogger(__name__)
 
