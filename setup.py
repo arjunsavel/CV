@@ -11,8 +11,8 @@ from setuptools import setup, find_packages
 ###################################################################
 
 NAME = "cv"
-PACKAGES = find_packages()
-META_PATH = os.path.join("scripts", "__init__.py")
+PACKAGES = find_packages(where="cv")
+META_PATH = os.path.join("cv", "scripts", "__init__.py")
 CLASSIFIERS = [
     "Development Status :: 5 - Production/Stable",
     "Natural Language :: English",
@@ -75,7 +75,7 @@ if __name__ == "__main__":
         long_description=read("README.md"),
         long_description_content_type="text/x-rst",
         packages=PACKAGES,
-        package_dir={"": "./"},
+        package_dir={"": "cv"},
         zip_safe=False,
         classifiers=CLASSIFIERS,
         install_requires=INSTALL_REQUIRES,
