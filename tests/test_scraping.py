@@ -1,8 +1,8 @@
 import unittest
 
-from scrape_google_scholar import *
-from scrape_joss import *
-from scrape_ads import *
+from CV.scrape_google_scholar import *
+from CV.scrape_joss import *
+from CV.scrape_ads import *
 
 class TestGoogleScholar(unittest.TestCase):
 
