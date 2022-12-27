@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import cv
 
 GOOGLE_SCHOLAR = False
-FORMAT_STYLE = "text"
+FORMAT_STYLE = "latex"
 FIRSTNAME = "Arjun"
 LASTNAME = "Savel"
 
@@ -25,7 +25,6 @@ supp_tex_path = os.path.join(cv_root, "supp_tex")
 
 cv_path = inspect.getfile(cv).split("__init")[0]
 here = os.path.join(cv_path, "scripts")
-# here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
 )
@@ -34,6 +33,9 @@ spec.loader.exec_module(utf8totex)
 
 with open(os.path.join(data_path, "journal_map.json")) as f:
     JOURNAL_MAP = json.load(f)
+
+with open(os.path.join(data_path, "in_press.txt")) as f:
+    in_press = f.readlines()
 
 
 def write_tex_file(filename, contents):
@@ -88,9 +90,6 @@ def check_inpress(pub):
     """
 
     # # read in the in press data
-    f = open(os.path.join(data_path, "in_press.txt"))
-    in_press = f.readlines()
-    f.close()
 
     for i, press in enumerate(in_press):
         in_press[i] = press.split("\n")[0]
@@ -277,9 +276,6 @@ if __name__ == "__main__":
     else:
         with open(os.path.join(data_path, "ads_scrape.json"), "r") as f:
             pubs = json.load(f)
-
-    with open(os.path.join(data_path, "ads_scrape.json"), "r") as f:
-        pubs = json.load(f)
 
     pubs = sorted(pubs, key=itemgetter("pubdate"), reverse=True)
 
