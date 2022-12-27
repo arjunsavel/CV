@@ -1,10 +1,9 @@
-
 name: Update publications
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs once a day
-   - cron:  '*/60 3/24 */1 * *'
+    - cron: '*/60 3/24 */1 * *'
 jobs:
   notebooks:
     name: "Scrape and update publications"
@@ -16,7 +15,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.10.5
-          
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
@@ -25,26 +24,26 @@ jobs:
         run: |
           python -m pip install -U pip
           python -m pip install -r requirements.txt
-          
+
       - name: Scrape publications
         env:
           ADS_DEV_KEY: ${{secrets.ADS_SECRET}}
         run: |
           cd scripts
           python scrape_ads.py
-          
+
       - name: Format publications
         run: |
           cd scripts
           python format_pubs.py
-          
+
       - run: git pull
-          
+
       - name: Committing changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Scrape and update publications
-          
+
       - name: Make new release
         uses: ncipollo/release-action@v1
         with:

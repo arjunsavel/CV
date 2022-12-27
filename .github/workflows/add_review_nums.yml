@@ -3,7 +3,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs twice a day
-   - cron:  '*/60 */24 * * *'
+    - cron: '*/60 */24 * * *'
 jobs:
   notebooks:
     name: "Scrape and add JOSS reviews"
@@ -20,21 +20,21 @@ jobs:
         run: |
           python -m pip install -U pip
           python -m pip install -r requirements.txt
-          
+
       - name: Scrape the number of JOSS reviews
         env:
           SHEETS_SECRET: ${{ secrets.SHEETS_API_KEY }}
         run: |
           cd scripts
           python scrape_joss.py "$SHEETS_SECRET"
-          
+
       - name: Write the number of JOSS reviews
         run: |
           cd scripts
           python write_joss.py
-          
+
       - run: git pull
-          
+
       - name: Committing changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
