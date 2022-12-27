@@ -61,21 +61,22 @@ def check_preprint_match(ref1, ref2):
     )
 
 
+def match_arxiv(ref, other_ref, i, ref_list):
+    if check_preprint_match(ref, other_ref):
+        ref["arxiv"] = other_ref["arxiv"]
+        ref["citations"] += other_ref["citations"]
+        del ref_list[i]
+
+
 def check_duplicates(ref_list):
     """
     Checks a given reference list for duplicates. If there are duplicates...joins them!
     todo: make some other check for similarity in author list.
     todo: title similarity check should be inclusive of weird character changes.
     """
-    copy = ref_list.copy()
     for ref in ref_list:
-        i = 0
-        for other_ref in copy:
-            if check_preprint_match(ref, other_ref):
-                ref["arxiv"] = other_ref["arxiv"]
-                ref["citations"] += other_ref["citations"]
-                del ref_list[i]
-                i += i
+        for i, other_ref in enumerate(ref_list.copy()):
+            match_arxiv(ref, other_ref, i, ref_list)
 
     return ref_list
 
