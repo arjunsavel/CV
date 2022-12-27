@@ -159,6 +159,28 @@ def format_title(title):
         return title.replace("{\\&}amp;", "&")  # for latex literal interp.
 
 
+def add_etal(string):
+    """
+    adds the et al!
+    """
+    if FORMAT_STYLE == "latex":
+        string += "\\etal"
+    else:
+        string += "et al. "
+
+    return string
+
+
+def add_other_coauthors(string, others):
+    if FORMAT_STYLE == "latex":
+        string += "\\ ({{{0}}} other co-authors, ".format(others)
+        string += "incl.\\ \\textbf{{{0}}, {{1}}})".format(LASTNAME, FIRSTNAME)
+    else:
+        string += "({{{0}}} other co-authors, ".format(others)
+        string += f"incl. {LASTNAME}, {FIRSTNAME})"
+    return string
+
+
 def format_authors(authors, cutoff_length, short, n):
     """
     fix how the authors are formatted.
@@ -167,18 +189,14 @@ def format_authors(authors, cutoff_length, short, n):
 
     if len(authors) > cutoff_length:
         fmt += "; ".join(pub["authors"][:cutoff_length])
-        if FORMAT_STYLE == "latex":
-            fmt += "\\etal"
-        else:
-            fmt += "et al. "
+
+        fmt = add_etal(fmt)
+
         if n >= cutoff_length - 1 and not short:
             others = len(pub["authors"]) - (cutoff_length - 1)
-            if FORMAT_STYLE == "latex":
-                fmt += "\\ ({{{0}}} other co-authors, ".format(others)
-                fmt += "incl.\\ \\textbf{{{0}}, {{1}}})".format(LASTNAME, FIRSTNAME)
-            else:
-                fmt += "({{{0}}} other co-authors, ".format(others)
-                fmt += f"incl. {LASTNAME}, {FIRSTNAME})"
+
+            fmt = add_other_coauthors(fmt, others)
+
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
