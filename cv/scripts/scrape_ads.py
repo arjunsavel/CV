@@ -11,14 +11,15 @@ from operator import itemgetter
 import ads
 import requests
 
-here = os.path.abspath("")
+here = os.path.join(os.path.abspath(cv.__file__), "scripts")
+# here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
 )
 utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
-# need to add ADS token
+# need to add ADS token as env variable
 
 
 def get_papers(author):
