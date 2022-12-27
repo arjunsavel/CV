@@ -33,4 +33,4 @@ jobs:
           python3 -m pip install -e .
           pip3 install docstr-coverage
           
-          docstr-coverage cv/scripts --exclude=utf8totex.py --verbose=2 --badge=data/badge.csv
+          docstr-coverage cv/scripts --exclude=utf8totex.py --verbose=2 --badge=data/docstring_badge.svg
