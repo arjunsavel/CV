@@ -59,6 +59,13 @@ def check_preprint(pub):
     return "ArXiv" in pub["pub"] or "arXiv" in pub["pub"]
 
 
+def check_title_match(ref1, ref2):
+    """
+    Checks whether two references have the same title.
+    """
+    return ref["title"] == ref2["title"]
+
+
 def check_duplicates(ref_list):
     """
     Checks a given reference list for duplicates. If there are duplicates...joins them!
@@ -70,7 +77,7 @@ def check_duplicates(ref_list):
             if (
                 check_preprint(other_ref)
                 and not check_preprint(ref)
-                and ref["title"] == other_ref["title"]
+                and check_title_match(ref, other_ref)
             ):
                 ref["arxiv"] = other_ref["arxiv"]
                 ref["citations"] += other_ref["citations"]
