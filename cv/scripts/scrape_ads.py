@@ -30,6 +30,17 @@ spec.loader.exec_module(utf8totex)
 
 
 def get_papers(author):
+    """
+    Gets all the papers for a given author from NASA/ADS.
+
+    Inputs
+    ------
+        :author: (str) name of author. Lastname, firstname middle
+
+    Outputs
+    -------
+        :dicts: (list of dictionaries) the sorted dictionaries corresponding to the author's publications.
+    """
     papers = list(
         ads.SearchQuery(
             author=author,
