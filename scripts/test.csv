@@ -64,7 +64,7 @@ trallard,python R  MATLAB  , Fortran C/C++,The University of Sheffield,t.allard@
 nhejazi,R,Python,UC Berkeley (Division of Biostatistics),nhejazi@berkeley.edu,"statistics/biostatistics, machine learning, bioinformatics/genomics, data analysis / data science",0,8,1,0
 briatte,R,,"European School of Political and Social Sciences, Catholic University of Lille, France",francois.briatte@sciencespo.fr,"Social Science
 Data Acquisition, Collection and Manipulation
-Network Visualisation",0,3,1,1
+Network Visualisation",0,3,1,0
 drvinceknight,Python ,"R, sagemath",Cardiff University,knightva@cardiff.ac.uk,Mathematics,0,3,0,0
 kellieotto,"R
 Python",,UC Berkeley Department of Statistics/Berkeley Institute for Data Science,kellieotto@berkeley.edu,"Frequentist statistics
@@ -3820,7 +3820,7 @@ Optical Spectroscopy
 Single-molecule
 Modeling",0,1,1,0
 akbaritabar,"R
-Python",,DZHW,akbaritabar@gmail.com,"Computational Social Science, Network analysis, Sociology",0,2,1,1
+Python",,DZHW,akbaritabar@gmail.com,"Computational Social Science, Network analysis, Sociology",0,2,1,0
 xywei,"Python
 C++",Matlab,University of Illinois at Urbana-Champaign,xywei@illinois.edu,"Numerical Analysis
 Scientific Computing",0,0,0,0
@@ -7596,5 +7596,5 @@ Evolutionary algorithms
 Neuroimaging",0,0,0,0
 gurpreet-bioinfo,R,Bash,"University of Alabama at Birmingham, AL, USA",gurpreet.bioinfo@gmail.com,"Bioinformatics, Computational Biology, NGS",0,0,0,0
 yangli-stat,"R
-python",,Florida Atlantic University,yangli@fau.edu,"statistics, network science, data science, spatial analysis"
+python",,Florida Atlantic University,yangli@fau.edu,"statistics, network science, data science, spatial analysis",0,0,0,0
 cgi,python,go,software engineer and manager,saasknight@proton.me,all
