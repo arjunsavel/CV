@@ -32,19 +32,8 @@ spec = importlib.util.spec_from_file_location(
 utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
-
-JOURNAL_MAP = {
-    "ArXiv e-prints": "ArXiv",
-    "arXiv e-prints": "ArXiv",
-    "Monthly Notices of the Royal Astronomical Society": "\\mnras",
-    "The Astrophysical Journal": "\\apj",
-    "The Astronomical Journal": "\\aj",
-    "Publications of the Astronomical Society of the Pacific": "\\pasp",
-    "IAU General Assembly": "IAU",
-    "Astronomy and Astrophysics": "\\aanda",
-    "American Astronomical Society Meeting Abstracts": "AAS",
-    "The Journal of Open Source Software": "JOSS",
-}
+with open(os.path.join(data_path, "journal_map.json")) as f:
+    JOURNAL_MAP = json.load(f)
 
 
 def write_tex_file(filename, contents):

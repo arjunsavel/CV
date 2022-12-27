@@ -1,0 +1,12 @@
+{
+    "ArXiv e-prints": "ArXiv",
+    "arXiv e-prints": "ArXiv",
+    "Monthly Notices of the Royal Astronomical Society": "\\mnras",
+    "The Astrophysical Journal": "\\apj",
+    "The Astronomical Journal": "\\aj",
+    "Publications of the Astronomical Society of the Pacific": "\\pasp",
+    "IAU General Assembly": "IAU",
+    "Astronomy and Astrophysics": "\\aanda",
+    "American Astronomical Society Meeting Abstracts": "AAS",
+    "The Journal of Open Source Software": "JOSS",
+}
