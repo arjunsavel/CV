@@ -6,6 +6,17 @@ from gsheets import Sheets
 
 
 def get_joss_table(data):
+    """
+    Gets a JOSS table, using the necessary secret.
+
+    Inputs
+    ------
+        :data: (str) a secret for gsheets.
+
+    Outputs
+    -------
+        :joss_table: (pd.DataFrame) the JOSS table containing all the JOSS reviewers.
+    """
 
     sheets = Sheets.from_developer_key(data)
 
@@ -21,6 +32,18 @@ def get_joss_table(data):
 
 
 def count_num_reviews(joss_table):
+    """
+    Counts the number of reviews I've completed.
+    todo: make username an arg.
+
+    Inputs
+    ------
+        :joss_table: (pd.DataFrame) the JOSS table containing all the JOSS reviewers.
+
+    Outputs
+    -------
+        :num_reviews: (int) number of reviews.
+    """
     my_username = "arjunsavel"
 
     review_col = "Review count(all time)"
