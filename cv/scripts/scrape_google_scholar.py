@@ -87,6 +87,7 @@ def get_scrape_google_scholar(author):
     -------
         :cleaned_articles: list of dict of publications.
     """
+    author = reverse_name(author)
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
@@ -168,9 +169,9 @@ def reverse_name(author):
     author_names = author.replace(",", "").split(" ")
 
     if len(author_names) == 3:
-        return " ".join(author_names[1], author_names[2], author_names[0])
+        return " ".join([author_names[1], author_names[2], author_names[0]])
     else:
-        return " ".join(author_names[1], author_names[0])
+        return " ".join([author_names[1], author_names[0]])
 
 
 if __name__ == "__main__":
