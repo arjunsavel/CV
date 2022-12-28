@@ -156,9 +156,19 @@ def get_scrape_google_scholar(author):
     return cleaned_articles
 
 
+def reverse_name(author):
+    """
+    goes from lastname, firstname middlename to firstname, lastname.
+    """
+
+    author_names = author.replace(",", "").split(" ")
+
+    return " ".join(np.flip(author_names))
+
+
 if __name__ == "__main__":
 
-    name = "Riley McDanal"
+    name = "McDanal, Riley"
 
     try:
         paper_dict = get_scrape_google_scholar(name)
