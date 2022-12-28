@@ -162,11 +162,15 @@ def get_scrape_google_scholar(author):
 def reverse_name(author):
     """
     goes from lastname, firstname middlename to firstname, lastname.
+    todo: multiple middle names?
     """
 
     author_names = author.replace(",", "").split(" ")
 
-    return " ".join(np.flip(author_names))
+    if len(author_names) == 3:
+        return " ".join(author_names[1], author_names[2], author_names[0])
+    else:
+        return " ".join(author_names[1], author_names[0])
 
 
 if __name__ == "__main__":
