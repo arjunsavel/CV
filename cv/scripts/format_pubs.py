@@ -253,6 +253,18 @@ def add_etal(string):
 
 
 def add_other_coauthors(string, others):
+    """
+    Adds the formatting for referencing coauthors (including myself!) that aren't part of the top 5 or so.
+
+    Inputs
+    ------
+        :string: (str) the formatted string for the publication up to this point.
+        :others: (int) how many other authors on this publication are there that aren't in the string so far?
+
+    Outputs
+    -------
+        :string: (str) same as input, but now with everyone!
+    """
     if FORMAT_STYLE == "latex":
         string += "\\ ({{{0}}} other co-authors, ".format(others)
         string += "incl.\\ \\textbf{{{0}}, {{1}}})".format(LASTNAME, FIRSTNAME)
