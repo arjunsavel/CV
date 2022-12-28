@@ -15,6 +15,21 @@ data_path = os.path.join(cv_root, "data")
 
 
 def main():
+    """
+    Main function for JOSS-writing.
+
+    Inputs
+    ------
+        None
+
+    Outputs
+    -------
+        None
+
+    Side effects
+    -----------
+        Writes the number of reviews to main.tex!
+    """
     # read in lines from tex file
     f = open(os.path.join(cv_root, "main.tex"), "r")
     f1 = f.readlines()

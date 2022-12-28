@@ -224,6 +224,17 @@ def format_index(ind):
 
 
 def format_title(title):
+    """
+    Formats the title of a publication. Mainly fixes ampersands for now.
+
+    Inputs
+    ------
+        :title: (str) title of the publication.
+
+    Outputs
+    --------
+        :title: (str) same as input, but cleaned for latex if needed!
+    """
     if FORMAT_STYLE == "latex":
         return title.replace("{\\&}amp;", "\&")  # for latex literal interp.
     return title.replace("{\\&}amp;", "&")
@@ -281,6 +292,19 @@ def format_authors(fmt, authors, short, n):
 
 
 def format_doi(fmt, doi, pub_title):
+    """
+    Formats the DOI.
+
+    Inputs
+    ------
+        :fmt: (str) the formatted string for the publication up to this point.
+        :doi: (str) the publication's DOI.
+        :pub_title: (str) the title of the publication.
+
+    Outputs
+    -------
+        :fmt: (str) the formatted string for the publication, after the DOI addition!
+    """
     if FORMAT_STYLE == "latex":
         if doi is not None:
             fmt += ", \\doi{{{0}}}{{{1}}}".format(doi, pub_title)
@@ -294,6 +318,17 @@ def format_doi(fmt, doi, pub_title):
 
 
 def format_pub(args):
+    """
+    Main function for formatting all publications.
+
+    Inputs
+    ------
+        :args: (tuple). the index, publication, and whether it should be formatted short style.
+
+    Outputs
+    -------
+        :fmt: (str) the description of the publication, formatted for the CV!
+    """
     ind, pub, short = args
     pub = pub.copy()
 

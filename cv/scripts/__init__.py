@@ -1,3 +1,6 @@
+"""
+Holds all metadata for "package."
+"""
 __uri__ = "https://www.arjunsavel.com/PDFs/CV_Savel.pdf"
 __author__ = "Arjun B. Savel"
 __email__ = "asavel@gmail.com"
