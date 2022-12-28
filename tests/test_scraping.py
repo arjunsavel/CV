@@ -18,6 +18,16 @@ class TestGoogleScholar(unittest.TestCase):
 
         self.assertTrue(clean_citation(citation) == 42)
 
+    def test_scholar_against_ads(self):
+        author = "Savel, Arjun Baliga"
+        scholar_results = get_scrape_google_scholar(author)
+        ads_results = get_papers(author)
+
+        ads_pubs = [ads_result["title"] for ads_result in ads_results]
+        scholar_pubs = [scholar_result["title"] for scholar_result in scholar_results]
+
+        np.testing.assert_array_equal(ads_pubs, scholar_pubs)
+
 
 class TestADS(unittest.TestCase):
     def test_catch_bad_authorname(self):
