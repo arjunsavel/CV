@@ -24,7 +24,6 @@ class TestGoogleScholar(unittest.TestCase):
         ads_results = get_papers(author)
 
         ads_pubs = [ads_result["title"] for ads_result in ads_results]
-
         print("scholar results")
         print(scholar_results)
 
