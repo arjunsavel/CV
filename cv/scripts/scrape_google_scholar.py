@@ -97,7 +97,10 @@ def get_scrape_google_scholar(author):
 
     table = soup.find_all("table")
 
-    personal_url = table[0].findAll("a")[0]["href"]
+    try:
+        personal_url = table[0].findAll("a")[0]["href"]
+    except IndexError:  # if there are no results!
+        return []
 
     full_url = "https://scholar.google.com/" + personal_url
 
