@@ -59,6 +59,11 @@ def clean_journal_info(journal_info):
         :journal_info_split_cleaned:  (list of strs) all the info from the journal but split up.
     """
     journal_info_split_cleaned = {}
+    if "arxiv" in journal_info:
+        journal_info_split_cleaned["arxiv"] = journal_info.split(":")[-1]
+        journal_info_split_cleaned["journal"] = "arxiv"
+        return
+
     journal_info_split = journal_info.split(", ")
     year = eval(journal_info_split[-1])  # the year is always the last
 
@@ -69,9 +74,8 @@ def clean_journal_info(journal_info):
     if len(journal_info_split) == 3:  # just journal and year
         journal_info_split_cleaned["page"] = journal_info_split[1]
 
-    # todo: get volume in there
-
     journal_info_split_cleaned["year"] = year
+
     return journal_info_split_cleaned
 
 
@@ -92,63 +96,63 @@ def get_scrape_google_scholar(author):
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
     }
-    url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&btnG="""
-    response = requests.get(url, headers=headers)
+    url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&pagesize=80"""
+    response = requests.post(url, headers=headers)
     soup = BeautifulSoup(response.content, "html.parser")
 
     table = soup.find_all("table")
 
-    try:
-        personal_url = table[0].findAll("a")[0]["href"]
-    except IndexError:  # if there are no results!
-        return []
+    title_list = table[1].findAll("a", class_="gsc_a_at")
+    title_list = [t.text for t in title_list]
 
-    full_url = "https://scholar.google.com/" + personal_url
+    rest_info = table[1].findAll("div", class_="gs_gray")
+    rest_info = [r.text for r in rest_info]
+    authors = rest_info[::2]
+    pub_info = rest_info[1::2]
 
-    response = requests.get(full_url, headers=headers)
-    new_soup = BeautifulSoup(response.content, features="html.parser")
+    pub_years = table[1].findAll("span", class_="gs_oph")
+    pub_years = [p.text for p in pub_years]
+
+    citations = table[1].findAll("a", class_="gsc_a_ac gs_ibl")
+    citations_list = [c.text for c in citations]
 
     citations = []
     cleaned_articles = []
-    for s in new_soup.find_all("tbody"):
-        articles = s.findAll("tr", {"class": "gsc_a_tr"})
-        for article in articles:
-            cleaned_article = {}
-            citation = article.findAll("a")[1].text
-            citation = clean_citation(citation)
+    for i, title in enumerate(title_list):
+        cleaned_article = {}
+        citation = citations_list[i]
+        citation = clean_citation(citation)
 
-            citations += [citation]
-            cleaned_article["citations"] = citation
+        citations += [citation]
+        cleaned_article["citations"] = citation
 
-            cleaned_article["title"] = article.findAll("a")[0].text
+        cleaned_article["title"] = title
 
-            authors = article.findAll("div")[0].text
+        authors = authors[i]
+        cleaned_article["authors"] = clean_authors(authors)
 
-            authors = clean_authors(authors)
+        journal_info = pub_info[i]
+        journal_info = clean_journal_info(journal_info)
 
-            cleaned_article["authors"] = authors
+        cleaned_article["journal"] = journal_info["journal"]
+        cleaned_article["page"] = journal_info["page"]
+        cleaned_article["volume"] = journal_info["volume"]
+        cleaned_article["arxiv"] = journal_info["arxiv"]
 
-            journal_info = article.findAll("div")[1].text
-            journal_info = clean_journal_info(journal_info)
+        cleaned_article["year"] = pub_years[i]
 
-            cleaned_article["journal"] = journal_info["journal"]
-            cleaned_article["page"] = journal_info["page"]
-            cleaned_article["volume"] = journal_info["volume"]
-            cleaned_article["year"] = journal_info["year"]
+        cleaned_article["url"] = None
+        cleaned_article["doi"] = None
+        cleaned_article["pubdate"] = None
 
-            cleaned_article["url"] = None
-            cleaned_article["doi"] = None
-            cleaned_article["pubdate"] = None
-            cleaned_article["arxiv"] = None
+        # todo: OSF!
+        # todo: get this in the preprint checking func :)
+        if cleaned_article["journal"] == "PsyArXiv":
+            cleaned_article["doctype"] = "eprint"
+        else:
+            cleaned_article["doctype"] = "article"
 
-            # todo: OSF!
-            # todo: get this in the preprint checking func :)
-            if cleaned_article["journal"] == "PsyArXiv":
-                cleaned_article["doctype"] = "eprint"
-            else:
-                cleaned_article["doctype"] = "article"
-
-            cleaned_articles += [cleaned_article]
+        cleaned_articles += [cleaned_article]
 
     citations.sort()
 
