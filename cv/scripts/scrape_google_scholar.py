@@ -37,6 +37,14 @@ def clean_authors(authors):
 def clean_journal_info(journal_info):
     """
     Separates the string containing journal info into a dictionary containing the parameters as ADS does.
+
+    Inputs
+    ------
+        :journal_info: (str) information about the journal, e.g. its name and the page
+
+    Outputs
+    -------
+        :journal_info_split_cleaned:  (list of strs) all the info from the journal but split up.
     """
     journal_info_split_cleaned = {}
     journal_info_split = journal_info.split(", ")
@@ -56,6 +64,17 @@ def clean_journal_info(journal_info):
 
 
 def get_scrape_google_scholar(author):
+    """
+    Does the main google scholar scraping for all pubs for an author.
+
+    Inputs
+    -------
+        :author: (str) name of author. lastname, firstname midddlename.
+
+    Outputs
+    -------
+        :cleaned_articles: list of dict of publications.
+    """
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
