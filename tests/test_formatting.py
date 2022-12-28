@@ -41,3 +41,12 @@ class TestFormatStudent(unittest.TestCase):
         pub_copy = pub.copy()
         pub_copy = format_for_students(pub_copy)
         self.assertTrue("*" == pub_copy["authors"][1][0])
+
+
+class TestFormatInpress(unittest.TestCase):
+    def test_format_inpress_known(self):
+        pub = {"title": "SImMER: A Pipeline for Reducing and Analyzing Images of Stars"}
+
+        res = check_inpress(pub)
+
+        self.assertTrue(res)
