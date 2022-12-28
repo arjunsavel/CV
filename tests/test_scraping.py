@@ -35,3 +35,19 @@ class TestJOSS(unittest.TestCase):
         sheet_key = os.environ["SHEETS_SECRET"]
         joss_table = get_joss_table(sheet_key)
         self.assertTrue("Preferred Programming Languages" in joss_table.columns)
+
+    def test_correct_counting(self):
+        input_val = 2
+        fake_joss_sheet = pd.DataFrame(
+            {"username": ["arjunsavel"], "Review count(all time)": [input_val]}
+        )
+        num_reviews = count_num_reviews(fake_joss_sheet)
+        self.assertTrue(num_reviews == input_val)
+
+    def test_correct_counting_int(self):
+        input_val = 2.0
+        fake_joss_sheet = pd.DataFrame(
+            {"username": ["arjunsavel"], "Review count(all time)": [input_val]}
+        )
+        num_reviews = count_num_reviews(fake_joss_sheet)
+        self.assertTrue(type(num_reviews) == int)
