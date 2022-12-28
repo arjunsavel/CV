@@ -94,7 +94,7 @@ def get_scrape_google_scholar(author):
     }
     url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&btnG="""
     response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.content)
+    soup = BeautifulSoup(response.content, "html.parser")
 
     table = soup.find_all("table")
 
@@ -142,7 +142,7 @@ def get_scrape_google_scholar(author):
             cleaned_article["arxiv"] = None
 
             # todo: OSF!
-
+            # todo: get this in the preprint checking func :)
             if cleaned_article["journal"] == "PsyArXiv":
                 cleaned_article["doctype"] = "eprint"
             else:
