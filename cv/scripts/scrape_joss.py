@@ -1,3 +1,8 @@
+"""
+Module to scrape the public JOSS reviewers sheet.
+
+author: @arjunsavel
+"""
 import sys
 
 import numpy as np

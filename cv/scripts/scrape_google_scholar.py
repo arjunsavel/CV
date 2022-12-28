@@ -1,3 +1,8 @@
+"""
+Module to scrape google scholar information. Inspired by dfm/cv/update-astro-pubs
+
+author: @arjunsavel
+"""
 import json
 import time
 

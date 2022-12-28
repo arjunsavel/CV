@@ -1,32 +1,43 @@
+"""
+Module to write the JOSS numbers.
+
+author: @arjunsavel
+"""
 import numpy as np
 
-# read in lines from tex file
-f = open("../main.tex", "r")
-f1 = f.readlines()
-f.close()
 
-# assume scrape_joss.py has already been run
-num_reviewed = int(np.loadtxt("../data/num_joss_reviews.txt"))
+def main():
+    # read in lines from tex file
+    f = open("../main.tex", "r")
+    f1 = f.readlines()
+    f.close()
 
-if num_reviewed == 1:
-    project_word = "project"
-else:
-    project_word = "projects"
+    # assume scrape_joss.py has already been run
+    num_reviewed = int(np.loadtxt("../data/num_joss_reviews.txt"))
 
-# reviewed_line = f'\\item Reviewer, Journal of Open Source Software ({num_reviewed} {project_word} reviewed) (2020)\n'
+    if num_reviewed == 1:
+        project_word = "project"
+    else:
+        project_word = "projects"
 
-reviewed_line = (
-    "\\resumeItem{}{Reviewer, Journal of Open Source Software "
-    + f"({num_reviewed} {project_word} reviewed) "
-    + "(2020--present)}\n"
-)
+    # reviewed_line = f'\\item Reviewer, Journal of Open Source Software ({num_reviewed} {project_word} reviewed) (2020)\n'
 
-for i, line in enumerate(f1):
-    if "Reviewer, Journal of Open Source Software" in line:
-        f1[i] = reviewed_line
-        break
+    reviewed_line = (
+        "\\resumeItem{}{Reviewer, Journal of Open Source Software "
+        + f"({num_reviewed} {project_word} reviewed) "
+        + "(2020--present)}\n"
+    )
 
-# write back to file
-f = open("../main.tex", "w")
-f.writelines(f1)
-f.close()
+    for i, line in enumerate(f1):
+        if "Reviewer, Journal of Open Source Software" in line:
+            f1[i] = reviewed_line
+            break
+
+    # write back to file
+    f = open("../main.tex", "w")
+    f.writelines(f1)
+    f.close()
+
+
+if __name__ == "__main__":
+    main()
