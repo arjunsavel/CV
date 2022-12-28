@@ -3,17 +3,25 @@ Module to write the JOSS numbers.
 
 author: @arjunsavel
 """
+import inspect
+import os
+
 import numpy as np
+
+import cv
+
+cv_root = inspect.getfile(cv).split("cv")[0]
+data_path = os.path.join(cv_root, "data")
 
 
 def main():
     # read in lines from tex file
-    f = open("../main.tex", "r")
+    f = open(os.path.join(cv_root, "main.tex"), "r")
     f1 = f.readlines()
     f.close()
 
     # assume scrape_joss.py has already been run
-    num_reviewed = int(np.loadtxt("../data/num_joss_reviews.txt"))
+    num_reviewed = int(np.loadtxt(os.path.join(data_path, "num_joss_reviews.txt")))
 
     if num_reviewed == 1:
         project_word = "project"
@@ -34,7 +42,7 @@ def main():
             break
 
     # write back to file
-    f = open("../main.tex", "w")
+    f = open(os.path.join(cv_root, "main.tex"), "w")
     f.writelines(f1)
     f.close()
 

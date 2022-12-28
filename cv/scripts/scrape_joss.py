@@ -3,11 +3,18 @@ Module to scrape the public JOSS reviewers sheet.
 
 author: @arjunsavel
 """
+import inspect
+import os
 import sys
 
 import numpy as np
 import pandas as pd
 from gsheets import Sheets
+
+import cv
+
+cv_root = inspect.getfile(cv).split("cv")[0]
+data_path = os.path.join(cv_root, "data")
 
 
 def get_joss_table(data):
@@ -65,4 +72,4 @@ if __name__ == "__main__":
 
     num_reviews = count_num_reviews(joss_table)
 
-    np.savetxt("../data/num_joss_reviews.txt", [num_reviews])
+    np.savetxt(os.path.join(data_path, "num_joss_reviews.txt"), [num_reviews])

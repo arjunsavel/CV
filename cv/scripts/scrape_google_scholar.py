@@ -3,12 +3,19 @@ Module to scrape google scholar information. Inspired by dfm/cv/update-astro-pub
 
 author: @arjunsavel
 """
+import inspect
 import json
+import os
 import time
 
 import numpy as np
 import requests
 from bs4 import BeautifulSoup
+
+import cv
+
+cv_root = inspect.getfile(cv).split("cv")[0]
+data_path = os.path.join(cv_root, "data")
 
 
 def clean_citation(citation):
