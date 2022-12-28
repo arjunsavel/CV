@@ -34,11 +34,13 @@ def clean_authors(authors):
     Reorders them like ADS.
     """
     # turn into a list
-    authors = authors.split(",")
+    authors = authors.split(", ")
 
     # flip them
     for i, author in enumerate(authors):
         # split into initials and last name
+        if author in ["...", " "]:
+            break
         split_author_name = author.split()
         author = split_author_name[-1] + ", " + split_author_name[0]
         authors[i] = author
@@ -69,6 +71,7 @@ def clean_journal_info(journal_info):
 
     journal_info_split_cleaned["page"] = None
     journal_info_split_cleaned["volume"] = None
+    journal_info_split_cleaned["arxiv"] = None
     journal_info_split_cleaned["journal"] = journal_info_split[0]
 
     if len(journal_info_split) == 3:  # just journal and year
@@ -96,7 +99,9 @@ def get_scrape_google_scholar(author):
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
     }
-    url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&pagesize=80"""
+    # url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&pagesize=80"""
+    url = "https://scholar.google.com/citations?user=EddVpbYAAAAJ&hl=en&oi=ao&cstart=0&pagesize=80"
+
     response = requests.post(url, headers=headers)
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -107,7 +112,7 @@ def get_scrape_google_scholar(author):
 
     rest_info = table[1].findAll("div", class_="gs_gray")
     rest_info = [r.text for r in rest_info]
-    authors = rest_info[::2]
+    authors_list = rest_info[::2]
     pub_info = rest_info[1::2]
 
     pub_years = table[1].findAll("span", class_="gs_oph")
@@ -128,7 +133,7 @@ def get_scrape_google_scholar(author):
 
         cleaned_article["title"] = title
 
-        authors = authors[i]
+        authors = authors_list[i]
         cleaned_article["authors"] = clean_authors(authors)
 
         journal_info = pub_info[i]
