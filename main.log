@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  27 DEC 2022 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  28 DEC 2022 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,7 +579,7 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \loi_cnt_foreach_nest=\count296
 \loi_nestcnt=\count297
 )
-Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
 sep char (CT)
 )
 \c@@index=\count298
@@ -825,7 +825,7 @@ LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+mdbch on input line
+LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 
 112.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
@@ -868,7 +868,7 @@ LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 139.
 LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 1
 39.
  (/opt/texlive/texdir/texmf-dist/tex/latex/mathdesign/mdacmr.fd
-File: mdacmr.fd
+File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 139.
@@ -876,7 +876,7 @@ LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 1
 39.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
-File: mdbcmr.fd
+File: mdbcmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 139.
 Package hyperref Info: Link coloring ON on input line 139.
@@ -923,7 +923,7 @@ e
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includefoot
+* modes: includefoot 
 * h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
 * v-part:(T,H,B)=(72.26999pt, 542.02501pt, 180.67499pt)
 * \paperwidth=614.295pt
@@ -1162,7 +1162,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
  [4] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3B427980F325F6A28C8C0D60B0AA76E3;2506.
- )
+ ) 
 Here is how much of TeX's memory you used:
  24941 strings out of 474971
  455344 string characters out of 5778125
@@ -1182,9 +1182,10 @@ type1/public/mathdesign/mdbch/md-chb8t.pfb></opt/texlive/texdir/texmf-dist/font
 s/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texlive/texdir/texmf-dist/
 fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (4 pages, 109435 bytes).
+Output written on main.pdf (4 pages, 109437 bytes).
 PDF statistics:
  227 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams
  22 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
+
