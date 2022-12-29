@@ -144,7 +144,7 @@ class TestFormatPub(unittest.TestCase):
 
         res = format_pub(args)
         print(res)
-        expected = "\item[{\color{numcolor}\scriptsize0}] \textbf{Savel}, \textbf{Arjun} 2022, \emph{Arjun has a paper}, Big Journal\ "[
+        expected = "\item[{\color{numcolor}\scriptsize0}] \textbf{Savel}, \textbf{Arjun} 2022, \emph{Arjun has a paper}, Big Journal"[
             :-1
         ]
 

@@ -361,8 +361,8 @@ def format_pub(args):
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(pub["pub"].strip("0123456789# "), pub["pub"])
-        if short:
-            fmt += "\\ "
+        # if short:
+        #     fmt += "\\ "
 
     if pub["volume"] is not None and not short:
         fmt += ", {{{0}}}".format(pub["volume"])
