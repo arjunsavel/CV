@@ -29,7 +29,7 @@ class TestGoogleScholar(unittest.TestCase):
         scholar_pubs = [scholar_result["title"] for scholar_result in scholar_results]
         print("ADS pubs")
         print(*ads_pubs, sep="\n")
-
+        print("******************************************\n")
         print("scholar pubs")
         print(*scholar_pubs, sep="\n")
 
