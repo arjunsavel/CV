@@ -22,6 +22,7 @@ class TestGoogleScholar(unittest.TestCase):
         author = "Savel, Arjun Baliga"
         scholar_results = get_scrape_google_scholar(author)
         ads_results = get_papers(author)
+        ads_results += get_papers("Baliga Savel, Arjun")
 
         ads_pubs = [
             ads_result["title"]
