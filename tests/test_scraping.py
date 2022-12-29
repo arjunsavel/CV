@@ -28,10 +28,10 @@ class TestGoogleScholar(unittest.TestCase):
 
         scholar_pubs = [scholar_result["title"] for scholar_result in scholar_results]
         print("ADS pubs")
-        print(ads_pubs)
+        print(*ads_pubs, sep="\n")
 
         print("scholar pubs")
-        print(scholar_pubs)
+        print(*scholar_pubs, sep="\n")
 
         np.testing.assert_array_equal(ads_pubs, scholar_pubs)
 
