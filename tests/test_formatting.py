@@ -51,6 +51,13 @@ class TestFormatInpress(unittest.TestCase):
 
         self.assertTrue(res)
 
+    def test_format_inpress_unknown(self):
+        pub = {"arxiv": "2209.11506", "title": "notinpress!"}
+
+        res = check_inpress(pub)
+
+        self.assertTrue(res)
+
 
 class TestFormatTitle(unittest.TestCase):
     def test_title_no_change(self):
