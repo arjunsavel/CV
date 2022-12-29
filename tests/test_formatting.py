@@ -101,8 +101,7 @@ class TestFormatAuthors(unittest.TestCase):
         short = True
         n = 0
         res = format_authors(fmt, authors, short, n)
-        print(res)
-        self.assertTrue(res == "Savel, Arjun")
+        self.assertTrue(res == "Savel, Arjun\etal")
 
     def test_short_authors_four_authors_user_after(self):
         fmt = ""
@@ -116,7 +115,8 @@ class TestFormatAuthors(unittest.TestCase):
         n = 1
         res = format_authors(fmt, authors, short, n)
 
-        fmt = "othername, otherfirst" + "\\ ({{{0}}} other co-authors, ".format(3)
-        fmt += 'f"incl. Savel, Arjun)"'
-        print(res)
+        fmt = (
+            "othername, otherfirst\etal"  # + "\\ ({{{0}}} other co-authors, ".format(3)
+        )
+        # fmt += 'f"incl. Savel, Arjun)"'
         self.assertTrue(res == fmt)
