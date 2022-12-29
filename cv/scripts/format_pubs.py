@@ -293,11 +293,11 @@ def format_authors(fmt, authors, short, n):
 
             fmt = add_other_coauthors(fmt, others)
 
-    elif len(pub["authors"]) > 1:
+    elif len(authors) > 1:
         fmt += "; ".join(authors[:-1])
         fmt += "; \\& " + authors[-1]
     else:
-        fmt += pub["authors"][0]
+        fmt += authors[0]
 
     return fmt
 
