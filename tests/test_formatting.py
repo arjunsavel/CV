@@ -78,3 +78,44 @@ class TestFormatTitle(unittest.TestCase):
     #     shouldbe = "something & else"
     #
     #     self.assertTrue(format_title(title) == shouldbe)
+
+
+class TestFormatAuthors(unittest.TestCase):
+    def test_short_authors_single_author(self):
+        fmt = ""
+        authors = ["Savel, Arjun"]
+        short = True
+        n = 0
+        res = format_authors(fmt, authors, short, n)
+
+        self.assertTrue(res == "Savel, Arjun")
+
+    def test_short_authors_four_authors(self):
+        fmt = ""
+        authors = [
+            "Savel, Arjun",
+            "othername, otherfirst",
+            "yetanother, name",
+            "onemore, name",
+        ]
+        short = True
+        n = 0
+        res = format_authors(fmt, authors, short, n)
+
+        self.assertTrue(res == "Savel, Arjun")
+
+    def test_short_authors_four_authors_user_after(self):
+        fmt = ""
+        authors = [
+            "othername, otherfirst",
+            "Savel, Arjun",
+            "yetanother, name",
+            "onemore, name",
+        ]
+        short = True
+        n = 1
+        res = format_authors(fmt, authors, short, n)
+
+        fmt = "othername, otherfirst" + "\\ ({{{0}}} other co-authors, ".format(3)
+        fmt += 'f"incl. Savel, Arjun)"'
+        self.assertTrue(res == "othername, otherfirst")
