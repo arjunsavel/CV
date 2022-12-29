@@ -70,11 +70,11 @@ class TestFormatTitle(unittest.TestCase):
         title = "something {\\&}amp; else"
         shouldbe = "something \& else"
 
-        self.assertTrue(title == shouldbe)
+        self.assertTrue(format_title(title) == shouldbe)
 
     def test_title_ampersand(self):
         FORMAT_STYLE = "ee"
         title = "something {\\&}amp; else"
         shouldbe = "something & else"
 
-        self.assertTrue(title == shouldbe)
+        self.assertTrue(format_title(title) == shouldbe)
