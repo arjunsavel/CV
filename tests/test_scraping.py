@@ -37,10 +37,10 @@ class TestGoogleScholar(unittest.TestCase):
             if "Zenodo" not in scholar_result["journal"]
         ]
         print("ADS pubs")
-        print(*ads_pubs, sep="\n")
+        print(*np.unique(ads_pubs), sep="\n")
         print("******************************************\n")
         print("scholar pubs")
-        print(*scholar_pubs, sep="\n")
+        print(*np.unique(scholar_pubs), sep="\n")
 
         np.testing.assert_array_equal(np.unique(ads_pubs), np.unique(scholar_pubs))
 
