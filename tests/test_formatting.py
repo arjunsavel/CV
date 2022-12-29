@@ -143,7 +143,5 @@ class TestFormatPub(unittest.TestCase):
         args = (ind, pub, short)
 
         res = format_pub(args)
-        print(res)
-        expected = "\item[{\color{numcolor}\scriptsize0}] \textbf{Savel}, \textbf{Arjun} 2022, \emph{Arjun has a paper}, Big Journal"
-        print(expected)
+        expected = r"\item[{\color{numcolor}\scriptsize0}] \textbf{Savel}, \textbf{Arjun} 2022, \emph{Arjun has a paper}, Big Journal"
         self.assertTrue(res == expected)
