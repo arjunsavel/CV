@@ -120,3 +120,30 @@ class TestFormatAuthors(unittest.TestCase):
         )
         # fmt += 'f"incl. Savel, Arjun)"'
         self.assertTrue(res == fmt)
+
+
+class TestFormatPub(unittest.TestCase):
+    def test_simple_pub(self):
+        pub = {
+            "arxiv": None,
+            "authors": ["Savel, Arjun B."],
+            "citations": 0,
+            "doctype": None,
+            "doi": None,
+            "page": None,
+            "pub": "Big Journal",
+            "pubdate": "2022-12-00",
+            "title": "Arjun has a paper",
+            "url": None,
+            "volume": None,
+            "year": "2022",
+        }
+        short = True
+        ind = 0
+        args = (ind, pub, short)
+
+        res = format_pub(args)
+        print(res)
+        expected = "\item[{\color{numcolor}\scriptsize0}] \textbf{Savel, Arjun}, 2022. \emph{Arjun has a paper.} Big Journal."
+
+        self.assertTrue(res == expected)
