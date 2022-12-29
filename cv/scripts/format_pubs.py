@@ -345,7 +345,7 @@ def format_pub(args):
 
     fmt = format_index(ind)
     n = [i for i in range(len(pub["authors"])) if LASTNAME in pub["authors"][i]][0]
-    pub["authors"][n] = "\\textbf{{{0}}}".format(LASTNAME) + ", \\textbf{{{1}}}".format(
+    pub["authors"][n] = "\\textbf{{{0}}}".format(LASTNAME) + ", \\textbf{{{0}}}".format(
         FIRSTNAME
     )
 
