@@ -23,17 +23,25 @@ class TestGoogleScholar(unittest.TestCase):
         scholar_results = get_scrape_google_scholar(author)
         ads_results = get_papers(author)
 
-        ads_pubs = [ads_result["title"] for ads_result in ads_results]
+        ads_pubs = [
+            ads_result["title"]
+            for ads_result in ads_results
+            if "Zenodo" not in ads_result["journal"]
+        ]
         # ads_pubs = [ads_pub for ads_pub in ads_pubs if "VizieR" not in ads_pub]
 
-        scholar_pubs = [scholar_result["title"] for scholar_result in scholar_results]
+        scholar_pubs = [
+            scholar_result["title"]
+            for scholar_result in scholar_results
+            if "Zenodo" not in scholar_result["journal"]
+        ]
         print("ADS pubs")
         print(*ads_pubs, sep="\n")
         print("******************************************\n")
         print("scholar pubs")
         print(*scholar_pubs, sep="\n")
 
-        np.testing.assert_array_equal(ads_pubs, scholar_pubs)
+        np.testing.assert_array_equal(np.unique(ads_pubs), np.unique(scholar_pubs))
 
 
 class TestADS(unittest.TestCase):
