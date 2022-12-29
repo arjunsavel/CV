@@ -24,7 +24,7 @@ class TestGoogleScholar(unittest.TestCase):
         ads_results = get_papers(author)
 
         ads_pubs = [ads_result["title"] for ads_result in ads_results]
-        ads_pubs = [ads_pub for ads_pub in ads_pubs if "VizieR" not in ads_pub]
+        # ads_pubs = [ads_pub for ads_pub in ads_pubs if "VizieR" not in ads_pub]
 
         scholar_pubs = [scholar_result["title"] for scholar_result in scholar_results]
         print("ADS pubs")
