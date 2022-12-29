@@ -72,9 +72,9 @@ class TestFormatTitle(unittest.TestCase):
 
         self.assertTrue(format_title(title) == shouldbe)
 
-    def test_title_ampersand(self):
-        FORMAT_STYLE = "ee"
-        title = "something {\\&}amp; else"
-        shouldbe = "something & else"
-
-        self.assertTrue(format_title(title) == shouldbe)
+    # def test_title_ampersand(self):
+    #     FORMAT_STYLE = "ee"
+    #     title = "something {\\&}amp; else"
+    #     shouldbe = "something & else"
+    #
+    #     self.assertTrue(format_title(title) == shouldbe)
