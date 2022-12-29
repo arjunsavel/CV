@@ -163,6 +163,8 @@ def check_inpress(pub):
         pub["doctype"] = "article"
         return True
     # more general case
+    if not pub["arxiv"]:
+        return False
     URL = "http://arxiv.org/abs/" + pub["arxiv"]
 
     page = requests.get(URL)
