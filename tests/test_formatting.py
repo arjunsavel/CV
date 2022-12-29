@@ -50,3 +50,24 @@ class TestFormatInpress(unittest.TestCase):
         res = check_inpress(pub)
 
         self.assertTrue(res)
+
+
+class TestFormatTitle(unittest.TestCase):
+    def test_title_no_change(self):
+        title = "eee"
+        formatted = format_title(title)
+        self.assertTrue(title == formatted)
+
+    def test_title_latex_ampersand(self):
+        FORMAT_STYLE = "latex"
+        title = "something {\\&}amp; else"
+        shouldbe = "something \& else"
+
+        self.assertTrue(title == shouldbe)
+
+    def test_title_ampersand(self):
+        FORMAT_STYLE = "ee"
+        title = "something {\\&}amp; else"
+        shouldbe = "something & else"
+
+        self.assertTrue(title == shouldbe)
