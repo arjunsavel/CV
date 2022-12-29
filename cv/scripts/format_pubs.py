@@ -284,22 +284,21 @@ def format_authors(fmt, authors, short, n):
         cutoff_length = 4
 
     if len(authors) > cutoff_length:
-        fmt += "; ".join(pub["authors"][:cutoff_length])
+        fmt += "; ".join(authors[:cutoff_length])
 
         fmt = add_etal(fmt)
 
         if n >= cutoff_length - 1 and not short:
-            others = len(pub["authors"]) - (cutoff_length - 1)
+            others = len(authors) - (cutoff_length - 1)
 
             fmt = add_other_coauthors(fmt, others)
 
     elif len(pub["authors"]) > 1:
-        fmt += "; ".join(pub["authors"][:-1])
-        fmt += "; \\& " + pub["authors"][-1]
+        fmt += "; ".join(authors[:-1])
+        fmt += "; \\& " + authors[-1]
     else:
         fmt += pub["authors"][0]
 
-    fmt += " {0}".format(pub["year"])
     return fmt
 
 
@@ -353,6 +352,7 @@ def format_pub(args):
     pub_title = format_title(pub["title"])
 
     fmt = format_authors(fmt, pub["authors"], short, n)
+    fmt += " {0}".format(pub["year"])
     fmt = format_doi(fmt, pub["doi"], pub_title)
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
