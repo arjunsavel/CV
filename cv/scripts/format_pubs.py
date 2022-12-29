@@ -242,6 +242,18 @@ def format_title(title):
     return title.replace("{\\&}amp;", "&")
 
 
+def calc_hindex(ref_list, pubs):
+    """
+    Calculates an author's h-index from their list of publications.
+    """
+    npapers = len(ref_list)
+    nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
+    cites = sorted((p["citations"] for p in pubs), reverse=True)
+    ncitations = sum(cites)
+    hindex = sum(c > i for i, c in enumerate(cites))
+    return hindex
+
+
 def add_etal(string):
     """
     adds the et al!
@@ -421,11 +433,7 @@ if __name__ == "__main__":
     unref_list = check_duplicates(unref_list)
 
     # Compute citation stats
-    npapers = len(ref_list)
-    nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
-    cites = sorted((p["citations"] for p in pubs), reverse=True)
-    ncitations = sum(cites)
-    hindex = sum(c > i for i, c in enumerate(cites))
+    hindex = calc_hindex(ref_list, pubs)
 
     with open(os.path.join(supp_tex_path, "n_first_submit.tex")) as f:
         nfirst_submit = eval(f.readlines()[0].split("\n")[0])
