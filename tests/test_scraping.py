@@ -26,7 +26,7 @@ class TestGoogleScholar(unittest.TestCase):
         ads_pubs = [
             ads_result["title"]
             for ads_result in ads_results
-            if "Zenodo" not in ads_result["journal"]
+            if "Zenodo" not in ads_result["pub"]
         ]
         # ads_pubs = [ads_pub for ads_pub in ads_pubs if "VizieR" not in ads_pub]
 
