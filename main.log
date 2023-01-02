@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  28 DEC 2022 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  2 JAN 2023 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -20,8 +20,8 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 ) (./orcidlink.sty
 Package: orcidlink 2021/06/11 v1.0.4 Linked ORCiD logo macro package
@@ -168,7 +168,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip50
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
@@ -506,7 +506,7 @@ File: pgfmoduleparser.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@lib@svg@count=\count292
 \pgf@lib@svg@max@num=\count293
 ))
-\@curXheight=\skip50
+\@curXheight=\skip51
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
@@ -527,13 +527,13 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip51
+\FP@margin=\skip52
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box62
-\beforetitleunit=\skip52
-\aftertitleunit=\skip53
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
 \ttl@plus=\dimen257
 \ttl@minus=\dimen258
 \ttl@toksa=\toks29
@@ -552,7 +552,7 @@ Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip54
+\labelindent=\skip55
 \enit@outerparindent=\dimen262
 \enit@toks=\toks32
 \enit@inbox=\box63
@@ -599,15 +599,15 @@ readarray: bounds checking OFF
 (/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -821,7 +821,7 @@ LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 \@emptytoks=\toks40
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
-\rulethickness=\skip64
+\rulethickness=\skip65
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1164,13 +1164,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3B427980F325F6A28C8C0D60B0AA76E3;2506.
  ) 
 Here is how much of TeX's memory you used:
- 24941 strings out of 474971
- 455344 string characters out of 5778125
- 771597 words of memory out of 5000000
- 45925 multiletter control sequences out of 15000+600000
- 531853 words of font info for 114 fonts, out of 8000000 for 9000
+ 24941 strings out of 476093
+ 455344 string characters out of 5793588
+ 1874793 words of memory out of 5000000
+ 44803 multiletter control sequences out of 15000+600000
+ 574881 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,12n,118p,557b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,12n,118p,557b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}{/opt/texliv
 e/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/opt/texliv
 e/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</opt/texlive/texd
@@ -1182,7 +1182,7 @@ type1/public/mathdesign/mdbch/md-chb8t.pfb></opt/texlive/texdir/texmf-dist/font
 s/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texlive/texdir/texmf-dist/
 fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (4 pages, 109437 bytes).
+Output written on main.pdf (4 pages, 109465 bytes).
 PDF statistics:
  227 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams
