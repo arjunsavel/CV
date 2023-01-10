@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.10.5
+          python-version: 3.8
 
       - name: Get current date
         id: date
@@ -24,10 +24,11 @@ jobs:
         env:
           ADS_DEV_KEY: ${{secrets.ADS_SECRET}}
         run: |
-          python -m pip install -U pip
-          python -m pip install -e .
+          python3 -m pip install --upgrade pip
+          pip3 install --upgrade setuptools
+          python3 -m pip install -e .
           cd cv/scripts
-          python scrape_ads.py
+          python3 scrape_ads.py
 
       - name: Format publications
         run: |
