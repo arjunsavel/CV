@@ -383,7 +383,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
@@ -461,7 +460,7 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
@@ -499,7 +498,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
@@ -511,6 +509,7 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -604,7 +603,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
