@@ -10,7 +10,9 @@ jobs:
     name: "Scrape and add JOSS reviews"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@main
+        with:
+          submodules: 'true'
 
       - name: Set up Python
         uses: actions/setup-python@main
