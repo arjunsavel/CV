@@ -10,6 +10,7 @@ import sys
 import numpy as np
 import pandas as pd
 from gsheets import Sheets
+from cv.scripts.format_pubs import *
 
 import cv
 
