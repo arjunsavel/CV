@@ -27,13 +27,11 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install --upgrade setuptools
           python3 -m pip install -e .
-          cd cv/scripts
-          python3 scrape_ads.py
+          python3 cv/scripts/scrape_ads.py
 
       - name: Format publications
         run: |
-          cd scripts
-          python format_pubs.py
+          python cv/scripts/format_pubs.py
 
       - run: git pull
 
