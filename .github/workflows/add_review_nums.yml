@@ -4,6 +4,7 @@ on:
     # * is a special character in YAML so you have to quote this string
     # runs twice a day
     - cron: '*/60 */24 * * *'
+  workflow_dispatch:
 jobs:
   notebooks:
     name: "Scrape and add JOSS reviews"
