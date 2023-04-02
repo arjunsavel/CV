@@ -1089,14 +1089,17 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchb8t.v
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8t.tfm
 INPUT /opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr7y.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr7y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchrfc8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
@@ -1153,9 +1156,6 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
-INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc
-INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
-INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb
