@@ -447,8 +447,11 @@ if __name__ == "__main__":
     summary = (
         "citations: {1} / "
         "h-index: {2} / "
-        "{3} first-author refereed, {4} under review  ({0})"
-    ).format(date.today(), ncitations, hindex, nfirst, nfirst_submit)
+        "{3} first-author refereed"
+    ).format(date.today(), ncitations, hindex, nfirst)
+
+    if nfirst_submit > 0:
+        summary += ", {0} under review".format(nfirst_submit)
     with open(os.path.join(supp_tex_path, "pubs_summary.tex"), "w") as f:
         f.write(summary)
 
