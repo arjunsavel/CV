@@ -26,11 +26,11 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install --upgrade setuptools
           python3 -m pip install -e .
-          python3 cv/scripts/scrape_joss.py "$SHEETS_SECRET"
+          python3 src/cv/scripts/scrape_joss.py "$SHEETS_SECRET"
 
       - name: Write the number of JOSS reviews
         run: |
-          python cv/scripts/write_joss.py
+          python src/cv/scripts/write_joss.py
 
       - run: git pull
 
