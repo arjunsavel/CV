@@ -285,7 +285,7 @@ def add_other_coauthors(string, others):
     """
     if FORMAT_STYLE == "latex":
         string += "\\ ({{{0}}} other co-authors, ".format(others)
-        string += "incl.\\ \\textbf{{{{0}}, {{1}}}})".format(LASTNAME, FIRSTNAME)
+        string += "incl.\\ \\textbf{" + LASTNAME + ', ' + FIRSTNAME + "})"
     else:
         string += "({{{0}}} other co-authors, ".format(others)
         string += f"incl. {LASTNAME}, {FIRSTNAME})"

@@ -3,7 +3,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs once a day
-    - cron: '*/60 */24 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 jobs:
   notebooks:
