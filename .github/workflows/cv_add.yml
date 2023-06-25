@@ -4,7 +4,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs once a day
-    - cron: '*/60 */24 * * *'
+    - cron: '*/5 * * * *'
 
 
 # A workflow run is made up of >=1 jobs, run sequentially or in parallel
