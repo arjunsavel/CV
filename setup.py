@@ -10,8 +10,9 @@ from setuptools import find_packages, setup
 ###################################################################
 
 NAME = "cv"
-PACKAGES = find_packages("cv")
-META_PATH = os.path.join("cv", "scripts", "__init__.py")
+PACKAGES = find_packages(where="src")
+# PACKAGES = ['cv', 'cv.scripts']
+META_PATH = os.path.join("src", "cv", "scripts", "__init__.py")
 CLASSIFIERS = [
     "Development Status :: 5 - Production/Stable",
     "Natural Language :: English",
@@ -67,7 +68,7 @@ if __name__ == "__main__":
         long_description=read("README.md"),
         long_description_content_type="text/x-rst",
         packages=PACKAGES,
-        package_dir={"": "cv"},
+        package_dir={"": "src"},
         zip_safe=False,
         classifiers=CLASSIFIERS,
         install_requires=INSTALL_REQUIRES,
