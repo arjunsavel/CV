@@ -1,1 +1,1 @@
-SImMER: A Pipeline for Reducing and Analyzing Images of Stars
+
