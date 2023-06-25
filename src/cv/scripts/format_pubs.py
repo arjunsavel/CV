@@ -89,7 +89,7 @@ def check_preprint_match(ref1, ref2):
     """
     return (
         check_preprint(ref2)
-        and ref["title"] == ref2["title"]
+        and ref1["title"] == ref2["title"]
         and not check_preprint(ref1)
     )
 
