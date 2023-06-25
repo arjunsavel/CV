@@ -156,6 +156,8 @@ def check_inpress(pub):
 
     # # read in the in press data
 
+    if pub["doctype"] == "article":
+        return False
     for i, press in enumerate(in_press):
         in_press[i] = press.split("\n")[0]
 
