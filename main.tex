@@ -25,7 +25,7 @@
 \usepackage{readarray}
 
 
-\input{supp_tex/cvstyle}
+\input{src/supp_tex/cvstyle}
 
 
 % \renewcommand{\headrulewidth}{0pt}
@@ -123,11 +123,11 @@
 }
 
 \def\renderunref{%
-  \iffileempty{supp_tex/pubs_unref.tex}{}{
+  \iffileempty{src/supp_tex/pubs_unref.tex}{}{
   \shortershorterSection{\underline{Under Review}}
   \begin{list}{}{\cvlist}
-    \input{supp_tex/pubs_submitted.tex}
-    \input{supp_tex/pubs_unref.tex}
+    \input{src/supp_tex/pubs_submitted.tex}
+    \input{src/supp_tex/pubs_unref.tex}
     % \ExecuteMetaData[supp_tex/pubs_unref.tex]{notinpress}
 \end{list}}
 }
@@ -212,13 +212,13 @@
 %------------PUBLICATIONS-------------------
 
 \shorterSection{Publications (* = mentored student)}
-\input{supp_tex/pubs_summary}
+\input{src/supp_tex/pubs_summary}
 \vspace{4pt}
 \shortershorterSection{\underline{Refereed Publications}}
 % \resumeSubHeadingListStart
 \small
 \begin{list}{}{\cvlist}
-    \input{supp_tex/pubs_ref}
+    \input{src/supp_tex/pubs_ref}
   \end{list}
 % \resumeSubHeadingListEnd
 
@@ -231,7 +231,7 @@
 \shorterSection{Selected Honors, Prizes, \& Awards}
 \small
   \begin{list}{}{\cvlist}
-    \input{supp_tex/honors}
+    \input{src/supp_tex/honors}
 \end{list}
 
 
