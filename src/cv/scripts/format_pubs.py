@@ -255,7 +255,7 @@ def calc_hindex(ref_list, pubs):
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
-    return hindex, ncitations
+    return hindex, ncitations, nfirst
 
 
 def add_etal(string):
@@ -437,7 +437,7 @@ if __name__ == "__main__":
     unref_list = check_duplicates(unref_list)
 
     # Compute citation stats
-    hindex, ncitations = calc_hindex(ref_list, pubs)
+    hindex, ncitations, nfirst = calc_hindex(ref_list, pubs)
 
     with open(os.path.join(supp_tex_path, "n_first_submit.tex")) as f:
         nfirst_submit = eval(f.readlines()[0].split("\n")[0])
