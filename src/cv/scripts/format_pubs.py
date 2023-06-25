@@ -172,10 +172,12 @@ def check_inpress(pub):
 
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find(class_="comments")
-
-    if results.text and "accepted" in results.text.lower():
-        pub["doctype"] = "article"
-    return results.text and "accepted" in results.text.lower()
+    try:
+        if results.text and "accepted" in results.text.lower():
+            pub["doctype"] = "article"
+        return results.text and "accepted" in results.text.lower()
+    except:
+        return False
 
 
 def add_student_attribution(pub, last_name, start_year, end_year):
