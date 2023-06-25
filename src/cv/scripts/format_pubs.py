@@ -165,12 +165,14 @@ def check_inpress(pub):
     # more general case
     if not pub["arxiv"]:
         return False
+    print(pub["title"])
     URL = "http://arxiv.org/abs/" + pub["arxiv"]
 
     page = requests.get(URL)
 
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find(class_="comments")
+
     if results.text and "accepted" in results.text.lower():
         pub["doctype"] = "article"
     return results.text and "accepted" in results.text.lower()
