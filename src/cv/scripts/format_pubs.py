@@ -263,7 +263,7 @@ def add_etal(string):
     adds the et al!
     """
     if FORMAT_STYLE == "latex":
-        string += "\\etal"
+        string += " \\etal"
     else:
         string += "et al. "
 
