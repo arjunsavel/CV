@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  28 JUN 2023 03:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.1)  28 JUN 2023 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1122,16 +1122,9 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
 /texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}{/opt/texlive/texdir/texmf-
 dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdir/texmf-dist/f
-onts/enc/dvips/fontawesome/fontawesometwo.enc}]
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 71.
-LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 71.
-
-[2])
+onts/enc/dvips/fontawesome/fontawesometwo.enc}])
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 (Font)              scaled to size 8.64006pt on input line 227.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 227.
@@ -1156,7 +1149,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 227.
 
-(./src/supp_tex/pubs_submitted.tex) (./src/supp_tex/pubs_unref.tex)
+(./src/supp_tex/pubs_submitted.tex) (./src/supp_tex/pubs_unref.tex
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+ [2])
 (./src/supp_tex/honors.tex) [3] [4]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 405.
@@ -1171,7 +1169,7 @@ Here is how much of TeX's memory you used:
  45244 multiletter control sequences out of 15000+600000
  574881 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,118p,525b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,118p,545b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></opt
 /texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></opt/texliv
@@ -1181,10 +1179,10 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (5 pages, 120779 bytes).
+Output written on main.pdf (5 pages, 119668 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 292 compressed objects within 3 object streams
+ 301 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
  25 named destinations out of 1000 (max. 500000)
  165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
