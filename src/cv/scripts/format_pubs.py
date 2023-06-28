@@ -456,9 +456,9 @@ if __name__ == "__main__":
         nfirst_submit = eval(f.readlines()[0].split("\n")[0])
 
     summary = (
-        "citations: {1} / "
-        "h-index: {2} / "
-        "{3} first-author refereed"
+        "citations: {0} / "
+        "h-index: {1} / "
+        "{2} first-author refereed"
     ).format(ncitations, hindex, nfirst)
 
     if nfirst_submit > 0:
