@@ -248,13 +248,24 @@ def format_title(title):
     return title.replace("{\\&}amp;", "&")
 
 
+# def calc_hindex(ref_list, pubs):
+#     """
+#     Calculates an author's h-index from their list of publications.
+#     """
+#     npapers = len(ref_list)
+#     nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
+#     cites = sorted((p["citations"] for p in pubs), reverse=True)
+#     ncitations = sum(cites)
+#     hindex = sum(c > i for i, c in enumerate(cites))
+#     return hindex, ncitations, nfirst
+
 def calc_hindex(ref_list, pubs):
     """
     Calculates an author's h-index from their list of publications.
     """
     npapers = len(ref_list)
-    nfirst = sum(1 for p in pubs if LASTNAME in p["authors"][0])
-    cites = sorted((p["citations"] for p in pubs), reverse=True)
+    nfirst = sum(1 for p in ref_list if LASTNAME in p["authors"][0])
+    cites = sorted((p["citations"] for p in ref_list), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c > i for i, c in enumerate(cites))
     return hindex, ncitations, nfirst
