@@ -448,7 +448,7 @@ if __name__ == "__main__":
         "citations: {1} / "
         "h-index: {2} / "
         "{3} first-author refereed"
-    ).format(date.today(), ncitations, hindex, nfirst)
+    ).format(ncitations, hindex, nfirst)
 
     if nfirst_submit > 0:
         summary += ", {0} under review".format(nfirst_submit)
