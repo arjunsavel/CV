@@ -679,7 +679,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 14,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -755,7 +755,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -945,7 +945,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 13,
+    "citations": 9,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2301.08192",
     "page": null,
@@ -1025,7 +1025,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 6,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -1204,7 +1204,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 4,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
@@ -1479,7 +1479,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 13,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -1620,7 +1620,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 14,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
@@ -1643,7 +1643,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 11,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -1730,7 +1730,7 @@
       "Zhang, Hui",
       "Ziegler, Carl"
     ],
-    "citations": 13,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac73ff",
     "page": 70,
@@ -1811,7 +1811,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 16,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -1836,7 +1836,7 @@
       "Girish, Nachiket",
       "Filippenko, Alexei V."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1538",
     "page": 4489,
@@ -2484,7 +2484,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 8,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
@@ -2558,7 +2558,7 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 19,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4da0",
     "page": null,
@@ -2582,7 +2582,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 37,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -2624,7 +2624,7 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 23,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2305",
     "page": 195,
@@ -2738,7 +2738,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 42,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -2819,7 +2819,7 @@
       "Boschin, Walter",
       "Andreuzzi, Gloria"
     ],
-    "citations": 34,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0157",
     "page": 79,
@@ -3299,7 +3299,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 168,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3458,7 +3458,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 44,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -3534,7 +3534,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 43,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -3622,7 +3622,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 77,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
