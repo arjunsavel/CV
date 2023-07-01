@@ -1947,29 +1947,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Mayo, Andrew W.",
-      "Harada, Caleb",
-      "Dressing, Courtney",
-      "Dholakia, Shashank",
-      "Dholakia, Shishir",
-      "Giacalone, Steven",
-      "Savel, Arjun",
-      "Turtelboom, Emma"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Enriching Our View of Multiplanet Systems Using TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Rasmussen, Kaitlin C.",
       "Rahman, Fahin",
       "Beltz, Hayley",
@@ -1992,6 +1969,29 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Mayo, Andrew W.",
+      "Harada, Caleb",
+      "Dressing, Courtney",
+      "Dholakia, Shashank",
+      "Dholakia, Shishir",
+      "Giacalone, Steven",
+      "Savel, Arjun",
+      "Turtelboom, Emma"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Enriching Our View of Multiplanet Systems Using TESS",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
     "volume": "54",
     "year": "2022"
   },
@@ -3299,7 +3299,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
