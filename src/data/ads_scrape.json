@@ -137,6 +137,36 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.05697",
+    "authors": [
+      "Gao, Peter",
+      "Piette, Anjali A. A.",
+      "Steinrueck, Maria E.",
+      "Nixon, Matthew C.",
+      "Zhang, Michael",
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Rauscher, Emily",
+      "Parmentier, Vivien",
+      "Batalha, Natasha E.",
+      "Savel, Arjun B.",
+      "Arnold, Kenneth E.",
+      "Roman, Michael T.",
+      "Malsky, Isaac",
+      "Taylor, Jake"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/acd16f",
+    "page": 96,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2023-07-00",
+    "title": "The Hazy and Metal-rich Atmosphere of GJ 1214 b Constrained by Near- and Mid-infrared Transmission Spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...96G",
+    "volume": "951",
+    "year": "2023"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Kerzendorf, Wolfgang",
@@ -509,36 +539,6 @@
     "pubdate": "2023-05-00",
     "title": "A reflective, metal-rich atmosphere for GJ 1214b from its JWST phase curve",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230506240K",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.05697",
-    "authors": [
-      "Gao, Peter",
-      "Piette, Anjali A. A.",
-      "Steinrueck, Maria E.",
-      "Nixon, Matthew C.",
-      "Zhang, Michael",
-      "Kempton, Eliza M. R.",
-      "Bean, Jacob L.",
-      "Rauscher, Emily",
-      "Parmentier, Vivien",
-      "Batalha, Natasha E.",
-      "Savel, Arjun B.",
-      "Arnold, Kenneth E.",
-      "Roman, Michael T.",
-      "Malsky, Isaac",
-      "Taylor, Jake"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.05697",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "The Hazy and Metal-Rich Atmosphere of GJ 1214 b Constrained by Near and Mid-Infrared Transmission Spectroscopy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230505697G",
     "volume": null,
     "year": "2023"
   },
@@ -3063,7 +3063,7 @@
       "Cawley, Kevin",
       "Fullard, Andrew"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5034859",
     "page": null,
@@ -3120,7 +3120,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3299,7 +3299,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
