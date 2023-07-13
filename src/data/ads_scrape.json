@@ -346,7 +346,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -755,7 +755,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -1643,7 +1643,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -2582,7 +2582,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -2738,7 +2738,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -3299,7 +3299,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 99,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3534,7 +3534,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -3944,7 +3944,7 @@
       "Vanderspek, R.",
       "Winn, J."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243731",
     "page": null,
