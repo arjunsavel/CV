@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1690157494 "main.tex" "main.pdf" "main" 1690157495 0
+["pdflatex"] 1690243908 "main.tex" "main.pdf" "main" 1690243910 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1276641224 6938 5135be6a8802f13a7faf296d1959a1ab ""
@@ -204,16 +204,16 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1688174308 4643403 baed3d5bd44e600117e72fcc4dfd7529 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1688174434 7903840 f209a81462f8521decfa4f9bde9aa016 ""
   "/opt/texlive/texdir/texmf.cnf" 1688174300 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "main.aux" 1690157495 2829 331f4a69dc07da230d717e98525315cd "pdflatex"
-  "main.out" 1690157495 2785 7d648e9511176aa5877d6506f7d46db8 "pdflatex"
-  "main.tex" 1690157493 17811 c7bf75c5e68494c4ef801edd3c4981ce ""
-  "orcidlink.sty" 1690157493 2264 b9f7c318cb80559e5b69ccdb2316379f ""
-  "src/supp_tex/cvstyle.tex" 1690157493 2829 f2a2ed3eb8ee331a17eb0b309a010b49 ""
-  "src/supp_tex/honors.tex" 1690157493 1200 49c6b967e2352b4ed9c9151b92795134 ""
-  "src/supp_tex/pubs_ref.tex" 1690157493 10156 47048e18ce1058fb472757f0d6360d8c ""
-  "src/supp_tex/pubs_submitted.tex" 1690157493 205 4c69284be8e7d2acadbadd7d0693280a ""
-  "src/supp_tex/pubs_summary.tex" 1690157493 54 4e1232793d36db544750780b4199a233 ""
-  "src/supp_tex/pubs_unref.tex" 1690157493 791 ef1fd7aa1e32ca5c3035e4348c20588a ""
+  "main.aux" 1690243909 2829 331f4a69dc07da230d717e98525315cd "pdflatex"
+  "main.out" 1690243909 2785 7d648e9511176aa5877d6506f7d46db8 "pdflatex"
+  "main.tex" 1690243907 17811 c7bf75c5e68494c4ef801edd3c4981ce ""
+  "orcidlink.sty" 1690243907 2264 b9f7c318cb80559e5b69ccdb2316379f ""
+  "src/supp_tex/cvstyle.tex" 1690243907 2829 f2a2ed3eb8ee331a17eb0b309a010b49 ""
+  "src/supp_tex/honors.tex" 1690243907 1200 49c6b967e2352b4ed9c9151b92795134 ""
+  "src/supp_tex/pubs_ref.tex" 1690243907 10157 ad1cd25c7c86f68201e441fdfe0899fe ""
+  "src/supp_tex/pubs_submitted.tex" 1690243907 205 4c69284be8e7d2acadbadd7d0693280a ""
+  "src/supp_tex/pubs_summary.tex" 1690243907 54 7b6d87a44b4b9da7cd48e7644527bab1 ""
+  "src/supp_tex/pubs_unref.tex" 1690243907 791 ef1fd7aa1e32ca5c3035e4348c20588a ""
   (generated)
   "main.aux"
   "main.log"
