@@ -155,7 +155,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -531,7 +531,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2305.06240",
     "page": null,
@@ -2484,7 +2484,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
