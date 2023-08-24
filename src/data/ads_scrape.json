@@ -264,7 +264,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -363,7 +363,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2308.10378",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2023-08-00",
@@ -951,7 +951,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -3548,7 +3548,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
