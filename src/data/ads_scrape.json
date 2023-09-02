@@ -359,7 +359,11 @@
       "Wardenier, Joost P.",
       "Pino, Lorenzo",
       "Line, Michael",
-      "Parmentier, Vivien"
+      "Parmentier, Vivien",
+      "Seifahrt, Andreas",
+      "Kasper, David",
+      "Brady, Madison",
+      "Bean, Jacob L."
     ],
     "citations": 0,
     "doctype": "eprint",
@@ -3225,7 +3229,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3548,7 +3552,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
