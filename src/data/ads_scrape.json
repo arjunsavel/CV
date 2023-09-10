@@ -127,7 +127,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -986,7 +986,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -1783,7 +1783,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -2722,7 +2722,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -2878,7 +2878,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -2959,7 +2959,7 @@
       "Boschin, Walter",
       "Andreuzzi, Gloria"
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0157",
     "page": 79,
@@ -3439,7 +3439,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 104,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3460,12 +3460,12 @@
       "Czekala, Ian",
       "Price-Whelan, Adrian",
       "Hedges, Christina",
-      "emilygilbert",
+      "Emilygilbert",
       "Bouma, Luke",
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -3762,7 +3762,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
