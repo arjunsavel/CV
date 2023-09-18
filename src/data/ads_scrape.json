@@ -1,5 +1,40 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Rasmussen, Kaitlin C.",
+      "Currie, Miles H.",
+      "Hagee, Celeste",
+      "van Buchem, Christiaan",
+      "Malik, Matej",
+      "Savel, Arjun B.",
+      "Brogi, Matteo",
+      "Rauscher, Emily",
+      "Meadows, Victoria",
+      "Mansfield, Megan",
+      "Kempton, Eliza M. -R.",
+      "Desert, Jean-Michel",
+      "Wardenier, Joost P.",
+      "Pino, Lorenzo",
+      "Line, Michael",
+      "Parmentier, Vivien",
+      "Seifahrt, Andreas",
+      "Kasper, David",
+      "Brady, Madison",
+      "Bean, Jacob L."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/acf28e",
+    "page": 155,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-10-00",
+    "title": "A Nondetection of Iron in the First High-resolution Emission Study of the Lava Planet 55 Cnc e",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..155R",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2301.08192",
     "authors": [
       "Coulombe, Louis-Philippe",
