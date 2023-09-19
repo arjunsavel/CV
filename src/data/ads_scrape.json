@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2308.10378",
     "authors": [
       "Rasmussen, Kaitlin C.",
       "Currie, Miles H.",
@@ -374,41 +374,6 @@
     "title": "A Mini-Neptune Orbiting the Metal-poor K Dwarf BD+29 2654",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...49D",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2308.10378",
-    "authors": [
-      "Rasmussen, Kaitlin C.",
-      "Currie, Miles H.",
-      "Hagee, Celeste",
-      "van Buchem, Christiaan",
-      "Malik, Matej",
-      "Savel, Arjun B.",
-      "Brogi, Matteo",
-      "Rauscher, Emily",
-      "Meadows, Victoria",
-      "Mansfield, Megan",
-      "Kempton, Eliza M. R.",
-      "Desert, Jean-Michel",
-      "Wardenier, Joost P.",
-      "Pino, Lorenzo",
-      "Line, Michael",
-      "Parmentier, Vivien",
-      "Seifahrt, Andreas",
-      "Kasper, David",
-      "Brady, Madison",
-      "Bean, Jacob L."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2308.10378",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-08-00",
-    "title": "A Non-Detection of Iron in the First High-Resolution Emission Study of the Lava Planet 55 Cnc e",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230810378R",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -3295,7 +3260,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
