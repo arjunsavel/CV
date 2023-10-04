@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.1)  3 OCT 2023 00:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.1)  4 OCT 2023 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1124,13 +1124,38 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdir/texmf-dist/f
 onts/enc/dvips/fontawesome/fontawesometwo.enc}])
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 8.64006pt on input line 231.
-(./src/supp_tex/honors.tex
+(Font)              scaled to size 8.64006pt on input line 227.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@underline' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+(./src/supp_tex/pubs_submitted.tex) (./src/supp_tex/pubs_unref.tex)
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 19.
+(Font)              scaled to size 7.68005pt on input line 227.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 19.
- [2]) [3] [4]
+(Font)              scaled to size 7.68005pt on input line 227.
+ [2]
+(./src/supp_tex/honors.tex) [3] [4]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 424.
  [5] (./main.aux)
@@ -1139,13 +1164,13 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5FBA7BA1A3546B5C222314C92995C4DE;2664.
+(rerunfilecheck)             Checksum: 88410E669833D14355922C99633DCDFC;2785.
  ) 
 Here is how much of TeX's memory you used:
- 25078 strings out of 474928
- 451827 string characters out of 5761545
+ 25092 strings out of 474928
+ 452225 string characters out of 5761545
  1945791 words of memory out of 5000000
- 46117 multiletter control sequences out of 15000+600000
+ 46124 multiletter control sequences out of 15000+600000
  620663 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,546b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1158,10 +1183,10 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (5 pages, 118233 bytes).
+Output written on main.pdf (5 pages, 119122 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 24 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 288 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
