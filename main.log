@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.1)  5 OCT 2023 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.1)  7 OCT 2023 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1150,12 +1150,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 227.
 
 (./src/supp_tex/pubs_submitted.tex) (./src/supp_tex/pubs_unref.tex)
+(./src/supp_tex/honors.tex
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 227.
+(Font)              scaled to size 7.68005pt on input line 3.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 227.
- [2]
-(./src/supp_tex/honors.tex) [3] [4]
+(Font)              scaled to size 7.68005pt on input line 3.
+ [2]) [3] [4]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 424.
  [5] (./main.aux)
@@ -1183,7 +1183,7 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (5 pages, 119127 bytes).
+Output written on main.pdf (5 pages, 118942 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  260 compressed objects within 3 object streams
