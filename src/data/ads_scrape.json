@@ -50,7 +50,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2310.17751",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2023-10-00",
@@ -644,7 +644,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -769,7 +769,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -1235,7 +1235,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -1868,7 +1868,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -2971,7 +2971,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
