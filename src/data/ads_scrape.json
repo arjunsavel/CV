@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2311.01506",
+    "authors": [
+      "Malsky, Isaac",
+      "Rauscher, Emily",
+      "Roman, Michael T.",
+      "Lee, Elspeth K. H.",
+      "Beltz, Hayley",
+      "Savel, Arjun",
+      "Kempton, Eliza M. R.",
+      "Cinque, L."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2311.01506",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-11-00",
+    "title": "A Direct Comparison between the use of Double Gray and Multiwavelength Radiative Transfer in a General Circulation Model with and without Radiatively Active Clouds",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231101506M",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2308.10378",
     "authors": [
       "Rasmussen, Kaitlin C.",
@@ -252,7 +275,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -300,7 +323,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 11,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -1235,7 +1258,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -3127,7 +3150,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -3509,7 +3532,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3540,7 +3563,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -4011,7 +4034,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
