@@ -275,7 +275,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 20,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1357,7 +1357,7 @@
       "Kharkar, Atharwa",
       "Nayak U, Ashwin"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7525913",
     "page": null,
@@ -1596,7 +1596,7 @@
       "Nayak U, Ashwin",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7428821",
     "page": null,
@@ -1735,7 +1735,7 @@
       "Nayak U, Ashwin",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7331855",
     "page": null,
@@ -2248,7 +2248,7 @@
       "Girish, Nachiket",
       "Filippenko, Alexei V."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1538",
     "page": 4489,
@@ -2345,7 +2345,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6662839",
     "page": null,
@@ -2684,7 +2684,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6299948",
     "page": null,
@@ -2770,7 +2770,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5979739",
     "page": null,
@@ -3150,7 +3150,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -3475,7 +3475,7 @@
       "Cawley, Kevin",
       "Fullard, Andrew"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5034859",
     "page": null,
@@ -3532,7 +3532,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 105,
+    "citations": 181,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3540,6 +3540,37 @@
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7191939",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-06-21",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
     "volume": null,
     "year": "2021"
   },
@@ -3571,37 +3602,6 @@
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Barclay, Thomas",
-      "Bouma, Luke G.",
-      "Brandt, Timothy D.",
-      "Czekala, Ian",
-      "David, Trevor J.",
-      "Dong, Jiayin",
-      "Gilbert, Emily A.",
-      "Gordon, Tyler A.",
-      "Hedges, Christina",
-      "Hey, Daniel R.",
-      "Morris, Brett M.",
-      "Price-Whelan, Adrian M.",
-      "Savel, Arjun B."
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.7191939",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-06-21",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
     "volume": null,
     "year": "2021"
   },
@@ -3680,7 +3680,7 @@
       "Cawley, Kevin",
       "Fullard, Andrew"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4995779",
     "page": null,
@@ -3711,7 +3711,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3737,7 +3737,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -3870,7 +3870,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -4176,7 +4176,7 @@
       "Yap, Kevin",
       "Gupta, Suyash"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3902923",
     "page": null,
