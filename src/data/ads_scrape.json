@@ -90,29 +90,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2311.01506",
-    "authors": [
-      "Malsky, Isaac",
-      "Rauscher, Emily",
-      "Roman, Michael T.",
-      "Lee, Elspeth K. H.",
-      "Beltz, Hayley",
-      "Savel, Arjun",
-      "Kempton, Eliza M. -R.",
-      "Cinque, L."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ad0b70",
-    "page": 66,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2024-01-00",
-    "title": "A Direct Comparison between the Use of Double Gray and Multiwavelength Radiative Transfer in a General Circulation Model with and without Radiatively Active Clouds",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961...66M",
-    "volume": "961",
-    "year": "2024"
-  },
-  {
     "arxiv": "2401.11879",
     "authors": [
       "Parviainen, Hannu",
@@ -187,6 +164,29 @@
     "title": "TOI-2266 b: a keystone super-Earth at the edge of the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240111879P",
     "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": "2311.01506",
+    "authors": [
+      "Malsky, Isaac",
+      "Rauscher, Emily",
+      "Roman, Michael T.",
+      "Lee, Elspeth K. H.",
+      "Beltz, Hayley",
+      "Savel, Arjun",
+      "Kempton, Eliza M. -R.",
+      "Cinque, L."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ad0b70",
+    "page": 66,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2024-01-00",
+    "title": "A Direct Comparison between the Use of Double Gray and Multiwavelength Radiative Transfer in a General Circulation Model with and without Radiatively Active Clouds",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...961...66M",
+    "volume": "961",
     "year": "2024"
   },
   {
@@ -693,7 +693,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acdee8",
     "page": 49,
@@ -1499,7 +1499,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -3773,7 +3773,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
