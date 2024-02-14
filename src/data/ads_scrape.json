@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "2402.07047",
+    "authors": [
+      "Savel, Arjun B.",
+      "Bedell, Megan",
+      "Kempton, Eliza M. -R."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "cortecs: A Python package for compressing opacities",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240207047S",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2401.05923",
     "authors": [
       "Schulte, Jack",
