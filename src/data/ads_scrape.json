@@ -8,7 +8,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2402.07047",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-02-00",
@@ -508,7 +508,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 19,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -645,7 +645,7 @@
       "Winn, J. N.",
       "Wohler, B."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stad1369",
     "page": 3090,
@@ -852,7 +852,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
