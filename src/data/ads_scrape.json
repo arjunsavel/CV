@@ -1115,14 +1115,14 @@
       "Wohler, B."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": null,
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2023-06-00",
     "title": "VizieR Online Data Catalog: HD 15906 CHEOPS PIPE and WASP lightcurves (Tuson+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..75233090T",
-    "volume": null,
+    "volume": "752",
     "year": "2023"
   },
   {
@@ -1870,14 +1870,14 @@
       "Latham, D. W."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51640115",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-11-00",
     "title": "VizieR Online Data Catalog: TESS Hunt for Young and Maturing Exoplanets. VII. (Newton+, 2022)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..51640115N",
-    "volume": null,
+    "volume": "516",
     "year": "2022"
   },
   {
@@ -1950,14 +1950,14 @@
       "Zhou, G."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.36690109",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-11-00",
     "title": "VizieR Online Data Catalog: TOI-969 light and RV curves (Lillo-Box+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..36690109L",
-    "volume": null,
+    "volume": "366",
     "year": "2022"
   },
   {
@@ -2059,14 +2059,14 @@
       "Ziegler, C."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51640070",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-10-00",
     "title": "VizieR Online Data Catalog: The TESS Grand Unified Hot Jupiter Survey I. 10 planets (Yee+, 2022)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..51640070Y",
-    "volume": null,
+    "volume": "516",
     "year": "2022"
   },
   {
@@ -3198,14 +3198,14 @@
       "Andreuzzi, G."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51620079",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-11-00",
     "title": "VizieR Online Data Catalog: HARPS radial velocity follow up of TOI-1634 (Cloutier+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..51620079C",
-    "volume": null,
+    "volume": "516",
     "year": "2021"
   },
   {
@@ -3445,14 +3445,14 @@
       "Zhang, H."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51610194",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-08-00",
     "title": "VizieR Online Data Catalog: LCs and RVs of 5 exoplanets discovered by TESS (Rodriguez+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..51610194R",
-    "volume": null,
+    "volume": "516",
     "year": "2021"
   },
   {
