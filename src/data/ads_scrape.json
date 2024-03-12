@@ -109,6 +109,58 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Fu, Guangwei",
+      "Welbanks, Luis",
+      "Deming, Drake",
+      "Inglis, Julie",
+      "Zhang, Michael",
+      "Lothringer, Joshua",
+      "Ih, Jegug",
+      "Moses, Julianne",
+      "Schlawin, Everett",
+      "Knutson, Heather",
+      "Henry, Gregory",
+      "Greene, Thomas",
+      "Sing, David",
+      "Savel, Arjun",
+      "Kempton, Eliza",
+      "Louie, Dana",
+      "Line, Michael"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2024-02-00",
+    "title": "Hydrogen sulfide detection and strong methane depletion in the super-stellar metallicity atmosphere of hot Jupiter HD 189733b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24334302F",
+    "volume": "56",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William J.",
+      "Alejandro Merchan, Sherelyn",
+      "Savel, Arjun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2024-02-00",
+    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24320219C",
+    "volume": "56",
+    "year": "2024"
+  },
+  {
     "arxiv": "2401.05923",
     "authors": [
       "Schulte, Jack",
@@ -460,7 +512,7 @@
       "Dasgupta, Debajyoti",
       "Kumar, Atul"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.8244935",
     "page": null,
@@ -3703,7 +3755,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
