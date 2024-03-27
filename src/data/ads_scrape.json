@@ -1,31 +1,6 @@
 [
   {
-    "arxiv": null,
-    "authors": [
-      "Tsai, Shang-Min",
-      "Parmentier, Vivien",
-      "Mendon{\\c{c}}a, Jo{\\~a}o M.",
-      "Tan, Xianyu",
-      "Deitrick, Russell",
-      "Hammond, Mark",
-      "Savel, Arjun B.",
-      "Zhang, Xi",
-      "Pierrehumbert, Raymond T.",
-      "Schwieterman, Edward W."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ad1600",
-    "page": 41,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2024-03-00",
-    "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
-    "volume": "963",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2401.11879",
     "authors": [
       "Parviainen, H.",
       "Murgas, F.",
@@ -99,6 +74,31 @@
     "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
     "volume": "683",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Tsai, Shang-Min",
+      "Parmentier, Vivien",
+      "Mendon{\\c{c}}a, Jo{\\~a}o M.",
+      "Tan, Xianyu",
+      "Deitrick, Russell",
+      "Hammond, Mark",
+      "Savel, Arjun B.",
+      "Zhang, Xi",
+      "Pierrehumbert, Raymond T.",
+      "Schwieterman, Edward W."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ad1600",
+    "page": 41,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2024-03-00",
+    "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
+    "volume": "963",
     "year": "2024"
   },
   {
