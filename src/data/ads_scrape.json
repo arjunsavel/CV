@@ -220,32 +220,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Baeyens, Robin",
-      "Barat, Saugata",
-      "Decin, Leen",
-      "Desert, Jean-Michel",
-      "Gobrecht, David",
-      "Helling, Christiane",
-      "Lecoq-Molinos, Helena",
-      "Savel, Arjun Baliga",
-      "Shivkumar, Hinna",
-      "Sikora, James",
-      "Sindel, Jan Philip"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 6045,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Kempton, Eliza M. -R.",
       "Bean, Jacob L.",
       "Espinoza, Nestor",
@@ -270,6 +244,32 @@
     "pubdate": "2024-02-00",
     "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
     "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Baeyens, Robin",
+      "Barat, Saugata",
+      "Decin, Leen",
+      "Desert, Jean-Michel",
+      "Gobrecht, David",
+      "Helling, Christiane",
+      "Lecoq-Molinos, Helena",
+      "Savel, Arjun Baliga",
+      "Shivkumar, Hinna",
+      "Sikora, James",
+      "Sindel, Jan Philip"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 6045,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
     "volume": null,
     "year": "2024"
   },
@@ -439,31 +439,6 @@
     "title": "A Nondetection of Iron in the First High-resolution Emission Study of the Lava Planet 55 Cnc e",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..155R",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2310.17751",
-    "authors": [
-      "Tsai, Shang-Min",
-      "Parmentier, Vivien",
-      "Mendon{\\c{c}}a, Jo{\\~a}o M.",
-      "Tan, Xianyu",
-      "Deitrick, Russell",
-      "Hammond, Mark",
-      "Savel, Arjun B.",
-      "Zhang, Xi",
-      "Pierrehumbert, Raymond T.",
-      "Schwieterman, Edward W."
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2310.17751",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-10-00",
-    "title": "Global Chemical Transport on Hot Jupiters: Insights from 2D VULCAN photochemical model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231017751T",
-    "volume": null,
     "year": "2023"
   },
   {
