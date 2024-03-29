@@ -77,7 +77,7 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
+    "arxiv": "2310.17751",
     "authors": [
       "Tsai, Shang-Min",
       "Parmentier, Vivien",
@@ -90,7 +90,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -1512,7 +1512,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
