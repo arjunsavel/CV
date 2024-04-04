@@ -154,36 +154,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Kempton, Eliza M. -R.",
-      "Bean, Jacob L.",
-      "Espinoza, Nestor",
-      "Ih, Jegug",
-      "Kanumalla, Sai Krishna Teja",
-      "Kirk, James",
-      "Komacek, Thaddeus",
-      "Line, Michael",
-      "Nixon, Matthew Conor",
-      "Ohno, Kazumasa",
-      "Rauscher, Emily",
-      "Roman, Michael",
-      "Rotman, Yoav",
-      "Savel, Arjun Baliga",
-      "Welbanks, Luis"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 5275,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Dai, F.",
       "Schlaufman, K. C.",
       "Reggiani, H.",
@@ -245,6 +215,36 @@
     "title": "VizieR Online Data Catalog: BD+29 2654 equivalent Widths and line abundances (Dai+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51660049D",
     "volume": "516",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Espinoza, Nestor",
+      "Ih, Jegug",
+      "Kanumalla, Sai Krishna Teja",
+      "Kirk, James",
+      "Komacek, Thaddeus",
+      "Line, Michael",
+      "Nixon, Matthew Conor",
+      "Ohno, Kazumasa",
+      "Rauscher, Emily",
+      "Roman, Michael",
+      "Rotman, Yoav",
+      "Savel, Arjun Baliga",
+      "Welbanks, Luis"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 5275,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
+    "volume": null,
     "year": "2024"
   },
   {
@@ -3965,7 +3965,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 135,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
