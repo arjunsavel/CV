@@ -154,6 +154,36 @@
   {
     "arxiv": null,
     "authors": [
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Espinoza, Nestor",
+      "Ih, Jegug",
+      "Kanumalla, Sai Krishna Teja",
+      "Kirk, James",
+      "Komacek, Thaddeus",
+      "Line, Michael",
+      "Nixon, Matthew Conor",
+      "Ohno, Kazumasa",
+      "Rauscher, Emily",
+      "Roman, Michael",
+      "Rotman, Yoav",
+      "Savel, Arjun Baliga",
+      "Welbanks, Luis"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 5275,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Dai, F.",
       "Schlaufman, K. C.",
       "Reggiani, H.",
@@ -220,56 +250,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Kempton, Eliza M. -R.",
-      "Bean, Jacob L.",
-      "Espinoza, Nestor",
-      "Ih, Jegug",
-      "Kanumalla, Sai Krishna Teja",
-      "Kirk, James",
-      "Komacek, Thaddeus",
-      "Line, Michael",
-      "Nixon, Matthew Conor",
-      "Ohno, Kazumasa",
-      "Rauscher, Emily",
-      "Roman, Michael",
-      "Rotman, Yoav",
-      "Savel, Arjun Baliga",
-      "Welbanks, Luis"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 5275,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Cruz, Kelle",
-      "Rodriguez, David",
-      "Cooper, William J.",
-      "Alejandro Merchan, Sherelyn",
-      "Savel, Arjun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
-    "pubdate": "2024-02-00",
-    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24320219C",
-    "volume": "56",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Baeyens, Robin",
       "Barat, Saugata",
       "Decin, Leen",
@@ -291,6 +271,26 @@
     "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
     "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William J.",
+      "Alejandro Merchan, Sherelyn",
+      "Savel, Arjun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2024-02-00",
+    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24320219C",
+    "volume": "56",
     "year": "2024"
   },
   {
