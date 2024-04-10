@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William J.",
+      "Savel, Arjun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "AAS/Division for Extreme Solar Systems Abstracts",
+    "pubdate": "2024-04-00",
+    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ESS.....562615C",
+    "volume": "56",
+    "year": "2024"
+  },
+  {
     "arxiv": "2401.11879",
     "authors": [
       "Parviainen, H.",
