@@ -270,6 +270,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Baeyens, Robin",
+      "Barat, Saugata",
+      "Decin, Leen",
+      "Desert, Jean-Michel",
+      "Gobrecht, David",
+      "Helling, Christiane",
+      "Lecoq-Molinos, Helena",
+      "Savel, Arjun Baliga",
+      "Shivkumar, Hinna",
+      "Sikora, James",
+      "Sindel, Jan Philip"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 6045,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Kempton, Eliza M. -R.",
       "Bean, Jacob L.",
       "Espinoza, Nestor",
@@ -294,32 +320,6 @@
     "pubdate": "2024-02-00",
     "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
     "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Baeyens, Robin",
-      "Barat, Saugata",
-      "Decin, Leen",
-      "Desert, Jean-Michel",
-      "Gobrecht, David",
-      "Helling, Christiane",
-      "Lecoq-Molinos, Helena",
-      "Savel, Arjun Baliga",
-      "Shivkumar, Hinna",
-      "Sikora, James",
-      "Sindel, Jan Philip"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 6045,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
     "volume": null,
     "year": "2024"
   },
@@ -2359,7 +2359,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -3200,7 +3200,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
@@ -3984,7 +3984,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 138,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
