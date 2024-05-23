@@ -204,6 +204,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Baeyens, Robin",
+      "Barat, Saugata",
+      "Decin, Leen",
+      "Desert, Jean-Michel",
+      "Gobrecht, David",
+      "Helling, Christiane",
+      "Lecoq-Molinos, Helena",
+      "Savel, Arjun Baliga",
+      "Shivkumar, Hinna",
+      "Sikora, James",
+      "Sindel, Jan Philip"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 6045,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Dai, F.",
       "Schlaufman, K. C.",
       "Reggiani, H.",
@@ -265,32 +291,6 @@
     "title": "VizieR Online Data Catalog: BD+29 2654 equivalent Widths and line abundances (Dai+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51660049D",
     "volume": "516",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Baeyens, Robin",
-      "Barat, Saugata",
-      "Decin, Leen",
-      "Desert, Jean-Michel",
-      "Gobrecht, David",
-      "Helling, Christiane",
-      "Lecoq-Molinos, Helena",
-      "Savel, Arjun Baliga",
-      "Shivkumar, Hinna",
-      "Sikora, James",
-      "Sindel, Jan Philip"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 6045,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -1076,7 +1076,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -3984,7 +3984,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 139,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4307,7 +4307,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
