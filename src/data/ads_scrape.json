@@ -230,6 +230,36 @@
   {
     "arxiv": null,
     "authors": [
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Espinoza, Nestor",
+      "Ih, Jegug",
+      "Kanumalla, Sai Krishna Teja",
+      "Kirk, James",
+      "Komacek, Thaddeus",
+      "Line, Michael",
+      "Nixon, Matthew Conor",
+      "Ohno, Kazumasa",
+      "Rauscher, Emily",
+      "Roman, Michael",
+      "Rotman, Yoav",
+      "Savel, Arjun Baliga",
+      "Welbanks, Luis"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 5275,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Dai, F.",
       "Schlaufman, K. C.",
       "Reggiani, H.",
@@ -291,36 +321,6 @@
     "title": "VizieR Online Data Catalog: BD+29 2654 equivalent Widths and line abundances (Dai+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51660049D",
     "volume": "516",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Kempton, Eliza M. -R.",
-      "Bean, Jacob L.",
-      "Espinoza, Nestor",
-      "Ih, Jegug",
-      "Kanumalla, Sai Krishna Teja",
-      "Kirk, James",
-      "Komacek, Thaddeus",
-      "Line, Michael",
-      "Nixon, Matthew Conor",
-      "Ohno, Kazumasa",
-      "Rauscher, Emily",
-      "Roman, Michael",
-      "Rotman, Yoav",
-      "Savel, Arjun Baliga",
-      "Welbanks, Luis"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 5275,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5275K",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -684,7 +684,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -869,7 +869,7 @@
       "Winn, J. N.",
       "Wohler, B."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stad1369",
     "page": 3090,
@@ -1920,7 +1920,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
@@ -2336,7 +2336,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
@@ -3535,7 +3535,7 @@
       "Boschin, Walter",
       "Andreuzzi, Gloria"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0157",
     "page": 79,
@@ -3984,7 +3984,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 138,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4219,7 +4219,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
