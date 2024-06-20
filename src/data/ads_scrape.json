@@ -88,6 +88,26 @@
     "year": "2024"
   },
   {
+    "arxiv": "2406.12512",
+    "authors": [
+      "Savel, Arjun B.",
+      "Beltz, Hayley",
+      "Komacek, Thaddeus D.",
+      "Tsai, Shang-Min",
+      "Kempton, Eliza M. -R."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2406.12512",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-06-00",
+    "title": "A new lever on exoplanetary B fields: measuring heavy ion velocities",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240612512S",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -228,7 +248,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -772,7 +792,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1289,7 +1309,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -2447,7 +2467,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -3386,7 +3406,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
