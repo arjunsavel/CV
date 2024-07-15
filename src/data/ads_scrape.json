@@ -123,6 +123,26 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Savel, Arjun B.",
+      "Beltz, Hayley",
+      "Komacek, Thaddeus D.",
+      "Tsai, Shang-Min",
+      "Kempton, Eliza M. -R."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ad5a0a",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2024-07-00",
+    "title": "A New Lever on Exoplanetary B Fields: Measuring Heavy Ion Velocities",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..27S",
+    "volume": "969",
+    "year": "2024"
+  },
+  {
     "arxiv": "2405.14786",
     "authors": [
       "Polanski, Alex S.",
@@ -825,7 +845,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1342,7 +1362,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -1703,7 +1723,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -2336,7 +2356,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -3439,7 +3459,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -4125,7 +4145,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
