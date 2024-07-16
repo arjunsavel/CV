@@ -231,26 +231,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2406.12512",
-    "authors": [
-      "Savel, Arjun B.",
-      "Beltz, Hayley",
-      "Komacek, Thaddeus D.",
-      "Tsai, Shang-Min",
-      "Kempton, Eliza M. -R."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2406.12512",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-06-00",
-    "title": "A new lever on exoplanetary B fields: measuring heavy ion velocities",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240612512S",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -270,7 +250,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 121,
+    "citations": 207,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
