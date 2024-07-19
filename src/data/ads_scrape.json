@@ -123,26 +123,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2406.12512",
-    "authors": [
-      "Savel, Arjun B.",
-      "Beltz, Hayley",
-      "Komacek, Thaddeus D.",
-      "Tsai, Shang-Min",
-      "Kempton, Eliza M. -R."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ad5a0a",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2024-07-00",
-    "title": "A New Lever on Exoplanetary B Fields: Measuring Heavy Ion Velocities",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..27S",
-    "volume": "969",
-    "year": "2024"
-  },
-  {
     "arxiv": "2407.10294",
     "authors": [
       "Espinoza, N{\\'e}stor",
@@ -198,6 +178,26 @@
     "title": "Inhomogeneous terminators on the exoplanet WASP-39 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240710294E",
     "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": "2406.12512",
+    "authors": [
+      "Savel, Arjun B.",
+      "Beltz, Hayley",
+      "Komacek, Thaddeus D.",
+      "Tsai, Shang-Min",
+      "Kempton, Eliza M. -R."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ad5a0a",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2024-07-00",
+    "title": "A New Lever on Exoplanetary B Fields: Measuring Heavy Ion Velocities",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...969L..27S",
+    "volume": "969",
     "year": "2024"
   },
   {
@@ -883,7 +883,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4506,7 +4506,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
