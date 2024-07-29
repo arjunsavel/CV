@@ -137,7 +137,7 @@
       "Gill, Holden",
       "Gillon, Micha{\\\"e}l",
       "Horne, Keith",
-      "Horta, Ferran Grau",
+      "Grau Horta, Ferran",
       "Howell, Steve B.",
       "Isogai, Keisuke",
       "Jehin, Emmanu{\\\"e}l",
@@ -931,7 +931,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2394,7 +2394,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -2558,7 +2558,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -4183,7 +4183,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 144,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4506,7 +4506,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
