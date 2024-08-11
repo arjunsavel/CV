@@ -4,3 +4,4 @@ gsheets
 ads
 beautifulsoup4
 pre-commit
+pdfrw
