@@ -32,7 +32,7 @@ jobs:
 
       - name: Format publications
         run: |
-          python src/cv/scripts/format_pubs.py
+          python3 src/cv/scripts/format_pubs.py
 
       - run: git pull
 
