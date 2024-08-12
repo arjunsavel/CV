@@ -6,16 +6,17 @@ author: @arjunsavel
 import inspect
 import json
 import os
+import pdb
 import time
 
 import numpy as np
 import requests
 from bs4 import BeautifulSoup
 
-import cv
-
-cv_root = inspect.getfile(cv).split("cv")[0]
-data_path = os.path.join(cv_root, "data")
+# import cv
+#
+# cv_root = inspect.getfile(cv).split("cv")[0]
+# data_path = os.path.join(cv_root, "data")
 
 
 def clean_citation(citation):
@@ -67,6 +68,7 @@ def clean_journal_info(journal_info):
         return
 
     journal_info_split = journal_info.split(", ")
+    # pdb.set_trace()
     year = eval(journal_info_split[-1])  # the year is always the last
 
     journal_info_split_cleaned["page"] = None
@@ -94,13 +96,13 @@ def get_scrape_google_scholar(author):
     -------
         :cleaned_articles: list of dict of publications.
     """
-    author = reverse_name(author)
+    # author = reverse_name(author)
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
     }
     # url = f"""https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={author.replace(' ', '+')}&pagesize=80"""
-    url = "https://scholar.google.com/citations?user=EddVpbYAAAAJ&hl=en&oi=ao&cstart=0&pagesize=80"
+    url = "https://scholar.google.com/citations?user=e6T8gFsAAAAJ&hl=en&oi=ao&cstart=0&pagesize=80"
 
     response = requests.post(url, headers=headers)
     soup = BeautifulSoup(response.content, "html.parser")
@@ -162,11 +164,21 @@ def get_scrape_google_scholar(author):
     citations.sort()
 
     citations = np.array(citations)
+    # pdb.set_trace()
+    # citations[citations==6] = 7
+    h_index = calc_h_index(citations)
+    # h_index = np.arange(len(citations))[np.arange(len(citations)) > citations[::-1]][0]
+    first_author_pubs = [a for a in cleaned_articles if author in a["authors"][0]]
+    first_author_citations = np.array([a["citations"] for a in first_author_pubs])
+    n_first_author_citations = np.sum(first_author_citations)
 
-    h_index = np.arange(len(citations))[np.arange(len(citations)) > citations[::-1]][0]
-
+    first_author_citations.sort()
+    first_author_h_index = np.arange(len(first_author_citations))[np.arange(len(first_author_citations)) > first_author_citations[::-1]][0]
     print(h_index)
-    return cleaned_articles
+    # pdb.set_trace()
+    n_citations = np.sum(citations)
+    print(n_citations)
+    return cleaned_articles, n_citations, h_index, n_first_author_citations, first_author_h_index
 
 
 def reverse_name(author):
@@ -183,17 +195,48 @@ def reverse_name(author):
         return " ".join([author_names[1], author_names[0]])
 
 
+def calc_h_index(citations):
+    """
+    Calculates the h-index from a list of citations.
+
+    Inputs
+    -------
+        :citations: (list of ints) list of citations for each paper.
+
+    Outputs
+    -------
+        :h_index: (int) h-index.
+    """
+    citations.sort()
+    h_index = 0
+    while True:
+        H_citations = citations[citations >= h_index]
+
+        # is this valid? For h index of N, I need at least N papers with N citations. H_ciations is the list of papers with them.
+        if len(H_citations) >= h_index:
+            pass
+        else:
+            h_index -= 1
+            break
+
+        h_index += 1
+    return h_index
+
 if __name__ == "__main__":
 
-    name = "McDanal, Riley"
+    name = "McDanal, R"
 
     try:
-        paper_dict = get_scrape_google_scholar(name)
+        paper_dict,  n_citations, h_index, n_first_author_citations, first_author_h_index = get_scrape_google_scholar(name)
     except requests.Timeout as err:
         print("Timeout error")
         print(err)
         time.sleep(60)
         paper_dict = get_scrape_google_scholar(name)
 
-    with open("../data/google_scholar_scrape.json", "w") as f:
+    with open("data/google_scholar_scrape.json", "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))
+    np.savetxt("data/n_citations.txt", [n_citations])
+    np.savetxt("data/h_index.txt", [h_index])
+    np.savetxt("data/n_first_author_citations.txt", [n_first_author_citations])
+    np.savetxt("data/first_author_h_index.txt", [first_author_h_index])
