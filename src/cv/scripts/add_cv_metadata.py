@@ -8,6 +8,7 @@ def main():
     filepath = "../../../../main.pdf"
     print(os.listdir("../../../../"))
     print(os.listdir("../../../"))
+    print(os.listdir())
     trailer = PdfReader(filepath)
     trailer.Info.Title = """Arjun Savel's CV"""
     trailer.Info.Author = 'Arjun Savel'
