@@ -1,6 +1,17 @@
 name: Build CV
 
 on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
   schedule:
     # * is a special character in YAML so you have to quote this string
     # runs once a day
