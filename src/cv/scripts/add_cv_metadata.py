@@ -4,7 +4,7 @@ def main():
     """
     write some metadata
     """
-    filepath = "../../../../CV_Savel.pdf"
+    filepath = "../../../../main.pdf"
     trailer = PdfReader(filepath)
     trailer.Info.Title = """Arjun Savel's CV"""
     trailer.Info.Author = 'Arjun Savel'
