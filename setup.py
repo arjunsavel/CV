@@ -22,7 +22,7 @@ CLASSIFIERS = [
     "Programming Language :: Python",
     "Topic :: Text Processing :: Markup :: LaTeX",
 ]
-INSTALL_REQUIRES = ["pandas", "numpy", "gsheets", "ads", "beautifulsoup4"]
+INSTALL_REQUIRES = ["pandas", "numpy", "gsheets", "ads", "beautifulsoup4", "pdfrw"]
 
 ###################################################################
 
