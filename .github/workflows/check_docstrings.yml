@@ -33,7 +33,7 @@ jobs:
           python3 -m pip install -e .
           pip3 install docstr-coverage
           
-          docstr-coverage src/cv/scripts --exclude=.*utf8totex.py --verbose=2 --badge=data/docstring_badge.svg --fail-under=0
+          docstr-coverage src/cv/scripts --exclude=.*utf8totex.py --verbose=2 --badge=src/data/docstring_badge.svg --fail-under=0
       - run: git pull
 
       - name: Committing changes
