@@ -460,7 +460,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -1096,7 +1096,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 50,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -1850,7 +1850,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -3055,6 +3055,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Savel, Arjun",
+      "Kempton, Eliza",
+      "Komacek, Thaddeus",
+      "Rauscher, Emily",
+      "Bean, Jacob"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Mayo, Andrew W.",
       "Harada, Caleb",
       "Dressing, Courtney",
@@ -3072,26 +3092,6 @@
     "pubdate": "2022-06-00",
     "title": "Enriching Our View of Multiplanet Systems Using TESS",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Savel, Arjun",
-      "Kempton, Eliza",
-      "Komacek, Thaddeus",
-      "Rauscher, Emily",
-      "Bean, Jacob"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
     "volume": "54",
     "year": "2022"
   },
