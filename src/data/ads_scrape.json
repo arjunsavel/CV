@@ -80,39 +80,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2407.06163",
-    "authors": [
-      "Fu, Guangwei",
-      "Welbanks, Luis",
-      "Deming, Drake",
-      "Inglis, Julie",
-      "Zhang, Michael",
-      "Lothringer, Joshua",
-      "Ih, Jegug",
-      "Moses, Julianne I.",
-      "Schlawin, Everett",
-      "Knutson, Heather A.",
-      "Henry, Gregory",
-      "Greene, Thomas",
-      "Sing, David K.",
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Louie, Dana R.",
-      "Line, Michael",
-      "Nixon, Matt"
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.1038/s41586-024-07760-y",
-    "page": 752,
-    "pub": "Nature",
-    "pubdate": "2024-08-00",
-    "title": "Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632..752F",
-    "volume": "632",
-    "year": "2024"
-  },
-  {
     "arxiv": "2407.10294",
     "authors": [
       "Espinoza, N{\\'e}stor",
@@ -167,6 +134,39 @@
     "pubdate": "2024-08-00",
     "title": "Inhomogeneous terminators on the exoplanet WASP-39 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632.1017E",
+    "volume": "632",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2407.06163",
+    "authors": [
+      "Fu, Guangwei",
+      "Welbanks, Luis",
+      "Deming, Drake",
+      "Inglis, Julie",
+      "Zhang, Michael",
+      "Lothringer, Joshua",
+      "Ih, Jegug",
+      "Moses, Julianne I.",
+      "Schlawin, Everett",
+      "Knutson, Heather A.",
+      "Henry, Gregory",
+      "Greene, Thomas",
+      "Sing, David K.",
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Louie, Dana R.",
+      "Line, Michael",
+      "Nixon, Matt"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.1038/s41586-024-07760-y",
+    "page": 752,
+    "pub": "Nature",
+    "pubdate": "2024-08-00",
+    "title": "Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632..752F",
     "volume": "632",
     "year": "2024"
   },
@@ -1048,7 +1048,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1096,7 +1096,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -1565,7 +1565,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -2559,7 +2559,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 22,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -2723,7 +2723,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -3662,7 +3662,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -3818,7 +3818,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -4348,7 +4348,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
