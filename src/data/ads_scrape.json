@@ -166,39 +166,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2407.06163",
-    "authors": [
-      "Fu, Guangwei",
-      "Welbanks, Luis",
-      "Deming, Drake",
-      "Inglis, Julie",
-      "Zhang, Michael",
-      "Lothringer, Joshua",
-      "Ih, Jegug",
-      "Moses, Julianne I.",
-      "Schlawin, Everett",
-      "Knutson, Heather A.",
-      "Henry, Gregory",
-      "Greene, Thomas",
-      "Sing, David K.",
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Louie, Dana R.",
-      "Line, Michael",
-      "Nixon, Matt"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.1038/s41586-024-07760-y",
-    "page": 752,
-    "pub": "Nature",
-    "pubdate": "2024-08-00",
-    "title": "Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632..752F",
-    "volume": "632",
-    "year": "2024"
-  },
-  {
     "arxiv": "2407.10294",
     "authors": [
       "Espinoza, N{\\'e}stor",
@@ -245,7 +212,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 1,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -253,6 +220,39 @@
     "pubdate": "2024-08-00",
     "title": "Inhomogeneous terminators on the exoplanet WASP-39 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632.1017E",
+    "volume": "632",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2407.06163",
+    "authors": [
+      "Fu, Guangwei",
+      "Welbanks, Luis",
+      "Deming, Drake",
+      "Inglis, Julie",
+      "Zhang, Michael",
+      "Lothringer, Joshua",
+      "Ih, Jegug",
+      "Moses, Julianne I.",
+      "Schlawin, Everett",
+      "Knutson, Heather A.",
+      "Henry, Gregory",
+      "Greene, Thomas",
+      "Sing, David K.",
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Louie, Dana R.",
+      "Line, Michael",
+      "Nixon, Matt"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.1038/s41586-024-07760-y",
+    "page": 752,
+    "pub": "Nature",
+    "pubdate": "2024-08-00",
+    "title": "Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024Natur.632..752F",
     "volume": "632",
     "year": "2024"
   },
@@ -461,7 +461,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -1049,7 +1049,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 63,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1097,7 +1097,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2724,7 +2724,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -4349,7 +4349,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
