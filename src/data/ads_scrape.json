@@ -1,5 +1,29 @@
 [
   {
+    "arxiv": "2411.07303",
+    "authors": [
+      "Savel, Arjun B.",
+      "Bedell, Megan",
+      "Kempton, Eliza M. -R.",
+      "Smith, Peter",
+      "Bean, Jacob L.",
+      "Zhao, Lily L.",
+      "Wong, Kaze W. K.",
+      "Sanchez, Jorge A.",
+      "Line, Michael R."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-11-00",
+    "title": "Peering into the black box: forward-modeling the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241107303S",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2409.07400",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -4613,7 +4637,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
