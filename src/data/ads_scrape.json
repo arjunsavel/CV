@@ -14,7 +14,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2411.07303",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-11-00",
@@ -1749,7 +1749,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -2848,7 +2848,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -3180,7 +3180,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -3951,7 +3951,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -4107,7 +4107,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -4637,7 +4637,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
