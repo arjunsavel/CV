@@ -1624,7 +1624,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -2848,7 +2848,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -3316,6 +3316,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Savel, Arjun",
+      "Kempton, Eliza",
+      "Komacek, Thaddeus",
+      "Rauscher, Emily",
+      "Bean, Jacob"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Rasmussen, Kaitlin C.",
       "Rahman, Fahin",
       "Beltz, Hayley",
@@ -3338,26 +3358,6 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Savel, Arjun",
-      "Kempton, Eliza",
-      "Komacek, Thaddeus",
-      "Rauscher, Emily",
-      "Bean, Jacob"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
     "volume": "54",
     "year": "2022"
   },
@@ -4107,7 +4107,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 41,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -4637,7 +4637,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 161,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
