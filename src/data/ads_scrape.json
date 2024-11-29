@@ -24,6 +24,32 @@
     "year": "2024"
   },
   {
+    "arxiv": "2411.17923",
+    "authors": [
+      "Bartelt, Dare",
+      "Weiner Mansfield, Megan",
+      "Line, Michael R.",
+      "Parmentier, Vivien",
+      "Welbanks, Luis",
+      "Lee, Elspeth K. H.",
+      "Sanchez, Jorge",
+      "Savel, Arjun B.",
+      "Smith, Peter C. B.",
+      "Rauscher, Emily",
+      "Wardenier, Joost P."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-11-00",
+    "title": "A Measurement of the Water Abundance in the Atmosphere of the Hot Jupiter WASP-43b with High-resolution Cross-correlation Spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241117923B",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2411.16836",
     "authors": [
       "Crossfield, Ian J. M.",
@@ -1359,7 +1385,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
