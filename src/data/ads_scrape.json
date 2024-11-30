@@ -40,7 +40,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2411.17923",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-11-00",
@@ -119,7 +119,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2411.16836",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-11-00",
@@ -749,7 +749,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -1385,7 +1385,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2678,7 +2678,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
@@ -3958,7 +3958,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
@@ -4977,7 +4977,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
