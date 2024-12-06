@@ -320,7 +320,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2410.19017",
     "page": null,
@@ -500,7 +500,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1337,7 +1337,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4056,7 +4056,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
