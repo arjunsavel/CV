@@ -33,7 +33,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@master
         with:
-          python-version: 3.7
+          python-version: 3.11
       - uses: xu-cheng/latex-action@v2
         with:
           root_file: main.tex
