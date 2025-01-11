@@ -112,7 +112,7 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
+    "arxiv": "2501.04383",
     "authors": [
       "Ehrhardt, Juliana",
       "Thomas, Luis",
@@ -175,7 +175,7 @@
       "Ziegler, Carl",
       "Z{\\\"o}ller, Raphael"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451404",
     "page": null,
@@ -878,7 +878,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -1682,7 +1682,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1933,7 +1933,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acdee8",
     "page": 49,
