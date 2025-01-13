@@ -878,7 +878,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -1125,7 +1125,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 134,
+    "citations": 232,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1730,7 +1730,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3462,7 +3462,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
