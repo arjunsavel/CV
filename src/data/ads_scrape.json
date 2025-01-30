@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2411.16836",
     "authors": [
       "Crossfield, Ian J. M.",
       "Polanski, Alex S.",
@@ -1852,7 +1852,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2966,7 +2966,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -3584,7 +3584,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 33,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -5209,7 +5209,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -5532,7 +5532,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 72,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
