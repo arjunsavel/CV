@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.1)  1 FEB 2025 00:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  2 FEB 2025 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -527,7 +527,7 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip53
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box63
 \beforetitleunit=\skip54
 \aftertitleunit=\skip55
@@ -548,7 +548,7 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \verbatim@in@stream=\read3
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/01/19 v3.10 Customized lists
 \labelindent=\skip56
 \enit@outerparindent=\dimen263
 \enit@toks=\toks33
@@ -594,17 +594,23 @@ sep char (CT)
 readarray: bounds checking OFF
 ) (./src/supp_tex/cvstyle.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
-
+Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip57
-\f@nch@O@elh=\skip58
-\f@nch@O@erh=\skip59
-\f@nch@O@olh=\skip60
-\f@nch@O@orh=\skip61
-\f@nch@O@elf=\skip62
-\f@nch@O@erf=\skip63
-\f@nch@O@olf=\skip64
-\f@nch@O@orf=\skip65
+\f@nch@offset@elh=\skip58
+\f@nch@offset@erh=\skip59
+\f@nch@offset@olh=\skip60
+\f@nch@offset@orh=\skip61
+\f@nch@offset@elf=\skip62
+\f@nch@offset@erf=\skip63
+\f@nch@offset@olf=\skip64
+\f@nch@offset@orf=\skip65
+\f@nch@height=\skip66
+\f@nch@footalignment=\skip67
+\f@nch@widthL=\skip68
+\f@nch@widthC=\skip69
+\f@nch@widthR=\skip70
+\@temptokenb=\toks38
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -623,7 +629,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen269
 \Gm@layouthoffset=\dimen270
 \Gm@layoutvoffset=\dimen271
-\Gm@dimlist=\toks38
+\Gm@dimlist=\toks39
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/advdate/advdate.sty
 Package: advdate 1996/10/20 Advance Date Package
@@ -789,8 +795,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks39
-\XKV@tempa@toks=\toks40
+\XKV@toks=\toks40
+\XKV@tempa@toks=\toks41
 )
 \XKV@depth=\count327
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -815,10 +821,10 @@ Now handling font encoding MDB ...
 \symmathdesignB=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 (Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
-\@emptytoks=\toks41
+\@emptytoks=\toks42
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
-\rulethickness=\skip66
+\rulethickness=\skip71
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -890,12 +896,12 @@ Package hyperref Info: Link coloring ON on input line 139.
 \scratchbox=\box66
 \nofMPsegments=\count330
 \nofMParguments=\count331
-\everyMPshowfont=\toks42
+\everyMPshowfont=\toks43
 \MPscratchCnt=\count332
 \MPscratchDim=\dimen273
 \MPnumerator=\count333
 \makeMPintoPDFobject=\count334
-\everyMPtoPDFconversion=\toks43
+\everyMPtoPDFconversion=\toks44
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -1221,18 +1227,18 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 
 [7] (./main.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D4DE99AC15069D0426E493CD16988E38;2871.
  ) 
 Here is how much of TeX's memory you used:
- 25237 strings out of 473254
- 456447 string characters out of 5720015
- 836374 words of memory out of 5000000
- 47928 multiletter control sequences out of 15000+600000
- 620663 words of font info for 122 fonts, out of 8000000 for 9000
+ 25323 strings out of 473201
+ 458062 string characters out of 5718191
+ 840523 words of memory out of 5000000
+ 48057 multiletter control sequences out of 15000+600000
+ 621431 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,557b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
@@ -1244,7 +1250,7 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (7 pages, 130243 bytes).
+Output written on main.pdf (7 pages, 130246 bytes).
 PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  344 compressed objects within 4 object streams
