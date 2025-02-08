@@ -205,7 +205,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -1729,7 +1729,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -1914,7 +1914,7 @@
       "Winn, J. N.",
       "Wohler, B."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stad1369",
     "page": 3090,
@@ -1980,7 +1980,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acdee8",
     "page": 49,
@@ -2246,7 +2246,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -2712,7 +2712,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -3345,7 +3345,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -3509,7 +3509,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -3813,6 +3813,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Savel, Arjun",
+      "Kempton, Eliza",
+      "Komacek, Thaddeus",
+      "Rauscher, Emily",
+      "Bean, Jacob"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Rasmussen, Kaitlin C.",
       "Rahman, Fahin",
       "Beltz, Hayley",
@@ -3835,26 +3855,6 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Savel, Arjun",
-      "Kempton, Eliza",
-      "Komacek, Thaddeus",
-      "Rauscher, Emily",
-      "Bean, Jacob"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e1802S",
     "volume": "54",
     "year": "2022"
   },
@@ -4448,7 +4448,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
