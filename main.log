@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  6 FEB 2025 00:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  8 FEB 2025 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1136,34 +1136,8 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 68.
 [2])
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 8.64006pt on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 224.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 224.
-
-(./src/supp_tex/pubs_submitted.tex) (./src/supp_tex/pubs_unref.tex)
-(./src/supp_tex/honors.tex)
+(Font)              scaled to size 8.64006pt on input line 228.
+ (./src/supp_tex/honors.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 238.
@@ -1188,9 +1162,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 238.
 
-
-
-[3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 255.
@@ -1217,14 +1188,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
+[3]
+
 [4]
 
 [5]
-
-[6]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 503.
 
+
+[6]
 
 [7] (./main.aux)
  ***********
@@ -1232,13 +1205,13 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D4DE99AC15069D0426E493CD16988E38;2871.
+(rerunfilecheck)             Checksum: 28F9D04A2D55D7CF7905B5E9DA884D3E;2750.
  ) 
 Here is how much of TeX's memory you used:
- 25323 strings out of 473201
- 458062 string characters out of 5718191
- 840931 words of memory out of 5000000
- 48057 multiletter control sequences out of 15000+600000
+ 25309 strings out of 473201
+ 457664 string characters out of 5718191
+ 840929 words of memory out of 5000000
+ 48050 multiletter control sequences out of 15000+600000
  621431 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,557b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1251,10 +1224,10 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (7 pages, 130244 bytes).
+Output written on main.pdf (7 pages, 129805 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
- 29 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
