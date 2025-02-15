@@ -232,7 +232,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2502.07074",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-02-00",
@@ -3028,7 +3028,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -3207,7 +3207,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
@@ -5506,7 +5506,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -5594,7 +5594,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
