@@ -1,5 +1,29 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Savel, Arjun B.",
+      "Bedell, Megan",
+      "Kempton, Eliza M. -R.",
+      "Smith, Peter C. B.",
+      "Bean, Jacob L.",
+      "Zhao, Lily L.",
+      "Wong, Kaze W. K.",
+      "Sanchez, Jorge A.",
+      "Line, Michael R."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ada27e",
+    "page": 135,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2025-03-00",
+    "title": "Peering into the Black Box: Forward Modeling of the Uncertainty Budget of High-resolution Spectroscopy of Exoplanet Atmospheres",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..135S",
+    "volume": "169",
+    "year": "2025"
+  },
+  {
     "arxiv": "2411.16836",
     "authors": [
       "Crossfield, Ian J. M.",
@@ -242,6 +266,84 @@
     "year": "2025"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Nixon, Matthew",
+      "Ih, Jegug",
+      "Kempton, Eliza",
+      "Savel, Arjun",
+      "Young, Edward"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2025-01-00",
+    "title": "Observable signatures of magma ocean-atmosphere interactions in sub-Neptunes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24531405N",
+    "volume": "245",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Savel, Arjun",
+      "Cooper, William J.",
+      "Alejandro Merchan, Sherelyn"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2025-01-00",
+    "title": "The SIMPLE Archive and the AstroDB Toolkit: A collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets and a community tool for building new databases.",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24546402C",
+    "volume": "245",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Smith, Peter",
+      "Sanchez, Jorge",
+      "Line, Michael",
+      "Rauscher, Emily",
+      "Weiner Mansfield, Megan",
+      "Kempton, Eliza",
+      "Savel, Arjun",
+      "Wardenier, Joost",
+      "Pino, Lorenzo",
+      "Bean, Jacob",
+      "Beltz, Hayley",
+      "Panwar, Vatsal",
+      "Brogi, Matteo",
+      "Malsky, Isaac",
+      "Fortney, Jonathan",
+      "Desert, Jean-Michel",
+      "Pelletier, Stefan",
+      "Parmentier, Vivien",
+      "Kanumalla, Sai Krishna Teja",
+      "Welbanks, Luis",
+      "Meyer, Michael",
+      "Monnier, John",
+      "Challener, Ryan"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2025-01-00",
+    "title": "The Roasting Marshmallows Program with IGRINS on Gemini South II - WASP-121 b has super-stellar C/O and refractory-to-volatile ratios",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24511904S",
+    "volume": "245",
+    "year": "2025"
+  },
+  {
     "arxiv": "2501.04383",
     "authors": [
       "Ehrhardt, Juliana",
@@ -305,7 +407,7 @@
       "Ziegler, Carl",
       "Z{\\\"o}ller, Raphael"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451404",
     "page": null,
@@ -1062,7 +1164,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -1309,7 +1411,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 137,
+    "citations": 237,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1430,7 +1532,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -3623,7 +3725,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
