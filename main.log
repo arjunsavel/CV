@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  1 MAR 2025 00:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.1)  2 MAR 2025 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -77,7 +77,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \c@section@level=\count270
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count271
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
@@ -548,7 +548,7 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \verbatim@in@stream=\read3
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2025/01/19 v3.10 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip56
 \enit@outerparindent=\dimen263
 \enit@toks=\toks33
@@ -594,8 +594,8 @@ sep char (CT)
 readarray: bounds checking OFF
 ) (./src/supp_tex/cvstyle.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2025/01/07 v5.1.1 Extensive control of page headers and foote
-rs
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip57
 \f@nch@offset@elh=\skip58
 \f@nch@offset@erh=\skip59
@@ -1208,10 +1208,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 28F9D04A2D55D7CF7905B5E9DA884D3E;2750.
  ) 
 Here is how much of TeX's memory you used:
- 25309 strings out of 473201
- 457664 string characters out of 5718191
- 840877 words of memory out of 5000000
- 48050 multiletter control sequences out of 15000+600000
+ 25339 strings out of 473201
+ 458178 string characters out of 5718211
+ 841255 words of memory out of 5000000
+ 48080 multiletter control sequences out of 15000+600000
  621431 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,557b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1224,7 +1224,7 @@ xdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on main.pdf (7 pages, 130266 bytes).
+Output written on main.pdf (7 pages, 130273 bytes).
 PDF statistics:
  374 PDF objects out of 1000 (max. 8388607)
  343 compressed objects within 4 object streams
