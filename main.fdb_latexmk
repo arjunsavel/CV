@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1743120839.79066 "main.tex" "main.pdf" "main" 1743120840.6409 0
+["pdflatex"] 1743207243.56695 "main.tex" "main.pdf" "main" 1743207244.41909 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1276641224 6938 5135be6a8802f13a7faf296d1959a1ab ""
@@ -203,14 +203,14 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1740791733 5467147 77af5fe3afd31f45ad83c16123c1c371 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1740791895 3352537 e940bed0bb5df248bb28279b3d510b91 ""
   "/opt/texlive/texdir/texmf.cnf" 1740791727 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "main.aux" 1743120840.50426 2543 2b162ee93a6c536a7d1975dafd50e144 "pdflatex"
-  "main.out" 1743120840.50426 2750 28f9d04a2d55d7cf7905b5e9da884d3e "pdflatex"
-  "main.tex" 1743120839.04124 26534 0ec505ff04b4e041b5c2832fb3f6a3a8 ""
-  "orcidlink.sty" 1743120839.04224 2264 b9f7c318cb80559e5b69ccdb2316379f ""
-  "src/supp_tex/cvstyle.tex" 1743120839.04824 2860 c76b3bb095b42b1dda00b6d902b98ec8 ""
-  "src/supp_tex/honors.tex" 1743120839.04824 1837 c2c1a99dbc76cb23084d0066511fc4bc ""
-  "src/supp_tex/pubs_ref.tex" 1743120839.04824 18306 a2ca6f58651bead50ee812a8fa097338 ""
-  "src/supp_tex/pubs_summary.tex" 1743120839.04924 55 86ad609997fcec97ed0c9d9f3d080134 ""
+  "main.aux" 1743207244.2823 2543 2b162ee93a6c536a7d1975dafd50e144 "pdflatex"
+  "main.out" 1743207244.2833 2750 28f9d04a2d55d7cf7905b5e9da884d3e "pdflatex"
+  "main.tex" 1743207242.77429 26534 0ec505ff04b4e041b5c2832fb3f6a3a8 ""
+  "orcidlink.sty" 1743207242.77529 2264 b9f7c318cb80559e5b69ccdb2316379f ""
+  "src/supp_tex/cvstyle.tex" 1743207242.78129 2860 c76b3bb095b42b1dda00b6d902b98ec8 ""
+  "src/supp_tex/honors.tex" 1743207242.78129 1837 c2c1a99dbc76cb23084d0066511fc4bc ""
+  "src/supp_tex/pubs_ref.tex" 1743207242.78129 18307 e5af84872dc6493a0175d079dd62ccc8 ""
+  "src/supp_tex/pubs_summary.tex" 1743207242.78229 55 9e0100e94e763ce474f3be996f2efefe ""
   (generated)
   "main.aux"
   "main.log"
