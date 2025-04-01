@@ -52,6 +52,34 @@
     "year": "2025"
   },
   {
+    "arxiv": "2503.22608",
+    "authors": [
+      "Malsky, Isaac",
+      "Rauscher, Emily",
+      "Stevenson, Kevin",
+      "Savel, Arjun B.",
+      "Steinrueck, Maria E.",
+      "Gao, Peter",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Bean, Jacob L.",
+      "Zhang, Michael",
+      "Parmentier, Vivien",
+      "Piette, Anjali A. A.",
+      "Kataria, Tiffany"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-03-00",
+    "title": "Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250322608M",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Gao, Peter",
