@@ -52,34 +52,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2503.22608",
-    "authors": [
-      "Malsky, Isaac",
-      "Rauscher, Emily",
-      "Stevenson, Kevin",
-      "Savel, Arjun B.",
-      "Steinrueck, Maria E.",
-      "Gao, Peter",
-      "Kempton, Eliza M. -R.",
-      "Roman, Michael T.",
-      "Bean, Jacob L.",
-      "Zhang, Michael",
-      "Parmentier, Vivien",
-      "Piette, Anjali A. A.",
-      "Kataria, Tiffany"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-03-00",
-    "title": "Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250322608M",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Gao, Peter",
@@ -170,6 +142,34 @@
     "pubdate": "2025-03-00",
     "title": "The only known atmosphere on a rocky exoplanet?",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": "2503.22608",
+    "authors": [
+      "Malsky, Isaac",
+      "Rauscher, Emily",
+      "Stevenson, Kevin",
+      "Savel, Arjun B.",
+      "Steinrueck, Maria E.",
+      "Gao, Peter",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Bean, Jacob L.",
+      "Zhang, Michael",
+      "Parmentier, Vivien",
+      "Piette, Anjali A. A.",
+      "Kataria, Tiffany"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-03-00",
+    "title": "Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250322608M",
     "volume": null,
     "year": "2025"
   },
@@ -1257,7 +1257,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1506,7 +1506,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -2486,7 +2486,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -2611,7 +2611,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -5050,7 +5050,7 @@
       "Boschin, Walter",
       "Andreuzzi, Gloria"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0157",
     "page": 79,
