@@ -41,7 +41,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2504.14060",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-04-00",
@@ -302,34 +302,6 @@
     "pubdate": "2025-03-00",
     "title": "The only known atmosphere on a rocky exoplanet?",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": "2503.22608",
-    "authors": [
-      "Malsky, Isaac",
-      "Rauscher, Emily",
-      "Stevenson, Kevin",
-      "Savel, Arjun B.",
-      "Steinrueck, Maria E.",
-      "Gao, Peter",
-      "Kempton, Eliza M. -R.",
-      "Roman, Michael T.",
-      "Bean, Jacob L.",
-      "Zhang, Michael",
-      "Parmentier, Vivien",
-      "Piette, Anjali A. A.",
-      "Kataria, Tiffany"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-03-00",
-    "title": "Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250322608M",
     "volume": null,
     "year": "2025"
   },
@@ -1529,7 +1501,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -1878,7 +1850,7 @@
       "Kempton, Eliza M. -R.",
       "Cinque, L."
     ],
-    "citations": 9,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad0b70",
     "page": 66,
@@ -1913,7 +1885,7 @@
       "Brady, Madison",
       "Bean, Jacob L."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acf28e",
     "page": 155,
@@ -2117,7 +2089,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 93,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4836,7 +4808,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 51,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
@@ -4992,7 +4964,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
