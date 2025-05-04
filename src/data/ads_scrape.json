@@ -254,32 +254,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Zhang, Michael",
-      "Savel, Arjun Baliga",
-      "Steinrueck, Maria E.",
-      "Bean, Jacob L.",
-      "Coy, Brandon Park",
-      "Fu, Guangwei",
-      "Hu, Renyu",
-      "Ih, Jegug",
-      "Kempton, Eliza M. -R.",
-      "Kite, Edwin S.",
-      "Wirth, Christopher"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 7875,
-    "pub": "JWST Proposal. Cycle 4",
-    "pubdate": "2025-03-00",
-    "title": "The only known atmosphere on a rocky exoplanet?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Welbanks, Luis",
       "Nixon, Matthew Conor",
       "Ahrer, Eva-Maria",
@@ -302,6 +276,32 @@
     "pubdate": "2025-03-00",
     "title": "Resolving Atmospheric Uncertainties and Building a Legacy Dataset for WASP-39b",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.8017W",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Zhang, Michael",
+      "Savel, Arjun Baliga",
+      "Steinrueck, Maria E.",
+      "Bean, Jacob L.",
+      "Coy, Brandon Park",
+      "Fu, Guangwei",
+      "Hu, Renyu",
+      "Ih, Jegug",
+      "Kempton, Eliza M. -R.",
+      "Kite, Edwin S.",
+      "Wirth, Christopher"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 7875,
+    "pub": "JWST Proposal. Cycle 4",
+    "pubdate": "2025-03-00",
+    "title": "The only known atmosphere on a rocky exoplanet?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
     "volume": null,
     "year": "2025"
   },
@@ -1285,7 +1285,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2137,7 +2137,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
