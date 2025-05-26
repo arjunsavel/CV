@@ -1,33 +1,5 @@
 [
   {
-    "arxiv": "2503.22608",
-    "authors": [
-      "Malsky, Isaac",
-      "Rauscher, Emily",
-      "Stevenson, Kevin",
-      "Savel, Arjun B.",
-      "Steinrueck, Maria E.",
-      "Gao, Peter",
-      "Kempton, Eliza M. -R.",
-      "Roman, Michael T.",
-      "Bean, Jacob L.",
-      "Zhang, Michael",
-      "Parmentier, Vivien",
-      "Piette, Anjali A. A.",
-      "Kataria, Tiffany"
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/adb7e8",
-    "page": 221,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2025-04-00",
-    "title": "Clouds and Hazes in GJ 1214 b's Metal-rich Atmosphere",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..221M",
-    "volume": "169",
-    "year": "2025"
-  },
-  {
     "arxiv": "2504.14060",
     "authors": [
       "Arnold, Kenneth E.",
@@ -48,6 +20,34 @@
     "title": "Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models",
     "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250414060A",
     "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": "2503.22608",
+    "authors": [
+      "Malsky, Isaac",
+      "Rauscher, Emily",
+      "Stevenson, Kevin",
+      "Savel, Arjun B.",
+      "Steinrueck, Maria E.",
+      "Gao, Peter",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Bean, Jacob L.",
+      "Zhang, Michael",
+      "Parmentier, Vivien",
+      "Piette, Anjali A. A.",
+      "Kataria, Tiffany"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/adb7e8",
+    "page": 221,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2025-04-00",
+    "title": "Clouds and Hazes in GJ 1214 b's Metal-rich Atmosphere",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..221M",
+    "volume": "169",
     "year": "2025"
   },
   {
@@ -2089,7 +2089,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2137,7 +2137,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 97,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2481,7 +2481,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 37,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
