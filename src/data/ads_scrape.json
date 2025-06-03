@@ -1,28 +1,5 @@
 [
   {
-    "arxiv": "2504.14060",
-    "authors": [
-      "Arnold, Kenneth E.",
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Roman, Michael T.",
-      "Rauscher, Emily",
-      "Malsky, Isaac",
-      "Beltz, Hayley",
-      "Steinrueck, Maria E."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2504.14060",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-04-00",
-    "title": "Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250414060A",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": "2503.22608",
     "authors": [
       "Malsky, Isaac",
@@ -48,6 +25,29 @@
     "title": "Clouds and Hazes in GJ 1214 b's Metal-rich Atmosphere",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..221M",
     "volume": "169",
+    "year": "2025"
+  },
+  {
+    "arxiv": "2504.14060",
+    "authors": [
+      "Arnold, Kenneth E.",
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Rauscher, Emily",
+      "Malsky, Isaac",
+      "Beltz, Hayley",
+      "Steinrueck, Maria E."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2504.14060",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-04-00",
+    "title": "Out on a Limb: The Signatures of East-West Asymmetries in Transmission Spectra from General Circulation Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250414060A",
+    "volume": null,
     "year": "2025"
   },
   {
@@ -1074,7 +1074,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.13370472",
     "page": null,
@@ -1532,7 +1532,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 141,
+    "citations": 247,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
