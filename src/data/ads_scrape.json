@@ -1074,7 +1074,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.13370472",
     "page": null,
@@ -1082,6 +1082,25 @@
     "pubdate": "2024-08-25",
     "title": "tardis-sn/tardis: TARDIS v2024.08.25",
     "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..13370472K",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Savel, Arjun",
+      "M.-R. Kempton, Eliza",
+      "Beltz, Hayley",
+      "Malsky, Isaac"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.13306679",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-08-12",
+    "title": "arjunsavel/hires-literature",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..13306679S",
     "volume": null,
     "year": "2024"
   },
@@ -1532,7 +1551,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 247,
+    "citations": 143,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
