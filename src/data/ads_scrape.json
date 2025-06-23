@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Arnold, Kenneth E.",
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Rauscher, Emily",
+      "Malsky, Isaac",
+      "Beltz, Hayley",
+      "Steinrueck, Maria E."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/add3f6",
+    "page": 187,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2025-06-00",
+    "title": "Out on a Limb: The Signatures of East{\\textendash}West Asymmetries in Transmission Spectra from General Circulation Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..187A",
+    "volume": "986",
+    "year": "2025"
+  },
+  {
     "arxiv": "2503.22608",
     "authors": [
       "Malsky, Isaac",
@@ -254,6 +277,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Zhang, Michael",
+      "Savel, Arjun Baliga",
+      "Steinrueck, Maria E.",
+      "Bean, Jacob L.",
+      "Coy, Brandon Park",
+      "Fu, Guangwei",
+      "Hu, Renyu",
+      "Ih, Jegug",
+      "Kempton, Eliza M. -R.",
+      "Kite, Edwin S.",
+      "Wirth, Christopher"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 7875,
+    "pub": "JWST Proposal. Cycle 4",
+    "pubdate": "2025-03-00",
+    "title": "The only known atmosphere on a rocky exoplanet?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Welbanks, Luis",
       "Nixon, Matthew Conor",
       "Ahrer, Eva-Maria",
@@ -276,32 +325,6 @@
     "pubdate": "2025-03-00",
     "title": "Resolving Atmospheric Uncertainties and Building a Legacy Dataset for WASP-39b",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.8017W",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Zhang, Michael",
-      "Savel, Arjun Baliga",
-      "Steinrueck, Maria E.",
-      "Bean, Jacob L.",
-      "Coy, Brandon Park",
-      "Fu, Guangwei",
-      "Hu, Renyu",
-      "Ih, Jegug",
-      "Kempton, Eliza M. -R.",
-      "Kite, Edwin S.",
-      "Wirth, Christopher"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 7875,
-    "pub": "JWST Proposal. Cycle 4",
-    "pubdate": "2025-03-00",
-    "title": "The only known atmosphere on a rocky exoplanet?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
     "volume": null,
     "year": "2025"
   },
@@ -1271,7 +1294,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1520,7 +1543,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -2500,7 +2523,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -3865,7 +3888,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
