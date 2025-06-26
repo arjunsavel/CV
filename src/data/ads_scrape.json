@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2504.14060",
+    "authors": [
+      "Arnold, Kenneth E.",
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Roman, Michael T.",
+      "Rauscher, Emily",
+      "Malsky, Isaac",
+      "Beltz, Hayley",
+      "Steinrueck, Maria E."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/add3f6",
+    "page": 187,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2025-06-00",
+    "title": "Out on a Limb: The Signatures of East{\\textendash}West Asymmetries in Transmission Spectra from General Circulation Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..187A",
+    "volume": "986",
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
@@ -50,36 +73,13 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2506.18550",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-06-00",
     "title": "TOI-1846b: A super-Earth in the radius valley orbiting a nearby M dwarf",
     "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250618550S",
     "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Arnold, Kenneth E.",
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Roman, Michael T.",
-      "Rauscher, Emily",
-      "Malsky, Isaac",
-      "Beltz, Hayley",
-      "Steinrueck, Maria E."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/add3f6",
-    "page": 187,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2025-06-00",
-    "title": "Out on a Limb: The Signatures of East{\\textendash}West Asymmetries in Transmission Spectra from General Circulation Models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..187A",
-    "volume": "986",
     "year": "2025"
   },
   {
@@ -1331,7 +1331,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1580,7 +1580,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -3925,7 +3925,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
