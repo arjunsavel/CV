@@ -23,7 +23,7 @@
     "year": "2025"
   },
   {
-    "arxiv": null,
+    "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
       "Barkaoui, Khalid",
@@ -589,7 +589,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting Abstracts #245",
     "pubdate": "2025-01-00",
     "title": "The Roasting Marshmallows Program with IGRINS on Gemini South II - WASP-121 b has super-stellar C/O and refractory-to-volatile ratios",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24511904S",
@@ -609,7 +609,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting Abstracts #245",
     "pubdate": "2025-01-00",
     "title": "Observable signatures of magma ocean-atmosphere interactions in sub-Neptunes",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24531405N",
@@ -629,7 +629,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting Abstracts #245",
     "pubdate": "2025-01-00",
     "title": "The SIMPLE Archive and the AstroDB Toolkit: A collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets and a community tool for building new databases.",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AAS...24546402C",
@@ -2256,7 +2256,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 104,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2304,7 +2304,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 100,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
