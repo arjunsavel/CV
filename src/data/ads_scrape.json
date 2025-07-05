@@ -131,7 +131,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2507.01855",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-07-00",
@@ -465,7 +465,7 @@
       "Ziegler, C.",
       "Z{\\'u}{\\~n}iga-Fern{\\'a}ndez, S."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202452916",
     "page": null,
@@ -2397,7 +2397,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4370,7 +4370,7 @@
       "Girish, Nachiket",
       "Filippenko, Alexei V."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1538",
     "page": 4489,
@@ -5030,6 +5030,30 @@
     "year": "2022"
   },
   {
+    "arxiv": "2109.00163",
+    "authors": [
+      "Savel, Arjun B.",
+      "Kempton, Eliza M. -R.",
+      "Malik, Matej",
+      "Komacek, Thaddeus D.",
+      "Bean, Jacob L.",
+      "May, Erin M.",
+      "Stevenson, Kevin B.",
+      "Mansfield, Megan",
+      "Rauscher, Emily"
+    ],
+    "citations": 52,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac423f",
+    "page": 85,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-02-00",
+    "title": "No Umbrella Needed: Confronting the Hypothesis of Iron Rain on WASP-76b with Post-processed General Circulation Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...926...85S",
+    "volume": "926",
+    "year": "2022"
+  },
+  {
     "arxiv": "2201.12836",
     "authors": [
       "Dong, Jiayin",
@@ -5100,30 +5124,6 @@
     "pubdate": "2022-02-00",
     "title": "NEID Rossiter-McLaughlin Measurement of TOI-1268b: A Young Warm Saturn Aligned with Its Cool Host Star",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...926L...7D",
-    "volume": "926",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2109.00163",
-    "authors": [
-      "Savel, Arjun B.",
-      "Kempton, Eliza M. -R.",
-      "Malik, Matej",
-      "Komacek, Thaddeus D.",
-      "Bean, Jacob L.",
-      "May, Erin M.",
-      "Stevenson, Kevin B.",
-      "Mansfield, Megan",
-      "Rauscher, Emily"
-    ],
-    "citations": 52,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac423f",
-    "page": 85,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-02-00",
-    "title": "No Umbrella Needed: Confronting the Hypothesis of Iron Rain on WASP-76b with Post-processed General Circulation Models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...926...85S",
     "volume": "926",
     "year": "2022"
   },
@@ -5802,7 +5802,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 187,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6037,7 +6037,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -6125,7 +6125,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
