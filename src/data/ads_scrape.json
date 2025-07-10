@@ -141,6 +141,29 @@
     "year": "2025"
   },
   {
+    "arxiv": "2507.05422",
+    "authors": [
+      "Noti, Pascal A.",
+      "Lee, Elspeth K. H.",
+      "Kitzmann, Daniel",
+      "MacDonald, Ryan",
+      "Jenkins, Sydney",
+      "Savel, Arjun",
+      "Limbach, Mary Anne",
+      "Mordasini, Christoph"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-07-00",
+    "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250705422N",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
@@ -803,7 +826,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -1560,7 +1583,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 21,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1593,7 +1616,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 27,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2158,7 +2181,7 @@
       "Kempton, Eliza M. -R.",
       "Cinque, L."
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad0b70",
     "page": 66,
@@ -2397,7 +2420,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 107,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2445,7 +2468,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 102,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2914,7 +2937,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -4177,7 +4200,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 45,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -5116,7 +5139,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 53,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
