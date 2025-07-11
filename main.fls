@@ -57,15 +57,9 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -440,9 +434,11 @@ INPUT ./src/supp_tex/honors.tex
 INPUT ./src/supp_tex/honors.tex
 INPUT ./src/supp_tex/honors.tex
 INPUT src/supp_tex/honors.tex
+INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr7t.vf
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr7t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
-INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
 INPUT main.aux
 INPUT ./main.out
@@ -452,6 +448,7 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb8t.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7t.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb
