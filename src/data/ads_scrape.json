@@ -141,6 +141,29 @@
     "year": "2025"
   },
   {
+    "arxiv": "2507.05422",
+    "authors": [
+      "Noti, Pascal A.",
+      "Lee, Elspeth K. H.",
+      "Kitzmann, Daniel",
+      "MacDonald, Ryan",
+      "Jenkins, Sydney",
+      "Savel, Arjun",
+      "Limbach, Mary Anne",
+      "Mordasini, Christoph"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-07-00",
+    "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250705422N",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2507.07204",
     "authors": [
       "Panwar, Vatsal",
@@ -166,35 +189,12 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2507.07204",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-07-00",
     "title": "The Roasting Marshmallows Program with IGRINS on Gemini South III: Seeing deeper into the metal depleted atmosphere of a gas-giant on the cusp of the hot to ultra-hot Jupiter transition",
     "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250707204P",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": "2507.05422",
-    "authors": [
-      "Noti, Pascal A.",
-      "Lee, Elspeth K. H.",
-      "Kitzmann, Daniel",
-      "MacDonald, Ryan",
-      "Jenkins, Sydney",
-      "Savel, Arjun",
-      "Limbach, Mary Anne",
-      "Mordasini, Christoph"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-07-00",
-    "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250705422N",
     "volume": null,
     "year": "2025"
   },
@@ -1759,7 +1759,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -2503,7 +2503,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 102,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2847,7 +2847,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 41,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -3362,7 +3362,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -4403,7 +4403,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -5860,7 +5860,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 191,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6183,7 +6183,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
