@@ -199,6 +199,41 @@
     "year": "2025"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Panwar, Vatsal",
+      "Brogi, Matteo",
+      "Kanumalla, Krishna",
+      "Line, Michael R.",
+      "Gandhi, Siddharth",
+      "Smith, Peter C. B.",
+      "Bean, Jacob L.",
+      "Pino, Lorenzo",
+      "Savel, Arjun B.",
+      "Wardenier, Joost P.",
+      "Cegla, Heather",
+      "Beltz, Hayley",
+      "Mansfield, Megan Weiner",
+      "Sanchez, Jorge A.",
+      "D{\\'e}sert, Jean-Michel",
+      "Welbanks, Luis",
+      "Parmentier, Vivien",
+      "Kye, Changwoo",
+      "Fortney, Jonathan J.",
+      "de Azevedo Silva, Tom{\\'a}s"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staf1150",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2025-07-00",
+    "title": "The Roasting Marshmallows Program with IGRINS on Gemini South III: Seeing deeper into the metal depleted atmosphere of a gas-giant on the cusp of the hot to ultra-hot Jupiter transition",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp.1114P",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
@@ -746,7 +781,7 @@
       "Rauscher, Emily",
       "Wardenier, Joost P."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad9b95",
     "page": 101,
@@ -861,7 +896,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -1779,7 +1814,7 @@
       "Tsai, Shang-Min",
       "Kempton, Eliza M. -R."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ad5a0a",
     "page": null,
@@ -2455,7 +2490,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2503,7 +2538,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 104,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -2847,7 +2882,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -2972,7 +3007,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 18,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -3438,7 +3473,7 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acb141",
     "page": 99,
@@ -4235,7 +4270,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -5330,7 +5365,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
