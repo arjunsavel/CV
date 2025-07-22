@@ -141,41 +141,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2507.07204",
-    "authors": [
-      "Panwar, Vatsal",
-      "Brogi, Matteo",
-      "Kanumalla, Krishna",
-      "Line, Michael R.",
-      "Gandhi, Siddharth",
-      "Smith, Peter C. B.",
-      "Bean, Jacob L.",
-      "Pino, Lorenzo",
-      "Savel, Arjun B.",
-      "Wardenier, Joost P.",
-      "Cegla, Heather",
-      "Beltz, Hayley",
-      "Weiner Mansfield, Megan",
-      "Sanchez, Jorge A.",
-      "D{\\'e}sert, Jean-Michel",
-      "Welbanks, Luis",
-      "Parmentier, Viven",
-      "Kye, Changwoo",
-      "Fortney, Jonathan J.",
-      "de Azevedo Silva, Tom{\\'a}s"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2507.07204",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-07-00",
-    "title": "The Roasting Marshmallows Program with IGRINS on Gemini South III: Seeing deeper into the metal depleted atmosphere of a gas-giant on the cusp of the hot to ultra-hot Jupiter transition",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250707204P",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": "2507.05422",
     "authors": [
       "Noti, Pascal A.",
@@ -1173,7 +1138,7 @@
       "Ziegler, C.",
       "Zou, Y."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347251",
     "page": null,
@@ -1259,7 +1224,7 @@
       "Winn, Joshua N.",
       "Wright, Duncan"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451313",
     "page": null,
@@ -1794,7 +1759,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -1902,7 +1867,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 26,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -1933,7 +1898,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 253,
+    "citations": 145,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2029,7 +1994,7 @@
       "Vanderspek, R.",
       "Dragomir, D."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347431",
     "page": null,
@@ -3397,7 +3362,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -4247,7 +4212,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
@@ -4357,7 +4322,7 @@
       "Zhang, Hui",
       "Ziegler, Carl"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac73ff",
     "page": 70,
@@ -4438,7 +4403,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -5111,7 +5076,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
@@ -5895,7 +5860,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6054,7 +6019,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -6218,7 +6183,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
@@ -6540,7 +6505,7 @@
       "Vanderspek, R.",
       "Winn, J."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243731",
     "page": null,
