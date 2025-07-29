@@ -176,29 +176,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2507.05422",
-    "authors": [
-      "Noti, Pascal A.",
-      "Lee, Elspeth K. H.",
-      "Kitzmann, Daniel",
-      "MacDonald, Ryan",
-      "Jenkins, Sydney",
-      "Savel, Arjun",
-      "Limbach, Mary Anne",
-      "Mordasini, Christoph"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2507.05422",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-07-00",
-    "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250705422N",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Noti, Pascal A.",
@@ -1444,7 +1421,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.13370472",
     "page": null,
@@ -1921,7 +1898,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 145,
+    "citations": 253,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
