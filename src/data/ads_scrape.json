@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
       "Barkaoui, Khalid",
@@ -523,7 +523,7 @@
       "Ziegler, C.",
       "Z{\\'u}{\\~n}iga-Fern{\\'a}ndez, S."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202452916",
     "page": null,
@@ -1779,7 +1779,7 @@
       "Tsai, Shang-Min",
       "Kempton, Eliza M. -R."
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ad5a0a",
     "page": null,
@@ -2972,7 +2972,7 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acd24d",
     "page": 257,
@@ -5330,7 +5330,7 @@
       "Rauscher, Emily",
       "Showman, Adam"
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0e30",
     "page": 158,
@@ -6095,7 +6095,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 38,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -6183,7 +6183,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 79,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
