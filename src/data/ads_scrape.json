@@ -386,7 +386,7 @@
       "Piette, Anjali A. A.",
       "Kataria, Tiffany"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/adb7e8",
     "page": 221,
@@ -547,7 +547,7 @@
       "Sanchez, Jorge A.",
       "Line, Michael R."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ada27e",
     "page": 135,
@@ -861,7 +861,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -1618,7 +1618,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1651,7 +1651,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2455,7 +2455,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 110,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2503,7 +2503,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -4071,7 +4071,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -4170,6 +4170,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11268",
+    "authors": [
+      "Gandhi, Siddharth",
+      "Kesseli, Aurora",
+      "Snellen, Ignas",
+      "Brogi, Matteo",
+      "Wardenier, Joost P.",
+      "Parmentier, Vivien",
+      "Welbanks, Luis",
+      "Savel, Arjun B."
+    ],
+    "citations": 47,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac1744",
+    "page": 749,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-09-00",
+    "title": "Spatially resolving the terminator: variation of Fe, temperature, and winds in WASP-76 b across planetary limbs and orbital phase",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G",
+    "volume": "515",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.06254",
     "authors": [
       "Newton, Elisabeth R.",
@@ -4221,29 +4244,6 @@
     "title": "TESS Hunt for Young and Maturing Exoplanets (THYME). VII. Membership, Rotation, and Lithium in the Young Cluster Group-X and a New Young Exoplanet",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..115N",
     "volume": "164",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.11268",
-    "authors": [
-      "Gandhi, Siddharth",
-      "Kesseli, Aurora",
-      "Snellen, Ignas",
-      "Brogi, Matteo",
-      "Wardenier, Joost P.",
-      "Parmentier, Vivien",
-      "Welbanks, Luis",
-      "Savel, Arjun B."
-    ],
-    "citations": 47,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac1744",
-    "page": 749,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-09-00",
-    "title": "Spatially resolving the terminator: variation of Fe, temperature, and winds in WASP-76 b across planetary limbs and orbital phase",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G",
-    "volume": "515",
     "year": "2022"
   },
   {
@@ -6019,7 +6019,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -6095,7 +6095,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -6183,7 +6183,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
