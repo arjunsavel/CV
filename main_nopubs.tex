@@ -1,0 +1,546 @@
+%-------------------------
+% Resume in Latex
+% Author : Arjun Savel
+% Adapted from: Sourabh Bajaj, Amlaan Bhoi
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage{orcidlink}
+\usepackage{fontawesome}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage{verbatim}
+% \usepackage[usenames,dvipsnames]{color}
+
+\usepackage{enumitem}
+% \usepackage[pdftex, hidelinks]{hyperref}
+
+\usepackage{xcolor}
+
+\usepackage[utf8]{inputenc}
+\usepackage{readarray}
+
+
+\input{src/supp_tex/cvstyle}
+
+
+% \renewcommand{\headrulewidth}{0pt}
+% % \pagestyle{fancy}
+% \lhead{\deemph{Arjun Baliga Savel}}
+% \chead{\deemph{Curriculum Vitae}}
+% \rhead{\deemph{\thepage}}
+
+\usepackage[charter]{mathdesign}
+\usepackage{fancyhdr}% Bitstream Charter
+% \usepackage{newpxtext,newpxmath} % Palatino
+
+% \pagestyle{fancy}
+% \fancyhf{} % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.50in}
+\addtolength{\evensidemargin}{-0.50in}
+\addtolength{\textwidth}{1in}
+% \addtolength{\bottommargin}{-.5in}
+% \addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+% \footskip{100}
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{#2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemNoBullet}[2]{
+  \item[]\small{
+    \hspace{-9pt}\textbf{#1}{: #2 \vspace{-6pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item[]
+  \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+      \hspace{-10pt}\textbf{#1} & #2 \\
+      \hspace{-10pt}\textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+% custom commands
+\newcommand{\shorterSection}[1]{\vspace{-10pt}\section{#1}}
+
+\titleformat{\subsection}{
+  \vspace{-6pt}\scshape\raggedright \normalsize
+}{}{0em}{}[\color{black} \vspace{-5pt}]
+
+\newcommand{\shortershorterSection}[1]{\vspace{-10pt}\subsection{#1}}
+
+
+
+
+
+
+
+\def\firstoftwo#1#2{#1}
+\def\secondoftwo#1#2{#2}
+
+\def\iffileempty#1{%
+  \ifnum0\pdffilesize{#1}>0
+    \expandafter\secondoftwo
+  \else
+    \expandafter\firstoftwo
+  \fi
+}
+
+\def\renderunref{%
+  \iffileempty{src/supp_tex/pubs_submitted.tex}{}{
+  \shortershorterSection{\underline{Under Review}}
+  \begin{list}{}{\cvlist}
+    \input{src/supp_tex/pubs_submitted.tex}
+    \input{src/supp_tex/pubs_unref.tex}
+    % \ExecuteMetaData[supp_tex/pubs_unref.tex]{notinpress}
+\end{list}}
+}
+\newcommand{\colorLinkedinSign}{\textcolor{rgb:red,6;green,108;blue,170}{\faLinkedinSquare}}
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}\thispagestyle{empty}
+
+%----------HEADING-----------------
+\begin{center}
+  \small \textbf{\huge Arjun B. Savel} \\
+   \vspace{5pt}
+  \large Ph.D. Candidate, Astrophysics Researcher \\
+  \small
+  \vspace{5pt}
+  \textsf{\small \href{href="mailto:asavel@umd.edu"}{asavel@umd.edu}} $\vert$  \orcidlink{0000-0002-2454-768X} \href{https://orcid.org/0000-0002-2454-768X/}{0000-0002-2454-768X} $\vert$ \href{www.arjunsavel.com}{www.arjunsavel.com} \par \colorLinkedinSign \hspace{2pt} \href{ https://www.linkedin.com/in/arjunsavel}{https://www.linkedin.com/in/arjunsavel}  |
+  \faGithubSquare \hspace{2pt} \href{https://github.com/arjunsavel}{https://github.com/arjunsavel}
+\end{center}
+
+%-----------EDUCATION-----------------
+\shorterSection{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Maryland, College Park}{College Park, MD}
+      {Ph.D., Astronomy (expected)}{ }{
+    }
+    \vspace{-17pt}
+    \resumeSubheading
+    {}{}{M.S., Astronomy $\vert$ Advisor: Prof. Eliza M.-R. Kempton}{2022}{
+    }
+    \vspace{1pt}
+    \resumeSubheading
+      {University of California, Berkeley}{Berkeley, CA}
+      {B.A., Astrophysics; B.A., Physics $\vert$ Advisor: Prof. Courtney D. Dressing}{2020}{
+    }
+
+
+  \resumeSubHeadingListEnd
+
+
+\shorterSection{Positions}
+  \resumeSubHeadingListStart
+
+      \resumeSubheading
+      {Graduate Researcher---University of Maryland, College Park}{College Park, MD}
+      {Inferring spatial variation in the atmospheres of hot gas giants $\vert$ Advisor: Prof. Eliza M.-R. Kempton}{2020--current}{
+    }
+
+    
+
+ 
+
+      \resumeSubheading
+      {Pre-Doctoral Program Research Analyst---Center for Computational Astrophysics, Flatiron Institute}{New York, NY}
+      {The uncertainty budget of high-resolution cross-correlation spectroscopy $\vert$ Advisor: Dr. Megan Bedell}{2022--2023}{
+    }
+    % \vspace{5pt}
+    \resumeSubheading
+      {Research Assistant---University of California, Berkeley}{Berkeley, CA}
+      {Exoplanet occurrence rates and imaging of Kepler stars $\vert$ Advisors: Prof. Courtney D. Dressing \& Prof. Lea A. Hirsch}{2018--2020}{
+    }
+
+
+  \resumeSubHeadingListEnd
+
+
+%-----------RESEARCH INTERESTS-----------------
+\shorterSection{Selected \& Current Research Interests}
+\resumeItemListStart
+\resumeItem{}{Measuring spatial variation (wind, chemical, aerosol, and thermal structures) in exoplanet atmospheres}
+\resumeItem{}{Extracting maximal information from high-resolution spectroscopy with cross-correlation techniques}
+\resumeItem{}{Characterizing a wide range of exoplanetary systems}{}
+
+\resumeSubHeadingListEnd
+% \vspace{5pt}
+
+%------------PUBLICATIONS-------------------
+
+% \shorterSection{Publications}
+% \input{src/supp_tex/pubs_summary}
+% \vspace{4pt}
+% \shortershorterSection{\underline{Refereed Publications}}
+% % \resumeSubHeadingListStart
+% \small
+% \begin{list}{}{\cvlist}
+%     \input{src/supp_tex/pubs_ref}
+%   \end{list}
+% % \resumeSubHeadingListEnd
+
+
+% \resumeSubHeadingListStart
+% % \renderunref{} 
+% \shortershorterSection{\underline{Under Review}}
+% \begin{list}{}{\cvlist}
+%     \input{src/supp_tex/pubs_unref}
+%   \end{list}
+% \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\shorterSection{Selected Honors, Prizes, \& Awards}
+\small
+  \begin{list}{}{\cvlist}
+    \input{src/supp_tex/honors}
+\end{list}
+
+\shorterSection{Observing Programs}
+contributions: 4 PI / 1 Co-PI / 8 Co-I
+ 
+\small
+  \begin{list}{}{\cvlist}  
+  
+
+  
+  
+  \item[{\color{numcolor}}]\textbf{JWST} \\
+\textbf{Co-PI}. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=7875}{The only known atmosphere on a rocky exoplanet?} (19.8 hours; PI: Zhang)} \\
+Co-I. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=9025}{The Warm Jupiter Opportunity for Understanding Giant Exoplanet Evolution} (59.6 
+ hours; PI: Gao)} \\
+Co-I. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=8017}{Resolving Atmospheric Uncertainties and Building a Legacy Dataset for WASP-39b} (18.5 hours; PI: Welbanks)} \\
+  Co-I. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=6045}{Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b} (10.5 hours; PI: Baeyens)} \\
+  Co-I. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=5275}{From Dawn to Dusk: Diagnosing Asymmetric Limbs in Exoplanet Transmission Spectra} (archival; PI: Kempton)} \\ 
+  Co-I. \textit{\href{https://www.stsci.edu/jwst/science-execution/program-information?id=1633}{A Deep Molecular Survey of HD 189733b} (39.8 hours; PI: Deming)}
+
+  \item[{\color{numcolor}}]\textbf{8-meter Unit Telescope, VLT (ESPRESSO, CRIRES$^+$)} \\
+\textbf{PI}. \textit{Bridging stars and planets: the atmosphere of TOI-2109b with ESPRESSO (11 hours)} \\
+\textbf{PI}. \textit{Surveying the desert from the ridge: constraining hot Neptune evolution with WASP-166b (19.2 hours)} \\
+
+  \item[{\color{numcolor}}]\textbf{4.3-meter Lowell Discovery Telescope (EXPRES)} \\
+      \textbf{PI}. \textit{Measuring an exoplanet’s magnetic field through its variable circulation (27.6 hours across 2 semesters)}\\
+     \textbf{PI}. \textit{Unveiling the atmosphere of the highly irradiated ultra-hot Jupiter TOI-2109b (7.6 hours)}\\
+     Co-I. \textit{Atmospheric characterization of the inflated hot Jupiter KELT-4 A b (11.3 hours, PI: Nixon)}
+
+     \item[{\color{numcolor}}]\textbf{3-meter Shane Telescope (ShARCS)} \\
+     Co-I.  \textit{Looking for Close Stellar Companions to Potential Targets for Future Searches for Life with the Habitable Worlds Observatory (PI: Dressing)} (5 nights)\\
+     Observer. Assisted with 14.5 nights \textit{(PI: Dressing)}
+
+
+     \item[{\color{numcolor}}]\textbf{2.7 meter Harlan J. Smith Telescope (IGRINS)} \\
+     Co-I. \textit{Revealing the impact of telluric variability on high-resolution spectroscopy with IGRINS (PI: Morley)}
+
+     
+     \item[{\color{numcolor}}]\textbf{10-meter Keck Telescope (NIRC2)} \\
+     Observer. Assisted with 1/2 night \textit{(PI: Dressing)}
+  
+  \end{list}
+
+
+%-----------Research Talks-----------------
+\shorterSection{Science Talks}
+\vspace{12pt}
+\shortershorterSection{\underline{Invited talks}}
+\small
+  \begin{list}{}{\cvlist}
+
+  \item[{\color{numcolor}\scriptsize4}] \textbf{Arjun Savel}, Megan Bedell, et al. 2024. Exoplanets, Star, and Planet formation seminar, Space Telescope Science Institute, Baltimore, MD.
+
+  \item[{\color{numcolor}\scriptsize3}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2023. College of Mathematical and Natural Sciences Board of Visitors. University of Maryland, College Park, MD.
+
+  
+
+  \item[{\color{numcolor}\scriptsize2}] \textbf{Arjun Savel}, Megan Bedell, et al. 2023. "Knowing when to know: bridging data-driven and physics-driven modeling for exoplanet atmospheres." Center for Theory and Computation Lunch Talk, Department of Astronomy, University of Maryland, College Park, MD.
+
+   \item[{\color{numcolor}\scriptsize1}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2021. ``No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models'', ExoCoffee, MPIA Heidelberg.
+
+
+  \end{list}
+
+\shortershorterSection{\underline{Contributed Talks}}
+
+\small
+  \begin{list}{}{\cvlist}
+
+      \item[{\color{numcolor}\scriptsize15}] \textbf{Arjun Savel}, et al., 2025. ``Leaving Flatland: Toward inferring the 3D structure of exoplanet atmospheres''. Knutson Group, Caltech, Los Angeles, CA (upcoming)
+
+    \item[{\color{numcolor}\scriptsize14}] \textbf{Arjun Savel}, Hayley Beltz, Thaddeus D. Komacek, Shang-Min Tsai, Eliza M.-R. Kempton, 2024. ``A new lever on exoplanetary B fields: measuring heavy ion velocities''. Stony Brook University Astronomy Seminar 
+
+  \item[{\color{numcolor}\scriptsize13}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, Hayley Beltz, Thaddeus D. Komacek, 2024. ``1D on 3D: Simulating the Impact of 3D Atmospheric Structure on 1D High-Resolution Inferences of Transmission Spectra''. UMB's 46th Annual Graduate Research Conference, Baltimore 
+  
+    \item[{\color{numcolor}\scriptsize12}] \textbf{Arjun Savel},  Eliza M.-R. Kempton, Hayley Beltz, Thaddeus D. Komacek, 2024. ``1D on 3D: Simulating the Impact of 3D Atmospheric Structure on 1D High-Resolution Inferences of Transmission Spectra''. UMD's 46th Annual Graduate Research Conference, University of Maryland, College Park 
+
+    \item[{\color{numcolor}\scriptsize11}] \textbf{Arjun Savel},  Eliza M.-R. Kempton, Hayley Beltz, Thaddeus D. Komacek, ``1D on 3D: Simulating the Impact of 3D Atmospheric Structure on 1D High-Resolution Inferences of Transmission Spectra'', 2024. Two HoRSEs, Berlin.
+
+  \item[{\color{numcolor}\scriptsize10}] \textbf{Arjun Savel}, Megan Bedell, et al. 2024. "Lowering the memory cost of radiative transfer with \textit{cortecs}." exoVAST seminar series.
+  
+
+  \item[{\color{numcolor}\scriptsize9}] \textbf{Arjun Savel}, Megan Bedell, et al. 2023. "Peering into the black box: 
+the uncertainty budget of high-resolution spectroscopy of exoplanet atmospheres." Flatiron CCA Pre-doctoral Symposium, New York, NY.
+
+ \item[{\color{numcolor}\scriptsize8}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2022. ``Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics'', Flatiron Exoplanet Atmospheres Symposium, New York, NY.
+
+\item[{\color{numcolor}\scriptsize7}] \textbf{Arjun Savel}, Thaddeus Komacek, et al. 2022. ``Modeling Lorentz drag in an ultra-hot Jupiter over a range of atmospheric parameters'', Burgers Program Research Symposium on Environmental and Applied Fluid Dynamics, The George Washington University.
+
+     \item[{\color{numcolor}\scriptsize6}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2022. ``Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics'', Exoplanets IV, Las Vegas, CA.
+
+
+   \item[{\color{numcolor}\scriptsize5}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2022. ``Phase-resolved asymmetries of (ultra)hot Jupiters in high-resolution transmission: drivers and diagnostics'', Bay Area Exoplanet Meeting \#40, NASA Ames.
+
+
+\item[{\color{numcolor}\scriptsize4}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. 2021. ``No umbrella needed: Confronting the hypothesis of iron rain on WASP-76b with post-processed general circulation models'', Astronomy and Space Physics Seminar, University of Kansas.
+
+
+
+\item[{\color{numcolor}\scriptsize3}] \textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2019. “A Closer Look at Exoplanet Occurrence Rates: Considering the Multiplicity of Stars without Detected Planets”, Bay Area Exoplanet Meeting \#31, NASA Ames
+
+\item[{\color{numcolor}\scriptsize2}] \textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2019. “A Closer Look at Exoplanet Occurrence Rates: The Impact of Stars Without Exoplanets”, Bay Area Planetary Sciences Meeting, Stanford University.
+
+\item[{\color{numcolor}\scriptsize1}] \textbf{Arjun Savel}, 2019. “Earth: Rare or Regular?”, Undergraduate Seminars, UC Berkeley.
+
+\end{list}
+
+\shorterSection{Misc. Technical Talks}
+
+\small
+  \begin{list}{}{\cvlist}
+    \item[{\color{numcolor}\scriptsize10}]
+\textbf{Arjun Savel}, 2025 (upcoming). \href{https://sites.google.com/asu.edu/hi-res-in-the-desert}{Lecturer: Hi-res in the Desert}. Tempe, Arizona.
+  \item[{\color{numcolor}\scriptsize9}]
+\textbf{Arjun Savel}, 2024. "Ethical use of AI in astronomy," UMD, College Park.
+  \item[{\color{numcolor}\scriptsize8}]
+\textbf{Arjun Savel}, 2024. "Scientific Writing," UMD, College Park.
+\item[{\color{numcolor}\scriptsize7}] 
+\textbf{Arjun Savel}, 2023. "Preparing a CV," UMD, College Park.\item[{\color{numcolor}\scriptsize6}]
+\textbf{Arjun Savel}, 2023. "Scientific Writing,” UMD, College Park.\item[{\color{numcolor}\scriptsize5}] \textbf{Arjun Savel}, 2023. "Undergraduate mentoring training,” UMD, College Park.
+  \item[{\color{numcolor}\scriptsize4}] \textbf{Arjun Savel}, 2022. “CI / CD,” UMD, College Park.
+  \item[{\color{numcolor}\scriptsize3}] \textbf{Arjun Savel}, 2022. "Giving a good presentation,” UMD, College Park.
+  \item[{\color{numcolor}\scriptsize2}] \textbf{Arjun Savel}, 2021. “Parallel Computing,” UMD, College Park.
+  \item[{\color{numcolor}\scriptsize1}] \textbf{Arjun Savel}, 2020. “CI / CD,” UC Berkeley.
+  \end{list}
+
+\shorterSection{Public Talks}
+\begin{list}{}{\cvlist}
+\item[{\color{numcolor}\scriptsize5}] \textbf{Arjun Savel}. Maryland Science Cafe, Spring 2023 \textbf{(invited)}.
+\item[{\color{numcolor}\scriptsize4}] \textbf{Arjun Savel}. STAR astronomy club, October 2022 \textbf{(invited)}.
+\item[{\color{numcolor}\scriptsize3}] \textbf{Arjun Savel}. Gloucester Area Astronomy Club, January 2021 \textbf{(invited)}.
+\item[{\color{numcolor}\scriptsize2}] \textbf{Arjun Savel}. Amateur Astronomers, Inc. December Meeting, 2020.
+\item[{\color{numcolor}\scriptsize1}] Courtney D. Dressing, Steven Giacalone, Andrew W. Mayo, \textbf{Arjun Savel}. Evening with the Stars, UC Berkeley, 2020.
+\end{list}
+
+
+\shorterSection{Posters}
+% \resumeSubHeadingListStart
+\small
+  \begin{list}{}{\cvlist}
+    \item[{\color{numcolor}\scriptsize14}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, et al. Cross-correlation for JWST, Exoclimes VII, 2025
+  \item[{\color{numcolor}\scriptsize13}] \textbf{Arjun Savel}, Eliza M.-R. Kempton, Hayley Beltz, Thaddeus D. Komacek. Tracking fluid motions in exoplanet atmospheres with high-resolution spectroscopy, Brin MRC Tracer Mixing Summer School, 2024
+  \item[{\color{numcolor}\scriptsize12}]\textbf{Arjun Savel}, Megan Bedell, Eliza M.-R. Kempton, Peter Smith, Jacob L. Bean, Michael R. Line, Kaze W.K. Wong, Lily Zhao. Peering into the black box: the uncertainty budget of high-resolution spectroscopy. Two HoRSEs, Berlin. 2024
+  \item[{\color{numcolor}\scriptsize11}]Kenny Arnold, \textbf{Arjun Savel}, Eliza M.-R. Kempton, Michael Roman, Emily Rauscher, Isaac Malsky, Hayley Beltz. Diagnosing limb asymmetries in JWST transmission spectra:
+ Insights from GCMs across the hot Jupiter population. Exoplanets V, Leiden, NL. 2024 \textbf{(presented on behalf of mentee)}
+\item[{\color{numcolor}\scriptsize10}]Kelle Cruz, David Rodriguez, William J. Cooper, \textbf{Savel, Arjun}. "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets". Extreme Solar Systems V, 2024.
+  \item[{\color{numcolor}\scriptsize9}]\textbf{Arjun Savel} et al. Burgers Symposium, University of Maryland, College Park. 2023.
+  
+  \item[{\color{numcolor}\scriptsize8}]\textbf{Arjun Savel} et al. GMT Community Science Meeting, Washington, D.C., 2023.
+  
+  \item[{\color{numcolor}\scriptsize7}]\textbf{Arjun Savel} et al. Exoclimes VI, Exeter, UK. 2023.
+
+  \item[{\color{numcolor}\scriptsize6}] Mayo, Andrew W.; Harada, Caleb; Dressing, Courtney;  et al. (5 other coauthors, including \textbf{Arjun Savel}). ``Enriching Our View of Multiplanet Systems Using TESS''. Exoplanets IV, 2022.
+
+    \item[{\color{numcolor}\scriptsize5}]Rasmussen, Kaitlin C. ; Rahman, Fahin ; Beltz, Hayley ; Savel, Arjun ; et al. ``Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator''. Exoplanets IV, 2022.
+  
+  \item[{\color{numcolor}\scriptsize4}]\textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Steven Giacalone, Andrew W. Mayo, Jessie L. Christiansen, 2020. “A closer look at planet occurrence rates: AO follow-up of 71 stars in the Kepler field”, AAS 235, Honolulu.
+
+  \item[{\color{numcolor}\scriptsize3}] \textbf{Arjun Savel}, Courtney D. Dressing, Lea Hirsch, David Ciardi, Jordan P.C. Fleming, Jessie L. Christiansen, 2019. “A closer look: AO follow-up of 109 stars in the Kepler and K2 fields”, APSIS Poster Session, UC Berkeley.
+
+\item[{\color{numcolor}\scriptsize2}] Courtney D. Dressing, \textbf{Arjun Savel} \textit{et al}. 2019. “Characterizing Planetary Systems Orbiting TESS Cool Dwarfs”, TESS Science Conference I, MIT.
+
+\item[{\color{numcolor}\scriptsize1}] Steven Giacalone, Courtney Dressing, \textbf{Arjun Savel}, 2019. “Validation of TESS Exoplanet Candidates”, 3rd Advanced School on Exoplanetary Science, Vietri sul Mare.
+
+  \end{list}
+
+\shorterSection{Research Mentoring}
+% \resumeSubHeadingListStart
+\small
+  \begin{list}{}{\cvlist}  
+
+  \item[{\color{numcolor}}]Skye Joegriner (primarily advised by Dr. Will DeRocco), 2025 \\
+    \textit{1-week workshop. Topic: the Ising model}
+  \item[{\color{numcolor}}]Kenneth Ellis Arnold III, UMD, College Park (with Prof. Eliza M.-R. Kempton), now graduate student at UW Madison, 2022--2025 \\
+  \textit{Modeling limb asymmetries of cloudy hot Jupiters}
+  \item[{\color{numcolor}}]Holden Gill, UC Berkeley (with Prof. Courtney D. Dressing), 2020--2022 \\
+    \textit{Ground-based imaging follow-up of K2 planet hosts}
+
+
+  \end{list}
+
+\shorterSection{Peer Mentoring}
+% \resumeSubHeadingListStart
+\small
+  \begin{list}{}{\cvlist}
+  \item[{\color{numcolor}}]Yash Gursahani, UMD, College Park, via Astro Grad Buddy Program, 2023
+  \item[{\color{numcolor}}]Serena Cronin, UMD, College Park, via Astro Grad Buddy Program, 2021 
+  \item[{\color{numcolor}}]Lawrence Edmond IV, UC Berkeley, via Astronomy Buddy Program, 2019
+
+
+  \end{list} 
+
+
+% \resumeSubHeadingListEnd
+
+
+
+
+\shorterSection{Teaching Experience}
+\resumeItemListStart
+\resumeItem{Instructor of Record, Astronomy 288I (Introduction to the Astronomy Major)}{ \textit{UMD College Park (Spring 2023)}}
+    
+    Designed lectures on career options in the field of astronomy, preparing websites, writing CVs, and networking. Organized panels on graduate school and industry. 
+\resumeItem{Teaching Assistant, Astronomy 320 (Theoretical Astrophysics)}{ \textit{UMD College Park, with Prof. Eliza Kempton (Spring 2023)}}
+
+Prepared review sessions and discussion problems. Topics spanned gravitation, fluids, and radiation.
+\resumeItem{Undergraduate Student Instructor, Astronomy C12 (The Planets)}{ \textit{UC Berkeley, with Prof. Courtney D. Dressing and Prof. Raymond Jeanloz (Spring 2020)}}
+
+Created review sessions for class with hundreds of students, created discussion problems and quizzes. Topics spanned geology and the Solar System.
+\resumeItem{Undergraduate Student Instructor, Astronomy C10 (Introduction to General Astronomy)}{\textit{ UC Berkeley, with Alex Filippenko (Fall 2018, Fall 2019)}}
+
+Designed review sessions for class with hundreds of students, created discussion problems and quizzes. Topics spanned the fundamentals of astronomy, stellar classification, exoplanets, and cosmology.
+\resumeSubHeadingListEnd
+
+
+\shorterSection{Community Involvement}
+\resumeItemListStart
+\resumeItem{}{Pen Pal, Letters to a Pre-Scientist (\textbf{present})}
+\resumeItem{}{Judge, Long Island Science Fair Round 1 (2025)}
+\resumeItem{}{Reviewer, Astronomy and Astrophysics (2024--\textbf{present})}
+\resumeItem{}{Distributed Peer Reviewer, ESO (2024--\textbf{present})}
+\resumeItem{}{Reviewer, AAS Journals (2024--\textbf{present})}
+\resumeItem{}{BANG! Seminar Organizing Committee, University of Maryland, College Park (2021, 2022, 2024)}
+\resumeItem{}{Graduate Prospective Visit Flash Talks Organizing Committee (2024)}
+\resumeItem{}{The Department Web Pages Committee, University of Maryland, College Park (2023--\textbf{present})}
+\resumeItem{}{Work-life balance panel, ASTR 680, University of Maryland, College Park (2023)}
+\resumeItem{}{Graduate Student Panel, ASTR 288I, University of Maryland, College Park (2023-2024)}
+\resumeItem{}{AstroTerps Graduate Student Research Panel, University of Maryland, College Park (2023)}
+\resumeItem{}{Astronomy Department Graduate Admissions Interviewer, University of Maryland, College Park (2023--2025)}
+\resumeItem{}{Graduate student website committee member, University of Maryland, College Park (2023--\textbf{present})}
+\resumeItem{}{Lead author / maintainer: \href{https://www.arjunsavel.com/hires_papers.html}{High-resolution literature database} (2022--\textbf{present})}
+\resumeItem{}{Graduation Gift Organizer, University of Maryland, College Park (2022--2023)}
+\resumeItem{}{GRAD-MAP Team Co-Lead, University of Maryland, College Park (2022--2025)}
+\resumeItem{}{Panelist: Carnegie EPL Summer Undergraduate Research Internship (SURI) Program’s graduate school workshop, University of Maryland, College Park (2022)}
+\resumeItem{}{Graduate Prospective Visit Meals Planning (2022-2023)}
+\resumeItem{}{``Hot Papers'' journal club organizer, University of Maryland, College Park (2020--2022)}
+\resumeItem{}{Reviewer, Journal of Open Source Software (7 projects reviewed) (2020--\textbf{present})}
+\resumeItem{}{Equity, Diversity, and Inclusion Committee, University of Maryland, College Park (2020--2022)}
+\resumeItem{}{GRAD-MAP Team Member, University of Maryland, College Park (2020--2022)}
+\resumeItem{}{Public Liaison for Prof. Alex Filippenko (2019--2022)}
+\resumeItem{}{Undergraduate Representative, Astronomy Department, UC Berkeley (2019-2020)}
+\resumeItem{}{Mentor, Berkeley Astronomy Scholars Program (2019-20)}
+\resumeItem{}{Director of Physics and Astronomy, Undergraduate Lab at Berkeley (ULAB) (2018-2019)}
+\resumeItem{}{Night Editor, The Daily Californian (2017)}
+\resumeItemListEnd
+
+
+\shorterSection{Workshops \& Conferences}
+\resumeItemListStart
+\resumeItem{}{\href{https://sites.google.com/asu.edu/hi-res-in-the-desert}{Hi-res in the Desert}. Tempe, Arizona (2025, upcoming)}
+\resumeItem{}{\href{https://exoclimes.org/}{Exoclimes VII}, Montreal, Canada (2025)}
+\resumeItem{}{\href{https://www.agu.org/annual-meeting-2024}{AGU}, Washington, D.C. (2024)}
+\resumeItem{}{\href{https://brinmrc.umd.edu/programs/schools/summer24/summer24-school-mixing.html}{Brin MRC Tracer Mixing Summer School} (first three days)}
+\resumeItem{}{UMB's 46th Annual Graduate Research Conference, Baltimore (2024)}
+\resumeItem{}{\href{https://sites.google.com/view/two-horses/}{Two HoRSEs}, Berlin, DE (2024)}
+\resumeItem{}{Exoplanets V, Leiden, NL (2024)}
+\resumeItem{}{GMT Community Science Meeting, Washington, D.C. (2023)}
+\resumeItem{}{Exoclimes VI, Exeter, UK (2023)}
+\resumeItem{}{\href{https://www.simonsfoundation.org/event/2022-flatiron-wide-algorithms-and-mathematics/}{Flatiron-wide Algorithms and Mathematics}, New York (2022)}
+\resumeItem{}{Building Bridges Across Planet-Related Science, Baltimore (2022, 2023)}
+\resumeItem{}{\href{https://www.simonsfoundation.org/event/flatiron-exoplanet-atmospheres-symposium/}{Flatiron Exoplanet Atmospheres Symposium}, New York (2022)}
+\resumeItem{}{Burgers Program Research
+Symposium on Environmental and Applied Fluid Dynamics (2022, 2023)}
+\resumeItem{}{Exoplanets IV, Las Vegas (2022)}
+\resumeItem{}{Chesapeake Bay Area Exoplanet Meeting, virtual (Spring 2021)}
+\resumeItem{}{Exoplanet atmosphere characterization: from HST and Spitzer to JWST (2021)}
+\resumeItem{}{JWST Master Class Workshop, Stanford University (2020)}
+\resumeItem{}{AAS Winter Meeting, Honolulu (2020)}
+\resumeItem{}{Bay Area Exoplanet Meeting, NASA Ames (Spring 2019, Winter 2019, Spring 2020, Spring 2022)}
+\resumeItem{}{Bay Area Planetary Science Meeting, Stanford University (2019)}
+\resumeItemListEnd
+
+\shorterSection{Professional Affiliations}
+% \resumeSubHeadingListStart
+\small
+  \begin{list}{}{\cvlist}
+  \item[{\color{numcolor}}]American Astronomical Society
+  \item[{\color{numcolor}}]The \href{https://planets.carnegiescience.edu/}{AEThER} Collaboration
+  \item[{\color{numcolor}}]The JWST Transiting Exoplanet Collaboration ERS program \href{https://ers-transit.github.io/}{(JTEC)}
+
+
+
+  \end{list}
+%-----------SKILLS-----------------
+
+
+\shorterSection{Skills \& Assets}
+  \resumeSubHeadingListStart
+  \small
+    \item{
+     \textbf{Programming / Markup Languages}{: Python, ADQL/SQL, R, C, HTML, JavaScript, Swift, \LaTeX}
+    }
+    \vspace{-5pt}
+    \item{
+     \textbf{Supercomputing Clusters}{: \textit{deepthought2} and \textit{zaratan} at UMD, College Park; \textit{moria} at MSU; \textit{rusty} at Flatiron CCA; TIKE at MAST}
+    }
+    \vspace{-5pt}
+    \item{
+     \textbf{Frameworks / Tools}{: git, Slurm, Numba, JAX, SciPy, Pandas, React, Dask}
+    }
+    \vspace{-5pt}
+    \item{
+     \textbf{Misc. Skills}{: Radiative transfer, open-source code management, optimization, web development / automation, copy editing}
+    }
+    \vspace{-5pt}
+    \item{
+     \textbf{Languages}{: English (fluent), Spanish (moderate written, basic spoken), Hindi (basic written, basic spoken)}
+    }
+\resumeSubHeadingListEnd
+
+\end{document}

@@ -1,0 +1,167 @@
+%-------------------------
+% Resume in Latex
+% Author : Arjun Savel
+% Adapted from: Sourabh Bajaj, Amlaan Bhoi
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,10.5pt]{article}
+
+\usepackage{orcidlink}
+\usepackage{fontawesome}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage{verbatim}
+% \usepackage[usenames,dvipsnames]{color}
+
+\usepackage{enumitem}
+% \usepackage[pdftex, hidelinks]{hyperref}
+
+\usepackage{xcolor}
+
+\usepackage[utf8]{inputenc}
+\usepackage{readarray}
+
+
+\input{src/supp_tex/cvstyle}
+
+
+% \renewcommand{\headrulewidth}{0pt}
+% % \pagestyle{fancy}
+% \lhead{\deemph{Arjun Baliga Savel}}
+% \chead{\deemph{Curriculum Vitae}}
+% \rhead{\deemph{\thepage}}
+
+\usepackage[charter]{mathdesign}
+\usepackage{fancyhdr}% Bitstream Charter
+% \usepackage{newpxtext,newpxmath} % Palatino
+
+% \pagestyle{fancy}
+% \fancyhf{} % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.50in}
+\addtolength{\evensidemargin}{-0.50in}
+\addtolength{\textwidth}{1in}
+% \addtolength{\bottommargin}{-.5in}
+% \addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+% \footskip{100}
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{#2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemNoBullet}[2]{
+  \item[]\small{
+    \hspace{-9pt}\textbf{#1}{: #2 \vspace{-6pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item[]
+  \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+      \hspace{-10pt}\textbf{#1} & #2 \\
+      \hspace{-10pt}\textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+% custom commands
+\newcommand{\shorterSection}[1]{\vspace{-10pt}\section{#1}}
+
+\titleformat{\subsection}{
+  \vspace{-6pt}\scshape\raggedright \normalsize
+}{}{0em}{}[\color{black} \vspace{-5pt}]
+
+\newcommand{\shortershorterSection}[1]{\vspace{-10pt}\subsection{#1}}
+
+
+
+
+
+
+
+\def\firstoftwo#1#2{#1}
+\def\secondoftwo#1#2{#2}
+
+\def\iffileempty#1{%
+  \ifnum0\pdffilesize{#1}>0
+    \expandafter\secondoftwo
+  \else
+    \expandafter\firstoftwo
+  \fi
+}
+
+\def\renderunref{%
+  \iffileempty{src/supp_tex/pubs_submitted.tex}{}{
+  \shortershorterSection{\underline{Under Review}}
+  \begin{list}{}{\cvlist}
+    \input{src/supp_tex/pubs_submitted.tex}
+    \input{src/supp_tex/pubs_unref.tex}
+    % \ExecuteMetaData[supp_tex/pubs_unref.tex]{notinpress}
+\end{list}}
+}
+\newcommand{\colorLinkedinSign}{\textcolor{rgb:red,6;green,108;blue,170}{\faLinkedinSquare}}
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}\thispagestyle{empty}
+
+%----------HEADING-----------------
+
+
+%-----------RESEARCH INTERESTS-----------------
+
+%------------PUBLICATIONS-------------------
+
+\shorterSection{Publications}
+\input{src/supp_tex/pubs_summary}
+\vspace{4pt}
+\shortershorterSection{\underline{Refereed Publications}}
+% \resumeSubHeadingListStart
+\small
+\begin{list}{}{\cvlist}
+    \input{src/supp_tex/pubs_ref}
+  \end{list}
+% \resumeSubHeadingListEnd
+
+
+\resumeSubHeadingListStart
+% \renderunref{} 
+\shortershorterSection{\underline{Under Review}}
+\begin{list}{}{\cvlist}
+    \input{src/supp_tex/pubs_unref}
+  \end{list}
+\resumeSubHeadingListEnd
+\end{document}
