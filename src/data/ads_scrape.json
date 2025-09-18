@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2507.01855",
     "authors": [
       "Yee, Samuel W.",
       "Winn, Joshua N.",
@@ -128,7 +128,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -2153,6 +2153,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Baeyens, Robin",
+      "Barat, Saugata",
+      "Decin, Leen",
+      "Desert, Jean-Michel",
+      "Gobrecht, David",
+      "Helling, Christiane",
+      "Lecoq-Molinos, Helena",
+      "Savel, Arjun Baliga",
+      "Shivkumar, Hinna",
+      "Sikora, James",
+      "Sindel, Jan Philip"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 6045,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Fu, Guangwei",
       "Welbanks, Luis",
       "Deming, Drake",
@@ -2180,32 +2206,6 @@
     "title": "Hydrogen sulfide detection and strong methane depletion in the super-stellar metallicity atmosphere of hot Jupiter HD 189733b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24334302F",
     "volume": "243",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Baeyens, Robin",
-      "Barat, Saugata",
-      "Decin, Leen",
-      "Desert, Jean-Michel",
-      "Gobrecht, David",
-      "Helling, Christiane",
-      "Lecoq-Molinos, Helena",
-      "Savel, Arjun Baliga",
-      "Shivkumar, Hinna",
-      "Sikora, James",
-      "Sindel, Jan Philip"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 6045,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -2575,7 +2575,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -3737,7 +3737,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
@@ -4523,7 +4523,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": 4120,
@@ -5980,7 +5980,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6139,7 +6139,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 38,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -6215,7 +6215,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 39,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -6303,7 +6303,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 81,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
