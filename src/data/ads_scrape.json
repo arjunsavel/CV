@@ -667,7 +667,7 @@
       "Sanchez, Jorge A.",
       "Line, Michael R."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ada27e",
     "page": 135,
@@ -676,32 +676,6 @@
     "title": "Peering into the Black Box: Forward Modeling of the Uncertainty Budget of High-resolution Spectroscopy of Exoplanet Atmospheres",
     "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..135S",
     "volume": "169",
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Zhang, Michael",
-      "Savel, Arjun Baliga",
-      "Steinrueck, Maria E.",
-      "Bean, Jacob L.",
-      "Coy, Brandon Park",
-      "Fu, Guangwei",
-      "Hu, Renyu",
-      "Ih, Jegug",
-      "Kempton, Eliza M. -R.",
-      "Kite, Edwin S.",
-      "Wirth, Christopher"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 7875,
-    "pub": "JWST Proposal. Cycle 4",
-    "pubdate": "2025-03-00",
-    "title": "The only known atmosphere on a rocky exoplanet?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
-    "volume": null,
     "year": "2025"
   },
   {
@@ -741,6 +715,32 @@
     "pubdate": "2025-03-00",
     "title": "The Warm Jupiter Opportunity for Understanding Giant Exoplanet Evolution",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.9025G",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Zhang, Michael",
+      "Savel, Arjun Baliga",
+      "Steinrueck, Maria E.",
+      "Bean, Jacob L.",
+      "Coy, Brandon Park",
+      "Fu, Guangwei",
+      "Hu, Renyu",
+      "Ih, Jegug",
+      "Kempton, Eliza M. -R.",
+      "Kite, Edwin S.",
+      "Wirth, Christopher"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 7875,
+    "pub": "JWST Proposal. Cycle 4",
+    "pubdate": "2025-03-00",
+    "title": "The only known atmosphere on a rocky exoplanet?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
     "volume": null,
     "year": "2025"
   },
