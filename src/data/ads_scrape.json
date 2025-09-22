@@ -1771,7 +1771,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2139,7 +2139,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -4679,6 +4679,29 @@
   {
     "arxiv": null,
     "authors": [
+      "Mayo, Andrew W.",
+      "Harada, Caleb",
+      "Dressing, Courtney",
+      "Dholakia, Shashank",
+      "Dholakia, Shishir",
+      "Giacalone, Steven",
+      "Savel, Arjun",
+      "Turtelboom, Emma"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Enriching Our View of Multiplanet Systems Using TESS",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Rasmussen, Kaitlin C.",
       "Rahman, Fahin",
       "Beltz, Hayley",
@@ -4701,29 +4724,6 @@
     "pubdate": "2022-06-00",
     "title": "Simulating the Exoplanet Atmosphere Detections of Today and Tomorrow with the All-Purpose Carrie Spectrograph Simulator",
     "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.331R",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Mayo, Andrew W.",
-      "Harada, Caleb",
-      "Dressing, Courtney",
-      "Dholakia, Shashank",
-      "Dholakia, Shishir",
-      "Giacalone, Steven",
-      "Savel, Arjun",
-      "Turtelboom, Emma"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Enriching Our View of Multiplanet Systems Using TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.244M",
     "volume": "54",
     "year": "2022"
   },
