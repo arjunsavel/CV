@@ -175,7 +175,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2509.21588",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-09-00",
@@ -1816,7 +1816,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2063,7 +2063,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 145,
+    "citations": 146,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
