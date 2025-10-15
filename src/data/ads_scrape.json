@@ -17,7 +17,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2510.07367",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-10-00",
@@ -753,32 +753,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Zhang, Michael",
-      "Savel, Arjun Baliga",
-      "Steinrueck, Maria E.",
-      "Bean, Jacob L.",
-      "Coy, Brandon Park",
-      "Fu, Guangwei",
-      "Hu, Renyu",
-      "Ih, Jegug",
-      "Kempton, Eliza M. -R.",
-      "Kite, Edwin S.",
-      "Wirth, Christopher"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 7875,
-    "pub": "JWST Proposal. Cycle 4",
-    "pubdate": "2025-03-00",
-    "title": "The only known atmosphere on a rocky exoplanet?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gao, Peter",
       "Bean, Jacob L.",
       "Claringbold, Alastair",
@@ -813,6 +787,32 @@
     "pubdate": "2025-03-00",
     "title": "The Warm Jupiter Opportunity for Understanding Giant Exoplanet Evolution",
     "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.9025G",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Zhang, Michael",
+      "Savel, Arjun Baliga",
+      "Steinrueck, Maria E.",
+      "Bean, Jacob L.",
+      "Coy, Brandon Park",
+      "Fu, Guangwei",
+      "Hu, Renyu",
+      "Ih, Jegug",
+      "Kempton, Eliza M. -R.",
+      "Kite, Edwin S.",
+      "Wirth, Christopher"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 7875,
+    "pub": "JWST Proposal. Cycle 4",
+    "pubdate": "2025-03-00",
+    "title": "The only known atmosphere on a rocky exoplanet?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7875Z",
     "volume": null,
     "year": "2025"
   },
@@ -1810,7 +1810,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -2090,7 +2090,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2211,7 +2211,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -2408,7 +2408,7 @@
       "Kempton, Eliza M. -R.",
       "Cinque, L."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad0b70",
     "page": 66,
@@ -2647,7 +2647,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -2695,7 +2695,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3039,7 +3039,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 50,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -6052,7 +6052,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 203,
+    "citations": 204,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
