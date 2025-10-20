@@ -212,6 +212,30 @@
     "year": "2025"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Fromont, Emeline",
+      "Komacek, Thaddeus",
+      "Gao, Peter",
+      "Beltz, Hayley",
+      "Savel, Arjun",
+      "Malsky, Isaac",
+      "Powell, Diana",
+      "Kempton, Eliza",
+      "Tan, Xianyu"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.5194/epsc-dps2025-420",
+    "page": null,
+    "pub": "EPSC-DPS Joint Meeting 2025 (EPSC-DPS2025",
+    "pubdate": "2025-09-00",
+    "title": "Revealing patchy clouds on WASP-43b and WASP-121b through coupled microphysical and hydrodynamical models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025epsc.conf..420F",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.18550",
     "authors": [
       "Soubkiou, Abderahmane",
@@ -3809,7 +3833,7 @@
       "Wang, S. X.",
       "Zhou, G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243879",
     "page": null,
