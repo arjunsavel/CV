@@ -15,7 +15,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2510.07367",
     "page": null,
@@ -936,7 +936,7 @@
       "Ba{\\c{s}}t{\\\"u}rk, {\\\"O}zg{\\\"u}r",
       "Mourad, Ghachoui"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad9aa6",
     "page": 89,
@@ -2083,7 +2083,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -2114,7 +2114,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 256,
+    "citations": 147,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -6076,7 +6076,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 204,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6721,7 +6721,7 @@
       "Vanderspek, R.",
       "Winn, J."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243731",
     "page": null,
