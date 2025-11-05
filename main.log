@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.2)  4 NOV 2025 00:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.2)  5 NOV 2025 00:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1247,10 +1247,10 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 159463 bytes).
+Output written on main.pdf (8 pages, 159509 bytes).
 PDF statistics:
- 456 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
+ 457 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
  31 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
