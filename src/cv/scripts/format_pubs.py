@@ -477,8 +477,8 @@ if __name__ == "__main__":
     short = [False for i in range(len(ref_list))]
 
     ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
-    ref_first = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_first_list, short)))
-    ref_major = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_major_list, short)))
+    ref_first = list(map(format_pub, zip(range(len(ref_first_list), 0, -1), ref_first_list, short)))
+    ref_major = list(map(format_pub, zip(range(len(ref_major_list), 0, -1), ref_major_list, short)))
 
     unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
