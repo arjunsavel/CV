@@ -443,10 +443,17 @@ if __name__ == "__main__":
     for pub in pubs:
         check_inpress(pub)
 
-    ref_list = [p for p in pubs if p["doctype"] == "article"]
+    ref_first_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME in p["authors"][0]]
+    ref_major_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][2])]
+    ref_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME not in p["authors"][0]
+                and LASTNAME not in p["authors"][1] and LASTNAME not in p["authors"][2]]
+
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
     ref_list = check_duplicates(ref_list)
+    ref_first_list = check_duplicates(ref_first_list)
+    ref_major_list = check_duplicates(ref_major_list)
+
     unref_list = check_duplicates(unref_list)
 
     # Compute citation stats
@@ -470,6 +477,9 @@ if __name__ == "__main__":
     short = [False for i in range(len(ref_list))]
 
     ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
+    ref_first = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_first_list, short)))
+    ref_major = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_major_list, short)))
+
     unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
     # todo: refactor. this is gross.
@@ -480,7 +490,11 @@ if __name__ == "__main__":
     )
 
     # for now, written to tex files even if they're gonna be used in a text file.
+    write_tex_file("pubs_ref_first_author.tex", ref_first)
+    write_tex_file("pubs_ref_major_author.tex", ref_major)
     write_tex_file("pubs_ref.tex", ref)
     write_tex_file("pubs_unref.tex", unref)
     write_tex_file("pubs_ref_short.tex", ref_short)
     write_tex_file("pubs_unref_short.tex", unref_short)
+
+    # need to make another file for the first-author pubs.
