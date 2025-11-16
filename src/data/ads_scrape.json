@@ -200,7 +200,7 @@
       "Rackham, Benjamin V.",
       "Tan, Xianyu"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2509.21588",
     "page": null,
@@ -602,7 +602,7 @@
       "Piette, Anjali A. A.",
       "Kataria, Tiffany"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/adb7e8",
     "page": 221,
@@ -1834,7 +1834,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -1975,7 +1975,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -2083,7 +2083,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -3063,7 +3063,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -5432,7 +5432,7 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2305",
     "page": 195,
@@ -6076,7 +6076,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 206,
+    "citations": 208,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
