@@ -445,7 +445,6 @@ if __name__ == "__main__":
 
     ref_list_full = [p for p in pubs if p["doctype"] == "article"]
     ref_first_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][0])]
-    ref_major_list = [p for p in pubs if p["doctype"] == "article" and]
     ref_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME not in p["authors"][0]
                 and LASTNAME not in p["authors"][1] and LASTNAME not in p["authors"][2]]
 
@@ -453,7 +452,6 @@ if __name__ == "__main__":
 
     ref_list = check_duplicates(ref_list)
     ref_first_list = check_duplicates(ref_first_list)
-    ref_major_list = check_duplicates(ref_major_list)
 
     unref_list = check_duplicates(unref_list)
 
@@ -479,7 +477,6 @@ if __name__ == "__main__":
 
     ref = list(map(format_pub, zip(range(len(ref_list), 0, -1), ref_list, short)))
     ref_first = list(map(format_pub, zip(range(len(ref_first_list), 0, -1), ref_first_list, short)))
-    ref_major = list(map(format_pub, zip(range(len(ref_major_list), 0, -1), ref_major_list, short)))
 
     unref = list(map(format_pub, zip(range(len(unref_list), 0, -1), unref_list, short)))
 
