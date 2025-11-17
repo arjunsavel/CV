@@ -443,8 +443,9 @@ if __name__ == "__main__":
     for pub in pubs:
         check_inpress(pub)
 
-    ref_first_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME in p["authors"][0]]
-    ref_major_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][2])]
+    ref_list_full = [p for p in pubs if p["doctype"] == "article"]
+    ref_first_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][0])]
+    ref_major_list = [p for p in pubs if p["doctype"] == "article" and]
     ref_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME not in p["authors"][0]
                 and LASTNAME not in p["authors"][1] and LASTNAME not in p["authors"][2]]
 
@@ -457,7 +458,7 @@ if __name__ == "__main__":
     unref_list = check_duplicates(unref_list)
 
     # Compute citation stats
-    hindex, ncitations, nfirst = calc_hindex(ref_list, pubs)
+    hindex, ncitations, nfirst = calc_hindex(ref_list_full, pubs)
 
     with open(os.path.join(supp_tex_path, "n_first_submit.tex")) as f:
         nfirst_submit = eval(f.readlines()[0].split("\n")[0])
@@ -490,8 +491,7 @@ if __name__ == "__main__":
     )
 
     # for now, written to tex files even if they're gonna be used in a text file.
-    write_tex_file("pubs_ref_first_author.tex", ref_first)
-    write_tex_file("pubs_ref_major_author.tex", ref_major)
+    write_tex_file("pubs_ref_first_or_second_author.tex", ref_first)
     write_tex_file("pubs_ref.tex", ref)
     write_tex_file("pubs_unref.tex", unref)
     write_tex_file("pubs_ref_short.tex", ref_short)
