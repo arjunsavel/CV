@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763424952.61762 "main.tex" "main.pdf" "main" 1763424953.44024 0
+["pdflatex"] 1763684148.17655 "main.tex" "main.pdf" "main" 1763684149.06625 0
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1276641224 6938 5135be6a8802f13a7faf296d1959a1ab ""
@@ -204,16 +204,16 @@
   "/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1759376180 5528131 4fa3fe3de604d97f29ba843456d6bb39 ""
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1759376245 3628593 186cc5f0365d17fd5d56a26353148712 ""
   "/opt/texlive/texdir/texmf.cnf" 1759376174 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "main.aux" 1763424953.30237 2962 670fe496895e4176796caf6f47b2ee5c "pdflatex"
-  "main.out" 1763424953.30237 3322 feebd0dd313e276ff5245f689e7a8455 "pdflatex"
-  "main.tex" 1763424951.10338 30011 9a3ccfdf0daaa5b2e17e91539015f84e ""
-  "orcidlink.sty" 1763424951.10438 2264 b9f7c318cb80559e5b69ccdb2316379f ""
-  "src/supp_tex/cvstyle.tex" 1763424951.11038 2860 c76b3bb095b42b1dda00b6d902b98ec8 ""
-  "src/supp_tex/honors.tex" 1763424951.11038 2787 254b42d9b954abf85d7616d184f97ca8 ""
-  "src/supp_tex/pubs_ref.tex" 1763424951.11038 17994 906fd4ac3edbffa10ab7d98566500067 ""
-  "src/supp_tex/pubs_ref_first_or_second_author.tex" 1763424951.11038 2942 c09ec71ae7a6431b0ab45fa87a3839c6 ""
-  "src/supp_tex/pubs_summary.tex" 1763424951.11138 55 63a16c3c38d2af4f4b325616ea87feda ""
-  "src/supp_tex/pubs_unref.tex" 1763424951.11138 713 d3cbd9fc26a702ffe3696ff0a9b55b22 ""
+  "main.aux" 1763684148.91418 2962 670fe496895e4176796caf6f47b2ee5c "pdflatex"
+  "main.out" 1763684148.91418 3322 feebd0dd313e276ff5245f689e7a8455 "pdflatex"
+  "main.tex" 1763684147.48318 30011 9a3ccfdf0daaa5b2e17e91539015f84e ""
+  "orcidlink.sty" 1763684147.48418 2264 b9f7c318cb80559e5b69ccdb2316379f ""
+  "src/supp_tex/cvstyle.tex" 1763684147.49018 2860 c76b3bb095b42b1dda00b6d902b98ec8 ""
+  "src/supp_tex/honors.tex" 1763684147.49018 2787 254b42d9b954abf85d7616d184f97ca8 ""
+  "src/supp_tex/pubs_ref.tex" 1763684147.49018 17994 b5659a191a74914c0c08654b6fd578ca ""
+  "src/supp_tex/pubs_ref_first_or_second_author.tex" 1763684147.49118 2942 c09ec71ae7a6431b0ab45fa87a3839c6 ""
+  "src/supp_tex/pubs_summary.tex" 1763684147.49118 55 38ac48ce6163a0e5c82e35bef8d2f16d ""
+  "src/supp_tex/pubs_unref.tex" 1763684147.49118 713 d3cbd9fc26a702ffe3696ff0a9b55b22 ""
   (generated)
   "main.aux"
   "main.log"
