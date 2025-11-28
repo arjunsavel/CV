@@ -148,7 +148,23 @@
 \shorterSection{Publications}
 \input{src/supp_tex/pubs_summary}
 \vspace{4pt}
-\shortershorterSection{\underline{Refereed Publications}}
+
+\shortershorterSection{\underline{First- and second-author publications}}
+% \resumeSubHeadingListStart
+\small
+\begin{list}{}{\cvlist}
+    \input{src/supp_tex/pubs_ref_first_or_second_author}
+  \end{list}
+
+% \shortershorterSection{\underline{Major Contributions}}
+% % \resumeSubHeadingListStart
+% \small
+% \begin{list}{}{\cvlist}
+%     \input{src/supp_tex/pubs_ref_major_author}
+%   \end{list}
+
+  
+\shortershorterSection{\underline{Other Refereed Publications}}
 % \resumeSubHeadingListStart
 \small
 \begin{list}{}{\cvlist}
@@ -157,11 +173,22 @@
 % \resumeSubHeadingListEnd
 
 
-\resumeSubHeadingListStart
+% \resumeSubHeadingListStart
 % \renderunref{} 
 \shortershorterSection{\underline{Under Review}}
 \begin{list}{}{\cvlist}
     \input{src/supp_tex/pubs_unref}
   \end{list}
-\resumeSubHeadingListEnd
+% \resumeSubHeadingListEnd
+
+\shorterSection{Public Software}
+% \resumeSubHeadingListStart
+
+\begin{list}{}{\cvlist}
+    \item[{\color{numcolor}\scriptsize4}] \texttt{cortecs}: \href{https://github.com/arjunsavel/cortecs}{compress your opacity functions by an order of magnitude}
+    \item[{\color{numcolor}\scriptsize3}] \texttt{hires-literature}: \href{https://github.com/arjunsavel/hires-literature}{a largely complete database for ground-based high-resolution spectroscopy}
+    \item[{\color{numcolor}\scriptsize2}] \texttt{scope}: \href{https://github.com/arjunsavel/scope}{simulating ground-based high-resolution spectroscopy}
+    \item[{\color{numcolor}\scriptsize1}] \texttt{SImMER}: 
+    \href{https://github.com/arjunsavel/SImMER}{modular data reduction for ground-based imaging}
+\end{list}
 \end{document}
