@@ -2337,26 +2337,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Cruz, Kelle",
-      "Rodriguez, David",
-      "Cooper, William J.",
-      "Alejandro Merchan, Sherelyn",
-      "Savel, Arjun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #243",
-    "pubdate": "2024-02-00",
-    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24320219C",
-    "volume": "243",
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Dai, F.",
       "Schlaufman, K. C.",
       "Reggiani, H.",
@@ -2418,6 +2398,26 @@
     "title": "VizieR Online Data Catalog: BD+29 2654 equivalent Widths and line abundances (Dai+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51660049D",
     "volume": "516",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William J.",
+      "Alejandro Merchan, Sherelyn",
+      "Savel, Arjun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #243",
+    "pubdate": "2024-02-00",
+    "title": "The SIMPLE Archive: A collaboratively-curated database and website of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24320219C",
+    "volume": "243",
     "year": "2024"
   },
   {
@@ -5641,31 +5641,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Murakami, Yukei S.",
-      "Jennings, Connor",
-      "Hoffman, Andrew M.",
-      "Sunseri, James",
-      "Baer-Way, Raphael",
-      "Stahl, Benjamin E.",
-      "Savel, Arjun B.",
-      "Altunin, Ivan",
-      "Girish, Nachiket",
-      "Filippenko, Alexei V."
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2021-08-00",
-    "title": "PIPS: Period detection and Identification Pipeline Suite",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft08019M",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Rodriguez, J. E.",
       "Quinn, S. N.",
       "Zhou, G.",
@@ -5794,6 +5769,31 @@
     "title": "VizieR Online Data Catalog: LCs and RVs of 5 exoplanets discovered by TESS (Rodriguez+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..51610194R",
     "volume": "516",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Murakami, Yukei S.",
+      "Jennings, Connor",
+      "Hoffman, Andrew M.",
+      "Sunseri, James",
+      "Baer-Way, Raphael",
+      "Stahl, Benjamin E.",
+      "Savel, Arjun B.",
+      "Altunin, Ivan",
+      "Girish, Nachiket",
+      "Filippenko, Alexei V."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2021-08-00",
+    "title": "PIPS: Period detection and Identification Pipeline Suite",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft08019M",
+    "volume": null,
     "year": "2021"
   },
   {
