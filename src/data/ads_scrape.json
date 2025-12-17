@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2510.07367",
     "authors": [
       "Nixon, Matthew C.",
       "Somers, R. Sander",
@@ -15,7 +15,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 0,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -24,33 +24,6 @@
     "title": "Magma Ocean Interactions Can Explain JWST Observations of the Sub-Neptune TOI-270 d",
     "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...995...95N",
     "volume": "995",
-    "year": "2025"
-  },
-  {
-    "arxiv": "2510.07367",
-    "authors": [
-      "Nixon, Matthew C.",
-      "Sander Somers, R.",
-      "Savel, Arjun B.",
-      "Ih, Jegug",
-      "Kempton, Eliza M. -R.",
-      "Young, Edward D.",
-      "Schlichting, Hilke E.",
-      "Lichtenberg, Tim",
-      "Welbanks, Luis",
-      "Misener, William",
-      "Piette, Anjali A. A.",
-      "Wogan, Nicholas F."
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2510.07367",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-10-00",
-    "title": "Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv251007367N",
-    "volume": null,
     "year": "2025"
   },
   {
