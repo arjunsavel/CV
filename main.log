@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.2)  1 JAN 2026 00:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  2 JAN 2026 00:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-29>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -77,7 +77,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \c@section@level=\count283
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count284
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
@@ -783,12 +783,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
 (Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks40
 \XKV@tempa@toks=\toks41
+\XKV@tempb@toks=\toks42
 )
 \XKV@depth=\count340
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -813,13 +814,13 @@ Now handling font encoding MDB ...
 \symmathdesignB=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 (Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
-\@emptytoks=\toks42
+\@emptytoks=\toks43
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 \rulethickness=\skip71
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 
 116.
 
@@ -830,7 +831,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 9.60007pt on input line 116.
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count341
 )
 
@@ -887,12 +888,12 @@ Package hyperref Info: Link coloring ON on input line 140.
 \scratchbox=\box66
 \nofMPsegments=\count343
 \nofMParguments=\count344
-\everyMPshowfont=\toks43
+\everyMPshowfont=\toks44
 \MPscratchCnt=\count345
 \MPscratchDim=\dimen280
 \MPnumerator=\count346
 \makeMPintoPDFobject=\count347
-\everyMPtoPDFconversion=\toks44
+\everyMPtoPDFconversion=\toks45
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -1140,19 +1141,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 231.
 
-(./src/supp_tex/pubs_ref.tex
-
-[1
+(./src/supp_tex/pubs_ref.tex [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
 /texdir/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}{/opt/texlive/texdir/texmf-
 dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdir/texmf-dist/f
 onts/enc/dvips/fontawesome/fontawesometwo.enc}]
-
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 7.68005pt on input line 49.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 49.
+
 [2])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1181,9 +1180,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (./src/supp_tex/pubs_unref.tex)
 LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
 (Font)              scaled to size 9.64806pt on input line 252.
-
-
-[3] (./src/supp_tex/honors.tex)
+ [3] (./src/supp_tex/honors.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 311.
@@ -1207,8 +1204,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 311.
-
-
 
 [4]
 
@@ -1235,30 +1230,22 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 328.
 
-
-
-[5]
-
-[6]
-
-[7]
+[5] [6] [7]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 565.
-
-
-[8] (./main.aux)
+ [8] (./main.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F67953F1E40E1B6205F3A6BD4DB6F7FA;3268.
  ) 
 Here is how much of TeX's memory you used:
- 25316 strings out of 467748
- 457364 string characters out of 5429049
- 850798 words of memory out of 5000000
- 53494 multiletter control sequences out of 15000+600000
+ 25316 strings out of 467538
+ 457382 string characters out of 5421637
+ 854267 words of memory out of 5000000
+ 53704 multiletter control sequences out of 15000+600000
  690810 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,558b,783s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1273,7 +1260,7 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 159442 bytes).
+Output written on main.pdf (8 pages, 159443 bytes).
 PDF statistics:
  464 PDF objects out of 1000 (max. 8388607)
  427 compressed objects within 5 object streams
