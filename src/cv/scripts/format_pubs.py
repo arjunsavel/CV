@@ -446,7 +446,7 @@ if __name__ == "__main__":
     ref_list_full = [p for p in pubs if p["doctype"] == "article"]
     ref_first_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][0])]
     ref_list = [p for p in pubs if p["doctype"] == "article" and LASTNAME not in p["authors"][0]
-                and LASTNAME not in p["authors"][1] and LASTNAME not in p["authors"][2]]
+                and LASTNAME not in p["authors"][1]]
 
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
