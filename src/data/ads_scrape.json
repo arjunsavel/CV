@@ -191,6 +191,31 @@
     "year": "2026"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William",
+      "Savel, Arjun",
+      "Navarrate, Carolina",
+      "Alejandro Merchan, Sherelyn",
+      "Xu, Evan",
+      "Han, Leslie",
+      "Lee, Kasey",
+      "Goh, Guan Ying"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2026-02-00",
+    "title": "The AstroDB Toolkit and the SIMPLE Archive: A community tool for building new databases and a collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026AAS...24710203C",
+    "volume": "58",
+    "year": "2026"
+  },
+  {
     "arxiv": "2510.07367",
     "authors": [
       "Nixon, Matthew C.",
@@ -2533,7 +2558,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -2917,7 +2942,7 @@
       "Brady, Madison",
       "Bean, Jacob L."
     ],
-    "citations": 11,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acf28e",
     "page": 155,
@@ -3169,7 +3194,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3513,7 +3538,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -6622,7 +6647,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
