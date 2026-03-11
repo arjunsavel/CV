@@ -212,7 +212,7 @@
     "pubdate": "2026-02-00",
     "title": "The AstroDB Toolkit and the SIMPLE Archive: A community tool for building new databases and a collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2026AAS...24710203C",
-    "volume": "58",
+    "volume": "247",
     "year": "2026"
   },
   {
@@ -231,7 +231,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -2558,7 +2558,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 48,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -3194,7 +3194,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 143,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3538,7 +3538,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 67,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -6647,7 +6647,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 222,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
