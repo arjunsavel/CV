@@ -6,6 +6,7 @@ import importlib.util
 import inspect
 import json
 import os
+import pdb
 import time
 from operator import itemgetter
 
@@ -85,10 +86,16 @@ def get_papers(author):
             page = None
             if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
+        # check for mentee name, if so, prepend a * before last name
+        author_list = list(map(utf8totex.utf8totex, paper.author))
+        mentee_map = {'Arnold, Kenneth E.': '*Triantafillides, Anastasia',
+                      'Triantafillides, Anastasia': '*Triantafillides, Anastasia'}
+
+        author_list = [mentee_map.get(author, author) for author in author_list]
         dicts.append(
             dict(
                 doctype=paper.doctype,
-                authors=list(map(utf8totex.utf8totex, paper.author)),
+                authors=author_list,
                 year=paper.year,
                 pubdate=paper.pubdate,
                 doi=paper.doi[0] if paper.doi is not None else None,
