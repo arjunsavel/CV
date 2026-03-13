@@ -693,7 +693,7 @@
   {
     "arxiv": "2504.14060",
     "authors": [
-      "Arnold, Kenneth E.",
+      "*Triantafillides, Anastasia",
       "Savel, Arjun B.",
       "Kempton, Eliza M.-R.",
       "Roman, Michael T.",
@@ -3174,7 +3174,7 @@
       "Xue, Qiao",
       "Taylor, Jake",
       "Savel, Arjun B.",
-      "Arnold, Kenneth E.",
+      "*Triantafillides, Anastasia",
       "Nixon, Matthew C.",
       "Stevenson, Kevin B.",
       "Mansfield, Megan",
@@ -3533,7 +3533,7 @@
       "Parmentier, Vivien",
       "Batalha, Natasha E.",
       "Savel, Arjun B.",
-      "Arnold, Kenneth E.",
+      "*Triantafillides, Anastasia",
       "Roman, Michael T.",
       "Malsky, Isaac",
       "Taylor, Jake"
@@ -6970,7 +6970,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
