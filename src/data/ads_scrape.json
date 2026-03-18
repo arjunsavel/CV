@@ -216,6 +216,36 @@
     "year": "2026"
   },
   {
+    "arxiv": "2305.05697",
+    "authors": [
+      "Gao, Peter",
+      "Piette, Anjali A. A.",
+      "Steinrueck, Maria E.",
+      "Nixon, Matthew C.",
+      "Zhang, Michael",
+      "Kempton, Eliza M.-R.",
+      "Bean, Jacob L.",
+      "Rauscher, Emily",
+      "Parmentier, Vivien",
+      "Batalha, Natasha E.",
+      "Savel, Arjun B.",
+      "*Triantafillides, Anastasia",
+      "Roman, Michael T.",
+      "Malsky, Isaac",
+      "Taylor, Jake"
+    ],
+    "citations": 65,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/acd16f",
+    "page": 96,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-01-00",
+    "title": "The Hazy and Metal-rich Atmosphere of GJ 1214 b Constrained by Near- and Mid-infrared Transmission Spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...96G",
+    "volume": "951",
+    "year": "2026"
+  },
+  {
     "arxiv": "2510.07367",
     "authors": [
       "Nixon, Matthew C.",
@@ -708,7 +738,7 @@
     "page": 187,
     "pub": "The Astrophysical Journal",
     "pubdate": "2025-06-00",
-    "title": "Out on a Limb: The Signatures of East{\\textendash}West Asymmetries in Transmission Spectra from General Circulation Models",
+    "title": "Out on a Limb: The Signatures of East--West Asymmetries in Transmission Spectra from General Circulation Models",
     "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...986..187A",
     "volume": "986",
     "year": "2025"
@@ -1552,7 +1582,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 27,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -2342,7 +2372,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 56,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -3517,36 +3547,6 @@
     "title": "tardis-sn/tardis: TARDIS v2023.07.09",
     "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8128141K",
     "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.05697",
-    "authors": [
-      "Gao, Peter",
-      "Piette, Anjali A. A.",
-      "Steinrueck, Maria E.",
-      "Nixon, Matthew C.",
-      "Zhang, Michael",
-      "Kempton, Eliza M.-R.",
-      "Bean, Jacob L.",
-      "Rauscher, Emily",
-      "Parmentier, Vivien",
-      "Batalha, Natasha E.",
-      "Savel, Arjun B.",
-      "*Triantafillides, Anastasia",
-      "Roman, Michael T.",
-      "Malsky, Isaac",
-      "Taylor, Jake"
-    ],
-    "citations": 65,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/acd16f",
-    "page": 96,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2023-07-00",
-    "title": "The Hazy and Metal-rich Atmosphere of GJ 1214 b Constrained by Near- and Mid-infrared Transmission Spectroscopy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...96G",
-    "volume": "951",
     "year": "2023"
   },
   {
