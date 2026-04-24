@@ -73,7 +73,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": "10.48550/arXiv.2604.15816",
+    "doi": null,
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2026-04-00",
@@ -3494,7 +3494,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -6133,7 +6133,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
@@ -7152,7 +7152,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -7534,7 +7534,7 @@
       "van Sluijs, Lennart",
       "Wardenier, Joost P."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2512.10904",
     "page": null,
