@@ -1,23 +1,5 @@
 [
   {
-    "arxiv": "2604.11919",
-    "authors": [
-      "Yang, Jeehyun",
-      "Kempton, Eliza M.-R.",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2604.11919",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-04-00",
-    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260411919Y",
-    "volume": null,
-    "year": "2026"
-  },
-  {
     "arxiv": "2604.15816",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -144,6 +126,24 @@
     "pubdate": "2026-04-00",
     "title": "A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI-1752",
     "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..662P",
+    "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": "2604.11919",
+    "authors": [
+      "Yang, Jeehyun",
+      "Kempton, Eliza M.-R.",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2604.11919",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-04-00",
+    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260411919Y",
     "volume": null,
     "year": "2026"
   },
@@ -594,7 +594,7 @@
       "Rackham, Benjamin V.",
       "Tan, Xianyu"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2509.21588",
     "page": null,
