@@ -2959,32 +2959,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Baeyens, Robin",
-      "Barat, Saugata",
-      "Decin, Leen",
-      "Desert, Jean-Michel",
-      "Gobrecht, David",
-      "Helling, Christiane",
-      "Lecoq-Molinos, Helena",
-      "Savel, Arjun Baliga",
-      "Shivkumar, Hinna",
-      "Sikora, James",
-      "Sindel, Jan Philip"
-    ],
-    "citations": 0,
-    "doctype": "proposal",
-    "doi": null,
-    "page": 6045,
-    "pub": "JWST Proposal. Cycle 3",
-    "pubdate": "2024-02-00",
-    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Fu, Guangwei",
       "Welbanks, Luis",
       "Deming, Drake",
@@ -3012,6 +2986,32 @@
     "title": "Hydrogen sulfide detection and strong methane depletion in the super-stellar metallicity atmosphere of hot Jupiter HD 189733b",
     "url": "https://ui.adsabs.harvard.edu/abs/2024AAS...24334302F",
     "volume": "243",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Baeyens, Robin",
+      "Barat, Saugata",
+      "Decin, Leen",
+      "Desert, Jean-Michel",
+      "Gobrecht, David",
+      "Helling, Christiane",
+      "Lecoq-Molinos, Helena",
+      "Savel, Arjun Baliga",
+      "Shivkumar, Hinna",
+      "Sikora, James",
+      "Sindel, Jan Philip"
+    ],
+    "citations": 0,
+    "doctype": "proposal",
+    "doi": null,
+    "page": 6045,
+    "pub": "JWST Proposal. Cycle 3",
+    "pubdate": "2024-02-00",
+    "title": "Detecting ongoing gas-to-solid nucleation on the ultra-hot planet WASP-76 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024jwst.prop.6045B",
+    "volume": null,
     "year": "2024"
   },
   {
