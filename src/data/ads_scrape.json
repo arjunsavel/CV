@@ -65,6 +65,24 @@
     "year": "2026"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Yang, Jeehyun",
+      "Kempton, Eliza M.-R.",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ae6914",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-05-00",
+    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
+    "volume": "1003",
+    "year": "2026"
+  },
+  {
     "arxiv": "2604.11919",
     "authors": [
       "Yang, Jeehyun",
@@ -2824,7 +2842,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 155,
+    "citations": 154,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
