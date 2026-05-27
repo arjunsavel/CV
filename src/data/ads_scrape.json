@@ -65,7 +65,7 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
+    "arxiv": "2604.11919",
     "authors": [
       "Yang, Jeehyun",
       "Kempton, Eliza M.-R.",
@@ -80,24 +80,6 @@
     "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
     "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
     "volume": "1003",
-    "year": "2026"
-  },
-  {
-    "arxiv": "2604.11919",
-    "authors": [
-      "Yang, Jeehyun",
-      "Kempton, Eliza M.-R.",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2604.11919",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-04-00",
-    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260411919Y",
-    "volume": null,
     "year": "2026"
   },
   {
@@ -335,7 +317,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -3447,7 +3429,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 155,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -6086,7 +6068,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4334",
     "page": 99,
