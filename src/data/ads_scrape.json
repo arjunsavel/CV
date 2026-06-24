@@ -392,36 +392,6 @@
     "year": "2026"
   },
   {
-    "arxiv": "2305.05697",
-    "authors": [
-      "Gao, Peter",
-      "Piette, Anjali A. A.",
-      "Steinrueck, Maria E.",
-      "Nixon, Matthew C.",
-      "Zhang, Michael",
-      "Kempton, Eliza M.-R.",
-      "Bean, Jacob L.",
-      "Rauscher, Emily",
-      "Parmentier, Vivien",
-      "Batalha, Natasha E.",
-      "Savel, Arjun B.",
-      "*Triantafillides, Anastasia",
-      "Roman, Michael T.",
-      "Malsky, Isaac",
-      "Taylor, Jake"
-    ],
-    "citations": 76,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/acd16f",
-    "page": 96,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2026-01-00",
-    "title": "The Hazy and Metal-rich Atmosphere of GJ 1214 b Constrained by Near- and Mid-infrared Transmission Spectroscopy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...96G",
-    "volume": "951",
-    "year": "2026"
-  },
-  {
     "arxiv": "2510.07367",
     "authors": [
       "Nixon, Matthew C.",
@@ -437,7 +407,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -622,7 +592,7 @@
       "Rackham, Benjamin V.",
       "Tan, Xianyu"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2509.21588",
     "page": null,
@@ -1880,7 +1850,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -2637,7 +2607,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -2670,7 +2640,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2917,7 +2887,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 156,
+    "citations": 157,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3064,7 +3034,7 @@
       "Sikora, James",
       "Sindel, Jan Philip"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "proposal",
     "doi": null,
     "page": 6045,
@@ -3474,7 +3444,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 148,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -3845,6 +3815,36 @@
     "title": "tardis-sn/tardis: TARDIS v2023.07.09",
     "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8128141K",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2305.05697",
+    "authors": [
+      "Gao, Peter",
+      "Piette, Anjali A. A.",
+      "Steinrueck, Maria E.",
+      "Nixon, Matthew C.",
+      "Zhang, Michael",
+      "Kempton, Eliza M.-R.",
+      "Bean, Jacob L.",
+      "Rauscher, Emily",
+      "Parmentier, Vivien",
+      "Batalha, Natasha E.",
+      "Savel, Arjun B.",
+      "*Triantafillides, Anastasia",
+      "Roman, Michael T.",
+      "Malsky, Isaac",
+      "Taylor, Jake"
+    ],
+    "citations": 76,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/acd16f",
+    "page": 96,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2023-07-00",
+    "title": "The Hazy and Metal-rich Atmosphere of GJ 1214 b Constrained by Near- and Mid-infrared Transmission Spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...951...96G",
+    "volume": "951",
     "year": "2023"
   },
   {
@@ -5060,7 +5060,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -6185,7 +6185,7 @@
       "Mansfield, Megan",
       "Rauscher, Emily"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac423f",
     "page": 85,
