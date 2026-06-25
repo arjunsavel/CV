@@ -93,6 +93,23 @@
     "year": "2026"
   },
   {
+    "arxiv": "2606.23910",
+    "authors": [
+      "Beltz, Hayley",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-06-00",
+    "title": "Effects of Super-rotating Jets on Phase-Resolved Transmission Spectra at High Spectral Resolution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260623910B",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2604.15816",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -2640,7 +2657,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 63,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -4351,7 +4368,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
