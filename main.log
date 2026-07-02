@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  2 JUL 2026 00:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  2 JUL 2026 14:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1146,9 +1146,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdir/texmf-dist/f
 onts/enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 50.
+(Font)              scaled to size 7.68005pt on input line 49.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 50.
+(Font)              scaled to size 7.68005pt on input line 49.
 
 [2] [3])
 
@@ -1227,6 +1227,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 335.
 
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 389.
 [5] [6] [7]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 578.
@@ -1239,13 +1241,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 849C8D172A326A84F0D40C9585AD4ED7;3574.
  ) 
 Here is how much of TeX's memory you used:
- 25355 strings out of 467168
- 459164 string characters out of 5411585
- 865828 words of memory out of 5000000
- 54101 multiletter control sequences out of 15000+600000
- 688744 words of font info for 127 fonts, out of 8000000 for 9000
+ 25356 strings out of 467168
+ 459179 string characters out of 5411585
+ 864391 words of memory out of 5000000
+ 54102 multiletter control sequences out of 15000+600000
+ 690810 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,13n,121p,579b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,579b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></opt
 /texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></opt/texliv
@@ -1257,10 +1259,10 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 162508 bytes).
+Output written on main.pdf (8 pages, 161721 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
+ 488 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
  33 named destinations out of 1000 (max. 500000)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
