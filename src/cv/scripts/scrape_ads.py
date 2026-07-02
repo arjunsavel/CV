@@ -66,6 +66,10 @@ def get_papers(author):
 
     dicts = []
     for paper in papers:
+        
+        # one set of conferences proceedings snuck in!
+        if "AASTCS 11" in paper.pub:
+            continue
         aid = [
             ":".join(t.split(":")[1:])
             for t in paper.identifier
