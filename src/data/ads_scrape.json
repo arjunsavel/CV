@@ -167,7 +167,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2606.30799",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2026-06-00",
@@ -526,7 +526,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -3611,7 +3611,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3955,7 +3955,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 76,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
