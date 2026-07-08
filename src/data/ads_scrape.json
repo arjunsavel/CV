@@ -93,23 +93,6 @@
     "year": "2026"
   },
   {
-    "arxiv": "2606.23910",
-    "authors": [
-      "Beltz, Hayley",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2606.23910",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-06-00",
-    "title": "Effects of Super-rotating Jets on Phase-Resolved Transmission Spectra at High Spectral Resolution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260623910B",
-    "volume": null,
-    "year": "2026"
-  },
-  {
     "arxiv": "2606.30799",
     "authors": [
       "Mantovan, G.",
@@ -177,6 +160,23 @@
     "year": "2026"
   },
   {
+    "arxiv": "2606.23910",
+    "authors": [
+      "Beltz, Hayley",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2606.23910",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-06-00",
+    "title": "Effects of Super-rotating Jets on Phase-Resolved Transmission Spectra at High Spectral Resolution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260623910B",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2604.15816",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -203,7 +203,7 @@
       "Gan, T.",
       "Giacalone, S.",
       "Gillon, M.",
-      "Chew, Y. G{\\'o}mez Maqueo",
+      "G{\\'o}mez Maque Chew, Y.",
       "Kawauchi, K.",
       "Khandelwal, A.",
       "Korth, J.",
@@ -215,7 +215,7 @@
       "Narita, N.",
       "Ortiz, J. L.",
       "Parviainen, H.",
-      "Marcano, M. Pichardo",
+      "Pichardo Marcano, M.",
       "Plauchu-Frayn, I.",
       "Queloz, D.",
       "Rapetti, D.",
@@ -526,7 +526,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -666,7 +666,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -1932,7 +1932,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.14485351",
     "page": null,
@@ -2166,7 +2166,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.13929578",
     "page": null,
@@ -2529,7 +2529,7 @@
       "Kumar, Atul",
       "Kharkar, Atharwa"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.13370472",
     "page": null,
@@ -2668,7 +2668,7 @@
       "Kharkar, Atharwa",
       "Kumar, Atul"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.13207705",
     "page": null,
@@ -2726,7 +2726,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -3006,7 +3006,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 271,
+    "citations": 273,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3472,7 +3472,7 @@
       "Dasgupta, Debajyoti",
       "Kumar, Atul"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.8244935",
     "page": null,
@@ -3925,7 +3925,7 @@
       "Nayak U, Ashwin",
       "Kolliboyina, Chaitanya"
     ],
-    "citations": 3,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.8128141",
     "page": null,
@@ -4645,7 +4645,7 @@
       "Kharkar, Atharwa",
       "Nayak U, Ashwin"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7525913",
     "page": null,
@@ -4884,7 +4884,7 @@
       "Nayak U, Ashwin",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7428821",
     "page": null,
@@ -5023,7 +5023,7 @@
       "Nayak U, Ashwin",
       "Kharkar, Atharwa"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7331855",
     "page": null,
@@ -5633,7 +5633,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6662839",
     "page": null,
@@ -6068,7 +6068,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6299948",
     "page": null,
@@ -6154,7 +6154,7 @@
       "Kolliboyina, Chaitanya",
       "Kumar, Atul"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5979739",
     "page": null,
@@ -6378,7 +6378,7 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4da0",
     "page": null,
@@ -6859,7 +6859,7 @@
       "Cawley, Kevin",
       "Fullard, Andrew"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5034859",
     "page": null,
@@ -7033,7 +7033,7 @@
       "Cawley, Kevin",
       "Fullard, Andrew"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4995779",
     "page": null,
@@ -7299,7 +7299,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -7529,7 +7529,7 @@
       "Yap, Kevin",
       "Gupta, Suyash"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3902923",
     "page": null,
@@ -7600,7 +7600,7 @@
       "Yap, Kevin",
       "Gupta, Suyash"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3893940",
     "page": null,
