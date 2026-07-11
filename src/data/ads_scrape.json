@@ -453,31 +453,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Cruz, Kelle",
-      "Rodriguez, David",
-      "Cooper, William",
-      "Savel, Arjun",
-      "Navarrate, Carolina",
-      "Alejandro Merchan, Sherelyn",
-      "Xu, Evan",
-      "Han, Leslie",
-      "Lee, Kasey",
-      "Goh, Guan Ying"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
-    "pubdate": "2026-02-00",
-    "title": "The AstroDB Toolkit and the SIMPLE Archive: A community tool for building new databases and a collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026AAS...24710203C",
-    "volume": "247",
-    "year": "2026"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Sanchez, Jorge A.",
       "Smith, Peter C. B.",
       "Kanumalla, Krishna",
@@ -508,6 +483,31 @@
     "title": "A Stellar magnesium to silicon ratio in the atmosphere of an exoplanet",
     "url": "https://ui.adsabs.harvard.edu/abs/2026NatCo..17.2902S",
     "volume": "17",
+    "year": "2026"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Cruz, Kelle",
+      "Rodriguez, David",
+      "Cooper, William",
+      "Savel, Arjun",
+      "Navarrate, Carolina",
+      "Alejandro Merchan, Sherelyn",
+      "Xu, Evan",
+      "Han, Leslie",
+      "Lee, Kasey",
+      "Goh, Guan Ying"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2026-02-00",
+    "title": "The AstroDB Toolkit and the SIMPLE Archive: A community tool for building new databases and a collaboratively-curated database of low mass stars, brown dwarfs, and exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026AAS...24710203C",
+    "volume": "247",
     "year": "2026"
   },
   {
@@ -795,7 +795,7 @@
       "Watkins, Cristilyn N.",
       "Winn, J."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/staf1030",
     "page": 3249,
@@ -1372,7 +1372,7 @@
       "Ziegler, C.",
       "Z{\\'u}{\\~n}iga-Fern{\\'a}ndez, S."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202452916",
     "page": null,
@@ -1969,7 +1969,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -2246,7 +2246,7 @@
       "Ziegler, C.",
       "Zou, Y."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347251",
     "page": null,
@@ -2759,7 +2759,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -2867,7 +2867,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -2975,7 +2975,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -3127,7 +3127,7 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad1600",
     "page": 41,
@@ -4470,7 +4470,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -5343,7 +5343,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 58,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -6420,7 +6420,7 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2305",
     "page": 195,
@@ -7064,7 +7064,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -7681,7 +7681,7 @@
       "van Sluijs, Lennart",
       "Wardenier, Joost P."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2512.10904",
     "page": null,
@@ -7744,7 +7744,7 @@
       "Vanderspek, R.",
       "Winn, J."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243731",
     "page": null,
