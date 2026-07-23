@@ -93,6 +93,28 @@
     "year": "2026"
   },
   {
+    "arxiv": "2607.18409",
+    "authors": [
+      "Savel, Arjun B.",
+      "Kempton, Eliza M.-R.",
+      "May, Erin M.",
+      "Nixon, Matthew C.",
+      "Ih, Jegug",
+      "Bennett, Katherine A.",
+      "Wardenier, Joost P."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-07-00",
+    "title": "Precise Determination of the Metallicity and C/O of WASP-39~b From a Single JWST Instrument Mode with Phase-Resolved Cross-Correlation Retrievals",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260718409S",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2606.30799",
     "authors": [
       "Mantovan, G.",
@@ -154,7 +176,7 @@
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2026-06-00",
-    "title": "The GAPS programme at TNG ?. TOI-1533: a compact system hosting a super-Neptune-mass pair with disparate radii",
+    "title": "The GAPS programme at TNG: LXXVI. TOI-1533: a compact system hosting a super-Neptune-mass pair with disparate radii",
     "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260630799M",
     "volume": null,
     "year": "2026"
