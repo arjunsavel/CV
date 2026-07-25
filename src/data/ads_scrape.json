@@ -105,7 +105,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2607.18409",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2026-07-00",
@@ -475,6 +475,41 @@
   {
     "arxiv": null,
     "authors": [
+      "Sanchez, Jorge A.",
+      "Smith, Peter C. B.",
+      "Kanumalla, Krishna",
+      "Welbanks, Luis",
+      "Line, Michael R.",
+      "Pelletier, Stefan",
+      "Desch, Steven",
+      "Young, Patrick",
+      "Patience, Jennifer",
+      "Bean, Jacob",
+      "Brogi, Matteo",
+      "Jaffe, Dan",
+      "Mace, Gregory N.",
+      "Mansfield, Megan Weiner",
+      "Panwar, Vatsal",
+      "Parmentier, Vivien",
+      "Pino, Lorenzo",
+      "Savel, Arjun Baliga",
+      "Sluijs, Lennart van",
+      "Wardenier, Joost P."
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.1038/s41467-026-69610-x",
+    "page": 2902,
+    "pub": "Nature Communications",
+    "pubdate": "2026-02-00",
+    "title": "A Stellar magnesium to silicon ratio in the atmosphere of an exoplanet",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026NatCo..17.2902S",
+    "volume": "17",
+    "year": "2026"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Cruz, Kelle",
       "Rodriguez, David",
       "Cooper, William",
@@ -498,41 +533,6 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Sanchez, Jorge A.",
-      "Smith, Peter C. B.",
-      "Kanumalla, Krishna",
-      "Welbanks, Luis",
-      "Line, Michael R.",
-      "Pelletier, Stefan",
-      "Desch, Steven",
-      "Young, Patrick",
-      "Patience, Jennifer",
-      "Bean, Jacob",
-      "Brogi, Matteo",
-      "Jaffe, Dan",
-      "Mace, Gregory N.",
-      "Mansfield, Megan Weiner",
-      "Panwar, Vatsal",
-      "Parmentier, Vivien",
-      "Pino, Lorenzo",
-      "Savel, Arjun Baliga",
-      "Sluijs, Lennart van",
-      "Wardenier, Joost P."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1038/s41467-026-69610-x",
-    "page": 2902,
-    "pub": "Nature Communications",
-    "pubdate": "2026-02-00",
-    "title": "A Stellar magnesium to silicon ratio in the atmosphere of an exoplanet",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026NatCo..17.2902S",
-    "volume": "17",
-    "year": "2026"
-  },
-  {
     "arxiv": "2510.07367",
     "authors": [
       "Nixon, Matthew C.",
@@ -548,7 +548,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ae17c8",
     "page": 95,
@@ -688,7 +688,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -852,7 +852,7 @@
       "Fortney, Jonathan J.",
       "de Azevedo Silva, Tom{\\'a}s"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/staf1150",
     "page": 3561,
@@ -1135,7 +1135,7 @@
       "Piette, Anjali A. A.",
       "Kataria, Tiffany"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/adb7e8",
     "page": 221,
@@ -1991,7 +1991,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -2748,7 +2748,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -3585,7 +3585,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -3633,7 +3633,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 163,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -3977,7 +3977,7 @@
       "Malsky, Isaac",
       "Taylor, Jake"
     ],
-    "citations": 78,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd16f",
     "page": 96,
@@ -5201,7 +5201,7 @@
       "Arora, Mireya",
       "Savel, Arjun"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac897b",
     "page": 140,
@@ -5342,7 +5342,7 @@
       "Jenkins, Jon M.",
       "Latham, David W."
     ],
-    "citations": 31,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8154",
     "page": 115,
