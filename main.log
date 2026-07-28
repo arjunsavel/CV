@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  27 JUL 2026 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  28 JUL 2026 00:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1257,7 +1257,7 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 162090 bytes).
+Output written on main.pdf (8 pages, 162138 bytes).
 PDF statistics:
  495 PDF objects out of 1000 (max. 8388607)
  458 compressed objects within 5 object streams
