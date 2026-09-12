@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2606.30799",
     "authors": [
       "Mantovan, G.",
       "Nascimbeni, V.",
@@ -270,7 +270,7 @@
       "Kempton, Eliza M.-R.",
       "Savel, Arjun B."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ae6914",
     "page": null,
@@ -1206,7 +1206,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -2872,7 +2872,7 @@
       "Winn, Joshua N.",
       "Wright, Duncan"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451313",
     "page": null,
@@ -3266,7 +3266,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -3299,7 +3299,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -3515,7 +3515,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 69,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -4103,7 +4103,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -5010,7 +5010,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 37,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": 2765,
@@ -6918,7 +6918,7 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4da0",
     "page": null,
@@ -7763,7 +7763,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -7927,7 +7927,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 96,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
