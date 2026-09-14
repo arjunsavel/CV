@@ -67,6 +67,23 @@
     "year": "2026"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Beltz, Hayley",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae9a87",
+    "page": 200,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-09-00",
+    "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..200B",
+    "volume": "1008",
+    "year": "2026"
+  },
+  {
     "arxiv": "2606.07497",
     "authors": [
       "Kanumalla, Krishna",
