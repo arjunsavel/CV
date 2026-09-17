@@ -67,7 +67,7 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
+    "arxiv": "2606.23910",
     "authors": [
       "Beltz, Hayley",
       "Savel, Arjun B."
@@ -195,23 +195,6 @@
     "pubdate": "2026-07-00",
     "title": "Precise Determination of the Metallicity and C/O of WASP-39~b From a Single JWST Instrument Mode with Phase-Resolved Cross-Correlation Retrievals",
     "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260718409S",
-    "volume": null,
-    "year": "2026"
-  },
-  {
-    "arxiv": "2606.23910",
-    "authors": [
-      "Beltz, Hayley",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2606.23910",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-06-00",
-    "title": "Effects of Super-rotating Jets on Phase-Resolved Transmission Spectra at High Spectral Resolution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260623910B",
     "volume": null,
     "year": "2026"
   },
