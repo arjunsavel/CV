@@ -84,6 +84,68 @@
     "year": "2026"
   },
   {
+    "arxiv": "2609.21810",
+    "authors": [
+      "JWST GO 3969 Team",
+      "Pan, Yanbo",
+      "MacDonald, Ryan J.",
+      "Espinoza, N{\\'e}stor",
+      "Prinoth, Bibiana",
+      "Rustamkulov, Zafar",
+      "Welbanks, Luis",
+      "Kitzmann, Daniel",
+      "Crouzet, Nicolas",
+      "Walde, Anna",
+      "Powell, Diana",
+      "Ahrer, Eva-Maria",
+      "Burgasser, Adam J.",
+      "Christie, Duncan A.",
+      "Cukier, Wolf",
+      "Gasc{\\'o}n, Carlos",
+      "Holmberg, M{\\r{a}}ns",
+      "Kennedy, Thomas",
+      "L{\\'o}pez-Morales, Mercedes",
+      "Mayne, N. J.",
+      "Samra, Dominic",
+      "Savel, Arjun B.",
+      "Steinrueck, Maria E.",
+      "Wirth, Christopher P."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2609.21810",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
+    "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": "2609.20923",
+    "authors": [
+      "Fairnington, Tyler R.",
+      "Radica, Michael",
+      "Zhang, Michael",
+      "Kempton, Eliza M.-R.",
+      "Bean, Jacob L.",
+      "Ahrer, Eva-Maria",
+      "Savel, Arjun B.",
+      "D'Andrea, Pascal S."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2609.20923",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260920923F",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2606.07497",
     "authors": [
       "Kanumalla, Krishna",
@@ -282,7 +344,7 @@
     "year": "2026"
   },
   {
-    "arxiv": "2602.11271",
+    "arxiv": null,
     "authors": [
       "Wilson, Thomas G.",
       "Simpson, Anna M.",
@@ -461,7 +523,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": null,
@@ -2509,7 +2571,7 @@
       "Meyer, Michael",
       "Monnier, John"
     ],
-    "citations": 36,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad8574",
     "page": 293,
@@ -3864,7 +3926,7 @@
       "Kempton, Eliza M.-R.",
       "Cinque, L."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ad0b70",
     "page": 66,
@@ -4103,7 +4165,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 156,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4151,7 +4213,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -8221,7 +8283,7 @@
       "van Sluijs, Lennart",
       "Wardenier, Joost P."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2512.10904",
     "page": null,
