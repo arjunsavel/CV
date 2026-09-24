@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  22 SEP 2026 02:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  24 SEP 2026 02:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1227,10 +1227,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 335.
 
-[5] [6]
+[5]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 536.
- [7]
+(Font)              scaled to size 11.52008pt on input line 449.
+ [6] [7]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 5.76004pt on input line 580.
  [8] (./main.aux)
@@ -1248,7 +1248,7 @@ Here is how much of TeX's memory you used:
  54101 multiletter control sequences out of 15000+600000
  690810 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,13n,121p,580b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,121p,580b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></opt
 /texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></opt/texliv
@@ -1260,10 +1260,10 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 162561 bytes).
+Output written on main.pdf (8 pages, 162584 bytes).
 PDF statistics:
- 492 PDF objects out of 1000 (max. 8388607)
- 455 compressed objects within 5 object streams
+ 497 PDF objects out of 1000 (max. 8388607)
+ 460 compressed objects within 5 object streams
  32 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
