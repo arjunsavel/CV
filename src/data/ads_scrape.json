@@ -314,7 +314,7 @@
       "de Wit, J.",
       "Lang, F. Zong"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stag713",
     "page": null,
@@ -523,7 +523,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": null,
@@ -558,7 +558,7 @@
       "Sluijs, Lennart van",
       "Wardenier, Joost P."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1038/s41467-026-69610-x",
     "page": 2902,
@@ -774,7 +774,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 1,
+    "citations": 0,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": null,
@@ -3328,7 +3328,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 55,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -3361,7 +3361,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 69,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": 752,
@@ -3577,7 +3577,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 70,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ad4484",
     "page": 32,
@@ -4165,7 +4165,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": 292,
@@ -4213,7 +4213,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": 67,
@@ -5506,7 +5506,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
@@ -5945,7 +5945,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 59,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": 749,
@@ -6032,7 +6032,7 @@
       "Zhang, Hui",
       "Ziegler, Carl"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac73ff",
     "page": 70,
@@ -7217,7 +7217,7 @@
       "Boschin, Walter",
       "Andreuzzi, Gloria"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0157",
     "page": 79,
@@ -7825,7 +7825,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": 194,
@@ -7901,7 +7901,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": 287,
@@ -7989,7 +7989,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": null,
