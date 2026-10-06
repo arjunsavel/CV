@@ -84,29 +84,6 @@
     "year": "2026"
   },
   {
-    "arxiv": "2609.20923",
-    "authors": [
-      "Fairnington, Tyler R.",
-      "Radica, Michael",
-      "Zhang, Michael",
-      "Kempton, Eliza M.-R.",
-      "Bean, Jacob L.",
-      "Ahrer, Eva-Maria",
-      "Savel, Arjun B.",
-      "D'Andrea, Pascal S."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2609.20923",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-09-00",
-    "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260920923F",
-    "volume": null,
-    "year": "2026"
-  },
-  {
     "arxiv": "2609.21810",
     "authors": [
       "JWST GO 3969 Team",
@@ -142,6 +119,29 @@
     "pubdate": "2026-09-00",
     "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
     "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
+    "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": "2609.20923",
+    "authors": [
+      "Fairnington, Tyler R.",
+      "Radica, Michael",
+      "Zhang, Michael",
+      "Kempton, Eliza M.-R.",
+      "Bean, Jacob L.",
+      "Ahrer, Eva-Maria",
+      "Savel, Arjun B.",
+      "D'Andrea, Pascal S."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2609.20923",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260920923F",
     "volume": null,
     "year": "2026"
   },
@@ -261,6 +261,24 @@
     "year": "2026"
   },
   {
+    "arxiv": "2604.11919",
+    "authors": [
+      "Yang, Jeehyun",
+      "Kempton, Eliza M.-R.",
+      "Savel, Arjun B."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ae6914",
+    "page": null,
+    "pub": "The Astrophysical Journal Letters",
+    "pubdate": "2026-05-00",
+    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
+    "volume": "1003",
+    "year": "2026"
+  },
+  {
     "arxiv": "2604.15816",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -323,24 +341,6 @@
     "title": "A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI--1752",
     "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag713P",
     "volume": "548",
-    "year": "2026"
-  },
-  {
-    "arxiv": "2604.11919",
-    "authors": [
-      "Yang, Jeehyun",
-      "Kempton, Eliza M.-R.",
-      "Savel, Arjun B."
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ae6914",
-    "page": null,
-    "pub": "The Astrophysical Journal Letters",
-    "pubdate": "2026-05-00",
-    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
-    "volume": "1003",
     "year": "2026"
   },
   {
@@ -3328,7 +3328,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": 1017,
@@ -3639,31 +3639,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2310.17751",
-    "authors": [
-      "Tsai, Shang-Min",
-      "Parmentier, Vivien",
-      "Mendon{\\c{c}}a, Jo{\\~a}o M.",
-      "Tan, Xianyu",
-      "Deitrick, Russell",
-      "Hammond, Mark",
-      "Savel, Arjun B.",
-      "Zhang, Xi",
-      "Pierrehumbert, Raymond T.",
-      "Schwieterman, Edward W."
-    ],
-    "citations": 23,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ad1600",
-    "page": 41,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2024-03-00",
-    "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
-    "volume": "963",
-    "year": "2024"
-  },
-  {
     "arxiv": "2401.11879",
     "authors": [
       "Parviainen, H.",
@@ -3738,6 +3713,31 @@
     "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
     "volume": "683",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2310.17751",
+    "authors": [
+      "Tsai, Shang-Min",
+      "Parmentier, Vivien",
+      "Mendon{\\c{c}}a, Jo{\\~a}o M.",
+      "Tan, Xianyu",
+      "Deitrick, Russell",
+      "Hammond, Mark",
+      "Savel, Arjun B.",
+      "Zhang, Xi",
+      "Pierrehumbert, Raymond T.",
+      "Schwieterman, Edward W."
+    ],
+    "citations": 23,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ad1600",
+    "page": 41,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2024-03-00",
+    "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
+    "volume": "963",
     "year": "2024"
   },
   {
@@ -5506,7 +5506,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": 124501,
