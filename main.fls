@@ -515,6 +515,9 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8t.
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchri8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
+INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr7t.vf
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr7t.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchri8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8t.tfm
@@ -524,9 +527,6 @@ INPUT ./src/supp_tex/honors.tex
 INPUT ./src/supp_tex/honors.tex
 INPUT ./src/supp_tex/honors.tex
 INPUT src/supp_tex/honors.tex
-INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr7t.vf
-INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr7t.tfm
-INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8y.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr8t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr8t.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr8t.tfm
