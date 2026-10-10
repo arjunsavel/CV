@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.1)  9 OCT 2026 04:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.1)  10 OCT 2026 03:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1115,31 +1115,31 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 1.
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 8.64006pt on input line 238.
+(Font)              scaled to size 8.64006pt on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 238.
+(hyperref)                removing `math shift' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 238.
+(hyperref)                removing `\@@underline' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 238.
+(hyperref)                removing `\hbox' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 238.
+(hyperref)                removing `\mathsurround' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 238.
+(hyperref)                removing `\z@' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 238.
+(hyperref)                removing `math shift' on input line 242.
 
 (./src/supp_tex/pubs_ref.tex [1
 
@@ -1153,101 +1153,76 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 50.
 
 [2] [3])
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 249.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 249.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 249.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 249.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 249.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 249.
-
-(./src/supp_tex/pubs_unref.tex)
 LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
-(Font)              scaled to size 9.64806pt on input line 259.
+(Font)              scaled to size 9.64806pt on input line 260.
  (./src/supp_tex/honors.tex) [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 318.
+(hyperref)                removing `math shift' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 318.
+(hyperref)                removing `\@@underline' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 318.
+(hyperref)                removing `\hbox' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 318.
+(hyperref)                removing `\mathsurround' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 318.
+(hyperref)                removing `\z@' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 318.
+(hyperref)                removing `math shift' on input line 320.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 335.
+(hyperref)                removing `math shift' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 335.
+(hyperref)                removing `\@@underline' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 335.
+(hyperref)                removing `\hbox' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 335.
+(hyperref)                removing `\mathsurround' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 335.
+(hyperref)                removing `\z@' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 335.
+(hyperref)                removing `math shift' on input line 337.
 
 [5] [6] [7]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 580.
+(Font)              scaled to size 5.76004pt on input line 582.
  [8] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6B6C37F369AC6967E9E6F56F856EC21D;3401.
+(rerunfilecheck)             Checksum: E99E1A0F4BA7FDAFC6D7362FDFD4E39B;3280.
  ) 
 Here is how much of TeX's memory you used:
- 25544 strings out of 467050
- 465097 string characters out of 5408429
+ 25534 strings out of 467050
+ 464824 string characters out of 5408429
  866749 words of memory out of 5000000
- 54410 multiletter control sequences out of 15000+600000
+ 54404 multiletter control sequences out of 15000+600000
  689512 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,121p,580b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,13n,121p,580b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></opt
 /texlive/texdir/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></opt/texliv
@@ -1259,10 +1234,10 @@ e/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive
 /texdir/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (8 pages, 163151 bytes).
+Output written on main.pdf (8 pages, 161994 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 463 compressed objects within 5 object streams
- 32 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 483 PDF objects out of 1000 (max. 8388607)
+ 446 compressed objects within 5 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
