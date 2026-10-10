@@ -6,7 +6,6 @@ import importlib.util
 import inspect
 import json
 import os
-import pdb
 import time
 from operator import itemgetter
 
@@ -15,10 +14,9 @@ import requests
 
 import cv
 
-cv_root = inspect.getfile(cv).split("cv")[0]
+cv_path = os.path.dirname(inspect.getfile(cv))  # .../src/cv
+cv_root = os.path.dirname(cv_path)  # .../src
 data_path = os.path.join(cv_root, "data")
-
-cv_path = inspect.getfile(cv).split("__init")[0]
 here = os.path.join(cv_path, "scripts")
 # here = os.path.abspath("")
 spec = importlib.util.spec_from_file_location(
@@ -55,6 +53,8 @@ def get_papers(author):
                 "pub",
                 "volume",
                 "page",
+                "page_range",
+                "page_count",
                 "identifier",
                 "doctype",
                 "citation_count",
@@ -84,12 +84,10 @@ def get_papers(author):
                 pass
             else:
                 aid.append(t)
-        try:
-            page = int(paper.page[0])
-        except (ValueError, TypeError):
+        page = paper.page[0] if paper.page else None
+        if page is not None and page.startswith("arXiv:"):
+            aid.append(":".join(page.split(":")[1:]))
             page = None
-            if paper.page is not None and paper.page[0].startswith("arXiv:"):
-                aid.append(":".join(paper.page[0].split(":")[1:]))
         # check for mentee name, if so, prepend a * before last name
         author_list = list(map(utf8totex.utf8totex, paper.author))
         mentee_map = {'Arnold, Kenneth E.': '*Triantafillides, Anastasia',
@@ -107,6 +105,8 @@ def get_papers(author):
                 pub=paper.pub,
                 volume=paper.volume,
                 page=page,
+                page_range=getattr(paper, "page_range", None),
+                page_count=getattr(paper, "page_count", None),
                 arxiv=aid[0] if len(aid) else None,
                 citations=(
                     paper.citation_count if paper.citation_count is not None else 0
@@ -128,7 +128,8 @@ if __name__ == "__main__":
         time.sleep(60)
         paper_dict = get_papers("Savel, Arjun Baliga")
         paper_dict += get_papers("Baliga Savel, Arjun")
-
-    print(paper_dict)
+    # the two name queries overlap; keep one record per bibcode
+    paper_dict = list({p["url"]: p for p in paper_dict}.values())
+    paper_dict = sorted(paper_dict, key=itemgetter("pubdate"), reverse=True)
     with open(os.path.join(data_path, "ads_scrape.json"), "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))

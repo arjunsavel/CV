@@ -45,14 +45,14 @@ class TestFormatStudent(unittest.TestCase):
 
 class TestFormatInpress(unittest.TestCase):
     def test_format_inpress_known(self):
-        pub = {"title": "SImMER: A Pipeline for Reducing and Analyzing Images of Stars"}
+        pub = {"title": "SImMER: A Pipeline for Reducing and Analyzing Images of Stars", "doctype": "eprint", "arxiv": None, "volume": None}
 
         res = check_inpress(pub)
 
         self.assertTrue(res)
 
     def test_format_inpress_unknown(self):
-        pub = {"arxiv": "2209.11506", "title": "notinpress!"}
+        pub = {"arxiv": "2209.11506", "title": "notinpress!", "doctype": "eprint", "volume": None}
 
         res = check_inpress(pub)
 
@@ -101,7 +101,7 @@ class TestFormatAuthors(unittest.TestCase):
         short = True
         n = 0
         res = format_authors(fmt, authors, short, n)
-        self.assertTrue(res == "Savel, Arjun\etal")
+        self.assertTrue(res == "Savel, Arjun \\etal{}")
 
     def test_short_authors_four_authors_user_after(self):
         fmt = ""
@@ -116,7 +116,7 @@ class TestFormatAuthors(unittest.TestCase):
         res = format_authors(fmt, authors, short, n)
 
         fmt = (
-            "othername, otherfirst\etal"  # + "\\ ({{{0}}} other co-authors, ".format(3)
+            "othername, otherfirst \\etal{}"  # + "\\ ({{{0}}} other co-authors, ".format(3)
         )
         # fmt += 'f"incl. Savel, Arjun)"'
         self.assertTrue(res == fmt)

@@ -4,8 +4,10 @@ Heavily inspired by dfm/cv/scripts/render.py
 
 import importlib.util
 import inspect
+import copy
 import json
 import os
+import re
 from datetime import date
 from operator import itemgetter
 
@@ -19,11 +21,10 @@ FORMAT_STYLE = "latex"
 FIRSTNAME = "Arjun"
 LASTNAME = "Savel"
 
-cv_root = inspect.getfile(cv).split("cv")[0]
+cv_path = os.path.dirname(inspect.getfile(cv))  # .../src/cv
+cv_root = os.path.dirname(cv_path)  # .../src
 data_path = os.path.join(cv_root, "data")
 supp_tex_path = os.path.join(cv_root, "supp_tex")
-
-cv_path = inspect.getfile(cv).split("__init")[0]
 here = os.path.join(cv_path, "scripts")
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
@@ -119,6 +120,47 @@ def match_arxiv(ref, other_ref, i, ref_list):
         del ref_list[i]
 
 
+def norm_title(title):
+    """Lowercase, strip markup/punctuation so near-identical titles match."""
+    title = re.sub(r"<[^>]+>", "", title)
+    return re.sub(r"[^a-z0-9]", "", title.lower())
+
+
+def is_catalog(pub):
+    """VizieR/data-catalog records are not publications."""
+    return "VizieR" in (pub["pub"] or "") or "yCat" in (pub.get("url") or "")
+
+
+def merge_duplicates(pubs):
+    """
+    Collapses records that share a (normalized) title. A journal version wins
+    over a preprint; between journal versions, the one with more bibliographic
+    info wins. Citations are summed, since ADS splits them across records.
+    """
+    def score(p):
+        return (
+            not check_preprint(p),
+            p.get("volume") is not None,
+            p.get("page") is not None,
+            p.get("doi") is not None,
+        )
+
+    groups = {}
+    for p in pubs:
+        groups.setdefault(norm_title(p["title"]), []).append(p)
+
+    merged = []
+    for group in groups.values():
+        group = sorted(group, key=score, reverse=True)
+        best = copy.deepcopy(group[0])
+        for other in group[1:]:
+            best["citations"] += other["citations"]
+            if best.get("arxiv") is None:
+                best["arxiv"] = other.get("arxiv")
+        merged.append(best)
+    return sorted(merged, key=itemgetter("pubdate"), reverse=True)
+
+
 def check_duplicates(ref_list):
     """
     Checks a given reference list for duplicates. If there are duplicates...joins them!
@@ -156,30 +198,32 @@ def check_inpress(pub):
 
     # # read in the in press data
 
+    if "in_press" in pub:  # already checked
+        return pub["in_press"]
+
+    pub["in_press"] = False
     if pub["doctype"] == "article":
-        return False
-    for i, press in enumerate(in_press):
-        in_press[i] = press.split("\n")[0]
+        # journal record that hasn't been assigned a volume yet
+        pub["in_press"] = pub["volume"] is None
+        return pub["in_press"]
 
-    if pub["title"] in in_press:
+    titles = [press.strip() for press in in_press]
+    if pub["title"] in titles:
+        pub["in_press"] = True
+    elif pub["arxiv"]:
+        try:
+            page = requests.get("https://arxiv.org/abs/" + pub["arxiv"], timeout=30)
+            soup = BeautifulSoup(page.content, "html.parser")
+            results = soup.find(class_="comments")
+            pub["in_press"] = bool(
+                results is not None and "accepted" in results.text.lower()
+            )
+        except requests.RequestException:
+            pub["in_press"] = False
+
+    if pub["in_press"]:
         pub["doctype"] = "article"
-        return True
-    # more general case
-    if not pub["arxiv"]:
-        return False
-    print(pub["title"])
-    URL = "http://arxiv.org/abs/" + pub["arxiv"]
-
-    page = requests.get(URL)
-
-    soup = BeautifulSoup(page.content, "html.parser")
-    results = soup.find(class_="comments")
-    try:
-        if results.text and "accepted" in results.text.lower():
-            pub["doctype"] = "article"
-        return results.text and "accepted" in results.text.lower()
-    except:
-        return False
+    return pub["in_press"]
 
 
 def add_student_attribution(pub, last_name, start_year, end_year):
@@ -244,7 +288,10 @@ def format_title(title):
         :title: (str) same as input, but cleaned for latex if needed!
     """
     if FORMAT_STYLE == "latex":
-        return title.replace("{\\&}amp;", "\&")  # for latex literal interp.
+        title = re.sub(r"<SUB>(.*?)</SUB>", r"$_{\1}$", title, flags=re.I)
+        title = re.sub(r"<SUP>(.*?)</SUP>", r"$^{\1}$", title, flags=re.I)
+        return title.replace("{\\&}amp;", r"\&")  # for latex literal interp.
+    title = re.sub(r"</?SU[BP]>", "", title, flags=re.I)
     return title.replace("{\\&}amp;", "&")
 
 
@@ -276,7 +323,7 @@ def add_etal(string):
     adds the et al!
     """
     if FORMAT_STYLE == "latex":
-        string += " \\etal"
+        string += " \\etal{}"
     else:
         string += "et al. "
 
@@ -297,10 +344,12 @@ def add_other_coauthors(string, others):
         :string: (str) same as input, but now with everyone!
     """
     if FORMAT_STYLE == "latex":
-        string += "\\ ({{{0}}} other co-authors, ".format(others)
+        noun = "co-author" if others == 1 else "co-authors"
+        string += "\\ ({{{0}}} other {1}, ".format(others, noun)
         string += "incl.\\ \\textbf{" + LASTNAME + ', ' + FIRSTNAME + "})"
     else:
-        string += "({{{0}}} other co-authors, ".format(others)
+        noun = "co-author" if others == 1 else "co-authors"
+        string += "({{{0}}} other {1}, ".format(others, noun)
         string += f"incl. {LASTNAME}, {FIRSTNAME})"
     return string
 
@@ -319,8 +368,9 @@ def format_authors(fmt, authors, short, n):
 
         fmt = add_etal(fmt)
 
-        if n >= cutoff_length - 1 and not short:
-            others = len(authors) - (cutoff_length - 1)
+        # only add "incl. Savel" when I'm not already among the listed authors
+        if n >= cutoff_length and not short:
+            others = len(authors) - cutoff_length
 
             fmt = add_other_coauthors(fmt, others)
 
@@ -331,6 +381,22 @@ def format_authors(fmt, authors, short, n):
         fmt += authors[0]
 
     return fmt
+
+
+def format_pages(pub):
+    """
+    Page range if the journal has one (e.g. 292--298); otherwise the article
+    number plus page count (e.g. 85 (16 pp.)), or just the article number.
+    """
+    rng = pub.get("page_range")
+    if rng and "-" in str(rng):
+        start, end = str(rng).split("-", 1)
+        return "{0}--{1}".format(start, end) if FORMAT_STYLE == "latex" else rng
+    if pub.get("page") is None:
+        return None
+    if pub.get("page_count"):
+        return "{0} ({1}~pp.)".format(pub["page"], pub["page_count"])
+    return str(pub["page"])
 
 
 def format_doi(fmt, doi, pub_title):
@@ -372,7 +438,7 @@ def format_pub(args):
         :fmt: (str) the description of the publication, formatted for the CV!
     """
     ind, pub, short = args
-    pub = pub.copy()
+    pub = copy.deepcopy(pub)  # shallow copy let author edits leak between calls
 
     fmt = format_index(ind)
     n = [i for i in range(len(pub["authors"])) if LASTNAME in pub["authors"][i]][0]
@@ -396,8 +462,9 @@ def format_pub(args):
     if pub["volume"] is not None and not short:
         fmt += ", {{{0}}}".format(pub["volume"])
 
-    if pub["page"] is not None and not short:
-        fmt += ", {0}".format(pub["page"])
+    pages = format_pages(pub)
+    if pages is not None and not short:
+        fmt += ", {0}".format(pages)
 
     if (pub["arxiv"] is not None and not short) or pub["pub"] in [
         None,
@@ -436,12 +503,17 @@ if __name__ == "__main__":
         if (
             p["doctype"] in ["article", "eprint"]
             and p["pub"] != "Zenodo Software Release"
+            and not is_catalog(p)
         )
     ]
 
     # want to include in press articles under refereed
     for pub in pubs:
         check_inpress(pub)
+
+    # collapse preprint/journal pairs and duplicate journal records *before*
+    # splitting into lists (they used to land in different lists and never meet)
+    pubs = merge_duplicates(pubs)
 
     ref_list_full = [p for p in pubs if p["doctype"] == "article"]
     ref_first_list = [p for p in pubs if p["doctype"] == "article" and (LASTNAME in p["authors"][1] or LASTNAME in p["authors"][0])]
@@ -450,10 +522,8 @@ if __name__ == "__main__":
 
     unref_list = [p for p in pubs if p["doctype"] == "eprint"]
 
-    ref_list = check_duplicates(ref_list)
-    ref_first_list = check_duplicates(ref_first_list)
-
-    unref_list = check_duplicates(unref_list)
+    # (duplicates already merged above; the old check_duplicates deleted by a
+    #  stale index while iterating, so it is no longer called)
 
     # Compute citation stats
     hindex, ncitations, nfirst = calc_hindex(ref_list_full, pubs)
