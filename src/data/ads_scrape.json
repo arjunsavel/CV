@@ -41,6 +41,66 @@
     "year": "2026"
   },
   {
+    "arxiv": "2609.21810",
+    "authors": [
+      "JWST GO 3969 Team",
+      "Pan, Yanbo",
+      "MacDonald, Ryan J.",
+      "Espinoza, N{\\'e}stor",
+      "Prinoth, Bibiana",
+      "Rustamkulov, Zafar",
+      "Welbanks, Luis",
+      "Kitzmann, Daniel",
+      "Crouzet, Nicolas",
+      "Walde, Anna",
+      "Powell, Diana",
+      "Ahrer, Eva-Maria",
+      "Burgasser, Adam J.",
+      "Christie, Duncan A.",
+      "Cukier, Wolf",
+      "Gasc{\\'o}n, Carlos",
+      "Holmberg, M{\\r{a}}ns",
+      "Kennedy, Thomas",
+      "L{\\'o}pez-Morales, Mercedes",
+      "Mayne, N. J.",
+      "Samra, Dominic",
+      "Savel, Arjun B.",
+      "Steinrueck, Maria E.",
+      "Wirth, Christopher P."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2609.21810",
+    "page": null,
+    "page_count": null,
+    "page_range": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
+    "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": "2606.23910",
+    "authors": [
+      "Beltz, Hayley",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae9a87",
+    "page": "200",
+    "page_count": 16,
+    "page_range": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-09-00",
+    "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..200B",
+    "volume": "1008",
+    "year": "2026"
+  },
+  {
     "arxiv": "2606.30799",
     "authors": [
       "Mantovan, G.",
@@ -107,66 +167,6 @@
     "title": "The GAPS programme at TNG: LXXVI. TOI-1533: A compact system hosting a super-Neptune-mass pair with disparate radii",
     "url": "https://ui.adsabs.harvard.edu/abs/2026A&A...713A..22M",
     "volume": "713",
-    "year": "2026"
-  },
-  {
-    "arxiv": "2609.21810",
-    "authors": [
-      "JWST GO 3969 Team",
-      "Pan, Yanbo",
-      "MacDonald, Ryan J.",
-      "Espinoza, N{\\'e}stor",
-      "Prinoth, Bibiana",
-      "Rustamkulov, Zafar",
-      "Welbanks, Luis",
-      "Kitzmann, Daniel",
-      "Crouzet, Nicolas",
-      "Walde, Anna",
-      "Powell, Diana",
-      "Ahrer, Eva-Maria",
-      "Burgasser, Adam J.",
-      "Christie, Duncan A.",
-      "Cukier, Wolf",
-      "Gasc{\\'o}n, Carlos",
-      "Holmberg, M{\\r{a}}ns",
-      "Kennedy, Thomas",
-      "L{\\'o}pez-Morales, Mercedes",
-      "Mayne, N. J.",
-      "Samra, Dominic",
-      "Savel, Arjun B.",
-      "Steinrueck, Maria E.",
-      "Wirth, Christopher P."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2609.21810",
-    "page": null,
-    "page_count": null,
-    "page_range": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-09-00",
-    "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
-    "volume": null,
-    "year": "2026"
-  },
-  {
-    "arxiv": "2606.23910",
-    "authors": [
-      "Beltz, Hayley",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ae9a87",
-    "page": "200",
-    "page_count": 16,
-    "page_range": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2026-09-00",
-    "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..200B",
-    "volume": "1008",
     "year": "2026"
   },
   {
@@ -314,6 +314,26 @@
     "year": "2026"
   },
   {
+    "arxiv": "2604.11919",
+    "authors": [
+      "Yang, Jeehyun",
+      "Kempton, Eliza M.-R.",
+      "Savel, Arjun B."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ae6914",
+    "page": "L16",
+    "page_count": 17,
+    "page_range": null,
+    "pub": "The Astrophysical Journal Letters",
+    "pubdate": "2026-05-00",
+    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
+    "volume": "1003",
+    "year": "2026"
+  },
+  {
     "arxiv": "2604.15816",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
@@ -378,26 +398,6 @@
     "title": "A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI--1752",
     "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag713P",
     "volume": "548",
-    "year": "2026"
-  },
-  {
-    "arxiv": "2604.11919",
-    "authors": [
-      "Yang, Jeehyun",
-      "Kempton, Eliza M.-R.",
-      "Savel, Arjun B."
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ae6914",
-    "page": "L16",
-    "page_count": 17,
-    "page_range": null,
-    "pub": "The Astrophysical Journal Letters",
-    "pubdate": "2026-05-00",
-    "title": "Sub-Neptunes as Soot Factories: Deep Atmosphere Hydrocarbon Formation and Quenching as the Origin of Sub-Neptune Aerosol Trends",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1003L..16Y",
-    "volume": "1003",
     "year": "2026"
   },
   {
@@ -1376,7 +1376,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": "30",
@@ -3535,7 +3535,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": "752",
@@ -4373,7 +4373,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06230-1",
     "page": "292",
@@ -5300,7 +5300,7 @@
       "Zhang, Hui",
       "Zobel, Evan"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1093/mnras/stad595",
     "page": "2765",
@@ -6359,7 +6359,7 @@
       "Zhang, Hui",
       "Ziegler, Carl"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac73ff",
     "page": "70",
@@ -8208,7 +8208,7 @@
       "Yahalomi, Daniel A.",
       "Zhang, Hui"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abe38a",
     "page": "194",
@@ -8290,7 +8290,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": "287",
