@@ -110,25 +110,6 @@
     "year": "2026"
   },
   {
-    "arxiv": "2606.23910",
-    "authors": [
-      "Beltz, Hayley",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ae9a87",
-    "page": "200",
-    "page_count": 16,
-    "page_range": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2026-09-00",
-    "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..200B",
-    "volume": "1008",
-    "year": "2026"
-  },
-  {
     "arxiv": "2609.21810",
     "authors": [
       "JWST GO 3969 Team",
@@ -167,6 +148,25 @@
     "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
     "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
     "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": "2606.23910",
+    "authors": [
+      "Beltz, Hayley",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae9a87",
+    "page": "200",
+    "page_count": 16,
+    "page_range": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2026-09-00",
+    "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..200B",
+    "volume": "1008",
     "year": "2026"
   },
   {
@@ -580,7 +580,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": "eadl2348",
@@ -773,7 +773,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": "eadl2348",
@@ -1721,7 +1721,7 @@
       "Beltz, Hayley",
       "Steinrueck, Maria E."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/add3f6",
     "page": "187",
@@ -2130,7 +2130,7 @@
       "Sanchez, Jorge A.",
       "Line, Michael R."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ada27e",
     "page": "135",
@@ -3500,7 +3500,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 56,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07768-4",
     "page": "1017",
@@ -3535,7 +3535,7 @@
       "Line, Michael",
       "Nixon, Matt"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1038/s41586-024-07760-y",
     "page": "752",
@@ -4423,7 +4423,7 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06159-5",
     "page": "67",
@@ -5750,7 +5750,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 13,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1088/1538-3873/aca4f9",
     "page": "124501",
@@ -6270,7 +6270,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1744",
     "page": "749",
@@ -6442,7 +6442,7 @@
       "Winn, Joshua N.",
       "Jenkins, Jon M."
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1448",
     "page": "4120",
@@ -8045,7 +8045,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 234,
+    "citations": 235,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": "3285",
@@ -8290,7 +8290,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abc47d",
     "page": "287",
@@ -8380,7 +8380,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 95,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038616",
     "page": "A49",
