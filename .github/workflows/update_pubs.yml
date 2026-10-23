@@ -8,14 +8,14 @@ on:
 jobs:
   notebooks:
     name: "Scrape and update publications"
-    runs-on: linux
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@main
 
       - name: Set up Python
         uses: actions/setup-python@main
         with:
-          python-version: 3.15.1
+          python-version: "3.15.1"
 
       - name: Get current date
         id: date
