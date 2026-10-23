@@ -25,7 +25,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@main
         with:
-          python-version: 3.8
+          python-version: 3.15.1
       - name: Check docstrings
         run: |
           python3 -m pip install --upgrade pip
