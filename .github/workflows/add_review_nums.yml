@@ -8,7 +8,7 @@ on:
 jobs:
   notebooks:
     name: "Scrape and add JOSS reviews"
-    runs-on: ubuntu-latest
+    runs-on: linux
     steps:
       - uses: actions/checkout@main
         with:
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@main
         with:
-          python-version: 3.8          
+          python-version: 3.15.1          
 
       - name: Scrape the number of JOSS reviews
         env:
