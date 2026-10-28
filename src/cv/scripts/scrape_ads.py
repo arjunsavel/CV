@@ -28,6 +28,44 @@ spec.loader.exec_module(utf8totex)
 # need to add ADS token as env variable
 
 
+CITING_FIELDS = ["bibcode", "title", "author", "pub", "identifier", "doi"]
+
+
+def get_citing(bibcode):
+    """
+    Gets every ADS record that cites a given paper, with just enough metadata
+    for format_pubs.py to spot an arXiv/journal pair among the citers (ADS
+    counts both until it links them).
+
+    Inputs
+    ------
+        :bibcode: (str) bibcode of the cited paper.
+
+    Outputs
+    -------
+        :citing: (list of dicts) one per citing record.
+    """
+    query = ads.SearchQuery(
+        q="citations(bibcode:{0})".format(bibcode),
+        fl=CITING_FIELDS,
+        rows=200,
+        max_pages=50,
+    )
+    citing = []
+    for c in query:
+        ids = list(c.identifier or []) + list(c.doi or [])
+        citing.append(
+            dict(
+                bibcode=c.bibcode,
+                title=utf8totex.utf8totex(c.title[0]) if c.title else "",
+                authors=[utf8totex.utf8totex(a) for a in (c.author or [])[:1]],
+                pub=c.pub or "",
+                ids=sorted({i.lower().replace("arxiv:", "") for i in ids}),
+            )
+        )
+    return citing
+
+
 def get_papers(author):
     """
     Gets all the papers for a given author from NASA/ADS.
@@ -131,5 +169,11 @@ if __name__ == "__main__":
     # the two name queries overlap; keep one record per bibcode
     paper_dict = list({p["url"]: p for p in paper_dict}.values())
     paper_dict = sorted(paper_dict, key=itemgetter("pubdate"), reverse=True)
+
+    # who cites each paper, so citing preprint/journal pairs count once.
+    # only for papers that can appear on the CV and actually have citations.
+    for p in paper_dict:
+        if p["doctype"] in ["article", "eprint"] and p["citations"] > 0:
+            p["citing"] = get_citing(p["url"].rsplit("/", 1)[-1])
     with open(os.path.join(data_path, "ads_scrape.json"), "w") as f:
         json.dump(paper_dict, f, sort_keys=True, indent=2, separators=(",", ": "))

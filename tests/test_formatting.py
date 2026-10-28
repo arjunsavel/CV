@@ -183,3 +183,41 @@ class TestMergeDuplicates(unittest.TestCase):
         journal = _pub("A Stellar magnesium to silicon ratio", "Nature Communications", citations=8)
         preprint = _pub("A Stellar Magnesium to Silicon ratio", "arXiv e-prints", citations=8)
         self.assertEqual(merge_duplicates([journal, preprint])[0]["citations"], 8)
+
+
+def _citer(bibcode, title, pub, first="Smith, Jane", ids=()):
+    return {"bibcode": bibcode, "title": title, "pub": pub,
+            "authors": [first], "ids": sorted(set(ids) | {bibcode.lower()})}
+
+
+class TestDistinctCiters(unittest.TestCase):
+    def test_citing_preprint_and_journal_count_once(self):
+        citing = [
+            _citer("2026arXiv260100001S", "TSD: a survey of hot Jupiters", "arXiv e-prints", ids=["2601.00001"]),
+            _citer("2026AJ....172....1S", "TSD: A Survey of Hot Jupiters", "The Astronomical Journal"),
+            _citer("2025ApJ...900....2D", "Something else entirely", "The Astrophysical Journal", first="Doe, John"),
+        ]
+        self.assertEqual(count_distinct_citers(citing), 2)
+
+    def test_shared_identifier_counts_once_even_if_titles_differ(self):
+        citing = [
+            _citer("2026arXiv260100001S", "Old preprint title", "arXiv e-prints", ids=["10.3847/xyz"]),
+            _citer("2026AJ....172....1S", "Completely retitled journal paper", "The Astronomical Journal", ids=["10.3847/xyz"]),
+        ]
+        self.assertEqual(count_distinct_citers(citing), 1)
+
+    def test_merge_uses_union_of_citers(self):
+        shared = _citer("2026AJ....172....1S", "Citing paper A", "The Astronomical Journal")
+        only_j = _citer("2026ApJ...901....3K", "Citing paper B", "The Astrophysical Journal", first="Kim, Lee")
+        only_a = _citer("2026MNRAS.540....4P", "Citing paper C", "MNRAS", first="Patel, Ravi")
+        journal = _pub("Peering into the Black Box", "The Astronomical Journal", citations=2)
+        preprint = _pub("Peering into the Black Box", "arXiv e-prints", citations=2)
+        journal["citing"], preprint["citing"] = [shared, only_j], [shared, only_a]
+        merged = merge_duplicates([journal, preprint])
+        self.assertEqual(merged[0]["citations"], 3)  # union; sum would be 4, max 2
+        self.assertNotIn("citing", merged[0])
+
+    def test_falls_back_to_max_without_citing_lists(self):
+        journal = _pub("Same paper", "AJ", citations=4)
+        preprint = _pub("Same paper", "arXiv e-prints", citations=1)
+        self.assertEqual(merge_duplicates([journal, preprint])[0]["citations"], 4)

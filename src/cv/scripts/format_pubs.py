@@ -165,6 +165,29 @@ def same_paper(a, b, threshold=0.92):
     return difflib.SequenceMatcher(None, ta, tb).ratio() >= threshold
 
 
+def same_citer(a, b):
+    """Two citing records are one paper if they share any identifier
+    (arXiv ID, DOI, alternate bibcode) or look like the same paper by title."""
+    return bool(set(a["ids"]) & set(b["ids"])) or same_paper(a, b)
+
+
+def count_distinct_citers(citing):
+    """
+    Number of distinct papers among a list of citing ADS records, so that a
+    citing paper's preprint and journal versions only count once.
+    """
+    citing = list({c["bibcode"]: c for c in citing}.values())
+    groups = []
+    for c in citing:
+        for group in groups:
+            if any(same_citer(c, other) for other in group):
+                group.append(c)
+                break
+        else:
+            groups.append([c])
+    return len(groups)
+
+
 def is_catalog(pub):
     """VizieR/data-catalog records are not publications."""
     return "VizieR" in (pub["pub"] or "") or "yCat" in (pub.get("url") or "")
@@ -174,7 +197,7 @@ def merge_duplicates(pubs):
     """
     Collapses records that share a (normalized) title. A journal version wins
     over a preprint; between journal versions, the one with more bibliographic
-    info wins. Citations take the max across records (see below).
+    info wins. Citations are recounted as distinct citing papers (see below).
     """
     def score(p):
         return (
@@ -198,11 +221,18 @@ def merge_duplicates(pubs):
         group = sorted(group, key=score, reverse=True)
         best = copy.deepcopy(group[0])
         for other in group[1:]:
-            # ADS often reports the same citing papers on both records, so
-            # summing double-counts. max() is a safe lower bound.
-            best["citations"] = max(best["citations"], other["citations"])
             if best.get("arxiv") is None:
                 best["arxiv"] = other.get("arxiv")
+
+        # count distinct citing papers across all records of this paper.
+        # citing lists come from scrape_ads.py; older scrapes lack them, in
+        # which case max() is a safe lower bound (summing double-counts).
+        citing = [c for p in group for c in p.get("citing") or []]
+        if citing:
+            best["citations"] = count_distinct_citers(citing)
+        else:
+            best["citations"] = max(p["citations"] for p in group)
+        best.pop("citing", None)
         merged.append(best)
     return sorted(merged, key=itemgetter("pubdate"), reverse=True)
 
