@@ -5,6 +5,7 @@ Heavily inspired by dfm/cv/scripts/render.py
 import importlib.util
 import inspect
 import copy
+import difflib
 import json
 import os
 import re
@@ -121,9 +122,47 @@ def match_arxiv(ref, other_ref, i, ref_list):
 
 
 def norm_title(title):
-    """Lowercase, strip markup/punctuation so near-identical titles match."""
+    """
+    Lowercase and strip markup so the arXiv and journal versions of a title
+    compare equal: HTML tags (<SUB>), LaTeX commands ($\\rm CO_2$), escaped
+    ampersands, and all punctuation/whitespace.
+    """
     title = re.sub(r"<[^>]+>", "", title)
+    title = title.replace("{\\&}amp;", "&").replace("&amp;", "&")
+    title = re.sub(r"\\[a-zA-Z]+", "", title)  # \rm, \mathrm, \it, ...
     return re.sub(r"[^a-z0-9]", "", title.lower())
+
+
+def first_author_key(pub):
+    """Normalized surname of the first author (ignores the mentee asterisk)."""
+    if not pub["authors"]:
+        return ""
+    surname = pub["authors"][0].split(",")[0]
+    return re.sub(r"[^a-z]", "", re.sub(r"\\[a-zA-Z]+", "", surname.lower()))
+
+
+def series_markers(title):
+    """Roman-numeral series markers, e.g. 'Paper II' or 'Survey. III.'"""
+    title = re.sub(r"<[^>]+>|\$[^$]*\$", " ", title)
+    return sorted(re.findall(r"\b[IVX]+\b", title))
+
+
+def same_paper(a, b, threshold=0.92):
+    """
+    True if a and b look like two ADS records of the same paper: identical
+    normalized title, or (for a preprint/journal pair with the same first
+    author) a near-identical one, since journals often copyedit titles.
+    """
+    ta, tb = norm_title(a["title"]), norm_title(b["title"])
+    if ta == tb:
+        return True
+    if check_preprint(a) == check_preprint(b):
+        return False  # two journal records, or two preprints: require exact
+    if first_author_key(a) != first_author_key(b):
+        return False
+    if series_markers(a["title"]) != series_markers(b["title"]):
+        return False  # "Paper I" vs "Paper II" of the same series
+    return difflib.SequenceMatcher(None, ta, tb).ratio() >= threshold
 
 
 def is_catalog(pub):
@@ -135,7 +174,7 @@ def merge_duplicates(pubs):
     """
     Collapses records that share a (normalized) title. A journal version wins
     over a preprint; between journal versions, the one with more bibliographic
-    info wins. Citations are summed, since ADS splits them across records.
+    info wins. Citations take the max across records (see below).
     """
     def score(p):
         return (
@@ -145,16 +184,23 @@ def merge_duplicates(pubs):
             p.get("doi") is not None,
         )
 
-    groups = {}
+    groups = []  # list of lists; each inner list is one paper
     for p in pubs:
-        groups.setdefault(norm_title(p["title"]), []).append(p)
+        for group in groups:
+            if any(same_paper(p, other) for other in group):
+                group.append(p)
+                break
+        else:
+            groups.append([p])
 
     merged = []
-    for group in groups.values():
+    for group in groups:
         group = sorted(group, key=score, reverse=True)
         best = copy.deepcopy(group[0])
         for other in group[1:]:
-            best["citations"] += other["citations"]
+            # ADS often reports the same citing papers on both records, so
+            # summing double-counts. max() is a safe lower bound.
+            best["citations"] = max(best["citations"], other["citations"])
             if best.get("arxiv") is None:
                 best["arxiv"] = other.get("arxiv")
         merged.append(best)
