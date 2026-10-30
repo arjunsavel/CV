@@ -35246,2959 +35246,663 @@
       },
       {
         "authors": [
-          "Wang, Rita Lanxuan"
+          "Mazeh, Tsevi"
         ],
-        "bibcode": "2026AJ....172..258W",
+        "bibcode": "2022MNRAS.517.4005M",
         "ids": [
-          "10.3847/1538-3881/aea6d0",
-          "2026aj....172..258w"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Rescuing Kepler's False Positives: A Possible Habitable Zone Exoplanet in the Triple-star System KOI-1623"
-      },
-      {
-        "authors": [
-          "Lv, Chenglong"
-        ],
-        "bibcode": "2026arXiv261014371L",
-        "ids": [
-          "10.48550/arxiv.2610.14371",
-          "2026arxiv261014371l",
-          "2610.14371"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TESS Pulsation Timing Reveals the JWST Calibration Star HD 158485 as a Double-pulsator Binary"
-      },
-      {
-        "authors": [
-          "Egger, J. A."
-        ],
-        "bibcode": "2026arXiv261008922E",
-        "ids": [
-          "10.48550/arxiv.2610.08922",
-          "2026arxiv261008922e",
-          "2610.08922"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Searching for hot water world candidates with CHEOPS: II. A low-density super-Earth orbiting the K dwarf TOI-2211"
-      },
-      {
-        "authors": [
-          "de Wit, J."
-        ],
-        "bibcode": "2026ApJ..1009L..40D",
-        "ids": [
-          "10.3847/2041-8213/ae9a97",
-          "2026apj..1009l..40d"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "J0404+1112: A 3 hr Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes"
-      },
-      {
-        "authors": [
-          "Knudstrup, E."
-        ],
-        "bibcode": "2026arXiv260930915K",
-        "ids": [
-          "10.48550/arxiv.2609.30915",
-          "2026arxiv260930915k",
-          "2609.30915"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TS23/McDonald and FIES/NOT strike again. Two new warm Jupiter systems and outer companions in a third"
-      },
-      {
-        "authors": [
-          "Hotnisky, Andrew"
-        ],
-        "bibcode": "2026ApJS..286...42H",
-        "ids": [
-          "10.3847/1538-4365/ae96ad",
-          "10.48550/arxiv.2606.13789",
-          "2026apjs..286...42h",
-          "2026arxiv260613789h",
-          "2606.13789"
-        ],
-        "pub": "The Astrophysical Journal Supplement Series",
-        "title": "COUNTESS. I. A Uniformly Vetted Catalog of Known and New Transiting Exoplanets in the TESS Northern Continuous Viewing Zone"
-      },
-      {
-        "authors": [
-          "Spurio Mancini, A."
-        ],
-        "bibcode": "2026arXiv260928458S",
-        "ids": [
-          "10.48550/arxiv.2609.28458",
-          "2026arxiv260928458s",
-          "2609.28458"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Differentiable astrophysics at scale: solving and differentiating ODE ensembles on the GPU"
-      },
-      {
-        "authors": [
-          "Greklek-McKeon, Michael"
-        ],
-        "bibcode": "2026arXiv260926894G",
-        "ids": [
-          "10.48550/arxiv.2609.26894",
-          "2026arxiv260926894g",
-          "2609.26894"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "JWST and HST Confirm Transit Timing Variations for the Ultra-Hot Jupiter TOI-2109 b"
-      },
-      {
-        "authors": [
-          "Ivashtenko, Oryna"
-        ],
-        "bibcode": "2026arXiv260923159I",
-        "ids": [
-          "2026arxiv260923159i",
-          "2609.23159"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Marginalized planet-to-star radius ratio posteriors for low-SNR transiting planets via dimensionality reduction"
-      },
-      {
-        "authors": [
-          "Serrano Bell, J."
-        ],
-        "bibcode": "2026A&A...713A.166S",
-        "ids": [
-          "10.1051/0004-6361/202659984",
-          "10.48550/arxiv.2607.13333",
-          "2026a&a...713a.166s",
-          "2026arxiv260713333s",
-          "2607.13333"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Revisiting TOI-4438 and TOI-442 planetary systems with new observations from SPIRou and TESS"
-      },
-      {
-        "authors": [
-          "Lanxuan Wang, Rita"
-        ],
-        "bibcode": "2026arXiv260916201L",
-        "ids": [
-          "10.48550/arxiv.2609.16201",
-          "2026arxiv260916201l",
-          "2609.16201"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Rescuing Kepler's False Positives: A Possible Habitable Zone Exoplanet in the Triple Star System KOI-1623"
-      },
-      {
-        "authors": [
-          "Pass, Emily K."
-        ],
-        "bibcode": "2026AJ....172..175P",
-        "ids": [
-          "10.3847/1538-3881/ae9283",
-          "10.48550/arxiv.2604.05235",
-          "2026aj....172..175p",
-          "2026arxiv260405235p",
-          "2604.05235"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The JWST Search for Earth-Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e"
-      },
-      {
-        "authors": [
-          "Hansen, Matthew T."
-        ],
-        "bibcode": "2026AJ....172..164H",
-        "ids": [
-          "10.3847/1538-3881/ae8c32",
-          "10.48550/arxiv.2608.23425",
-          "2026aj....172..164h",
-          "2026arxiv260823425h",
-          "2608.23425"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Exploring Long-period Architectures: Four New Planet Candidates from Kepler with Periods {\\&}gt;342 days"
-      },
-      {
-        "authors": [
-          "Fairnington, Tyler R."
-        ],
-        "bibcode": "2026ApJ..1008L...6F",
-        "ids": [
-          "10.3847/2041-8213/ae9612",
-          "10.48550/arxiv.2602.20015",
-          "2026apj..1008l...6f",
-          "2026arxiv260220015f",
-          "2602.20015"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "The Orbital Eccentricity--Radius Distribution for Warm, Single Planets in TESS"
-      },
-      {
-        "authors": [
-          "Breton, S. N."
-        ],
-        "bibcode": "2026A&A...712A.237B",
-        "ids": [
-          "10.1051/0004-6361/202558643",
-          "10.48550/arxiv.2605.28755",
-          "2026a&a...712a.237b",
-          "2026arxiv260528755b",
-          "2605.28755"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Hidden worlds: A non-transiting candidate planet in the Neptunian desert around the solar-type pulsator KIC 9139163"
-      },
-      {
-        "authors": [
-          "Burt, Jennifer A."
-        ],
-        "bibcode": "2026ARA&A..64..449B",
-        "ids": [
-          "10.1146/annurev-astro-120425-105551",
-          "10.48550/arxiv.2511.01954",
-          "2025arxiv251101954b",
-          "2026ara&a..64..449b",
-          "2511.01954"
-        ],
-        "pub": "Annual Review of Astronomy and Astrophysics",
-        "title": "Precise Radial Velocities"
-      },
-      {
-        "authors": [
-          "Polanski, Alex S."
-        ],
-        "bibcode": "2026arXiv260823662P",
-        "ids": [
-          "10.48550/arxiv.2608.23662",
-          "2026arxiv260823662p",
-          "2608.23662"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries"
-      },
-      {
-        "authors": [
-          "Ball, James"
-        ],
-        "bibcode": "2026AJ....172..158B",
-        "ids": [
-          "10.3847/1538-3881/ae8a50",
-          "2026aj....172..158b"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Confirmation of the Low-eccentricity Warm Jupiter HD 278555 b with NEID"
-      },
-      {
-        "authors": [
-          "Collins, Sean"
-        ],
-        "bibcode": "2026arXiv260811328C",
-        "ids": [
-          "10.48550/arxiv.2608.11328",
-          "2026arxiv260811328c",
-          "2608.11328"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A Pair of Warm Saturn-mass Planets near the 2:1 Mean Motion Resonance around TOI-3850"
-      },
-      {
-        "authors": [
-          "Spejcher, Becca"
-        ],
-        "bibcode": "2026MNRAS.550g1334S",
-        "ids": [
-          "10.1093/mnras/stag1334",
-          "10.48550/arxiv.2511.23430",
-          "2025arxiv251123430s",
-          "2026mnras.550g1334s",
-          "2026mnras.tmp.1275s",
-          "2511.23430"
+          "10.1093/mnras/stac2853",
+          "10.48550/arxiv.2206.11270",
+          "2022arxiv220611270m",
+          "2022mnras.517.4005m",
+          "2022mnras.tmp.2657m",
+          "2206.11270"
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The EBLM project -- XVIII. 3D obliquities of five low-mass eclipsing binaries"
-      },
-      {
-        "authors": [
-          "Bashi, Dolev"
-        ],
-        "bibcode": "2026MNRAS.551g1386B",
-        "ids": [
-          "10.1093/mnras/stag1386",
-          "10.48550/arxiv.2605.19000",
-          "2026arxiv260519000b",
-          "2026mnras.551g1386b",
-          "2026mnras.tmp.1298b",
-          "2605.19000"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Exoplanets in ancient stellar populations: occurrence constraints and hot-Jupiter candidates in the Galactic halo"
-      },
-      {
-        "authors": [
-          "Turtelboom, Emma V."
-        ],
-        "bibcode": "2026AJ....172..121T",
-        "ids": [
-          "10.3847/1538-3881/ae8850",
-          "10.48550/arxiv.2607.02833",
-          "2026aj....172..121t",
-          "2026arxiv260702833t",
-          "2607.02833"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Uniform Metallicity Measurements of M Dwarf Planet Hosts Support Metallicity-dependent Sub-Neptune Formation"
-      },
-      {
-        "authors": [
-          "Premnath, Pranav H."
-        ],
-        "bibcode": "2026AJ....172...92P",
-        "ids": [
-          "10.3847/1538-3881/ae82d3",
-          "10.48550/arxiv.2604.27064",
-          "2026aj....172...92p",
-          "2026arxiv260427064p",
-          "2604.27064"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: Three Warm Saturns and a Super-Jupiter Orbiting Four Early M Dwarfs"
-      },
-      {
-        "authors": [
-          "Sagear, Sheila"
-        ],
-        "bibcode": "2026AJ....172...42S",
-        "ids": [
-          "10.3847/1538-3881/ae71bf",
-          "2026aj....172...42s"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The Orbital Eccentricities of Planets in the Kinematic Thin and Thick Galactic Disks"
-      },
-      {
-        "authors": [
-          "Lee, Rena A."
-        ],
-        "bibcode": "2026AJ....172...39L",
-        "ids": [
-          "10.3847/1538-3881/ae6cec",
-          "2026aj....172...39l"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Revisiting the Exo-Mercury Candidate GJ 367 b with ESPRESSO and a Self-consistent Tidal Distortion Model"
-      },
-      {
-        "authors": [
-          "Grouffal, S."
-        ],
-        "bibcode": "2026A&A...710A.275G",
-        "ids": [
-          "10.1051/0004-6361/202659666",
-          "2026a&a...710a.275g"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "A decade of monitoring the HIP 41378 planetary system: Masses and orbital periods of six planets and a planet candidate"
-      },
-      {
-        "authors": [
-          "Davies, Benjamin D. R."
-        ],
-        "bibcode": "2026MNRAS.548ag743D",
-        "ids": [
-          "10.1093/mnras/stag743",
-          "10.48550/arxiv.2604.09435",
-          "2026arxiv260409435d",
-          "2026mnras.548ag743d",
-          "2026mnras.548g.743d",
-          "2026mnras.tmp..707d",
-          "2604.09435"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Finding circumbinary planets: a semi-automated transit search of TESS eclipsing binaries"
-      },
-      {
-        "authors": [
-          "Murray, Catriona A."
-        ],
-        "bibcode": "2026AJ....171..344M",
-        "ids": [
-          "10.3847/1538-3881/ae5b74",
-          "10.48550/arxiv.2511.03045",
-          "2025arxiv251103045m",
-          "2026aj....171..344m",
-          "2511.03045"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Quantifying the Impact of Starspot-crossing Events on Retrieved Parameters from Transit Lightcurves"
-      },
-      {
-        "authors": [
-          "Cilley, Raven"
-        ],
-        "bibcode": "2026arXiv260505068C",
-        "ids": [
-          "10.48550/arxiv.2605.05068",
-          "2026arxiv260505068c",
-          "2605.05068"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The NUV transit of XO-3 b"
-      },
-      {
-        "authors": [
-          "Burns-Watson, Nathanael"
-        ],
-        "bibcode": "2026AJ....171..327B",
-        "ids": [
-          "10.3847/1538-3881/ae5ba4",
-          "10.48550/arxiv.2604.06388",
-          "2026aj....171..327b",
-          "2026arxiv260406388b",
-          "2604.06388"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Determining the Host Stars of Planets in Binary Star Systems with Asterodensity Profiling: Investigating the Canonical Radius Gap"
-      },
-      {
-        "authors": [
-          "Yee, Samuel W."
-        ],
-        "bibcode": "2026ApJ..1000L..54Y",
-        "ids": [
-          "10.3847/2041-8213/ae517e",
-          "10.48550/arxiv.2511.07746",
-          "2025arxiv251107746y",
-          "2026apj..1000l..54y",
-          "2511.07746"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "''Popcorn Planets'' Are Not Actively Inflated by Eccentricity Tides"
-      },
-      {
-        "authors": [
-          "Saidel, Morgan"
-        ],
-        "bibcode": "2026AJ....171..257S",
-        "ids": [
-          "10.3847/1538-3881/ae4e17",
-          "10.48550/arxiv.2510.05240",
-          "2025arxiv251005240s",
-          "2026aj....171..257s",
-          "2510.05240"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The First Dedicated Survey of Atmospheric Escape from Planets Orbiting F Stars"
-      },
-      {
-        "authors": [
-          "Yahalomi, Daniel A."
-        ],
-        "bibcode": "2026ApJS..283...51Y",
-        "ids": [
-          "10.3847/1538-4365/ae43c2",
-          "10.48550/arxiv.2411.09753",
-          "2024arxiv241109753y",
-          "2026apjs..283...51y",
-          "2411.09753"
-        ],
-        "pub": "The Astrophysical Journal Supplement Series",
-        "title": "The democratic detrender: Ensemble-based Removal of the Nuisance Signal in Stellar Time-series Photometry"
-      },
-      {
-        "authors": [
-          "Surana, Suhani"
-        ],
-        "bibcode": "2026AJ....171..193S",
-        "ids": [
-          "10.3847/1538-3881/ae3d9d",
-          "10.48550/arxiv.2601.19996",
-          "2026aj....171..193s",
-          "2026arxiv260119996s",
-          "2601.19996"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Stellar and Orbital Characterization of Three Low Mass M Dwarf Binary Stars with Dynamical Spectroscopy from the Habitable Zone Planet Finder"
-      },
-      {
-        "authors": [
-          "Wallack, Nicole L."
-        ],
-        "bibcode": "2026AJ....171..180W",
-        "ids": [
-          "10.3847/1538-3881/ae2d12",
-          "10.48550/arxiv.2602.22327",
-          "2026aj....171..180w",
-          "2026arxiv260222327w",
-          "2602.22327"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "JWST COMPASS: NIRSpec/G395H Transmission Observations of the Sub-Neptune HD 15337 c"
-      },
-      {
-        "authors": [
-          "Lata, Sneh"
-        ],
-        "bibcode": "2026NewA..12502530L",
-        "ids": [
-          "10.1016/j.newast.2026.102530",
-          "2026newa..12502530l"
-        ],
-        "pub": "New Astronomy",
-        "title": "A study of detached eclipsing binary systems towards the open cluster NGC 7209"
-      },
-      {
-        "authors": [
-          "Sagear, Sheila"
-        ],
-        "bibcode": "2026AJ....171..115S",
-        "ids": [
-          "10.3847/1538-3881/ae2d1b",
-          "10.48550/arxiv.2507.07169",
-          "2025arxiv250707169s",
-          "2026aj....171..115s",
-          "2507.07169"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The Orbital Eccentricity--Radius Relation for Planets Orbiting M Dwarfs"
-      },
-      {
-        "authors": [
-          "Spejcher, Becca"
-        ],
-        "bibcode": "2026MNRAS.545f2236S",
-        "ids": [
-          "10.1093/mnras/staf2236",
-          "10.48550/arxiv.2509.21517",
-          "2025arxiv250921517s",
-          "2025mnras.tmp.2114s",
-          "2026mnras.545f2236s",
-          "2026mnras.545s2236s",
-          "2509.21517"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The EBLM project -- XVI. Moderate spin--orbit misalignment of the low-mass eclipsing binary EBLM J0021-16"
-      },
-      {
-        "authors": [
-          "Greklek-McKeon, Michael"
-        ],
-        "bibcode": "2026AJ....171...97G",
-        "ids": [
-          "10.3847/1538-3881/ae2be9",
-          "10.48550/arxiv.2512.10007",
-          "2025arxiv251210007g",
-          "2026aj....171...97g",
-          "2512.10007"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Validation of a Third Earth-sized Planet in the TOI-2267 Binary System"
-      },
-      {
-        "authors": [
-          "Livingston, John H."
-        ],
-        "bibcode": "2026Natur.649..310L",
-        "ids": [
-          "10.1038/s41586-025-09840-z",
-          "10.48550/arxiv.2601.10598",
-          "2026arxiv260110598l",
-          "2026natur.649..310l",
-          "2601.10598"
-        ],
-        "pub": "Nature",
-        "title": "A young progenitor for the most common planetary systems in the Galaxy"
-      },
-      {
-        "authors": [
-          "Vaughan, Sophia R."
-        ],
-        "bibcode": "2026A&A...705A..27V",
-        "ids": [
-          "10.1051/0004-6361/202557240",
-          "10.48550/arxiv.2511.08691",
-          "2025arxiv251108691v",
-          "2026a&a...705a..27v",
-          "2511.08691"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "No TiO detected in the hot-Neptune-desert planet LTT-9779 b in reflected light at high spectral resolution"
-      },
-      {
-        "authors": [
-          "Sandoval, Angeli"
-        ],
-        "bibcode": "2026AJ....171...43S",
-        "ids": [
-          "10.3847/1538-3881/ae16a2",
-          "10.48550/arxiv.2509.19492",
-          "2025arxiv250919492s",
-          "2026aj....171...43s",
-          "2509.19492"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: TOI-5349 b is a Saturn-like Planet Orbiting a Metal-rich Early M Dwarf"
-      },
-      {
-        "authors": [
-          "Bittencourt, Mariana S."
-        ],
-        "bibcode": "2025RNAAS...9..345B",
-        "ids": [
-          "10.3847/2515-5172/ae2de9",
-          "2025rnaas...9..345b"
-        ],
-        "pub": "Research Notes of the American Astronomical Society",
-        "title": "TIC 318249571.01: A New Hot-Jupiter Transiting Planet Candidate from TESS Data"
-      },
-      {
-        "authors": [
-          "Crouzet, N."
-        ],
-        "bibcode": "2025A&A...703A.264C",
-        "ids": [
-          "10.1051/0004-6361/202450690",
-          "10.48550/arxiv.2507.18722",
-          "2025a&a...703a.264c",
-          "2025arxiv250718722c",
-          "2507.18722"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Detection of CO<SUB>2</SUB>, CO, and H<SUB>2</SUB>O in the atmosphere of the warm sub-Saturn HAT-P-12 b"
-      },
-      {
-        "authors": [
-          "Im, Haedam"
-        ],
-        "bibcode": "2025AJ....170..336I",
-        "ids": [
-          "10.3847/1538-3881/ae1464",
-          "10.48550/arxiv.2511.17709",
-          "2025aj....170..336i",
-          "2025arxiv251117709i",
-          "2511.17709"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Kepler-1624b Has No Significant Transit Timing Variations"
-      },
-      {
-        "authors": [
-          "Sodickson, Noah"
-        ],
-        "bibcode": "2025ApJ...993...78S",
-        "ids": [
-          "10.3847/1538-4357/adfd60",
-          "10.48550/arxiv.2508.18355",
-          "2025apj...993...78s",
-          "2025arxiv250818355s",
-          "2508.18355"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "In Search of Decay: An Analysis of Transit Times of Hot Jupiters in Main-sequence and Post-main-sequence Systems"
-      },
-      {
-        "authors": [
-          "Zak, J."
-        ],
-        "bibcode": "2025AJ....170..274Z",
-        "ids": [
-          "10.3847/1538-3881/ae071b",
-          "10.48550/arxiv.2505.20516",
-          "2025aj....170..274z",
-          "2025arxiv250520516z",
-          "2505.20516"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Ten Aligned Orbits: Planet Migration in the Era of JWST and Ariel"
-      },
-      {
-        "authors": [
-          "Sagear, Sheila"
-        ],
-        "bibcode": "2025arXiv250923973S",
-        "ids": [
-          "10.48550/arxiv.2509.23973",
-          "2025arxiv250923973s",
-          "2509.23973"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The Orbital Eccentricities of Planets in the Kinematic Thin and Thick Galactic Disks"
-      },
-      {
-        "authors": [
-          "Grouffal, S."
-        ],
-        "bibcode": "2025A&A...701A.173G",
-        "ids": [
-          "10.1051/0004-6361/202555487",
-          "10.48550/arxiv.2507.01807",
-          "2025a&a...701a.173g",
-          "2025arxiv250701807g",
-          "2507.01807"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "The star HIP 41378 potentially misaligned with its cohort of long-period planets"
-      },
-      {
-        "authors": [
-          "Hagey, Simone"
-        ],
-        "bibcode": "2025JOSS...10.8550H",
-        "ids": [
-          "10.21105/joss.08550",
-          "10.48550/arxiv.2509.04531",
-          "2025arxiv250904531h",
-          "2025joss...10.8550h",
-          "2509.04531"
-        ],
-        "pub": "The Journal of Open Source Software",
-        "title": "OrbDot: A Python package for studying the secular evolution of exoplanet orbits"
-      },
-      {
-        "authors": [
-          "Chittidi, Jay S."
-        ],
-        "bibcode": "2025ApJ...990L..40C",
-        "ids": [
-          "10.3847/2041-8213/adfadb",
-          "10.48550/arxiv.2509.02825",
-          "2025apj...990l..40c",
-          "2025arxiv250902825c",
-          "2509.02825"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "High Resolution ALMA Data of the Fomalhaut Debris Disk Confirms Apsidal Width Variation"
-      },
-      {
-        "authors": [
-          "Hobson-Ritz, Marshall"
-        ],
-        "bibcode": "2025ApJ...990..124H",
-        "ids": [
-          "10.3847/1538-4357/adf10d",
-          "10.48550/arxiv.2501.04082",
-          "2025apj...990..124h",
-          "2025arxiv250104082h",
-          "2501.04082"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "Tidal Synchronization of TESS Eclipsing Binaries"
-      },
-      {
-        "authors": [
-          "Kanodia, Shubham"
-        ],
-        "bibcode": "2025AJ....170..203K",
-        "ids": [
-          "10.3847/1538-3881/adf6db",
-          "10.48550/arxiv.2506.17861",
-          "2025aj....170..203k",
-          "2025arxiv250617861k",
-          "2506.17861"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: TOI-7149 b, an Inflated Giant Planet Causing a 12{\\%} Transit of a Fully Convective M-dwarf"
-      },
-      {
-        "authors": [
-          "Fortune, Mark"
-        ],
-        "bibcode": "2025A&A...701A..25F",
-        "ids": [
-          "10.1051/0004-6361/202554198",
-          "10.48550/arxiv.2505.22186",
-          "2025a&a...701a..25f",
-          "2025arxiv250522186f",
-          "2505.22186"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Hot Rocks Survey: III. A deep eclipse for LHS 1140c and a new Gaussian process method to account for correlated noise in individual pixels"
-      },
-      {
-        "authors": [
-          "Polanski, Alex S."
-        ],
-        "bibcode": "2025AJ....170..182P",
-        "ids": [
-          "10.3847/1538-3881/adf070",
-          "10.48550/arxiv.2507.04291",
-          "2025aj....170..182p",
-          "2025arxiv250704291p",
-          "2507.04291"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "An Aligned Sub-Neptune Revealed with MAROON-X and a Tendency Toward Alignment for Small Planets"
-      },
-      {
-        "authors": [
-          "Akinsanmi, Babatunde"
-        ],
-        "bibcode": "2025arXiv250820196A",
-        "ids": [
-          "10.48550/arxiv.2508.20196",
-          "2025arxiv250820196a",
-          "2508.20196"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CONAN: A Python package for modeling lightcurve and radial velocity data of exoplanetary systems"
-      },
-      {
-        "authors": [
-          "Gomez Barrientos, Jonathan"
-        ],
-        "bibcode": "2025AJ....170..148G",
-        "ids": [
-          "10.3847/1538-3881/ade68b",
-          "10.48550/arxiv.2508.02782",
-          "2025aj....170..148g",
-          "2025arxiv250802782g",
-          "2508.02782"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Validation of TESS Planet Candidates with Multicolor Transit Photometry and TRICERATOPS+"
-      },
-      {
-        "authors": [
-          "Ford, Eric B."
-        ],
-        "bibcode": "2025IAUS..368....1F",
-        "ids": [
-          "10.1017/s174392132300128x",
-          "2025iaus..368....1f"
-        ],
-        "pub": "IAU Symposium",
-        "title": "Enhancing Exoplanet Surveys via Physics-informed Machine Learning"
-      },
-      {
-        "authors": [
-          "Brinkman, Casey L."
-        ],
-        "bibcode": "2025AJ....170..109B",
-        "ids": [
-          "10.3847/1538-3881/ade677",
-          "10.48550/arxiv.2410.00213",
-          "2024arxiv241000213b",
-          "2025aj....170..109b",
-          "2410.00213"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The Compositions of Rocky Planets in Close-in Orbits Tend to Be Earth-like"
-      },
-      {
-        "authors": [
-          "Han, Te"
-        ],
-        "bibcode": "2025ApJ...988L...4H",
-        "ids": [
-          "10.3847/2041-8213/ade794",
-          "10.48550/arxiv.2506.19985",
-          "2025apj...988l...4h",
-          "2025arxiv250619985h",
-          "2506.19985"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "Hundreds of TESS Exoplanets Might Be Larger than We Thought"
-      },
-      {
-        "authors": [
-          "Lockley, Isobel S."
-        ],
-        "bibcode": "2025MNRAS.541..919L",
-        "ids": [
-          "10.1093/mnras/staf939",
-          "10.48550/arxiv.2506.05521",
-          "2025arxiv250605521l",
-          "2025mnras.541..919l",
-          "2025mnras.tmp..926l",
-          "2506.05521"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The TOI-1117 multiplanetary system: 3 sub-Neptunes, 1 in both the Neptunian Desert and Radius Valley"
-      },
-      {
-        "authors": [
-          "Greklek-McKeon, Michael"
-        ],
-        "bibcode": "2025AJ....170...65G",
-        "ids": [
-          "10.3847/1538-3881/addf2d",
-          "10.48550/arxiv.2501.18700",
-          "2025aj....170...65g",
-          "2025arxiv250118700g",
-          "2501.18700"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Updated Mass, Eccentricity, and Tidal Heating Constraints for the Earth-sized Planet LP 791-18 d"
-      },
-      {
-        "authors": [
-          "P{\\'e}rez-Gonz{\\'a}lez, Jorge"
-        ],
-        "bibcode": "2025A&G....66.3.12P",
-        "ids": [
-          "10.1093/astrogeo/ataf018",
-          "2025a&g....66.3.12p"
-        ],
-        "pub": "Astronomy and Geophysics",
-        "title": "Clearing the clouds"
-      },
-      {
-        "authors": [
-          "Hotnisky, Andrew"
-        ],
-        "bibcode": "2025AJ....170....1H",
-        "ids": [
-          "10.3847/1538-3881/add2ef",
-          "2025aj....170....1h"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: Two Super-Jupiters Around M Dwarfs that May have Formed via Gravitational Instability"
-      },
-      {
-        "authors": [
-          "Fairnington, Tyler R."
-        ],
-        "bibcode": "2025MNRAS.540.1144F",
-        "ids": [
-          "10.1093/mnras/staf759",
-          "10.48550/arxiv.2505.04106",
-          "2025arxiv250504106f",
-          "2025mnras.540.1144f",
-          "2025mnras.tmp..759f",
-          "2025mnras.tmp..807f",
-          "2505.04106"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The eccentricity distribution of warm sub-Saturns in TESS"
-      },
-      {
-        "authors": [
-          "Dedrick, Cayla M."
-        ],
-        "bibcode": "2025ApJ...985..255D",
-        "ids": [
-          "10.3847/1538-4357/adc564",
-          "10.48550/arxiv.2505.08042",
-          "2025apj...985..255d",
-          "2025arxiv250508042d",
-          "2505.08042"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "Three-dimensional Orbit and Dynamical Masses of GJ 105 AC"
-      },
-      {
-        "authors": [
-          "Langford, Zachary"
-        ],
-        "bibcode": "2025MNRAS.540..106L",
-        "ids": [
-          "10.1093/mnras/staf687",
-          "10.48550/arxiv.2410.03874",
-          "2024arxiv241003874l",
-          "2025mnras.540..106l",
-          "2025mnras.tmp..702l",
-          "2410.03874"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "A differentiable N-body code for transit timing and dynamical modelling - II. Photodynamics"
-      },
-      {
-        "authors": [
-          "Doyle, Lauren"
-        ],
-        "bibcode": "2025MNRAS.539.3138D",
-        "ids": [
-          "10.1093/mnras/staf670",
-          "10.48550/arxiv.2504.16164",
-          "2025arxiv250416164d",
-          "2025mnras.539.3138d",
-          "2025mnras.tmp..623d",
-          "2504.16164"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Exploring the Neptunian desert: insights from a homogeneous planetary sample"
-      },
-      {
-        "authors": [
-          "Greklek-McKeon, Michael"
-        ],
-        "bibcode": "2025AJ....169..292G",
-        "ids": [
-          "10.3847/1538-3881/adc0fe",
-          "10.48550/arxiv.2409.16374",
-          "2024arxiv240916374g",
-          "2025aj....169..292g",
-          "2409.16374"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Tidally Heated Sub-Neptunes, Refined Planetary Compositions, and Confirmation of a Third Planet in the TOI-1266 System"
-      },
-      {
-        "authors": [
-          "Kanodia, Shubham"
-        ],
-        "bibcode": "2025RNAAS...9..100K",
-        "ids": [
-          "10.3847/2515-5172/add154",
-          "2025rnaas...9..100k"
-        ],
-        "pub": "Research Notes of the American Astronomical Society",
-        "title": "Precise Near-infrared Occultation of WASP-19b with FourStar on Magellan"
-      },
-      {
-        "authors": [
-          "Sairam, Lalitha"
-        ],
-        "bibcode": "2025MNRAS.539.1299S",
-        "ids": [
-          "10.1093/mnras/staf528",
-          "10.48550/arxiv.2503.19908",
-          "2025arxiv250319908s",
-          "2025mnras.539.1299s",
-          "2025mnras.tmp..544s",
-          "2503.19908"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Characterizing M dwarf host stars of two candidate Hycean worlds"
-      },
-      {
-        "authors": [
-          "Gilbert, Gregory J."
-        ],
-        "bibcode": "2025PNAS..12205295G",
-        "ids": [
-          "10.1073/pnas.2405295122",
-          "10.48550/arxiv.2507.07840",
-          "2025arxiv250707840g",
-          "2025pnas..12205295g",
-          "2507.07840"
-        ],
-        "pub": "Proceedings of the National Academy of Science",
-        "title": "Planets larger than Neptune have elevated eccentricities"
-      },
-      {
-        "authors": [
-          "Lee, Rena A."
-        ],
-        "bibcode": "2025ApJ...983L..36L",
-        "ids": [
-          "10.3847/2041-8213/adadd7",
-          "10.48550/arxiv.2502.16087",
-          "2025apj...983l..36l",
-          "2025arxiv250216087l",
-          "2502.16087"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "TOI-6324 b: An Earth-mass Ultra-short-period Planet Transiting a Nearby M Dwarf"
-      },
-      {
-        "authors": [
-          "Chachan, Yayaati"
-        ],
-        "bibcode": "2025AJ....169..248C",
-        "ids": [
-          "10.3847/1538-3881/adbe2f",
-          "10.48550/arxiv.2405.11017",
-          "2024arxiv240511017c",
-          "2025aj....169..248c",
-          "2405.11017"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Giant Outer Transiting Exoplanet Mass (GOT 'EM) Survey. V. Two Giant Planets in Kepler-511 but Only One Ran Away"
-      },
-      {
-        "authors": [
-          "Tada, Shotaro"
-        ],
-        "bibcode": "2025AJ....169..255T",
-        "ids": [
-          "10.3847/1538-3881/adbe65",
-          "10.48550/arxiv.2503.08988",
-          "2025aj....169..255t",
-          "2025arxiv250308988t",
-          "2503.08988"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Probing Two-dimensional Asymmetries of an Exoplanet Atmosphere from Chromatic Transit Variation"
-      },
-      {
-        "authors": [
-          "Egger, J. A."
-        ],
-        "bibcode": "2025A&A...696A..28E",
-        "ids": [
-          "10.1051/0004-6361/202453325",
-          "10.48550/arxiv.2502.07887",
-          "2025a&a...696a..28e",
-          "2025arxiv250207887e",
-          "2502.07887"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Searching for hot water world candidates with CHEOPS: Refining the radii and analysing the internal structures and atmospheric lifetimes of TOI-238 b and TOI-1685 b"
-      },
-      {
-        "authors": [
-          "Rodrigues, J."
-        ],
-        "bibcode": "2025A&A...695A.237R",
-        "ids": [
-          "10.1051/0004-6361/202452887",
-          "10.48550/arxiv.2502.14472",
-          "2025a&a...695a.237r",
-          "2025arxiv250214472r",
-          "2502.14472"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "TOI-512: Super-Earth transiting a K-type star discovered by TESS and ESPRESSO"
-      },
-      {
-        "authors": [
-          "Ducrot, Elsa"
-        ],
-        "bibcode": "2025NatAs...9..358D",
-        "ids": [
-          "10.1038/s41550-024-02428-z",
-          "10.48550/arxiv.2412.11627",
-          "2024arxiv241211627d",
-          "2024natas.tmp..292d",
-          "2025natas...9..358d",
-          "2412.11627"
-        ],
-        "pub": "Nature Astronomy",
-        "title": "Combined analysis of the 12.8 and 15 {\\ensuremath{\\mu}}m JWST/MIRI eclipse observations of TRAPPIST-1 b"
-      },
-      {
-        "authors": [
-          "Dileep, Athul"
-        ],
-        "bibcode": "2025MNRAS.538.1747D",
-        "ids": [
-          "10.1093/mnras/staf361",
-          "10.48550/arxiv.2502.18112",
-          "2025arxiv250218112d",
-          "2025mnras.538.1747d",
-          "2025mnras.tmp..340d",
-          "2502.18112"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Investigating pulsating variables and eclipsing binaries in NGC 2126 using ground- and space-based photometry, astrometry, spectroscopy, and modelling"
-      },
-      {
-        "authors": [
-          "McKee, Brendan J."
-        ],
-        "bibcode": "2025ApJ...981..106M",
-        "ids": [
-          "10.3847/1538-4357/adac63",
-          "10.48550/arxiv.2411.04192",
-          "2024arxiv241104192m",
-          "2025apj...981..106m",
-          "2411.04192"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "A Planet Candidate Orbiting near the Hot Jupiter TOI-2818 b Inferred through Transit Timing"
-      },
-      {
-        "authors": [
-          "Kumbhakar, Rajib"
-        ],
-        "bibcode": "2025ApJ...981..169K",
-        "ids": [
-          "10.3847/1538-4357/adae07",
-          "10.48550/arxiv.2502.04906",
-          "2025apj...981..169k",
-          "2025arxiv250204906k",
-          "2502.04906"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "Starspot Distribution and Flare Events in Two Young Low-mass Stars Using TESS Data"
-      },
-      {
-        "authors": [
-          "Radzom, Brandon T."
-        ],
-        "bibcode": "2025AJ....169..189R",
-        "ids": [
-          "10.3847/1538-3881/ad9dd5",
-          "10.48550/arxiv.2503.03745",
-          "2025aj....169..189r",
-          "2025arxiv250303745r",
-          "2503.03745"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Evidence for Primordial Alignment II: Insights from Stellar Obliquity Measurements for Hot Jupiters in Compact Multiplanet Systems"
-      },
-      {
-        "authors": [
-          "Reji, Varghese"
-        ],
-        "bibcode": "2025AJ....169..187R",
-        "ids": [
-          "10.3847/1538-3881/ada7ea",
-          "10.48550/arxiv.2409.01371",
-          "2024arxiv240901371r",
-          "2025aj....169..187r",
-          "2409.01371"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: TOI-5688 A b, a Low-density Giant Orbiting a High-metallicity Early M-dwarf"
-      },
-      {
-        "authors": [
-          "Armstrong, David J."
-        ],
-        "bibcode": "2025MNRAS.537.3175A",
-        "ids": [
-          "10.1093/mnras/staf175",
-          "10.48550/arxiv.2501.14355",
-          "2025arxiv250114355a",
-          "2025mnras.537.3175a",
-          "2025mnras.tmp..168a",
-          "2501.14355"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The NCORES programme: precise planetary masses, null results, and insight into the planet mass distribution near the radius gap"
-      },
-      {
-        "authors": [
-          "Yaptangco, Dana Clarice"
-        ],
-        "bibcode": "2025AJ....169..153Y",
-        "ids": [
-          "10.3847/1538-3881/ada898",
-          "10.48550/arxiv.2402.00115",
-          "2024arxiv240200115c",
-          "2025aj....169..153y",
-          "2402.00115"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Quantifying the Effect of Short-timescale Stellar Activity Upon Transit Detection in M Dwarfs"
-      },
-      {
-        "authors": [
-          "Lin, Wen-Xu"
-        ],
-        "bibcode": "2025ApJ...980..174L",
-        "ids": [
-          "10.3847/1538-4357/ada60b",
-          "10.48550/arxiv.2502.18769",
-          "2025apj...980..174l",
-          "2025arxiv250218769l",
-          "2502.18769"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "Comprehensive Parameter Determination of Exoplanets through Asteroseismic Host Star Constraints"
-      },
-      {
-        "authors": [
-          "Zak, J."
-        ],
-        "bibcode": "2025A&A...694A..91Z",
-        "ids": [
-          "10.1051/0004-6361/202452171",
-          "10.48550/arxiv.2501.05615",
-          "2025a&a...694a..91z",
-          "2025arxiv250105615z",
-          "2501.05615"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Stellar obliquities of eight close-in gas giant exoplanets"
-      },
-      {
-        "authors": [
-          "Saidel, Morgan"
-        ],
-        "bibcode": "2025AJ....169..104S",
-        "ids": [
-          "10.3847/1538-3881/ada49f",
-          "10.48550/arxiv.2404.08736",
-          "2024arxiv240408736s",
-          "2025aj....169..104s",
-          "2404.08736"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Atmospheric Mass Loss from TOI-1259 A b, a Gas Giant Planet with a White Dwarf Companion"
-      },
-      {
-        "authors": [
-          "Munavar Hussain, Mohamed Jassim"
-        ],
-        "bibcode": "2025AJ....169...91M",
-        "ids": [
-          "10.3847/1538-3881/ad9a6c",
-          "2025aj....169...91m"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Eight New Candidate Multiplanet Systems among TESS Objects of Interest"
-      },
-      {
-        "authors": [
-          "Shen, Zoutong"
-        ],
-        "bibcode": "2025RNAAS...9...11S",
-        "ids": [
-          "10.3847/2515-5172/ada7fb",
-          "2025rnaas...9...11s"
-        ],
-        "pub": "Research Notes of the American Astronomical Society",
-        "title": "New TESS Secondary Eclipses Confirm Orbital Decay of Kepler-1658b"
-      },
-      {
-        "authors": [
-          "Zhang, Keming"
-        ],
-        "bibcode": "2024NatAs...8.1575Z",
-        "ids": [
-          "10.1038/s41550-024-02375-9",
-          "10.48550/arxiv.2409.02157",
-          "2024arxiv240902157z",
-          "2024natas...8.1575z",
-          "2024natas.tmp..237z",
-          "2409.02157"
-        ],
-        "pub": "Nature Astronomy",
-        "title": "An Earth-mass planet and a brown dwarf in orbit around a white dwarf"
-      },
-      {
-        "authors": [
-          "Kunimoto, Michelle"
-        ],
-        "bibcode": "2025AJ....169...47K",
-        "ids": [
-          "10.3847/1538-3881/ad9266",
-          "10.48550/arxiv.2412.08863",
-          "2024arxiv241208863k",
-          "2025aj....169...47k",
-          "2412.08863"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Two Earth-size Planets and an Earth-size Candidate Transiting the nearby Star HD 101581"
-      },
-      {
-        "authors": [
-          "Giacalone, Steven"
-        ],
-        "bibcode": "2025AJ....169...45G",
-        "ids": [
-          "10.3847/1538-3881/ad9587",
-          "10.48550/arxiv.2411.13363",
-          "2024arxiv241113363g",
-          "2025aj....169...45g",
-          "2411.13363"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Small and Close-in Planets are Uncommon Around A-type Stars"
-      },
-      {
-        "authors": [
-          "Martin, David V."
-        ],
-        "bibcode": "2024MNRAS.535.3343M",
-        "ids": [
-          "10.1093/mnras/stae2266",
-          "10.48550/arxiv.2208.10510",
-          "2022arxiv220810510m",
-          "2024mnras.535.3343m",
-          "2024mnras.tmp.2331m",
-          "2208.10510"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Revised temperatures for two benchmark M-dwarfs -- outliers no more"
-      },
-      {
-        "authors": [
-          "Dong, Jiayin"
-        ],
-        "bibcode": "2025AJ....169....4D",
-        "ids": [
-          "10.3847/1538-3881/ad8ec1",
-          "10.48550/arxiv.2411.01356",
-          "2024arxiv241101356d",
-          "2025aj....169....4d",
-          "2411.01356"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Origins of Super Jupiters: TOI-2145b has a Moderately Eccentric and Nearly Aligned Orbit"
-      },
-      {
-        "authors": [
-          "Gupta, Arvind F."
-        ],
-        "bibcode": "2025AJ....169....1G",
-        "ids": [
-          "10.3847/1538-3881/ad89bf",
-          "10.48550/arxiv.2409.12315",
-          "2024arxiv240912315g",
-          "2025aj....169....1g",
-          "2409.12315"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The NEID Earth Twin Survey. I. Confirmation of a 31 Day Planet Orbiting HD 86728"
-      },
-      {
-        "authors": [
-          "Hansen, Matthew T."
-        ],
-        "bibcode": "2024AJ....168..291H",
-        "ids": [
-          "10.3847/1538-3881/ad834c",
-          "10.48550/arxiv.2403.03427",
-          "2024aj....168..291h",
-          "2024arxiv240303427h",
-          "2403.03427"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Single Transit Detection in Kepler with Machine Learning and Onboard Spacecraft Diagnostics"
-      },
-      {
-        "authors": [
-          "Hotnisky, Andrew"
-        ],
-        "bibcode": "2024arXiv241108159H",
-        "ids": [
-          "10.48550/arxiv.2411.08159",
-          "2024arxiv241108159h",
-          "2411.08159"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Searching for GEMS: Two Super-Jupiters around M-dwarfs -- Signatures of Instability or Accretion?"
-      },
-      {
-        "authors": [
-          "Kanodia, Shubham"
-        ],
-        "bibcode": "2024AJ....168..235K",
-        "ids": [
-          "10.3847/1538-3881/ad7796",
-          "10.48550/arxiv.2408.14694",
-          "2024aj....168..235k",
-          "2024arxiv240814694k",
-          "2408.14694"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Searching for GEMS: Characterizing Six Giant Planets Around Cool Dwarfs"
-      },
-      {
-        "authors": [
-          "Akilah, Rafa Nanda"
-        ],
-        "bibcode": "2024JPhCS2866a2064A",
-        "ids": [
-          "10.1088/1742-6596/2866/1/012064",
-          "2024jphcs2866a2064a"
-        ],
-        "pub": "Journal of Physics Conference Series",
-        "title": "Exomod: A Python Library for Exoplanet Transit Light Curve Fitting and Stacking with Background Simulation and Optimization"
-      },
-      {
-        "authors": [
-          "Cassese, Ben"
-        ],
-        "bibcode": "2024JOSS....9.6972C",
-        "ids": [
-          "10.21105/joss.06972",
-          "10.48550/arxiv.2409.00167",
-          "2024arxiv240900167c",
-          "2024joss....9.6972c",
-          "2409.00167"
-        ],
-        "pub": "The Journal of Open Source Software",
-        "title": "squishyplanet: modeling transits of non-spherical exoplanets in JAX"
-      },
-      {
-        "authors": [
-          "Radica, Michael"
-        ],
-        "bibcode": "2024JOSS....9.6898R",
-        "ids": [
-          "10.21105/joss.06898",
-          "10.48550/arxiv.2407.17541",
-          "2024arxiv240717541r",
-          "2024joss....9.6898r",
-          "2407.17541"
-        ],
-        "pub": "The Journal of Open Source Software",
-        "title": "exoTEDRF: An EXOplanet Transit and Eclipse Data Reduction Framework"
-      },
-      {
-        "authors": [
-          "Beard, Corey"
-        ],
-        "bibcode": "2024AJ....168..149B",
-        "ids": [
-          "10.3847/1538-3881/ad6b22",
-          "10.48550/arxiv.2408.02873",
-          "2024aj....168..149b",
-          "2024arxiv240802873b",
-          "2408.02873"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Utilizing Photometry from Multiple Sources to Mitigate Stellar Variability in Precise Radial Velocities: A Case Study of Kepler-21"
-      },
-      {
-        "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2024A&A...689L...8L",
-        "ids": [
-          "10.1051/0004-6361/202451398",
-          "10.48550/arxiv.2408.11732",
-          "2024a&a...689l...8l",
-          "2024arxiv240811732l",
-          "2408.11732"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "K2-399 b is not a planet: The Saturn that wandered through the Neptune desert is actually a hierarchical eclipsing binary"
-      },
-      {
-        "authors": [
-          "Borsato, L."
-        ],
-        "bibcode": "2024A&A...689A..52B",
-        "ids": [
-          "10.1051/0004-6361/202450974",
-          "10.48550/arxiv.2407.06097",
-          "2024a&a...689a..52b",
-          "2024arxiv240706097b",
-          "2407.06097"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Characterisation of the warm-Jupiter TOI-1130 system with CHEOPS and a photo-dynamical approach"
-      },
-      {
-        "authors": [
-          "Egger, J. A."
-        ],
-        "bibcode": "2024A&A...688A.223E",
-        "ids": [
-          "10.1051/0004-6361/202450472",
-          "10.48550/arxiv.2406.18653",
-          "2024a&a...688a.223e",
-          "2024arxiv240618653e",
-          "2406.18653"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Unveiling the internal structure and formation history of the three planets transiting HIP 29442 (TOI-469) with CHEOPS"
-      },
-      {
-        "authors": [
-          "Gupta, Arvind F."
-        ],
-        "bibcode": "2024Natur.632...50G",
-        "ids": [
-          "10.1038/s41586-024-07688-3",
-          "2024natur.632...50g"
-        ],
-        "pub": "Nature",
-        "title": "A hot-Jupiter progenitor on a super-eccentric retrograde orbit"
-      },
-      {
-        "authors": [
-          "Alqasim, A."
-        ],
-        "bibcode": "2024MNRAS.533....1A",
-        "ids": [
-          "10.1093/mnras/stae1767",
-          "10.48550/arxiv.2407.20525",
-          "2024arxiv240720525a",
-          "2024mnras.533....1a",
-          "2024mnras.tmp.1810a",
-          "2407.20525"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TOI-757 b: an eccentric transiting mini-Neptune on a 17.5-d orbit"
-      },
-      {
-        "authors": [
-          "D{\\'e}vora-Pajares, Mart{\\'\\i}n"
-        ],
-        "bibcode": "2024MNRAS.532.4752D",
-        "ids": [
-          "10.1093/mnras/stae1740",
-          "10.48550/arxiv.2407.14602",
-          "2024arxiv240714602d",
-          "2024mnras.532.4752d",
-          "2024mnras.tmp.1740d",
-          "2407.14602"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The SHERLOCK pipeline: new exoplanet candidates in the WASP-16, HAT-P-27, HAT-P-26, and TOI-2411 systems"
-      },
-      {
-        "authors": [
-          "Schlawin, Everett"
-        ],
-        "bibcode": "2024AJ....168..104S",
-        "ids": [
-          "10.3847/1538-3881/ad58e0",
-          "10.48550/arxiv.2406.15543",
-          "2024aj....168..104s",
-          "2024arxiv240615543s",
-          "2406.15543"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Multiple Clues for Dayside Aerosols and Temperature Gradients in WASP-69 b from a Panchromatic JWST Emission Spectrum"
-      },
-      {
-        "authors": [
-          "Hammond, Mark"
-        ],
-        "bibcode": "2024MNRAS.532.4350H",
-        "ids": [
-          "10.1093/mnras/stae1761",
-          "10.48550/arxiv.2405.20689",
-          "2024arxiv240520689h",
-          "2024mnras.532.4350h",
-          "2024mnras.tmp.1716h",
-          "2405.20689"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Identifying and fitting eclipse maps of exoplanets with cross-validation"
-      },
-      {
-        "authors": [
-          "Levine, W. Garrett"
-        ],
-        "bibcode": "2024AJ....168...65L",
-        "ids": [
-          "10.3847/1538-3881/ad5354",
-          "10.48550/arxiv.2405.19177",
-          "2024aj....168...65l",
-          "2024arxiv240519177l",
-          "2405.19177"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Exoplanet Aeronomy: A Case Study of WASP-69 b's Variable Thermosphere"
-      },
-      {
-        "authors": [
-          "Eschen, Yoshi Nike Emilia"
-        ],
-        "bibcode": "2024MNRAS.531.5053E",
-        "ids": [
-          "10.1093/mnras/stae1496",
-          "10.48550/arxiv.2406.06688",
-          "2024arxiv240606688e",
-          "2024mnras.531.5053e",
-          "2024mnras.tmp.1465e",
-          "2406.06688"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Nine new M dwarf planet candidates from TESS including five gas giants"
-      },
-      {
-        "authors": [
-          "O'Sullivan, Niamh K."
-        ],
-        "bibcode": "2024MNRAS.531.4181O",
-        "ids": [
-          "10.1093/mnras/stae1059",
-          "10.48550/arxiv.2404.11662",
-          "2024arxiv240411662o",
-          "2024mnras.531.4181o",
-          "2024mnras.tmp.1080o",
-          "2404.11662"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Modelling stochastic and quasi-periodic behaviour in stellar time-series: Gaussian process regression versus power-spectrum fitting"
-      },
-      {
-        "authors": [
-          "Ho, Cynthia S. K."
-        ],
-        "bibcode": "2024MNRAS.531.3698H",
-        "ids": [
-          "10.1093/mnras/stae1376",
-          "10.48550/arxiv.2401.12378",
-          "2024arxiv240112378h",
-          "2024mnras.531.3698h",
-          "2024mnras.tmp.1362h",
-          "2401.12378"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Shallower radius valley around low-mass hosts: evidence for icy planets, collisions, or high-energy radiation scatter"
-      },
-      {
-        "authors": [
-          "Kumbhakar, Rajib"
-        ],
-        "bibcode": "2024BSRSL..93..370K",
-        "ids": [
-          "10.25518/0037-9565.11722",
-          "10.48550/arxiv.2309.01084",
-          "2023arxiv230901084k",
-          "2024bsrsl..93..370k",
-          "2309.01084"
-        ],
-        "pub": "Bulletin de la Societe Royale des Sciences de Liege",
-        "title": "Rotational Variability and Detection of Superflares in a Young Brown Dwarf by TESS"
-      },
-      {
-        "authors": [
-          "Tey, Evan"
-        ],
-        "bibcode": "2024AJ....167..283T",
-        "ids": [
-          "10.3847/1538-3881/ad3df1",
-          "10.48550/arxiv.2407.18199",
-          "2024aj....167..283t",
-          "2024arxiv240718199t",
-          "2407.18199"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "GJ 238 b: A 0.57 Earth Radius Planet Orbiting an M2.5 Dwarf Star at 15.2 pc"
-      },
-      {
-        "authors": [
-          "Pass, Emily K."
-        ],
-        "bibcode": "2024ApJ...966..231P",
-        "ids": [
-          "10.3847/1538-4357/ad3631",
-          "10.48550/arxiv.2401.10167",
-          "2024apj...966..231p",
-          "2024arxiv240110167p",
-          "2401.10167"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "The Mass Dependence of H{\\ensuremath{\\alpha}} Emission and Stellar Spindown for Fully Convective M Dwarfs"
-      },
-      {
-        "authors": [
-          "Kova{\\v{c}}evi{\\'c}, Andjelka B."
-        ],
-        "bibcode": "2024ApJ...967...30K",
-        "ids": [
-          "10.3847/1538-4357/ad3729",
-          "10.48550/arxiv.2404.17435",
-          "2024apj...967...30k",
-          "2024arxiv240417435k",
-          "2404.17435"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "Bayesian Synthesis of Astrometric Wobble and Total Light Curves in Close Binary Supermassive Black Holes"
-      },
-      {
-        "authors": [
-          "Morris, Brett M."
-        ],
-        "bibcode": "2024A&A...685A.104M",
-        "ids": [
-          "10.1051/0004-6361/202243831",
-          "10.48550/arxiv.2401.13635",
-          "2024a&a...685a.104m",
-          "2024arxiv240113635m",
-          "2401.13635"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Observations of scattered light from exoplanet atmospheres"
-      },
-      {
-        "authors": [
-          "Silverstein, Michele L."
-        ],
-        "bibcode": "2024AJ....167..255S",
-        "ids": [
-          "10.3847/1538-3881/ad3040",
-          "10.48550/arxiv.2403.00110",
-          "2024aj....167..255s",
-          "2024arxiv240300110s",
-          "2403.00110"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Validation of a Third Planet in the LHS 1678 System"
-      },
-      {
-        "authors": [
-          "Li, Canis"
-        ],
-        "bibcode": "2024AJ....167..245L",
-        "ids": [
-          "10.3847/1538-3881/ad3807",
-          "10.48550/arxiv.2403.01295",
-          "2024aj....167..245l",
-          "2024arxiv240301295l",
-          "2403.01295"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "A Search for Temporal Atmospheric Variability of Kepler Hot Jupiters"
-      },
-      {
-        "authors": [
-          "Kane, Stephen R."
-        ],
-        "bibcode": "2024AJ....167..239K",
-        "ids": [
-          "10.3847/1538-3881/ad3820",
-          "10.48550/arxiv.2403.17062",
-          "2024aj....167..239k",
-          "2024arxiv240317062k",
-          "2403.17062"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "A Perfect Tidal Storm: HD 104067 Planetary Architecture Creating an Incandescent World"
-      },
-      {
-        "authors": [
-          "Melton, Elizabeth J."
-        ],
-        "bibcode": "2024AJ....167..203M",
-        "ids": [
-          "10.3847/1538-3881/ad29f1",
-          "10.48550/arxiv.2302.06724",
-          "2023arxiv230206724m",
-          "2024aj....167..203m",
-          "2302.06724"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS). II. Hundreds of New TESS Candidate Exoplanets"
+        "title": "Probable dormant neutron star in a short-period binary system"
       },
       {
         "authors": [
           "Vissapragada, Shreyas"
         ],
-        "bibcode": "2024AJ....167..199V",
+        "bibcode": "2022AJ....164..234V",
         "ids": [
-          "10.3847/1538-3881/ad3241",
-          "10.48550/arxiv.2403.05614",
-          "2024aj....167..199v",
-          "2024arxiv240305614v",
-          "2403.05614"
+          "10.3847/1538-3881/ac92f2",
+          "10.48550/arxiv.2204.11865",
+          "2022aj....164..234v",
+          "2022arxiv220411865v",
+          "2204.11865"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Helium in the Extended Atmosphere of the Warm Superpuff TOI-1420b"
-      },
-      {
-        "authors": [
-          "Ment, Kristo"
-        ],
-        "bibcode": "2024AJ....167..197M",
-        "ids": [
-          "10.3847/1538-3881/ad1b58",
-          "10.48550/arxiv.2304.01920",
-          "2023arxiv230401920m",
-          "2024aj....167..197m",
-          "2304.01920"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "LHS 475 b: A Potential Venus Analog Orbiting a Nearby M Dwarf"
-      },
-      {
-        "authors": [
-          "Desai, Anmol"
-        ],
-        "bibcode": "2024AJ....167..194D",
-        "ids": [
-          "10.3847/1538-3881/ad29ee",
-          "10.48550/arxiv.2402.07110",
-          "2024aj....167..194d",
-          "2024arxiv240207110d",
-          "2402.07110"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The TESS-Keck Survey. XVIII. A Sub-Neptune and Spurious Long-period Signal in the TOI-1751 System"
-      },
-      {
-        "authors": [
-          "Serrano Bell, J."
-        ],
-        "bibcode": "2024A&A...684A...6S",
-        "ids": [
-          "10.1051/0004-6361/202348288",
-          "10.48550/arxiv.2402.07861",
-          "2024a&a...684a...6s",
-          "2024arxiv240207861s",
-          "2402.07861"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "TOI-1199 b and TOI-1273 b: Two new transiting hot Saturns detected and characterized with SOPHIE and TESS"
-      },
-      {
-        "authors": [
-          "Gore, Rebecca"
-        ],
-        "bibcode": "2024ApJS..271...48G",
-        "ids": [
-          "10.3847/1538-4365/ad2c0c",
-          "10.48550/arxiv.2402.13223",
-          "2024apjs..271...48g",
-          "2024arxiv240213223g",
-          "2402.13223"
-        ],
-        "pub": "The Astrophysical Journal Supplement Series",
-        "title": "Metallicities and Refined Stellar Parameters for 52 Cool Dwarfs with Transiting Planets and Planet Candidates"
-      },
-      {
-        "authors": [
-          "Teinturier, L."
-        ],
-        "bibcode": "2024A&A...683A.231T",
-        "ids": [
-          "10.1051/0004-6361/202347069",
-          "10.48550/arxiv.2401.14083",
-          "2024a&a...683a.231t",
-          "2024arxiv240114083t",
-          "2401.14083"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "The radiative and dynamical impact of clouds in the atmosphere of the hot Jupiter WASP-43 b"
-      },
-      {
-        "authors": [
-          "Dyrek, A."
-        ],
-        "bibcode": "2024A&A...683A.212D",
-        "ids": [
-          "10.1051/0004-6361/202347127",
-          "10.48550/arxiv.2403.00676",
-          "2024a&a...683a.212d",
-          "2024arxiv240300676d",
-          "2403.00676"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Transiting exoplanets with the Mid-InfraRed Instrument on board JWST: From simulations to observations"
-      },
-      {
-        "authors": [
-          "Rubenzahl, Ryan A."
-        ],
-        "bibcode": "2024AJ....167..153R",
-        "ids": [
-          "10.3847/1538-3881/ad28bb",
-          "10.48550/arxiv.2402.07451",
-          "2024aj....167..153r",
-          "2024arxiv240207451r",
-          "2402.07451"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The TESS-Keck Survey. XII. A Dense 1.8 R <SUB>{\\ensuremath{\\oplus}}</SUB> Ultra-short-period Planet Possibly Clinging to a High-mean-molecular-weight Atmosphere after the First Gigayear"
-      },
-      {
-        "authors": [
-          "Hey, Daniel"
-        ],
-        "bibcode": "2024arXiv240302489H",
-        "ids": [
-          "10.48550/arxiv.2403.02489",
-          "2024arxiv240302489h",
-          "2403.02489"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Precise Time-Domain Asteroseismology and a Revised Target List for TESS Solar-Like Oscillators"
-      },
-      {
-        "authors": [
-          "Mesar{\\v{c}}, M."
-        ],
-        "bibcode": "2024CoSka..54b.219M",
-        "ids": [
-          "10.31577/caosp.2024.54.2.219",
-          "2024coska..54b.219m"
-        ],
-        "pub": "Contributions of the Astronomical Observatory Skalnate Pleso",
-        "title": "Validation of selected TESS exoplanetary candidates"
-      },
-      {
-        "authors": [
-          "Gully-Santiago, Michael"
-        ],
-        "bibcode": "2024AJ....167..142G",
-        "ids": [
-          "10.3847/1538-3881/ad1ee8",
-          "10.48550/arxiv.2307.08959",
-          "2023arxiv230708959g",
-          "2024aj....167..142g",
-          "2307.08959"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "A Large and Variable Leading Tail of Helium in a Hot Saturn Undergoing Runaway Inflation"
-      },
-      {
-        "authors": [
-          "Delamer, Megan"
-        ],
-        "bibcode": "2024ApJ...962L..22D",
-        "ids": [
-          "10.3847/2041-8213/ad1a19",
-          "10.48550/arxiv.2307.06880",
-          "2023arxiv230706880d",
-          "2024apj...962l..22d",
-          "2307.06880"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "TOI-4201: An Early M Dwarf Hosting a Massive Transiting Jupiter Stretching Theories of Core Accretion"
-      },
-      {
-        "authors": [
-          "Beard, Corey"
-        ],
-        "bibcode": "2024AJ....167...70B",
-        "ids": [
-          "10.3847/1538-3881/ad1330",
-          "10.48550/arxiv.2312.04635",
-          "2023arxiv231204635b",
-          "2024aj....167...70b",
-          "2312.04635"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The TESS-Keck Survey. XVII. Precise Mass Measurements in a Young, High-multiplicity Transiting Planet System Using Radial Velocities and Transit Timing Variations"
-      },
-      {
-        "authors": [
-          "Martin, David V."
-        ],
-        "bibcode": "2024MNRAS.528..963M",
-        "ids": [
-          "10.1093/mnras/stae015",
-          "10.48550/arxiv.2301.10858",
-          "2023arxiv230110858m",
-          "2024mnras.528..963m",
-          "2024mnras.tmp...85m",
-          "2301.10858"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The benchmark M dwarf eclipsing binary CM Draconis with TESS: spots, flares, and ultra-precise parameters"
-      },
-      {
-        "authors": [
-          "Yip, Kai Hou"
-        ],
-        "bibcode": "2024ApJ...961...30Y",
-        "ids": [
-          "10.3847/1538-4357/ad063f",
-          "2024apj...961...30y"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": "To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows"
+        "title": "The Upper Edge of the Neptune Desert Is Stable Against Photoevaporation"
       },
       {
         "authors": [
           "Brande, Jonathan"
         ],
-        "bibcode": "2024ApJ...961L..23B",
+        "bibcode": "2022AJ....164..197B",
         "ids": [
-          "10.3847/2041-8213/ad1b5c",
-          "10.48550/arxiv.2310.07714",
-          "2023arxiv231007714b",
-          "2024apj...961l..23b",
-          "2310.07714"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "Clouds and Clarity: Revisiting Atmospheric Feature Trends in Neptune-size Exoplanets"
-      },
-      {
-        "authors": [
-          "Gondhalekar, Yash"
-        ],
-        "bibcode": "2023ApJ...959L..16G",
-        "ids": [
-          "10.3847/2041-8213/ad0844",
-          "10.48550/arxiv.2308.04282",
-          "2023apj...959l..16g",
-          "2023arxiv230804282g",
-          "2308.04282"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "A Study of Two Periodogram Algorithms for Improving the Detection of Small Transiting Planets"
-      },
-      {
-        "authors": [
-          "Pereira, Filipe"
-        ],
-        "bibcode": "2024MNRAS.527.6332P",
-        "ids": [
-          "10.1093/mnras/stad3449",
-          "10.48550/arxiv.2311.06678",
-          "2023arxiv231106678p",
-          "2023mnras.tmp.3308p",
-          "2024mnras.527.6332p",
-          "2311.06678"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TESS giants transiting giants V - two hot Jupiters orbiting red giant hosts"
-      },
-      {
-        "authors": [
-          "Cloutier, Ryan"
-        ],
-        "bibcode": "2024MNRAS.527.5464C",
-        "ids": [
-          "10.1093/mnras/stad3450",
-          "10.48550/arxiv.2310.13496",
-          "2023arxiv231013496c",
-          "2023mnras.tmp.3309c",
-          "2024mnras.527.5464c",
-          "2310.13496"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Masses, revised radii, and a third planet candidate in the 'Inverted' planetary system around TOI-1266"
-      },
-      {
-        "authors": [
-          "Harris, Mallory"
-        ],
-        "bibcode": "2023ApJ...959L...1H",
-        "ids": [
-          "10.3847/2041-8213/ad037d",
-          "10.48550/arxiv.2310.15118",
-          "2023apj...959l...1h",
-          "2023arxiv231015118h",
-          "2310.15118"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "Separated Twins or Just Siblings? A Multiplanet System around an M Dwarf Including a Cool Sub-Neptune"
-      },
-      {
-        "authors": [
-          "Espinoza-Retamal, Juan I."
-        ],
-        "bibcode": "2023ApJ...958L..20E",
-        "ids": [
-          "10.3847/2041-8213/ad096d",
-          "10.48550/arxiv.2309.03306",
-          "2023apj...958l..20e",
-          "2023arxiv230903306e",
-          "2309.03306"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "The Aligned Orbit of the Eccentric Proto Hot Jupiter TOI-3362b"
-      },
-      {
-        "authors": [
-          "Yahalomi, Daniel A."
-        ],
-        "bibcode": "2023AJ....166..258Y",
-        "ids": [
-          "10.3847/1538-3881/ad05cc",
-          "10.48550/arxiv.2302.05064",
-          "2023aj....166..258y",
-          "2023arxiv230205064y",
-          "2302.05064"
+          "10.3847/1538-3881/ac8b7e",
+          "10.48550/arxiv.2201.04197",
+          "2022aj....164..197b",
+          "2022arxiv220104197b",
+          "2201.04197"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys"
+        "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b"
       },
       {
         "authors": [
-          "Wittrock, Justin M."
+          "Hou Yip, Kai"
         ],
-        "bibcode": "2023AJ....166..232W",
+        "bibcode": "2022EPSC...16...31H",
         "ids": [
-          "10.3847/1538-3881/acfda8",
-          "10.48550/arxiv.2302.04922",
-          "2023aj....166..232w",
-          "2023arxiv230204922w",
-          "2302.04922"
+          "10.48550/arxiv.2205.07037",
+          "10.5194/epsc2022-31",
+          "2022arxiv220507037h",
+          "2022epsc...16...31h",
+          "2205.07037"
+        ],
+        "pub": "European Planetary Science Congress",
+        "title": "An Alternative Approach to Sampling: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flow"
+      },
+      {
+        "authors": [
+          "Hadden, Sam"
+        ],
+        "bibcode": "2022AJ....164..179H",
+        "ids": [
+          "10.3847/1538-3881/ac8d01",
+          "10.48550/arxiv.2205.10385",
+          "2022aj....164..179h",
+          "2022arxiv220510385h",
+          "2205.10385"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Validating AU Microscopii d with Transit Timing Variations"
+        "title": "celmech: A Python Package for Celestial Mechanics"
       },
       {
         "authors": [
-          "Dransfield, Georgina"
+          "Crossfield, Ian J. M."
         ],
-        "bibcode": "2024MNRAS.527...35D",
+        "bibcode": "2022ApJ...937L..17C",
         "ids": [
-          "10.1093/mnras/stad1439",
-          "10.48550/arxiv.2305.06206",
-          "2023arxiv230506206d",
-          "2023mnras.tmp.1463d",
-          "2024mnras.527...35d",
-          "2305.06206"
+          "10.3847/2041-8213/ac886b",
+          "10.48550/arxiv.2208.09479",
+          "2022apj...937l..17c",
+          "2022arxiv220809479c",
+          "2208.09479"
         ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "A 1.55 R<SUB>{\\ensuremath{\\oplus}}</SUB> habitable-zone planet hosted by TOI-715, an M4 star near the ecliptic South Pole"
+        "pub": "The Astrophysical Journal Letters",
+        "title": "GJ 1252b: A Hot Terrestrial Super-Earth with No Atmosphere"
       },
       {
         "authors": [
-          "Damasso, M."
+          "Garcia, L. J."
         ],
-        "bibcode": "2023A&A...679A..33D",
+        "bibcode": "2022A&A...665A..19G",
         "ids": [
-          "10.1051/0004-6361/202347240",
-          "10.48550/arxiv.2308.13310",
-          "2023a&a...679a..33d",
-          "2023arxiv230813310d",
-          "2308.13310"
+          "10.1051/0004-6361/202142603",
+          "10.48550/arxiv.2203.13698",
+          "2022a&a...665a..19g",
+          "2022arxiv220313698g",
+          "2203.13698"
         ],
         "pub": "Astronomy and Astrophysics",
-        "title": "A compact multi-planet system transiting HIP 29442 (TOI-469) discovered by TESS and ESPRESSO. Radial velocities lead to the detection of transits with low signal-to-noise ratio"
+        "title": "HST/WFC3 transmission spectroscopy of the cold rocky planet TRAPPIST-1h"
       },
       {
         "authors": [
-          "Quintana, Elisa V."
+          "Bonney, Paul"
         ],
-        "bibcode": "2023AJ....166..195Q",
+        "bibcode": "2022PSJ.....3..202B",
         "ids": [
-          "10.3847/1538-3881/acfa9f",
-          "10.48550/arxiv.2304.09189",
-          "2023aj....166..195q",
-          "2023arxiv230409189q",
-          "2304.09189"
+          "10.3847/psj/ac8669",
+          "10.48550/arxiv.2203.00222",
+          "2022arxiv220300222b",
+          "2022psj.....3..202b",
+          "2203.00222"
         ],
-        "pub": "The Astronomical Journal",
-        "title": "Two Warm Super-Earths Transiting the Nearby M Dwarf TOI-2095"
+        "pub": "The Planetary Science Journal",
+        "title": "On the Hydrosphere Stability of TESS Targets: Applications to 700 d, 256 b, and 203 b"
       },
       {
         "authors": [
           "Yoshida, Stephanie"
         ],
-        "bibcode": "2023AJ....166..181Y",
+        "bibcode": "2022AJ....164..119Y",
         "ids": [
-          "10.3847/1538-3881/acf858",
-          "10.48550/arxiv.2309.09945",
-          "2023aj....166..181y",
-          "2023arxiv230909945y",
-          "2309.09945"
+          "10.3847/1538-3881/ac83b1",
+          "10.48550/arxiv.2206.13556",
+          "2022aj....164..119y",
+          "2022arxiv220613556y",
+          "2206.13556"
         ],
         "pub": "The Astronomical Journal",
-        "title": "TESS Spots a Super-puff: The Remarkably Low Density of TOI-1420b"
+        "title": "Constraining the Planet Occurrence Rate around Halo Stars of Potentially Extragalactic Origin"
       },
       {
         "authors": [
-          "Pass, Emily K."
+          "Newton, Elisabeth R."
         ],
-        "bibcode": "2023AJ....166..171P",
+        "bibcode": "2022AJ....164..115N",
         "ids": [
-          "10.3847/1538-3881/acf561",
-          "10.48550/arxiv.2307.02970",
-          "2023aj....166..171p",
-          "2023arxiv230702970p",
-          "2307.02970"
+          "10.3847/1538-3881/ac8154",
+          "10.48550/arxiv.2206.06254",
+          "2022aj....164..115n",
+          "2022arxiv220606254n",
+          "2206.06254"
         ],
         "pub": "The Astronomical Journal",
-        "title": "HST/WFC3 Light Curve Supports a Terrestrial Composition for the Closest Exoplanet to Transit an M Dwarf"
+        "title": "TESS Hunt for Young and Maturing Exoplanets (THYME). VII. Membership, Rotation, and Lithium in the Young Cluster Group-X and a New Young Exoplanet"
       },
       {
         "authors": [
-          "Lange, Johannes U."
+          "Beleznay, Maya"
         ],
-        "bibcode": "2023MNRAS.525.3181L",
+        "bibcode": "2022MNRAS.516...75B",
         "ids": [
-          "10.1093/mnras/stad2441",
-          "10.48550/arxiv.2306.16923",
-          "2023arxiv230616923l",
-          "2023mnras.525.3181l",
-          "2023mnras.tmp.2334l",
-          "2306.16923"
+          "10.1093/mnras/stac2179",
+          "10.48550/arxiv.2207.12522",
+          "2022arxiv220712522b",
+          "2022mnras.516...75b",
+          "2022mnras.tmp.2078b",
+          "2207.12522"
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "NAUTILUS: boosting Bayesian importance nested sampling with deep learning"
+        "title": "Exploring the dependence of hot Jupiter occurrence rates on stellar mass with TESS"
       },
       {
         "authors": [
-          "Mireles, Ismael"
+          "Astropy Collaboration"
         ],
-        "bibcode": "2023ApJ...954L..15M",
+        "bibcode": "2022ApJ...935..167A",
         "ids": [
-          "10.3847/2041-8213/aceb69",
-          "10.48550/arxiv.2308.15572",
-          "2023apj...954l..15m",
-          "2023arxiv230815572m",
-          "2308.15572"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "TOI-4600 b and c: Two Long-period Giant Planets Orbiting an Early K Dwarf"
-      },
-      {
-        "authors": [
-          "Hurt, Spencer A."
-        ],
-        "bibcode": "2023ApJ...954...10H",
-        "ids": [
-          "10.3847/1538-4357/accf9d",
-          "10.48550/arxiv.2304.07446",
-          "2023apj...954...10h",
-          "2023arxiv230407446h",
-          "2304.07446"
+          "10.3847/1538-4357/ac7c74",
+          "10.48550/arxiv.2206.14220",
+          "2022apj...935..167a",
+          "2022arxiv220614220t",
+          "2206.14220"
         ],
         "pub": "The Astrophysical Journal",
-        "title": "Evidence for Misalignment between Debris Disks and Their Host Stars"
+        "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package"
       },
       {
         "authors": [
-          "Armstrong, David J."
+          "Gordon, Tyler A."
         ],
-        "bibcode": "2023MNRAS.524.5804A",
+        "bibcode": "2022AJ....164..111G",
         "ids": [
-          "10.1093/mnras/stad2183",
-          "10.48550/arxiv.2307.11566",
-          "2023arxiv230711566a",
-          "2023mnras.524.5804a",
-          "2023mnras.tmp.2090a",
-          "2023mnras.tmp.2102a",
-          "2307.11566"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Discovery and characterization of two Neptune-mass planets orbiting HD 212729 with TESS"
-      },
-      {
-        "authors": [
-          "Hawthorn, Faith"
-        ],
-        "bibcode": "2023MNRAS.524.3877H",
-        "ids": [
-          "10.1093/mnras/stad1840",
-          "10.48550/arxiv.2306.09758",
-          "2023arxiv230609758h",
-          "2023mnras.524.3877h",
-          "2023mnras.tmp.1796h",
-          "2306.09758"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TOI-908: a planet at the edge of the Neptune desert transiting a G-type star"
-      },
-      {
-        "authors": [
-          "Dong, Jiayin"
-        ],
-        "bibcode": "2023ApJ...951L..29D",
-        "ids": [
-          "10.3847/2041-8213/acd93d",
-          "10.48550/arxiv.2305.16495",
-          "2023apj...951l..29d",
-          "2023arxiv230516495d",
-          "2305.16495"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "TOI-1859b: A 64 Day Warm Jupiter on an Eccentric and Misaligned Orbit"
-      },
-      {
-        "authors": [
-          "MacDougall, Mason G."
-        ],
-        "bibcode": "2023AJ....166...61M",
-        "ids": [
-          "10.3847/1538-3881/ace16d",
-          "10.48550/arxiv.2307.07070",
-          "2023aj....166...61m",
-          "2023arxiv230707070m",
-          "2307.07070"
+          "10.3847/1538-3881/ac82b1",
+          "10.48550/arxiv.2207.06024",
+          "2022aj....164..111g",
+          "2022arxiv220706024g",
+          "2207.06024"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Accurate and Efficient Photoeccentric Transit Modeling"
-      },
-      {
-        "authors": [
-          "Gonz{\\'a}lez-{\\'A}lvarez, E."
-        ],
-        "bibcode": "2023A&A...675A.177G",
-        "ids": [
-          "10.1051/0004-6361/202346292",
-          "10.48550/arxiv.2306.08516",
-          "2023a&a...675a.177g",
-          "2023arxiv230608516g",
-          "2306.08516"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Two sub-Neptunes around the M dwarf TOI-1470"
-      },
-      {
-        "authors": [
-          "Sha, Lizhou"
-        ],
-        "bibcode": "2023MNRAS.524.1113S",
-        "ids": [
-          "10.1093/mnras/stad1666",
-          "10.48550/arxiv.2209.14396",
-          "2022arxiv220914396s",
-          "2023mnras.524.1113s",
-          "2023mnras.tmp.1632s",
-          "2209.14396"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TESS spots a mini-neptune interior to a hot saturn in the TOI-2000 system"
-      },
-      {
-        "authors": [
-          "Powers, Luke C."
-        ],
-        "bibcode": "2023AJ....166...44P",
-        "ids": [
-          "10.3847/1538-3881/acd8bf",
-          "10.48550/arxiv.2304.04730",
-          "2023aj....166...44p",
-          "2023arxiv230404730p",
-          "2304.04730"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "TOI-3785 b: A Low-density Neptune Orbiting an M2-dwarf Star"
-      },
-      {
-        "authors": [
-          "Hon, Marc"
-        ],
-        "bibcode": "2023Natur.618..917H",
-        "ids": [
-          "10.1038/s41586-023-06029-0",
-          "10.48550/arxiv.2306.15877",
-          "2023arxiv230615877h",
-          "2023natur.618..917h",
-          "2306.15877"
-        ],
-        "pub": "Nature",
-        "title": "A close-in giant planet escapes engulfment by its star"
-      },
-      {
-        "authors": [
-          "MacDougall, Mason G."
-        ],
-        "bibcode": "2023AJ....166...33M",
-        "ids": [
-          "10.3847/1538-3881/acd557",
-          "10.48550/arxiv.2306.00251",
-          "2023aj....166...33m",
-          "2023arxiv230600251m",
-          "2306.00251"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The TESS-Keck Survey. XV. Precise Properties of 108 TESS Planets and Their Host Stars"
+        "title": "Analytic Light Curve for Mutual Transits of Two Bodies Across a Limb-darkened Star"
       },
       {
         "authors": [
           "Osborn, H. P."
         ],
-        "bibcode": "2023MNRAS.523.3069O",
+        "bibcode": "2022A&A...664A.156O",
         "ids": [
-          "10.1093/mnras/stad1319",
-          "10.48550/arxiv.2306.04450",
-          "2023arxiv230604450o",
-          "2023mnras.523.3069o",
-          "2306.04450"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Two warm Neptunes transiting HIP 9618 revealed by TESS and Cheops"
-      },
-      {
-        "authors": [
-          "Kunimoto, Michelle"
-        ],
-        "bibcode": "2023AJ....166....7K",
-        "ids": [
-          "10.3847/1538-3881/acd537",
-          "10.48550/arxiv.2306.05308",
-          "2023aj....166....7k",
-          "2023arxiv230605308k",
-          "2306.05308"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "TOI-4010: A System of Three Large Short-period Planets with a Massive Long-period Companion"
-      },
-      {
-        "authors": [
-          "Chakrabarti, Sukanya"
-        ],
-        "bibcode": "2023AJ....166....6C",
-        "ids": [
-          "10.3847/1538-3881/accf21",
-          "10.48550/arxiv.2210.05003",
-          "2022arxiv221005003c",
-          "2023aj....166....6c",
-          "2210.05003"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "A Noninteracting Galactic Black Hole Candidate in a Binary System with a Main-sequence Star"
-      },
-      {
-        "authors": [
-          "Garai, Z."
-        ],
-        "bibcode": "2023A&A...674A..44G",
-        "ids": [
-          "10.1051/0004-6361/202345943",
-          "10.48550/arxiv.2306.04468",
-          "2023a&a...674a..44g",
-          "2023arxiv230604468g",
-          "2306.04468"
+          "10.1051/0004-6361/202243065",
+          "10.48550/arxiv.2203.03194",
+          "2022a&a...664a.156o",
+          "2022arxiv220303194o",
+          "2203.03194"
         ],
         "pub": "Astronomy and Astrophysics",
-        "title": "Refined parameters of the HD 22946 planetary system and the true orbital period of planet d\u2605"
+        "title": "Uncovering the true periods of the young sub-Neptunes orbiting TOI-2076"
       },
       {
         "authors": [
-          "Pass, Emily K."
+          "Giacalone, Steven"
         ],
-        "bibcode": "2023ApJ...949...37P",
+        "bibcode": "2022ApJ...935L..10G",
         "ids": [
-          "10.3847/1538-4357/accadf",
-          "10.48550/arxiv.2304.02466",
-          "2023apj...949...37p",
-          "2023arxiv230402466p",
-          "2304.02466"
+          "10.3847/2041-8213/ac80f4",
+          "10.48550/arxiv.2208.06396",
+          "2022apj...935l..10g",
+          "2022arxiv220806396g",
+          "2208.06396"
         ],
-        "pub": "The Astrophysical Journal",
-        "title": "G 68-34: A Double-lined M-dwarf Eclipsing Binary in a Hierarchical Triple System"
+        "pub": "The Astrophysical Journal Letters",
+        "title": "HD 56414 b: A Warm Neptune Transiting an A-type Star"
       },
       {
         "authors": [
-          "Sikora, James"
+          "MacDougall, Mason G."
         ],
-        "bibcode": "2023AJ....165..250S",
+        "bibcode": "2022AJ....164...97M",
         "ids": [
-          "10.3847/1538-3881/acc865",
-          "10.48550/arxiv.2304.00797",
-          "2023aj....165..250s",
-          "2023arxiv230400797s",
-          "2304.00797"
+          "10.3847/1538-3881/ac7ce1",
+          "10.48550/arxiv.2206.14327",
+          "2022aj....164...97m",
+          "2022arxiv220614327m",
+          "2206.14327"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Updated Planetary Mass Constraints of the Young V1298 Tau System Using MAROON-X"
+        "title": "The TESS-Keck Survey. XIII. An Eccentric Hot Neptune with a Similar-mass Outer Companion around TOI-1272"
       },
       {
         "authors": [
-          "Libby-Roberts, Jessica E."
+          "Gilbert, Gregory J."
         ],
-        "bibcode": "2023AJ....165..249L",
+        "bibcode": "2022AJ....164...92G",
         "ids": [
-          "10.3847/1538-3881/accc2f",
-          "2023aj....165..249l"
+          "10.3847/1538-3881/ac7f2f",
+          "10.48550/arxiv.2206.03432",
+          "2022aj....164...92g",
+          "2022arxiv220603432g",
+          "2206.03432"
         ],
         "pub": "The Astronomical Journal",
-        "title": "An In-depth Look at TOI-3884b: A Super-Neptune Transiting an M4Dwarf with Persistent Starspot Crossings"
-      },
-      {
-        "authors": [
-          "Kreutzer, Lars T."
-        ],
-        "bibcode": "2023MNRAS.522.5049K",
-        "ids": [
-          "10.1093/mnras/stad1223",
-          "10.48550/arxiv.2304.10641",
-          "2023arxiv230410641k",
-          "2023mnras.522.5049k",
-          "2023mnras.tmp.1190k",
-          "2304.10641"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "S-ACF: a selective estimator for the autocorrelation function of irregularly sampled time series"
-      },
-      {
-        "authors": [
-          "McKee, Brendan J."
-        ],
-        "bibcode": "2023AJ....165..236M",
-        "ids": [
-          "10.3847/1538-3881/accd66",
-          "10.48550/arxiv.2212.07450",
-          "2022arxiv221207450m",
-          "2023aj....165..236m",
-          "2212.07450"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Transit Depth Variations Reveal TOI-216 b to be a Super-puff"
-      },
-      {
-        "authors": [
-          "Gupta, Arvind F."
-        ],
-        "bibcode": "2023AJ....165..234G",
-        "ids": [
-          "10.3847/1538-3881/accb9b",
-          "10.48550/arxiv.2303.14570",
-          "2023aj....165..234g",
-          "2023arxiv230314570g",
-          "2303.14570"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "A High-Eccentricity Warm Jupiter Orbiting TOI-4127"
-      },
-      {
-        "authors": [
-          "Lambert, Mika"
-        ],
-        "bibcode": "2023AJ....165..218L",
-        "ids": [
-          "10.3847/1538-3881/acc651",
-          "10.48550/arxiv.2303.16193",
-          "2023aj....165..218l",
-          "2023arxiv230316193l",
-          "2303.16193"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "TOI-5375 B: A Very Low Mass Star at the Hydrogen-burning Limit Orbiting an Early M-type Star"
-      },
-      {
-        "authors": [
-          "Trifonov, Trifon"
-        ],
-        "bibcode": "2023AJ....165..179T",
-        "ids": [
-          "10.3847/1538-3881/acba9b",
-          "10.48550/arxiv.2302.05694",
-          "2023aj....165..179t",
-          "2023arxiv230205694t",
-          "2302.05694"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "TOI-2525 b and c: A Pair of Massive Warm Giant Planets with Strong Transit Timing Variations Revealed by TESS"
-      },
-      {
-        "authors": [
-          "Hearin, Andrew P."
-        ],
-        "bibcode": "2023MNRAS.521.1741H",
-        "ids": [
-          "10.1093/mnras/stad456",
-          "10.48550/arxiv.2112.06830",
-          "2021arxiv211206830h",
-          "2023mnras.521.1741h",
-          "2023mnras.tmp..474h",
-          "2112.06830"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "DSPS: Differentiable stellar population synthesis"
-      },
-      {
-        "authors": [
-          "Hawthorn, Faith"
-        ],
-        "bibcode": "2023MNRAS.520.3649H",
-        "ids": [
-          "10.1093/mnras/stad306",
-          "10.48550/arxiv.2208.07328",
-          "2022arxiv220807328h",
-          "2023mnras.520.3649h",
-          "2023mnras.tmp..458h",
-          "2208.07328"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TOI-836: A super-Earth and mini-Neptune transiting a nearby K-dwarf"
-      },
-      {
-        "authors": [
-          "Fern{\\'a}ndez, V."
-        ],
-        "bibcode": "2023MNRAS.520.3576F",
-        "ids": [
-          "10.1093/mnras/stad198",
-          "10.48550/arxiv.2212.10593",
-          "2022arxiv221210593f",
-          "2023mnras.520.3576f",
-          "2023mnras.tmp..245f",
-          "2212.10593"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The resolved chemical composition of the starburst dwarf galaxy CGCG007-025: direct method versus photoionization model fitting"
-      },
-      {
-        "authors": [
-          "Thygesen, Erica"
-        ],
-        "bibcode": "2023AJ....165..155T",
-        "ids": [
-          "10.3847/1538-3881/acaf03",
-          "10.48550/arxiv.2301.01306",
-          "2023aj....165..155t",
-          "2023arxiv230101306t",
-          "2301.01306"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "The K2 and TESS Synergy. II. Revisiting 26 Systems in the TESS Primary Mission"
-      },
-      {
-        "authors": [
-          "Rustamkulov, Z."
-        ],
-        "bibcode": "2023Natur.614..659R",
-        "ids": [
-          "10.1038/s41586-022-05677-y",
-          "10.48550/arxiv.2211.10487",
-          "2022arxiv221110487r",
-          "2023natur.614..659r",
-          "2211.10487"
-        ],
-        "pub": "Nature",
-        "title": "Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM"
-      },
-      {
-        "authors": [
-          "Ahrer, Eva-Maria"
-        ],
-        "bibcode": "2023Natur.614..653A",
-        "ids": [
-          "10.1038/s41586-022-05590-4",
-          "10.48550/arxiv.2211.10489",
-          "2022arxiv221110489a",
-          "2023natur.614..653a",
-          "2211.10489"
-        ],
-        "pub": "Nature",
-        "title": "Early Release Science of the exoplanet WASP-39b with JWST NIRCam"
-      },
-      {
-        "authors": [
-          "JWST Transiting Exoplanet Community Early Release Science Team"
-        ],
-        "bibcode": "2023Natur.614..649J",
-        "ids": [
-          "10.1038/s41586-022-05269-w",
-          "10.48550/arxiv.2208.11692",
-          "2022arxiv220811692t",
-          "2023natur.614..649j",
-          "2208.11692"
-        ],
-        "pub": "Nature",
-        "title": "Identification of carbon dioxide in an exoplanet atmosphere"
-      },
-      {
-        "authors": [
-          "Killestein, T. L."
-        ],
-        "bibcode": "2023MNRAS.520.5317K",
-        "ids": [
-          "10.1093/mnras/stad366",
-          "10.48550/arxiv.2302.00018",
-          "2023arxiv230200018k",
-          "2023mnras.520.5317k",
-          "2023mnras.tmp..379k",
-          "2302.00018"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Precision Ephemerides for Gravitational-wave Searches - IV. Corrected and refined ephemeris for Scorpius X-1"
+        "title": "Implicit Biases in Transit Models Using Stellar Pseudo Density"
       },
       {
         "authors": [
           "Kanodia, Shubham"
         ],
-        "bibcode": "2023AJ....165..120K",
+        "bibcode": "2022AJ....164...81K",
         "ids": [
-          "10.3847/1538-3881/acabce",
-          "10.48550/arxiv.2209.11160",
-          "2022arxiv220911160k",
-          "2023aj....165..120k",
-          "2209.11160"
+          "10.3847/1538-3881/ac7c20",
+          "10.48550/arxiv.2203.07178",
+          "2022aj....164...81k",
+          "2022arxiv220307178k",
+          "2203.07178"
         ],
         "pub": "The Astronomical Journal",
-        "title": "TOI-5205b: A Short-period Jovian Planet Transiting a Mid-M Dwarf"
+        "title": "TOI-3757 b: A Low-density Gas Giant Orbiting a Solar-metallicity M Dwarf"
       },
       {
         "authors": [
-          "Johnston, C."
+          "MacGregor, Meredith A."
         ],
-        "bibcode": "2023A&A...670A.167J",
+        "bibcode": "2022ApJ...933L...1M",
         "ids": [
-          "10.1051/0004-6361/202244808",
-          "10.48550/arxiv.2210.06491",
-          "2022arxiv221006491j",
-          "2023a&a...670a.167j",
-          "2210.06491"
+          "10.3847/2041-8213/ac7729",
+          "10.48550/arxiv.2206.05856",
+          "2022apj...933l...1m",
+          "2022arxiv220605856m",
+          "2206.05856"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "ALMA Images the Eccentric HD 53143 Debris Disk"
+      },
+      {
+        "authors": [
+          "Wittrock, Justin M."
+        ],
+        "bibcode": "2022AJ....164...27W",
+        "ids": [
+          "10.3847/1538-3881/ac68e5",
+          "10.48550/arxiv.2202.05813",
+          "2022aj....164...27w",
+          "2022arxiv220205813w",
+          "2202.05813"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "Transit Timing Variations for AU Microscopii b and c"
+      },
+      {
+        "authors": [
+          "Beard, Corey"
+        ],
+        "bibcode": "2022AJ....163..286B",
+        "ids": [
+          "10.3847/1538-3881/ac69ec",
+          "10.48550/arxiv.2204.09063",
+          "2022aj....163..286b",
+          "2022arxiv220409063b",
+          "2204.09063"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "TOI-1696 and TOI-2136: Constraining the Masses of Two Mini-Neptunes with the Habitable-Zone Planet Finder"
+      },
+      {
+        "authors": [
+          "Johnson, Marshall C."
+        ],
+        "bibcode": "2022AJ....163..247J",
+        "ids": [
+          "10.3847/1538-3881/ac6271",
+          "10.48550/arxiv.2110.10707",
+          "2021arxiv211010707j",
+          "2022aj....163..247j",
+          "2110.10707"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "An Aligned Orbit for the Young Planet V1298 Tau b"
+      },
+      {
+        "authors": [
+          "Morris, Brett M."
+        ],
+        "bibcode": "2022A&A...660A.123M",
+        "ids": [
+          "10.1051/0004-6361/202142135",
+          "10.48550/arxiv.2110.11837",
+          "2021arxiv211011837m",
+          "2022a&a...660a.123m",
+          "2110.11837"
         ],
         "pub": "Astronomy and Astrophysics",
-        "title": "Tidal perturbations and eclipse mapping in the pulsations in the hierarchical triple system U Gru"
+        "title": "Physically-motivated basis functions for temperature maps of exoplanets"
       },
       {
         "authors": [
-          "Tey, Evan"
+          "Hurt, Spencer A."
         ],
-        "bibcode": "2023AJ....165...93T",
+        "bibcode": "2022AJ....163..218H",
         "ids": [
-          "10.3847/1538-3881/acaf88",
-          "10.48550/arxiv.2301.01370",
-          "2023aj....165...93t",
-          "2023arxiv230101370t",
-          "2301.01370"
+          "10.3847/1538-3881/ac5c47",
+          "10.48550/arxiv.2107.09087",
+          "2021arxiv210709087h",
+          "2022aj....163..218h",
+          "2107.09087"
         ],
         "pub": "The Astronomical Journal",
-        "title": "TESS Discovery of Twin Planets near 2:1 Resonance around Early M Dwarf TOI 4342"
+        "title": "Confirmation of the Long-period Planet Orbiting Gliese 411 and the Detection of a New Planet Candidate"
       },
       {
         "authors": [
-          "McGill, Peter"
+          "Boyle, Andrew"
         ],
-        "bibcode": "2023MNRAS.520..259M",
+        "bibcode": "2022RNAAS...6...71B",
         "ids": [
-          "10.1093/mnras/stac3532",
-          "10.48550/arxiv.2206.01814",
-          "2022arxiv220601814m",
-          "2022mnras.tmp.3326m",
-          "2023mnras.520..259m",
-          "2206.01814"
+          "10.3847/2515-5172/ac64fe",
+          "2022rnaas...6...71b"
         ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "First semi-empirical test of the white dwarf mass-radius relationship using a single white dwarf via astrometric microlensing"
+        "pub": "Research Notes of the American Astronomical Society",
+        "title": "An Updated Ephemeris for K2-138 d"
       },
       {
         "authors": [
-          "Zhang, Michael"
+          "Wong, Ian"
         ],
-        "bibcode": "2023AJ....165...62Z",
+        "bibcode": "2022AJ....163..175W",
         "ids": [
-          "10.3847/1538-3881/aca75b",
-          "10.48550/arxiv.2207.13099",
-          "2022arxiv220713099z",
-          "2023aj....165...62z",
-          "2207.13099"
+          "10.3847/1538-3881/ac5680",
+          "10.48550/arxiv.2201.08370",
+          "2022aj....163..175w",
+          "2022arxiv220108370w",
+          "2201.08370"
         ],
         "pub": "The Astronomical Journal",
-        "title": "Detection of Atmospheric Escape from Four Young Mini-Neptunes"
+        "title": "TESS Revisits WASP-12: Updated Orbital Decay Rate and Constraints on Atmospheric Variability"
       },
       {
         "authors": [
-          "Han, Te"
+          "Gilbert, Emily A."
         ],
-        "bibcode": "2023AJ....165...71H",
+        "bibcode": "2022AJ....163..147G",
         "ids": [
-          "10.3847/1538-3881/acaaa7",
-          "10.48550/arxiv.2301.03704",
-          "2023aj....165...71h",
-          "2023arxiv230103704h",
-          "2301.03704"
+          "10.3847/1538-3881/ac23ca",
+          "10.48550/arxiv.2109.03924",
+          "2021arxiv210903924g",
+          "2022aj....163..147g",
+          "2109.03924"
         ],
         "pub": "The Astronomical Journal",
-        "title": "TESS-Gaia Light Curve: A PSF-based TESS FFI Light-curve Product"
+        "title": "Flares, Rotation, and Planets of the AU Mic System from TESS Observations"
       },
       {
         "authors": [
-          "Grant, David"
+          "Eisner, N. L."
         ],
-        "bibcode": "2023MNRAS.519.5114G",
+        "bibcode": "2022MNRAS.511.4710E",
         "ids": [
-          "10.1093/mnras/stac3632",
-          "10.48550/arxiv.2212.07294",
-          "2022arxiv221207294g",
-          "2022mnras.tmp.3383g",
-          "2023mnras.519.5114g",
-          "2212.07294"
+          "10.1093/mnras/stab3619",
+          "10.48550/arxiv.2202.06964",
+          "2022arxiv220206964e",
+          "2022mnras.511.4710e",
+          "2202.06964"
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Transmission strings: a technique for spatially mapping exoplanet atmospheres around their terminators"
+        "title": "Planet Hunters TESS IV: a massive, compact hierarchical triple star system TIC 470710327"
       },
       {
         "authors": [
-          "Ho, Cynthia S. K."
+          "Chachan, Yayaati"
         ],
-        "bibcode": "2023MNRAS.519.4056H",
+        "bibcode": "2022ApJ...926...62C",
         "ids": [
-          "10.1093/mnras/stac3802",
-          "10.48550/arxiv.2301.04062",
-          "2023arxiv230104062h",
-          "2023mnras.519.4056h",
-          "2023mnras.tmp...26h",
-          "2301.04062"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "A deep radius valley revealed by Kepler short cadence observations"
-      },
-      {
-        "authors": [
-          "Greklek-McKeon, Michael"
-        ],
-        "bibcode": "2023AJ....165...48G",
-        "ids": [
-          "10.3847/1538-3881/ac8553",
-          "10.48550/arxiv.2208.00022",
-          "2022arxiv220800022g",
-          "2023aj....165...48g",
-          "2208.00022"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Constraining the Densities of the Three Kepler-289 Planets with Transit Timing Variations"
-      },
-      {
-        "authors": [
-          "Lam, K. W. F."
-        ],
-        "bibcode": "2023MNRAS.519.1437L",
-        "ids": [
-          "10.1093/mnras/stac3639",
-          "10.48550/arxiv.2212.04307",
-          "2022arxiv221204307l",
-          "2022mnras.tmp.3393l",
-          "2023mnras.519.1437l",
-          "2212.04307"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Discovery of TOI-1260d and the characterization of the multiplanet system"
-      },
-      {
-        "authors": [
-          "Zieba, Sebastian"
-        ],
-        "bibcode": "2022JOSS....7.4838Z",
-        "ids": [
-          "10.21105/joss.04838",
-          "10.48550/arxiv.2212.11421",
-          "2022arxiv221211421z",
-          "2022joss....7.4838z",
-          "2212.11421"
-        ],
-        "pub": "The Journal of Open Source Software",
-        "title": "PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data"
-      },
-      {
-        "authors": [
-          "Gully-Santiago, Michael"
-        ],
-        "bibcode": "2022ApJ...941..200G",
-        "ids": [
-          "10.3847/1538-4357/aca0a2",
-          "10.48550/arxiv.2210.01827",
-          "2022apj...941..200g",
-          "2022arxiv221001827g",
-          "2210.01827"
+          "10.3847/1538-4357/ac3ed6",
+          "10.48550/arxiv.2112.00747",
+          "2021arxiv211200747c",
+          "2022apj...926...62c",
+          "2112.00747"
         ],
         "pub": "The Astrophysical Journal",
-        "title": "An Interpretable Machine-learning Framework for Modeling High-resolution Spectroscopic Data"
+        "title": "Kepler-167e as a Probe of the Formation Histories of Cold Giants with Inner Super-Earths"
       },
       {
         "authors": [
-          "Cacciapuoti, Luca"
+          "Dong, Jiayin"
         ],
-        "bibcode": "2022A&A...668A..85C",
+        "bibcode": "2022ApJ...926L...7D",
         "ids": [
-          "10.1051/0004-6361/202243565",
-          "10.48550/arxiv.2209.09597",
-          "2022a&a...668a..85c",
-          "2022arxiv220909597c",
-          "2209.09597"
+          "10.3847/2041-8213/ac4da0",
+          "10.48550/arxiv.2201.12836",
+          "2022apj...926l...7d",
+          "2022arxiv220112836d",
+          "2201.12836"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "NEID Rossiter-McLaughlin Measurement of TOI-1268b: A Young Warm Saturn Aligned with Its Cool Host Star"
+      },
+      {
+        "authors": [
+          "Feinstein, Adina D."
+        ],
+        "bibcode": "2022ApJ...925L...2F",
+        "ids": [
+          "10.3847/2041-8213/ac4745",
+          "10.48550/arxiv.2111.08660",
+          "2021arxiv211108660f",
+          "2022apj...925l...2f",
+          "2111.08660"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e"
+      },
+      {
+        "authors": [
+          "Dholakia, Shashank"
+        ],
+        "bibcode": "2022ApJ...925..185D",
+        "ids": [
+          "10.3847/1538-4357/ac33aa",
+          "10.48550/arxiv.2109.03250",
+          "2021arxiv210903250d",
+          "2022apj...925..185d",
+          "2109.03250"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": "Efficient and Precise Transit Light Curves for Rapidly Rotating, Oblate Stars"
+      },
+      {
+        "authors": [
+          "Bouma, L. G."
+        ],
+        "bibcode": "2022AJ....163..121B",
+        "ids": [
+          "10.3847/1538-3881/ac4966",
+          "10.48550/arxiv.2112.14776",
+          "2021arxiv211214776b",
+          "2022aj....163..121b",
+          "2112.14776"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "A 38 Million Year Old Neptune-sized Planet in the Kepler Field"
+      },
+      {
+        "authors": [
+          "Gilbert, Gregory J."
+        ],
+        "bibcode": "2022AJ....163..111G",
+        "ids": [
+          "10.3847/1538-3881/ac45f4",
+          "10.48550/arxiv.2201.08350",
+          "2022aj....163..111g",
+          "2022arxiv220108350g",
+          "2201.08350"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "Accurate Modeling of Grazing Transits Using Umbrella Sampling"
+      },
+      {
+        "authors": [
+          "Kawahara, Hajime"
+        ],
+        "bibcode": "2022ApJS..258...31K",
+        "ids": [
+          "10.3847/1538-4365/ac3b4d",
+          "10.48550/arxiv.2105.14782",
+          "2021arxiv210514782k",
+          "2022apjs..258...31k",
+          "2105.14782"
+        ],
+        "pub": "The Astrophysical Journal Supplement Series",
+        "title": "Autodifferentiable Spectrum Model for High-dispersion Characterization of Exoplanets and Brown Dwarfs"
+      },
+      {
+        "authors": [
+          "Huber, Daniel"
+        ],
+        "bibcode": "2022AJ....163...79H",
+        "ids": [
+          "10.3847/1538-3881/ac3000",
+          "10.48550/arxiv.2108.09109",
+          "2021arxiv210809109h",
+          "2022aj....163...79h",
+          "2108.09109"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "A 20 Second Cadence View of Solar-type Stars and Their Planets with TESS: Asteroseismology of Solar Analogs and a Recharacterization of {\\ensuremath{\\pi}} Men c"
+      },
+      {
+        "authors": [
+          "Schanche, N."
+        ],
+        "bibcode": "2022A&A...657A..45S",
+        "ids": [
+          "10.1051/0004-6361/202142280",
+          "10.48550/arxiv.2111.01749",
+          "2021arxiv211101749s",
+          "2022a&a...657a..45s",
+          "2111.01749"
         ],
         "pub": "Astronomy and Astrophysics",
-        "title": "TESS discovery of a super-Earth and two sub-Neptunes orbiting the bright, nearby, Sun-like star HD 22946"
+        "title": "TOI-2257 b: A highly eccentric long-period sub-Neptune transiting a nearby M dwarf"
       },
       {
         "authors": [
-          "Bowman, Dominic M."
+          "MacDougall, Mason G."
         ],
-        "bibcode": "2022A&A...668A.134B",
+        "bibcode": "2021AJ....162..265M",
         "ids": [
-          "10.1051/0004-6361/202243545",
-          "10.48550/arxiv.2211.08347",
-          "2022a&a...668a.134b",
-          "2022arxiv221108347b",
-          "2211.08347"
+          "10.3847/1538-3881/ac295e",
+          "10.48550/arxiv.2110.05628",
+          "2021aj....162..265m",
+          "2021arxiv211005628m",
+          "2110.05628"
         ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Photometric detection of internal gravity waves in upper main-sequence stars. III. Comparison of amplitude spectrum fitting and Gaussian process regression using CELERITE2"
+        "pub": "The Astronomical Journal",
+        "title": "The TESS-Keck Survey. VI. Two Eccentric Sub-Neptunes Orbiting HIP-97166"
       },
       {
         "authors": [
-          "del Ser, D."
+          "Barrag{\\'a}n, Oscar"
         ],
-        "bibcode": "2023MNRAS.518..669D",
+        "bibcode": "2022MNRAS.509..866B",
         "ids": [
-          "10.1093/mnras/stac3087",
-          "10.48550/arxiv.2210.10805",
-          "2022arxiv221010805d",
-          "2022mnras.tmp.2899d",
-          "2023mnras.518..669d",
-          "2210.10805"
+          "10.1093/mnras/stab2889",
+          "10.48550/arxiv.2109.14086",
+          "2021arxiv210914086b",
+          "2021mnras.tmp.2625b",
+          "2022mnras.509..866b",
+          "2109.14086"
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "TFAW survey II: six newly validated planets and 13 planet candidates from K2"
+        "title": "PYANETI - II. A multidimensional Gaussian process approach to analysing spectroscopic time-series"
       },
       {
         "authors": [
-          "Pejcha, Ond{\\v{r}}ej"
+          "Polanski, Alex S."
         ],
-        "bibcode": "2022A&A...667A..53P",
+        "bibcode": "2021AJ....162..238P",
         "ids": [
-          "10.1051/0004-6361/202244335",
-          "10.48550/arxiv.2206.12456",
-          "2022a&a...667a..53p",
-          "2022arxiv220612456p",
-          "2206.12456"
+          "10.3847/1538-3881/ac1590",
+          "10.48550/arxiv.2107.08092",
+          "2021aj....162..238p",
+          "2021arxiv210708092p",
+          "2107.08092"
         ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "The complex dynamical past and future of double eclipsing binary CzeV343: Misaligned orbits and period resonance"
+        "pub": "The Astronomical Journal",
+        "title": "Wolf 503 b: Characterization of a Sub-Neptune Orbiting a Metal-poor K Dwarf"
+      },
+      {
+        "authors": [
+          "Hey, Daniel R."
+        ],
+        "bibcode": "2021AJ....162..204H",
+        "ids": [
+          "10.3847/1538-3881/ac1b9b",
+          "10.48550/arxiv.2108.03785",
+          "2021aj....162..204h",
+          "2021arxiv210803785h",
+          "2108.03785"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "A Search for Transits among the Delta Scuti Variables in Kepler"
+      },
+      {
+        "authors": [
+          "Dong, Jiayin"
+        ],
+        "bibcode": "2021ApJ...920L..16D",
+        "ids": [
+          "10.3847/2041-8213/ac2600",
+          "10.48550/arxiv.2109.03771",
+          "2021apj...920l..16d",
+          "2021arxiv210903771d",
+          "2109.03771"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "TOI-3362b: A Proto Hot Jupiter Undergoing High-eccentricity Tidal Migration"
+      },
+      {
+        "authors": [
+          "Brandt, Timothy D."
+        ],
+        "bibcode": "2021AJ....162..186B",
+        "ids": [
+          "10.3847/1538-3881/ac042e",
+          "10.48550/arxiv.2105.11671",
+          "2021aj....162..186b",
+          "2021arxiv210511671b",
+          "2105.11671"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "orvara: An Efficient Code to Fit Orbits Using Radial Velocity, Absolute, and/or Relative Astrometry"
+      },
+      {
+        "authors": [
+          "Kanodia, Shubham"
+        ],
+        "bibcode": "2021AJ....162..135K",
+        "ids": [
+          "10.3847/1538-3881/ac1940",
+          "10.48550/arxiv.2107.13670",
+          "2021aj....162..135k",
+          "2021arxiv210713670k",
+          "2107.13670"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "TOI-532b: The Habitable-zone Planet Finder confirms a Large Super Neptune in the Neptune Desert orbiting a metal-rich M-dwarf host"
       }
     ],
     "doctype": "article",
