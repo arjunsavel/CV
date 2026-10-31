@@ -125,7 +125,22 @@
       "Zambelli, R.",
       "Zingales, T."
     ],
-    "citations": 0,
+    "citations": 1,
+    "citing": [
+      {
+        "authors": [
+          "Yee, Samuel W."
+        ],
+        "bibcode": "2026arXiv261028533Y",
+        "ids": [
+          "10.48550/arxiv.2610.28533",
+          "2026arxiv261028533y",
+          "2610.28533"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "TOI-3686: A Hot Jupiter and Sub-Neptune In A 2:1 Mean-Motion Resonance"
+      }
+    ],
     "doctype": "article",
     "doi": "10.1051/0004-6361/202660961",
     "page": "A22",
@@ -752,46 +767,20 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 3,
+    "citations": 1,
     "citing": [
       {
         "authors": [
-          "Srivastava, Avidaan"
+          "Rapetti, David"
         ],
-        "bibcode": "2026arXiv260917792S",
+        "bibcode": "2026arXiv261001040R",
         "ids": [
-          "10.48550/arxiv.2609.17792",
-          "2026arxiv260917792s",
-          "2609.17792"
+          "10.48550/arxiv.2610.01040",
+          "2026arxiv261001040r",
+          "2610.01040"
         ],
         "pub": "arXiv e-prints",
-        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
-      },
-      {
-        "authors": [
-          "Jontof-Hutter, Daniel"
-        ],
-        "bibcode": "2026arXiv260825035J",
-        "ids": [
-          "10.48550/arxiv.2608.25035",
-          "2026arxiv260825035j",
-          "2608.25035"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
-      },
-      {
-        "authors": [
-          "Hansen, Brad"
-        ],
-        "bibcode": "2026arXiv260719632H",
-        "ids": [
-          "10.48550/arxiv.2607.19632",
-          "2026arxiv260719632h",
-          "2607.19632"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Dynamically Selected Mass-Radius Relationship for Low Mass Exoplanets"
+        "title": "Comparing Optimized Systematic Error Correction Methods on Selected TESS Light Curves"
       }
     ],
     "doctype": "article",
@@ -986,8 +975,34 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 2,
+    "citations": 4,
     "citing": [
+      {
+        "authors": [
+          "Srivastava, Avidaan"
+        ],
+        "bibcode": "2026arXiv260917792S",
+        "ids": [
+          "10.48550/arxiv.2609.17792",
+          "2026arxiv260917792s",
+          "2609.17792"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
+      },
+      {
+        "authors": [
+          "Jontof-Hutter, Daniel"
+        ],
+        "bibcode": "2026arXiv260825035J",
+        "ids": [
+          "10.48550/arxiv.2608.25035",
+          "2026arxiv260825035j",
+          "2608.25035"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
+      },
       {
         "authors": [
           "Madurga-Favieres, Cristina"
@@ -2568,7 +2583,7 @@
       "Rackham, Benjamin V.",
       "Tan, Xianyu"
     ],
-    "citations": 13,
+    "citations": 14,
     "citing": [
       {
         "authors": [
@@ -2581,6 +2596,19 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres"
+      },
+      {
+        "authors": [
+          "Fromont, Emeline F."
+        ],
+        "bibcode": "2026arXiv261030243F",
+        "ids": [
+          "10.48550/arxiv.2610.30243",
+          "2026arxiv261030243f",
+          "2610.30243"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b"
       },
       {
         "authors": [
@@ -3126,8 +3154,21 @@
       "Beltz, Hayley",
       "Steinrueck, Maria E."
     ],
-    "citations": 6,
+    "citations": 7,
     "citing": [
+      {
+        "authors": [
+          "Fromont, Emeline F."
+        ],
+        "bibcode": "2026arXiv261030243F",
+        "ids": [
+          "10.48550/arxiv.2610.30243",
+          "2026arxiv261030243f",
+          "2610.30243"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b"
+      },
       {
         "authors": [
           "Alderson, Lili"
@@ -12471,8 +12512,21 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 170,
+    "citations": 171,
     "citing": [
+      {
+        "authors": [
+          "Weeks, Angharad"
+        ],
+        "bibcode": "2026arXiv261030594W",
+        "ids": [
+          "10.48550/arxiv.2610.30594",
+          "2026arxiv261030594w",
+          "2610.30594"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Detection of Solar-like Oscillations and Granulation at Infrared Wavelengths using JWST"
+      },
       {
         "authors": [
           "Hayashi, Yuya"
@@ -15036,8 +15090,21 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 184,
+    "citations": 185,
     "citing": [
+      {
+        "authors": [
+          "Aresu, Giambattista"
+        ],
+        "bibcode": "2026arXiv261028117A",
+        "ids": [
+          "10.48550/arxiv.2610.28117",
+          "2026arxiv261028117a",
+          "2610.28117"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The T-matrix method for modeling the optical properties of grains in exoplanetary atmospheres"
+      },
       {
         "authors": [
           "Wu, Yunke"
@@ -19982,8 +20049,21 @@
       "Malsky, Isaac",
       "Savel, Arjun B."
     ],
-    "citations": 28,
+    "citations": 29,
     "citing": [
+      {
+        "authors": [
+          "Fromont, Emeline F."
+        ],
+        "bibcode": "2026arXiv261030243F",
+        "ids": [
+          "10.48550/arxiv.2610.30243",
+          "2026arxiv261030243f",
+          "2610.30243"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b"
+      },
       {
         "authors": [
           "Wardenier, Joost P."
@@ -21454,8 +21534,21 @@
       "Malik, Matej",
       "Malsky, Isaac"
     ],
-    "citations": 30,
+    "citations": 31,
     "citing": [
+      {
+        "authors": [
+          "Fromont, Emeline F."
+        ],
+        "bibcode": "2026arXiv261030243F",
+        "ids": [
+          "10.48550/arxiv.2610.30243",
+          "2026arxiv261030243f",
+          "2610.30243"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b"
+      },
       {
         "authors": [
           "Sicilia, D."
@@ -32286,8 +32379,34 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 244,
+    "citations": 246,
     "citing": [
+      {
+        "authors": [
+          "McMaster, Adam"
+        ],
+        "bibcode": "2026arXiv261030203M",
+        "ids": [
+          "10.48550/arxiv.2610.30203",
+          "2026arxiv261030203m",
+          "2610.30203"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Confirming candidate self-lensing binary detections with radial velocity measurements"
+      },
+      {
+        "authors": [
+          "Yee, Samuel W."
+        ],
+        "bibcode": "2026arXiv261028533Y",
+        "ids": [
+          "10.48550/arxiv.2610.28533",
+          "2026arxiv261028533y",
+          "2610.28533"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "TOI-3686: A Hot Jupiter and Sub-Neptune In A 2:1 Mean-Motion Resonance"
+      },
       {
         "authors": [
           "Wang, Rita Lanxuan"
