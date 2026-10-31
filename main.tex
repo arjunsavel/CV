@@ -5,7 +5,7 @@
 % License : MIT
 %------------------------
 
-\documentclass[letterpaper,10.5pt]{article}
+\documentclass[letterpaper,12pt]{article}
 
 \usepackage{orcidlink}
 \usepackage{fontawesome}
@@ -35,7 +35,7 @@
 % \chead{\deemph{Curriculum Vitae}}
 % \rhead{\deemph{\thepage}}
 
-\usepackage[charter]{mathdesign}
+\usepackage[Xcharter]{mathdesign}
 \usepackage{fancyhdr}% Bitstream Charter
 % \usepackage{newpxtext,newpxmath} % Palatino
 
@@ -46,13 +46,22 @@
 % \renewcommand{\footrulewidth}{0pt}
 
 % Adjust margins
-\addtolength{\oddsidemargin}{-0.50in}
-\addtolength{\evensidemargin}{-0.50in}
-\addtolength{\textwidth}{1in}
+% \addtolength{\oddsidemargin}{-0.50in}
+% \addtolength{\evensidemargin}{-0.50in}
+% \addtolength{\textwidth}{1in}
+
+\geometry{letterpaper,margin=1in,includehead,includefoot,headsep=10pt,footskip=20pt}
+\setlength{\headwidth}{\textwidth}
 % \addtolength{\bottommargin}{-.5in}
 % \addtolength{\textheight}{1.0in}
 
 \urlstyle{same}
+
+\renewcommand{\small}{\normalsize}
+\renewcommand{\footnotesize}{\normalsize}
+\renewcommand{\scriptsize}{\normalsize}
+\renewcommand{\tiny}{\normalsize}
+\setlength{\parskip}{0.5ex}   % claw back some vertical space
 
 \raggedbottom
 \raggedright
@@ -148,18 +157,18 @@
   \textsf{\small \href{href="mailto:savel@caltech.edu"}{savel@caltech.edu}} $\vert$  \orcidlink{0000-0002-2454-768X} \href{https://orcid.org/0000-0002-2454-768X/}{0000-0002-2454-768X} $\vert$ \href{https://www.arjunsavel.com}{www.arjunsavel.com} \par \colorLinkedinSign \hspace{2pt} \href{https://www.linkedin.com/in/arjunsavel}{https://www.linkedin.com/in/arjunsavel}  |
   \faGithubSquare \hspace{2pt} \href{https://github.com/arjunsavel}{https://github.com/arjunsavel}
 \end{center}
-
+\thispagestyle{fancy}
 \shorterSection{Positions}
   \resumeSubHeadingListStart
 
       \resumeSubheading
       {Postdoctoral Researcher --- Caltech}{Pasadena, CA}
-      {Ground-based, high-resolution spectroscopy of exoplanet atmospheres $\vert$ Advisor: Dr. Ray Jayawardhana}{2026--current}{
+      {High-resolution spectroscopy of exoplanets $\vert$ Advisor: Dr. Ray Jayawardhana}{2026--current}{
     }
     
       \resumeSubheading
       {Graduate Researcher --- University of Maryland, College Park}{College Park, MD}
-      {Inferring spatial variation in the atmospheres of hot gas giants $\vert$ Advisor: Prof. Eliza M.-R. Kempton}{2020--2026}{
+      {Spatial variation in hot gas giants $\vert$ Advisor: Prof. Eliza M.-R. Kempton}{2020--2026}{
     }
 
     
@@ -167,13 +176,13 @@
  
 
       \resumeSubheading
-      {Pre-Doctoral Program Research Analyst --- Center for Computational Astrophysics, Flatiron Institute}{New York, NY}
-      {The uncertainty budget of ground-based, high-resolution spectroscopy $\vert$ Advisor: Dr. Megan Bedell}{2022--2023}{
+      {Pre-Doctoral Research Analyst --- CCA, Flatiron Institute}{New York, NY}
+      {Uncertainty in high-resolution spectroscopy $\vert$ Advisor: Dr. Megan Bedell}{2022--2023}{
     }
     % \vspace{5pt}
     \resumeSubheading
       {Research Assistant --- University of California, Berkeley}{Berkeley, CA}
-      {Exoplanet occurrence rates and imaging of Kepler stars $\vert$ Advisors: Prof. Courtney D. Dressing \& Prof. Lea A. Hirsch}{2018--2020}{
+      {Imaging of Kepler stars $\vert$ Advisor: Prof. Courtney D. Dressing}{2018--2020}{
     }
 
 
