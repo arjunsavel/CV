@@ -6697,8 +6697,21 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 70,
+    "citations": 71,
     "citing": [
+      {
+        "authors": [
+          "Zamyatina, Maria"
+        ],
+        "bibcode": "2026arXiv261033643Z",
+        "ids": [
+          "10.48550/arxiv.2610.33643",
+          "2026arxiv261033643z",
+          "2610.33643"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Spatial variability of CH4-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
+      },
       {
         "authors": [
           "Kiefer, Sven"
@@ -10949,8 +10962,21 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 28,
+    "citations": 29,
     "citing": [
+      {
+        "authors": [
+          "Zamyatina, Maria"
+        ],
+        "bibcode": "2026arXiv261033643Z",
+        "ids": [
+          "10.48550/arxiv.2610.33643",
+          "2026arxiv261033643z",
+          "2610.33643"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Spatial variability of CH4-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
+      },
       {
         "authors": [
           "Mukherjee, Sagnick"
@@ -22801,6 +22827,18 @@
       },
       {
         "authors": [
+          "Wilson, Thomas G."
+        ],
+        "bibcode": "2026Sci...392l2348W",
+        "ids": [
+          "10.1126/science.adl2348",
+          "2026sci...392l2348w"
+        ],
+        "pub": "Science",
+        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
+      },
+      {
+        "authors": [
           "Barkaoui, K."
         ],
         "bibcode": "2025A&A...695A.281B",
@@ -29477,8 +29515,20 @@
       "Torres, Guillermo",
       "Paegert, Martin"
     ],
-    "citations": 22,
+    "citations": 23,
     "citing": [
+      {
+        "authors": [
+          "Savanov, I. S."
+        ],
+        "bibcode": "2026AstL...52...82S",
+        "ids": [
+          "10.1134/s1063773726700209",
+          "2026astl...52...82s"
+        ],
+        "pub": "Astronomy Letters",
+        "title": "Activity of the Star TOI-1268 and Mass Loss by the Atmosphere of Its Exoplanet"
+      },
       {
         "authors": [
           "Mantovan, G."
@@ -37191,6 +37241,18 @@
       },
       {
         "authors": [
+          "Wilson, Thomas G."
+        ],
+        "bibcode": "2026Sci...392l2348W",
+        "ids": [
+          "10.1126/science.adl2348",
+          "2026sci...392l2348w"
+        ],
+        "pub": "Science",
+        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
+      },
+      {
+        "authors": [
           "Gonz{\\'a}lez-Payo, Javier"
         ],
         "bibcode": "2025PhDT........53G",
@@ -38038,6 +38100,18 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI--1752"
+      },
+      {
+        "authors": [
+          "Wilson, Thomas G."
+        ],
+        "bibcode": "2026Sci...392l2348W",
+        "ids": [
+          "10.1126/science.adl2348",
+          "2026sci...392l2348w"
+        ],
+        "pub": "Science",
+        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
       },
       {
         "authors": [
