@@ -17,7 +17,25 @@
 % \usepackage[usenames,dvipsnames]{color}
 
 \usepackage{enumitem}
+\setlist{nosep, leftmargin=*}          % itemsep=parsep=topsep=partopsep=0
+% \setlist[itemize]{itemsep=1pt, topsep=2pt}
 % \usepackage[pdftex, hidelinks]{hyperref}
+\titlespacing*{\section}{0pt}{12pt}{7pt}
+\setlist[itemize]{itemsep=2pt, topsep=3pt}
+\titlespacing*{\subsection}{0pt}{8pt}{2pt}
+
+\titleformat{\section}{\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule]
+\titleformat{\subsection}{\scshape\raggedright\normalsize}{}{0em}{}[]
+\newcommand{\shorterSection}[1]{\section{#1}}
+\newcommand{\shortershorterSection}[1]{\subsection{#1}}
+
+\newcommand{\resumeSubheading}[4]{
+  \item[]
+  \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+      \hspace{-10pt}\textbf{#1} & #2 \\
+      \hspace{-10pt}\textit{\small#3} & \textit{\small #4}
+    \end{tabular*}
+}
 
 \usepackage{xcolor}
 
@@ -62,6 +80,11 @@
 \renewcommand{\scriptsize}{\normalsize}
 \renewcommand{\tiny}{\normalsize}
 \setlength{\parskip}{0.5ex}   % claw back some vertical space
+
+\fancypagestyle{firstpage}{
+  \fancyhead{}
+  \renewcommand{\headrulewidth}{0pt}
+}
 
 \raggedbottom
 \raggedright
@@ -150,14 +173,14 @@
 
 %----------HEADING-----------------
 \begin{center}
-  \small \textbf{\huge Arjun B. McDanal-Savel} \\
-   \vspace{5pt}
+  \small \textbf{\Large Arjun B. McDanal-Savel} \\
+   \vspace{1pt}
   \small
   \vspace{5pt}
   \textsf{\small \href{href="mailto:savel@caltech.edu"}{savel@caltech.edu}} $\vert$  \orcidlink{0000-0002-2454-768X} \href{https://orcid.org/0000-0002-2454-768X/}{0000-0002-2454-768X} $\vert$ \href{https://www.arjunsavel.com}{www.arjunsavel.com} \par \colorLinkedinSign \hspace{2pt} \href{https://www.linkedin.com/in/arjunsavel}{https://www.linkedin.com/in/arjunsavel}  |
   \faGithubSquare \hspace{2pt} \href{https://github.com/arjunsavel}{https://github.com/arjunsavel}
 \end{center}
-\thispagestyle{fancy}
+\thispagestyle{firstpage}
 \shorterSection{Positions}
   \resumeSubHeadingListStart
 
@@ -196,7 +219,7 @@
       {University of Maryland, College Park}{College Park, MD}
       {Ph.D., Astronomy}{2026}{
     }
-    \vspace{-17pt}
+    \vspace{-33pt}
     \resumeSubheading
     {}{}{M.S., Astronomy $\vert$ Advisor: Prof. Eliza M.-R. Kempton}{2022}{
     }
@@ -534,6 +557,7 @@ Designed review sessions for class with hundreds of students, created discussion
 \resumeItem{}{Night Editor, The Daily Californian (2017)}
 \resumeItemListEnd
 
+
 \shorterSection{Reviewing}
 \subsection{Proposal Reviewing}
 \resumeItemListStart
@@ -597,19 +621,19 @@ Symposium on Environmental and Applied Fluid Dynamics (2022, 2023)}
     \item{
      \textbf{Programming / Markup Languages}{: Python, ADQL/SQL, R, C, HTML, JavaScript, Swift, \LaTeX}
     }
-    \vspace{-5pt}
+    % \vspace{-5pt}
     \item{
      \textbf{Supercomputing Clusters}{: \textit{deepthought2} and \textit{zaratan} at UMD, College Park; \textit{moria} at MSU; \textit{rusty} at Flatiron CCA; TIKE at MAST}
     }
-    \vspace{-5pt}
+    % \vspace{-5pt}
     \item{
      \textbf{Frameworks / Tools}{: git, Slurm, Numba, JAX, SciPy, Pandas, React, Dask}
     }
-    \vspace{-5pt}
+    % \vspace{-5pt}
     \item{
      \textbf{Misc. Skills}{: Radiative transfer, open-source code management, optimization, web development / automation, copy editing}
     }
-    \vspace{-5pt}
+    % \vspace{-5pt}
     \item{
      \textbf{Languages}{: English (fluent), Spanish (moderate written, basic spoken), Hindi (basic written, basic spoken)}
     }
