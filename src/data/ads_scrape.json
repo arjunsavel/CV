@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2609.21810",
     "authors": [
       "Pan, Yanbo",
       "MacDonald, Ryan J.",
@@ -198,47 +198,6 @@
     "year": "2026"
   },
   {
-    "arxiv": "2609.21810",
-    "authors": [
-      "JWST GO 3969 Team",
-      "Pan, Yanbo",
-      "MacDonald, Ryan J.",
-      "Espinoza, N{\\'e}stor",
-      "Prinoth, Bibiana",
-      "Rustamkulov, Zafar",
-      "Welbanks, Luis",
-      "Kitzmann, Daniel",
-      "Crouzet, Nicolas",
-      "Walde, Anna",
-      "Powell, Diana",
-      "Ahrer, Eva-Maria",
-      "Burgasser, Adam J.",
-      "Christie, Duncan A.",
-      "Cukier, Wolf",
-      "Gasc{\\'o}n, Carlos",
-      "Holmberg, M{\\r{a}}ns",
-      "Kennedy, Thomas",
-      "L{\\'o}pez-Morales, Mercedes",
-      "Mayne, N. J.",
-      "Samra, Dominic",
-      "Savel, Arjun B.",
-      "Steinrueck, Maria E.",
-      "Wirth, Christopher P."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2609.21810",
-    "page": null,
-    "page_count": null,
-    "page_range": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2026-09-00",
-    "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260921810J",
-    "volume": null,
-    "year": "2026"
-  },
-  {
     "arxiv": "2606.07497",
     "authors": [
       "Kanumalla, Krishna",
@@ -329,7 +288,10 @@
         "bibcode": "2026ApJ..1010L..25C",
         "ids": [
           "10.3847/2041-8213/aeaf59",
-          "2026apj..1010l..25c"
+          "10.48550/arxiv.2608.23682",
+          "2026apj..1010l..25c",
+          "2026arxiv260823682c",
+          "2608.23682"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "Quantitative Links between Formation and Atmospheric Composition for Giant Planets"
@@ -348,19 +310,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "High-resolution Dayside Spectroscopy of the Ultrahot Jupiter WASP-178 b with Gemini South/GHOST"
-      },
-      {
-        "authors": [
-          "Chachan, Yayaati"
-        ],
-        "bibcode": "2026arXiv260823682C",
-        "ids": [
-          "10.48550/arxiv.2608.23682",
-          "2026arxiv260823682c",
-          "2608.23682"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Quantitative Links between Formation and Atmospheric Composition for Giant Planets"
       }
     ],
     "doctype": "article",
@@ -767,7 +716,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 5,
+    "citations": 2,
     "citing": [
       {
         "authors": [
@@ -784,19 +733,6 @@
       },
       {
         "authors": [
-          "Srivastava, Avidaan"
-        ],
-        "bibcode": "2026arXiv260917792S",
-        "ids": [
-          "10.48550/arxiv.2609.17792",
-          "2026arxiv260917792s",
-          "2609.17792"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
-      },
-      {
-        "authors": [
           "Jontof-Hutter, Daniel"
         ],
         "bibcode": "2026arXiv260825035J",
@@ -807,35 +743,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
-      },
-      {
-        "authors": [
-          "Madurga-Favieres, Cristina"
-        ],
-        "bibcode": "2026MNRAS.550g1273M",
-        "ids": [
-          "10.1093/mnras/stag1273",
-          "10.48550/arxiv.2607.20643",
-          "2026arxiv260720643m",
-          "2026mnras.550g1273m",
-          "2026mnras.tmp.1201m",
-          "2607.20643"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Evidence for a giant companion orbiting Tabby's star"
-      },
-      {
-        "authors": [
-          "Hansen, Brad"
-        ],
-        "bibcode": "2026arXiv260719632H",
-        "ids": [
-          "10.48550/arxiv.2607.19632",
-          "2026arxiv260719632h",
-          "2607.19632"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Dynamically Selected Mass-Radius Relationship for Low Mass Exoplanets"
       }
     ],
     "doctype": "article",
@@ -1030,8 +937,50 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 1,
+    "citations": 4,
     "citing": [
+      {
+        "authors": [
+          "Srivastava, Avidaan"
+        ],
+        "bibcode": "2026arXiv260917792S",
+        "ids": [
+          "10.48550/arxiv.2609.17792",
+          "2026arxiv260917792s",
+          "2609.17792"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
+      },
+      {
+        "authors": [
+          "Jontof-Hutter, Daniel"
+        ],
+        "bibcode": "2026arXiv260825035J",
+        "ids": [
+          "10.48550/arxiv.2608.25035",
+          "2026arxiv260825035j",
+          "2608.25035"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
+      },
+      {
+        "authors": [
+          "Madurga-Favieres, Cristina"
+        ],
+        "bibcode": "2026MNRAS.550g1273M",
+        "ids": [
+          "10.1093/mnras/stag1273",
+          "10.48550/arxiv.2607.20643",
+          "2026arxiv260720643m",
+          "2026mnras.550g1273m",
+          "2026mnras.tmp.1201m",
+          "2607.20643"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Evidence for a giant companion orbiting Tabby's star"
+      },
       {
         "authors": [
           "Hansen, Brad"
@@ -1086,6 +1035,21 @@
     "citing": [
       {
         "authors": [
+          "Pelletier, S."
+        ],
+        "bibcode": "2026A&A...714A.378P",
+        "ids": [
+          "10.1051/0004-6361/202555010",
+          "10.48550/arxiv.2609.13051",
+          "2026a&a...714a.378p",
+          "2026arxiv260913051p",
+          "2609.13051"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "The atomic C/O ratio of KELT-9b"
+      },
+      {
+        "authors": [
           "Kecskem{\\'e}thy, Vikt{\\'o}ria"
         ],
         "bibcode": "2026MNRAS.552g1622K",
@@ -1126,19 +1090,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Parametrizing the projected wind fields of ultra-hot Jupiters in thermal emission: An application to GCM spectra of WASP-76b"
-      },
-      {
-        "authors": [
-          "Pelletier, Stefan"
-        ],
-        "bibcode": "2026arXiv260913051P",
-        "ids": [
-          "10.48550/arxiv.2609.13051",
-          "2026arxiv260913051p",
-          "2609.13051"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The atomic C/O ratio of KELT-9b"
       },
       {
         "authors": [
@@ -1402,7 +1353,10 @@
         "bibcode": "2026ApJ..1010...44T",
         "ids": [
           "10.3847/1538-4357/ae9f4b",
-          "2026apj..1010...44t"
+          "10.48550/arxiv.2604.24845",
+          "2026apj..1010...44t",
+          "2026arxiv260424845t",
+          "2604.24845"
         ],
         "pub": "The Astrophysical Journal",
         "title": "ORCHARD: A General Planetary Evolution Code"
@@ -1695,19 +1649,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Unusually Hot Interiors Could Reconcile the Missing-methane Problem for Warm-to-hot Exoplanets with Hydrogen Atmospheres"
-      },
-      {
-        "authors": [
-          "Tejada Arevalo, Roberto"
-        ],
-        "bibcode": "2026arXiv260424845T",
-        "ids": [
-          "10.48550/arxiv.2604.24845",
-          "2026arxiv260424845t",
-          "2604.24845"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "ORCHARD: A General Planetary Evolution Code"
       },
       {
         "authors": [
@@ -2352,7 +2293,10 @@
         "bibcode": "2026A&A...713A.272L",
         "ids": [
           "10.1051/0004-6361/202660710",
-          "2026a&a...713a.272l"
+          "10.48550/arxiv.2607.19756",
+          "2026a&a...713a.272l",
+          "2026arxiv260719756l",
+          "2607.19756"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
@@ -2377,6 +2321,8 @@
         "bibcode": "2026MNRAS.552g1694V",
         "ids": [
           "10.1093/mnras/stag1694",
+          "10.48550/arxiv.2609.07278",
+          "2026arxiv260907278v",
           "2026mnras.552g1694v",
           "2026mnras.tmp.1561v",
           "2026mnras.tmp.1603v",
@@ -2412,19 +2358,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Gaia Exoplanet Orbits, Demographics, and Evolution Survey (GEODES). I. Characteristics of Three Long-period Companions Accelerating their Host Stars"
-      },
-      {
-        "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2026arXiv260719756L",
-        "ids": [
-          "10.48550/arxiv.2607.19756",
-          "2026arxiv260719756l",
-          "2607.19756"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
       },
       {
         "authors": [
@@ -2607,7 +2540,10 @@
         "bibcode": "2026ApJ..1010..202K",
         "ids": [
           "10.3847/1538-4357/aea404",
-          "2026apj..1010..202k"
+          "10.48550/arxiv.2609.08960",
+          "2026apj..1010..202k",
+          "2026arxiv260908960k",
+          "2609.08960"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres"
@@ -2632,7 +2568,10 @@
         "bibcode": "2026A&A...714A.149S",
         "ids": [
           "10.1051/0004-6361/202659817",
-          "2026a&a...714a.149s"
+          "10.48550/arxiv.2608.03406",
+          "2026a&a...714a.149s",
+          "2026arxiv260803406s",
+          "2608.03406"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
@@ -2644,23 +2583,13 @@
         "bibcode": "2026AJ....172..234P",
         "ids": [
           "10.3847/1538-3881/ae9cbc",
-          "2026aj....172..234p"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "JWST MEP-A World Under Spotty Starlight: Detection of CO<SUB>2</SUB> and H<SUB>2</SUB>O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
-      },
-      {
-        "authors": [
-          "JWST GO 3969 Team"
-        ],
-        "bibcode": "2026arXiv260921810J",
-        "ids": [
           "10.48550/arxiv.2609.21810",
+          "2026aj....172..234p",
           "2026arxiv260921810j",
           "2609.21810"
         ],
-        "pub": "arXiv e-prints",
-        "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
+        "pub": "The Astronomical Journal",
+        "title": "JWST MEP-A World Under Spotty Starlight: Detection of CO<SUB>2</SUB> and H<SUB>2</SUB>O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
       },
       {
         "authors": [
@@ -2676,19 +2605,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Chemical Tracers for 3D Atmospheric Asymmetries on WASP-69 b"
-      },
-      {
-        "authors": [
-          "Kiefer, Sven"
-        ],
-        "bibcode": "2026arXiv260908960K",
-        "ids": [
-          "10.48550/arxiv.2609.08960",
-          "2026arxiv260908960k",
-          "2609.08960"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres"
       },
       {
         "authors": [
@@ -2720,19 +2636,6 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "Flow-driven limb asymmetry of haze distribution Part I: an analytical framework for predicting the size distribution of photochemical hazes across the two limbs of hot-Jupiters"
-      },
-      {
-        "authors": [
-          "Shulyak, D."
-        ],
-        "bibcode": "2026arXiv260803406S",
-        "ids": [
-          "10.48550/arxiv.2608.03406",
-          "2026arxiv260803406s",
-          "2608.03406"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
       },
       {
         "authors": [
@@ -3191,7 +3094,10 @@
         "bibcode": "2026NatAs.tmp..226A",
         "ids": [
           "10.1038/s41550-026-02986-4",
-          "2026natas.tmp..226a"
+          "10.48550/arxiv.2610.18806",
+          "2026arxiv261018806a",
+          "2026natas.tmp..226a",
+          "2610.18806"
         ],
         "pub": "Nature Astronomy",
         "title": "A spatial map of the atmospheric limb of a hot Jupiter"
@@ -3394,7 +3300,10 @@
         "bibcode": "2026ApJ..1010..133N",
         "ids": [
           "10.3847/1538-4357/ae9a84",
-          "2026apj..1010..133n"
+          "10.48550/arxiv.2608.19100",
+          "2026apj..1010..133n",
+          "2026arxiv260819100n",
+          "2608.19100"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
@@ -3416,25 +3325,15 @@
       },
       {
         "authors": [
-          "Nagpal, Vighnesh"
-        ],
-        "bibcode": "2026arXiv260819100N",
-        "ids": [
-          "10.48550/arxiv.2608.19100",
-          "2026arxiv260819100n",
-          "2608.19100"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
-      },
-      {
-        "authors": [
           "Lee, Elspeth K. H."
         ],
         "bibcode": "2026A&A...712A..58L",
         "ids": [
           "10.1051/0004-6361/202660641",
-          "2026a&a...712a..58l"
+          "10.48550/arxiv.2606.19056",
+          "2026a&a...712a..58l",
+          "2026arxiv260619056l",
+          "2606.19056"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Three-dimensional temporal evolution of photochemical hazes in exoplanet atmospheres: I. Description and test application to HD 189733b"
@@ -3915,30 +3814,34 @@
     "citing": [
       {
         "authors": [
+          "Castro-Gonz{\\'a}lez, A."
+        ],
+        "bibcode": "2026A&A...714A.425C",
+        "ids": [
+          "10.1051/0004-6361/202661117",
+          "10.48550/arxiv.2609.05413",
+          "2026a&a...714a.425c",
+          "2026arxiv260905413c",
+          "2609.05413"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert"
+      },
+      {
+        "authors": [
           "Kawauchi, Kiyoe"
         ],
         "bibcode": "2026PASJ...78.1815K",
         "ids": [
           "10.1093/pasj/psag104",
+          "10.48550/arxiv.2608.19030",
+          "2026arxiv260819030k",
           "2026pasj...78.1815k",
           "2026pasj..tmp..198k",
           "2608.19030"
         ],
         "pub": "Publications of the Astronomical Society of Japan",
         "title": "A search for helium in the atmospheres of three sub-Neptunes and a super-Earth around M-dwarfs"
-      },
-      {
-        "authors": [
-          "Castro-Gonz{\\'a}lez, A."
-        ],
-        "bibcode": "2026arXiv260905413C",
-        "ids": [
-          "10.48550/arxiv.2609.05413",
-          "2026arxiv260905413c",
-          "2609.05413"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert"
       },
       {
         "authors": [
@@ -4118,7 +4021,10 @@
         "bibcode": "2026ApJ..1010..107P",
         "ids": [
           "10.3847/1538-4357/aea6b2",
-          "2026apj..1010..107p"
+          "10.48550/arxiv.2509.12737",
+          "2025arxiv250912737p",
+          "2026apj..1010..107p",
+          "2509.12737"
         ],
         "pub": "The Astrophysical Journal",
         "title": "TSD: An Inverse Problem Approach for Recovering the Exoplanetary Atmosphere Transmission Spectrum from High-resolution Spectroscopy"
@@ -4180,19 +4086,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "The Watery Atmosphere of HD 209458 b Revealed by Joint K- and L-band High-resolution Spectroscopy"
-      },
-      {
-        "authors": [
-          "Piskunov, Nikolai"
-        ],
-        "bibcode": "2025arXiv250912737P",
-        "ids": [
-          "10.48550/arxiv.2509.12737",
-          "2025arxiv250912737p",
-          "2509.12737"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TSD: An inverse problem approach for recovering the exoplanetary atmosphere transmission spectrum from high-resolution spectroscopy"
       },
       {
         "authors": [
@@ -4946,12 +4839,30 @@
     "citing": [
       {
         "authors": [
+          "Pelletier, S."
+        ],
+        "bibcode": "2026A&A...714A.378P",
+        "ids": [
+          "10.1051/0004-6361/202555010",
+          "10.48550/arxiv.2609.13051",
+          "2026a&a...714a.378p",
+          "2026arxiv260913051p",
+          "2609.13051"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "The atomic C/O ratio of KELT-9b"
+      },
+      {
+        "authors": [
           "Chachan, Yayaati"
         ],
         "bibcode": "2026ApJ..1010L..25C",
         "ids": [
           "10.3847/2041-8213/aeaf59",
-          "2026apj..1010l..25c"
+          "10.48550/arxiv.2608.23682",
+          "2026apj..1010l..25c",
+          "2026arxiv260823682c",
+          "2608.23682"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "Quantitative Links between Formation and Atmospheric Composition for Giant Planets"
@@ -5002,19 +4913,6 @@
       },
       {
         "authors": [
-          "Pelletier, Stefan"
-        ],
-        "bibcode": "2026arXiv260913051P",
-        "ids": [
-          "10.48550/arxiv.2609.13051",
-          "2026arxiv260913051p",
-          "2609.13051"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The atomic C/O ratio of KELT-9b"
-      },
-      {
-        "authors": [
           "Yang, Yuanheng"
         ],
         "bibcode": "2026ApJ..1008..208Y",
@@ -5042,19 +4940,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "High-resolution Dayside Spectroscopy of the Ultrahot Jupiter WASP-178 b with Gemini South/GHOST"
-      },
-      {
-        "authors": [
-          "Chachan, Yayaati"
-        ],
-        "bibcode": "2026arXiv260823682C",
-        "ids": [
-          "10.48550/arxiv.2608.23682",
-          "2026arxiv260823682c",
-          "2608.23682"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Quantitative Links between Formation and Atmospheric Composition for Giant Planets"
       },
       {
         "authors": [
@@ -5941,6 +5826,8 @@
         "bibcode": "2026MNRAS.553g1610L",
         "ids": [
           "10.1093/mnras/stag1610",
+          "10.48550/arxiv.2603.10905",
+          "2026arxiv260310905l",
           "2026mnras.553g1610l",
           "2026mnras.tmp.1622l",
           "2603.10905"
@@ -5955,7 +5842,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -5967,23 +5857,13 @@
         "bibcode": "2026AJ....172..247C",
         "ids": [
           "10.3847/1538-3881/aea4aa",
-          "2026aj....172..247c"
+          "10.48550/arxiv.2608.21560",
+          "2026aj....172..247c",
+          "2026arxiv260821560c",
+          "2608.21560"
         ],
         "pub": "The Astronomical Journal",
         "title": "Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates"
-      },
-      {
-        "authors": [
-          "Venot, Olivia"
-        ],
-        "bibcode": "2026arXiv260927622V",
-        "ids": [
-          "10.48550/arxiv.2609.27622",
-          "2026arxiv260927622v",
-          "2609.27622"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Probing Exoplanetary Chemistry with Ariel: Scientific Priorities and Observational Strategies"
       },
       {
         "authors": [
@@ -5999,19 +5879,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Revisiting TOI-4438 and TOI-442 planetary systems with new observations from SPIRou and TESS"
-      },
-      {
-        "authors": [
-          "Collier, Michael"
-        ],
-        "bibcode": "2026arXiv260821560C",
-        "ids": [
-          "10.48550/arxiv.2608.21560",
-          "2026arxiv260821560c",
-          "2608.21560"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Assessing the Impact of High-Resolution Imaging on Statistical Validation of TESS Planet Candidates"
       },
       {
         "authors": [
@@ -6738,20 +6605,22 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 72,
+    "citations": 71,
     "citing": [
       {
         "authors": [
           "Zamyatina, Maria"
         ],
-        "bibcode": "2026arXiv261033643Z",
+        "bibcode": "2026MNRAS.tmp.1897Z",
         "ids": [
+          "10.1093/mnras/stag2060",
           "10.48550/arxiv.2610.33643",
           "2026arxiv261033643z",
+          "2026mnras.tmp.1897z",
           "2610.33643"
         ],
-        "pub": "arXiv e-prints",
-        "title": "Spatial variability of CH4-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Spatial variability of CH<SUB>4</SUB>-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
       },
       {
         "authors": [
@@ -6760,7 +6629,10 @@
         "bibcode": "2026ApJ..1010..202K",
         "ids": [
           "10.3847/1538-4357/aea404",
-          "2026apj..1010..202k"
+          "10.48550/arxiv.2609.08960",
+          "2026apj..1010..202k",
+          "2026arxiv260908960k",
+          "2609.08960"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres"
@@ -6772,7 +6644,10 @@
         "bibcode": "2026A&A...714A.371B",
         "ids": [
           "10.1051/0004-6361/202660789",
-          "2026a&a...714a.371b"
+          "10.48550/arxiv.2609.09278",
+          "2026a&a...714a.371b",
+          "2026arxiv260909278b",
+          "2609.09278"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "The GAPS programme at TNG: LXXVIII. Phase-resolved detection of multiple atomic species in the atmosphere of KELT-20b/MASCARA-2b"
@@ -6784,7 +6659,10 @@
         "bibcode": "2026NatAs.tmp..226A",
         "ids": [
           "10.1038/s41550-026-02986-4",
-          "2026natas.tmp..226a"
+          "10.48550/arxiv.2610.18806",
+          "2026arxiv261018806a",
+          "2026natas.tmp..226a",
+          "2610.18806"
         ],
         "pub": "Nature Astronomy",
         "title": "A spatial map of the atmospheric limb of a hot Jupiter"
@@ -6796,7 +6674,10 @@
         "bibcode": "2026ApJ..1010L..20M",
         "ids": [
           "10.3847/2041-8213/aeac49",
-          "2026apj..1010l..20m"
+          "10.48550/arxiv.2609.16834",
+          "2026apj..1010l..20m",
+          "2026arxiv260916834m",
+          "2609.16834"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "The Asymmetric Limbs of HD 209458 b Observed with JWST NIRCam F322W2/F444W"
@@ -6821,7 +6702,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -6833,7 +6717,10 @@
         "bibcode": "2026PASP..138i4403C",
         "ids": [
           "10.1088/1538-3873/aea59a",
-          "2026pasp..138i4403c"
+          "10.48550/arxiv.2609.16115",
+          "2026arxiv260916115c",
+          "2026pasp..138i4403c",
+          "2609.16115"
         ],
         "pub": "Publications of the Astronomical Society of the Pacific",
         "title": "Inhomogeneous Cloud Coverage and Altitude-dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-infrared Phase Curve"
@@ -6845,23 +6732,13 @@
         "bibcode": "2026AJ....172..234P",
         "ids": [
           "10.3847/1538-3881/ae9cbc",
-          "2026aj....172..234p"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "JWST MEP-A World Under Spotty Starlight: Detection of CO<SUB>2</SUB> and H<SUB>2</SUB>O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
-      },
-      {
-        "authors": [
-          "JWST GO 3969 Team"
-        ],
-        "bibcode": "2026arXiv260921810J",
-        "ids": [
           "10.48550/arxiv.2609.21810",
+          "2026aj....172..234p",
           "2026arxiv260921810j",
           "2609.21810"
         ],
-        "pub": "arXiv e-prints",
-        "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
+        "pub": "The Astronomical Journal",
+        "title": "JWST MEP-A World Under Spotty Starlight: Detection of CO<SUB>2</SUB> and H<SUB>2</SUB>O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
       },
       {
         "authors": [
@@ -6875,45 +6752,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum"
-      },
-      {
-        "authors": [
-          "Barstow, Joanna K."
-        ],
-        "bibcode": "2026LRCA...12....6B",
-        "ids": [
-          "10.1007/s41115-026-00031-9",
-          "2026lrca...12....6b",
-          "2026lrca...12....6k"
-        ],
-        "pub": "Living Reviews in Computational Astrophysics",
-        "title": "Computational challenges in exoplanet atmospheric retrieval"
-      },
-      {
-        "authors": [
-          "Maguire, Cathal"
-        ],
-        "bibcode": "2026arXiv260916834M",
-        "ids": [
-          "10.48550/arxiv.2609.16834",
-          "2026arxiv260916834m",
-          "2609.16834"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W"
-      },
-      {
-        "authors": [
-          "Coulombe, Louis-Philippe"
-        ],
-        "bibcode": "2026arXiv260916115C",
-        "ids": [
-          "10.48550/arxiv.2609.16115",
-          "2026arxiv260916115c",
-          "2609.16115"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve"
       },
       {
         "authors": [
@@ -6944,32 +6782,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "A Radon Transform Perspective on Exoplanet Transits"
-      },
-      {
-        "authors": [
-          "Biassoni, F."
-        ],
-        "bibcode": "2026arXiv260909278B",
-        "ids": [
-          "10.48550/arxiv.2609.09278",
-          "2026arxiv260909278b",
-          "2609.09278"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The GAPS programme at TNG LXXVIII. Phase-resolved detection of multiple atomic species in the atmosphere of KELT-20b/MASCARA-2b"
-      },
-      {
-        "authors": [
-          "Kiefer, Sven"
-        ],
-        "bibcode": "2026arXiv260908960K",
-        "ids": [
-          "10.48550/arxiv.2609.08960",
-          "2026arxiv260908960k",
-          "2609.08960"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres"
       },
       {
         "authors": [
@@ -7827,7 +7639,10 @@
         "bibcode": "2026AJ....172..275A",
         "ids": [
           "10.3847/1538-3881/aea90a",
-          "2026aj....172..275a"
+          "10.48550/arxiv.2608.28538",
+          "2026aj....172..275a",
+          "2026arxiv260828538a",
+          "2608.28538"
         ],
         "pub": "The Astronomical Journal",
         "title": "A Clearer View of HAT-P-1 b: JWST NIRSpec G395H Reveals Water, Carbon Dioxide, and Possibly Hydrogen Sulfide"
@@ -7839,7 +7654,10 @@
         "bibcode": "2026A&A...714A.261M",
         "ids": [
           "10.1051/0004-6361/202659933",
-          "2026a&a...714a.261m"
+          "10.48550/arxiv.2603.17574",
+          "2026a&a...714a.261m",
+          "2026arxiv260317574m",
+          "2603.17574"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Searching for molecular signatures in 14 transiting exoplanets with SPIRou"
@@ -7851,7 +7669,10 @@
         "bibcode": "2026ApJ..1010L..20M",
         "ids": [
           "10.3847/2041-8213/aeac49",
-          "2026apj..1010l..20m"
+          "10.48550/arxiv.2609.16834",
+          "2026apj..1010l..20m",
+          "2026arxiv260916834m",
+          "2609.16834"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "The Asymmetric Limbs of HD 209458 b Observed with JWST NIRCam F322W2/F444W"
@@ -7863,7 +7684,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -7875,7 +7699,10 @@
         "bibcode": "2026A&A...714A..21B",
         "ids": [
           "10.1051/0004-6361/202659782",
-          "2026a&a...714a..21b"
+          "10.48550/arxiv.2607.08486",
+          "2026a&a...714a..21b",
+          "2026arxiv260708486b",
+          "2607.08486"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models"
@@ -7887,7 +7714,10 @@
         "bibcode": "2026AJ....172..237F",
         "ids": [
           "10.3847/1538-3881/ae9ff6",
-          "2026aj....172..237f"
+          "10.48550/arxiv.2608.25993",
+          "2026aj....172..237f",
+          "2026arxiv260825993f",
+          "2608.25993"
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST Color Sequence of Transiting Exoplanets and Directly Imaged Substellar Objects"
@@ -7899,7 +7729,10 @@
         "bibcode": "2026AJ....172..234P",
         "ids": [
           "10.3847/1538-3881/ae9cbc",
-          "2026aj....172..234p"
+          "10.48550/arxiv.2609.21810",
+          "2026aj....172..234p",
+          "2026arxiv260921810j",
+          "2609.21810"
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST MEP-A World Under Spotty Starlight: Detection of CO<SUB>2</SUB> and H<SUB>2</SUB>O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
@@ -7951,45 +7784,6 @@
       },
       {
         "authors": [
-          "Venot, Olivia"
-        ],
-        "bibcode": "2026arXiv260927622V",
-        "ids": [
-          "10.48550/arxiv.2609.27622",
-          "2026arxiv260927622v",
-          "2609.27622"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Probing Exoplanetary Chemistry with Ariel: Scientific Priorities and Observational Strategies"
-      },
-      {
-        "authors": [
-          "JWST GO 3969 Team"
-        ],
-        "bibcode": "2026arXiv260921810J",
-        "ids": [
-          "10.48550/arxiv.2609.21810",
-          "2026arxiv260921810j",
-          "2609.21810"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "JWST MEP - A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H"
-      },
-      {
-        "authors": [
-          "Maguire, Cathal"
-        ],
-        "bibcode": "2026arXiv260916834M",
-        "ids": [
-          "10.48550/arxiv.2609.16834",
-          "2026arxiv260916834m",
-          "2609.16834"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The asymmetric limbs of HD 209458 b observed with JWST NIRCam F322W2/F444W"
-      },
-      {
-        "authors": [
           "Binet, Martin"
         ],
         "bibcode": "2026ApJ..1008L..42B",
@@ -8034,19 +7828,6 @@
       },
       {
         "authors": [
-          "Ashtari, Reza"
-        ],
-        "bibcode": "2026arXiv260828538A",
-        "ids": [
-          "10.48550/arxiv.2608.28538",
-          "2026arxiv260828538a",
-          "2608.28538"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A Clearer View of HAT-P-1 b: JWST NIRSpec G395H Reveals Water, Carbon Dioxide, and Possibly Hydrogen Sulfide"
-      },
-      {
-        "authors": [
           "Adams, Danica"
         ],
         "bibcode": "2026arXiv260827576A",
@@ -8088,19 +7869,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST Transmission Spectroscopy of TOI-3235 b: Challenges in Constraining Giant Planet Atmospheres around M Dwarfs amid Stellar Contamination"
-      },
-      {
-        "authors": [
-          "Fu, Guangwei"
-        ],
-        "bibcode": "2026arXiv260825993F",
-        "ids": [
-          "10.48550/arxiv.2608.25993",
-          "2026arxiv260825993f",
-          "2608.25993"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "JWST color sequence of transiting exoplanets and directly imaged substellar objects"
       },
       {
         "authors": [
@@ -8154,7 +7922,10 @@
         "bibcode": "2026A&A...712A..58L",
         "ids": [
           "10.1051/0004-6361/202660641",
-          "2026a&a...712a..58l"
+          "10.48550/arxiv.2606.19056",
+          "2026a&a...712a..58l",
+          "2026arxiv260619056l",
+          "2606.19056"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Three-dimensional temporal evolution of photochemical hazes in exoplanet atmospheres: I. Description and test application to HD 189733b"
@@ -8184,19 +7955,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Precise Determination of the Metallicity and C/O of WASP-39~b From a Single JWST Instrument Mode with Phase-Resolved Cross-Correlation Retrievals"
-      },
-      {
-        "authors": [
-          "Baeyens, Robin"
-        ],
-        "bibcode": "2026arXiv260708486B",
-        "ids": [
-          "10.48550/arxiv.2607.08486",
-          "2026arxiv260708486b",
-          "2607.08486"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models"
       },
       {
         "authors": [
@@ -8411,19 +8169,6 @@
         ],
         "pub": "Astronomical Society of the Pacific Conference Series",
         "title": "High-resolution Ultraviolet-to-Near-Infrared Characterization of Exoplanet Atmospheres with HWO"
-      },
-      {
-        "authors": [
-          "Masson, A."
-        ],
-        "bibcode": "2026arXiv260317574M",
-        "ids": [
-          "10.48550/arxiv.2603.17574",
-          "2026arxiv260317574m",
-          "2603.17574"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Searching for Molecular Signatures in 14 Transiting Exoplanets with SPIRou"
       },
       {
         "authors": [
@@ -9206,6 +8951,21 @@
     "citing": [
       {
         "authors": [
+          "Livesey, Joseph R."
+        ],
+        "bibcode": "2026AJ....172..287L",
+        "ids": [
+          "10.3847/1538-3881/aeaee4",
+          "10.48550/arxiv.2608.25208",
+          "2026aj....172..287l",
+          "2026arxiv260825208l",
+          "2608.25208"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "Discovery and Characterization of the TOI-4468 Planetary System: A Transiting Hot Jupiter with a Lone Nearby Outer Companion"
+      },
+      {
+        "authors": [
           "Schulte, Jack"
         ],
         "bibcode": "2026arXiv260938468S",
@@ -9246,19 +9006,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "The Occurrence Rate of Nearby Planetary Companions to Hot Jupiters"
-      },
-      {
-        "authors": [
-          "Livesey, Joseph R."
-        ],
-        "bibcode": "2026arXiv260825208L",
-        "ids": [
-          "10.48550/arxiv.2608.25208",
-          "2026arxiv260825208l",
-          "2608.25208"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Discovery and Characterization of the TOI-4468 Planetary System: A Transiting Hot Jupiter With a Lone Nearby Outer Companion"
       },
       {
         "authors": [
@@ -9818,7 +9565,10 @@
         "bibcode": "2026ApJ..1011...42H",
         "ids": [
           "10.3847/1538-4357/aea6ca",
-          "2026apj..1011...42h"
+          "10.48550/arxiv.2603.23713",
+          "2026apj..1011...42h",
+          "2026arxiv260323713h",
+          "2603.23713"
         ],
         "pub": "The Astrophysical Journal",
         "title": "The KPF SLOPE Survey: Small, Compact Multiplanet Systems Appear Spin-Orbit Aligned"
@@ -9830,6 +9580,8 @@
         "bibcode": "2026MNRAS.552g1756T",
         "ids": [
           "10.1093/mnras/stag1756",
+          "10.48550/arxiv.2609.17159",
+          "2026arxiv260917159t",
           "2026mnras.552g1756t",
           "2026mnras.tmp.1635t",
           "2609.17159"
@@ -9844,7 +9596,10 @@
         "bibcode": "2026ApJ..1009..224H",
         "ids": [
           "10.3847/1538-4357/aea293",
-          "2026apj..1009..224h"
+          "10.48550/arxiv.2609.01790",
+          "2026apj..1009..224h",
+          "2026arxiv260901790h",
+          "2609.01790"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Precise Stellar Age Constraints and Habitable Zone Evolution in Exoplanet Systems"
@@ -9920,19 +9675,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "PALEOS: Multiphase equations of state and mass-radius relations for exoplanet interiors"
-      },
-      {
-        "authors": [
-          "Henry, Grace"
-        ],
-        "bibcode": "2026arXiv260901790H",
-        "ids": [
-          "10.48550/arxiv.2609.01790",
-          "2026arxiv260901790h",
-          "2609.01790"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Precise Stellar Age Constraints and Habitable Zone Evolution in Exoplanet Systems"
       },
       {
         "authors": [
@@ -10308,19 +10050,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "GJ 523b is a Massive, 170 Myr-old Mega-Earth, Likely on a Polar Orbit"
-      },
-      {
-        "authors": [
-          "Handley, Luke B."
-        ],
-        "bibcode": "2026arXiv260323713H",
-        "ids": [
-          "10.48550/arxiv.2603.23713",
-          "2026arxiv260323713h",
-          "2603.23713"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The KPF-SLOPE Survey - Small, Compact Multi-Planet Systems Appear Spin-Orbit Aligned"
       },
       {
         "authors": [
@@ -11027,180 +10756,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2401.11879",
-    "authors": [
-      "Parviainen, H.",
-      "Murgas, F.",
-      "Esparza-Borges, E.",
-      "Pel{\\'a}ez-Torres, A.",
-      "Palle, E.",
-      "Luque, R.",
-      "Zapatero-Osorio, M. R.",
-      "Korth, J.",
-      "Fukui, A.",
-      "Narita, N.",
-      "Collins, K. A.",
-      "B{\\'e}jar, V. J. S.",
-      "Morello, G.",
-      "Monelli, M.",
-      "Garcia, N. Abreu",
-      "Chen, G.",
-      "Crouzet, N.",
-      "de Leon, J. P.",
-      "Isogai, K.",
-      "Kagetani, T.",
-      "Kawauchi, K.",
-      "Klagyivik, P.",
-      "Kodama, T.",
-      "Kusakabe, N.",
-      "Livingston, J. H.",
-      "Meni, P.",
-      "Mori, M.",
-      "Nowak, G.",
-      "Tamura, M.",
-      "Terada, Y.",
-      "Watanabe, N.",
-      "Ciardi, D. R.",
-      "Lund, M. B.",
-      "Christiansen, J. L.",
-      "Dressing, C. D.",
-      "Giacalone, S.",
-      "Savel, A. B.",
-      "Hirsch, L.",
-      "Parsons, S. G.",
-      "Brown, P.",
-      "Collins, K. I.",
-      "Barkaoui, K.",
-      "Timmermans, M.",
-      "Ghachoui, M.",
-      "Soubkiou, A.",
-      "Benkhaldoun, Z.",
-      "McDermott, S.",
-      "Pritchard, T.",
-      "Rowden, P.",
-      "Striegel, S.",
-      "Gan, T.",
-      "Horne, K.",
-      "Jensen, E. L. N.",
-      "Schwarz, R. P.",
-      "Shporer, A.",
-      "Srdoc, G.",
-      "Seager, S.",
-      "Winn, J. N.",
-      "Jenkins, J. M.",
-      "Ricker, G.",
-      "Vanderspek, R.",
-      "Dragomir, D."
-    ],
-    "citations": 6,
-    "citing": [
-      {
-        "authors": [
-          "Decocq, Emeline"
-        ],
-        "bibcode": "2026AJ....171..316D",
-        "ids": [
-          "10.3847/1538-3881/ae5486",
-          "10.48550/arxiv.2605.10427",
-          "2026aj....171..316d",
-          "2026arxiv260510427d",
-          "2605.10427"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Comparing Results from Two Uniform Phase-curve Surveys"
-      },
-      {
-        "authors": [
-          "Jiang, Chengzi"
-        ],
-        "bibcode": "2026MNRAS.547ag367J",
-        "ids": [
-          "10.1093/mnras/stag367",
-          "10.48550/arxiv.2512.06817",
-          "2025arxiv251206817j",
-          "2026mnras.547ag367j",
-          "2026mnras.547g.367j",
-          "2026mnras.tmp..333j",
-          "2512.06817"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Multicolour validation of two temperate mini-Neptunes around M-dwarf habitable zones"
-      },
-      {
-        "authors": [
-          "Ikuta, Kai"
-        ],
-        "bibcode": "2025PASJ...77.1101I",
-        "ids": [
-          "10.1093/pasj/psaf090",
-          "10.48550/arxiv.2507.16222",
-          "2025arxiv250716222i",
-          "2025pasj...77.1101i",
-          "2025pasj..tmp...95i",
-          "2507.16222"
-        ],
-        "pub": "Publications of the Astronomical Society of Japan",
-        "title": "The mass of TOI-654 b: A short-period sub-Neptune transiting a mid-M dwarf"
-      },
-      {
-        "authors": [
-          "Han, Te"
-        ],
-        "bibcode": "2025ApJ...988L...4H",
-        "ids": [
-          "10.3847/2041-8213/ade794",
-          "10.48550/arxiv.2506.19985",
-          "2025apj...988l...4h",
-          "2025arxiv250619985h",
-          "2506.19985"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "Hundreds of TESS Exoplanets Might Be Larger than We Thought"
-      },
-      {
-        "authors": [
-          "Melton, Elizabeth J."
-        ],
-        "bibcode": "2024AJ....168..271M",
-        "ids": [
-          "10.3847/1538-3881/ad8355",
-          "10.48550/arxiv.2302.06744",
-          "2023arxiv230206744m",
-          "2024aj....168..271m",
-          "2302.06744"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS). III. Understanding the DTARPS-S Candidate Transiting Planet Catalogs"
-      },
-      {
-        "authors": [
-          "Pel{\\'a}ez-Torres, A."
-        ],
-        "bibcode": "2024A&A...690A..62P",
-        "ids": [
-          "10.1051/0004-6361/202347251",
-          "10.48550/arxiv.2409.07400",
-          "2024a&a...690a..62p",
-          "2024arxiv240907400p",
-          "2409.07400"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Validation of up to seven TESS planet candidates through multi-colour transit photometry using MuSCAT2 data"
-      }
-    ],
-    "doctype": "article",
-    "doi": "10.1051/0004-6361/202347431",
-    "page": "A170",
-    "page_count": 13,
-    "page_range": null,
-    "pub": "Astronomy and Astrophysics",
-    "pubdate": "2024-03-00",
-    "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
-    "volume": "683",
-    "year": "2024"
-  },
-  {
     "arxiv": "2310.17751",
     "authors": [
       "Tsai, Shang-Min",
@@ -11220,14 +10775,16 @@
         "authors": [
           "Zamyatina, Maria"
         ],
-        "bibcode": "2026arXiv261033643Z",
+        "bibcode": "2026MNRAS.tmp.1897Z",
         "ids": [
+          "10.1093/mnras/stag2060",
           "10.48550/arxiv.2610.33643",
           "2026arxiv261033643z",
+          "2026mnras.tmp.1897z",
           "2610.33643"
         ],
-        "pub": "arXiv e-prints",
-        "title": "Spatial variability of CH4-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Spatial variability of CH<SUB>4</SUB>-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
       },
       {
         "authors": [
@@ -11249,7 +10806,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -11261,7 +10821,10 @@
         "bibcode": "2026A&A...714A.149S",
         "ids": [
           "10.1051/0004-6361/202659817",
-          "2026a&a...714a.149s"
+          "10.48550/arxiv.2608.03406",
+          "2026a&a...714a.149s",
+          "2026arxiv260803406s",
+          "2608.03406"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
@@ -11273,7 +10836,10 @@
         "bibcode": "2026A&A...713A.323S",
         "ids": [
           "10.1051/0004-6361/202659706",
-          "2026a&a...713a.323s"
+          "10.48550/arxiv.2607.22820",
+          "2026a&a...713a.323s",
+          "2026arxiv260722820s",
+          "2607.22820"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "SCoRE: The surface composition of rocky exoplanets: Mineralogical constraints based on atmospheric types"
@@ -11340,32 +10906,6 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "Flow-driven limb asymmetry of haze distribution Part I: an analytical framework for predicting the size distribution of photochemical hazes across the two limbs of hot-Jupiters"
-      },
-      {
-        "authors": [
-          "Shulyak, D."
-        ],
-        "bibcode": "2026arXiv260803406S",
-        "ids": [
-          "10.48550/arxiv.2608.03406",
-          "2026arxiv260803406s",
-          "2608.03406"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
-      },
-      {
-        "authors": [
-          "Sereinig, Leon"
-        ],
-        "bibcode": "2026arXiv260722820S",
-        "ids": [
-          "10.48550/arxiv.2607.22820",
-          "2026arxiv260722820s",
-          "2607.22820"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "SCoRE: the Surface Composition of Rocky Exoplanets"
       },
       {
         "authors": [
@@ -11661,6 +11201,180 @@
     "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
     "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
     "volume": "963",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2401.11879",
+    "authors": [
+      "Parviainen, H.",
+      "Murgas, F.",
+      "Esparza-Borges, E.",
+      "Pel{\\'a}ez-Torres, A.",
+      "Palle, E.",
+      "Luque, R.",
+      "Zapatero-Osorio, M. R.",
+      "Korth, J.",
+      "Fukui, A.",
+      "Narita, N.",
+      "Collins, K. A.",
+      "B{\\'e}jar, V. J. S.",
+      "Morello, G.",
+      "Monelli, M.",
+      "Garcia, N. Abreu",
+      "Chen, G.",
+      "Crouzet, N.",
+      "de Leon, J. P.",
+      "Isogai, K.",
+      "Kagetani, T.",
+      "Kawauchi, K.",
+      "Klagyivik, P.",
+      "Kodama, T.",
+      "Kusakabe, N.",
+      "Livingston, J. H.",
+      "Meni, P.",
+      "Mori, M.",
+      "Nowak, G.",
+      "Tamura, M.",
+      "Terada, Y.",
+      "Watanabe, N.",
+      "Ciardi, D. R.",
+      "Lund, M. B.",
+      "Christiansen, J. L.",
+      "Dressing, C. D.",
+      "Giacalone, S.",
+      "Savel, A. B.",
+      "Hirsch, L.",
+      "Parsons, S. G.",
+      "Brown, P.",
+      "Collins, K. I.",
+      "Barkaoui, K.",
+      "Timmermans, M.",
+      "Ghachoui, M.",
+      "Soubkiou, A.",
+      "Benkhaldoun, Z.",
+      "McDermott, S.",
+      "Pritchard, T.",
+      "Rowden, P.",
+      "Striegel, S.",
+      "Gan, T.",
+      "Horne, K.",
+      "Jensen, E. L. N.",
+      "Schwarz, R. P.",
+      "Shporer, A.",
+      "Srdoc, G.",
+      "Seager, S.",
+      "Winn, J. N.",
+      "Jenkins, J. M.",
+      "Ricker, G.",
+      "Vanderspek, R.",
+      "Dragomir, D."
+    ],
+    "citations": 6,
+    "citing": [
+      {
+        "authors": [
+          "Decocq, Emeline"
+        ],
+        "bibcode": "2026AJ....171..316D",
+        "ids": [
+          "10.3847/1538-3881/ae5486",
+          "10.48550/arxiv.2605.10427",
+          "2026aj....171..316d",
+          "2026arxiv260510427d",
+          "2605.10427"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "Comparing Results from Two Uniform Phase-curve Surveys"
+      },
+      {
+        "authors": [
+          "Jiang, Chengzi"
+        ],
+        "bibcode": "2026MNRAS.547ag367J",
+        "ids": [
+          "10.1093/mnras/stag367",
+          "10.48550/arxiv.2512.06817",
+          "2025arxiv251206817j",
+          "2026mnras.547ag367j",
+          "2026mnras.547g.367j",
+          "2026mnras.tmp..333j",
+          "2512.06817"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Multicolour validation of two temperate mini-Neptunes around M-dwarf habitable zones"
+      },
+      {
+        "authors": [
+          "Ikuta, Kai"
+        ],
+        "bibcode": "2025PASJ...77.1101I",
+        "ids": [
+          "10.1093/pasj/psaf090",
+          "10.48550/arxiv.2507.16222",
+          "2025arxiv250716222i",
+          "2025pasj...77.1101i",
+          "2025pasj..tmp...95i",
+          "2507.16222"
+        ],
+        "pub": "Publications of the Astronomical Society of Japan",
+        "title": "The mass of TOI-654 b: A short-period sub-Neptune transiting a mid-M dwarf"
+      },
+      {
+        "authors": [
+          "Han, Te"
+        ],
+        "bibcode": "2025ApJ...988L...4H",
+        "ids": [
+          "10.3847/2041-8213/ade794",
+          "10.48550/arxiv.2506.19985",
+          "2025apj...988l...4h",
+          "2025arxiv250619985h",
+          "2506.19985"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "Hundreds of TESS Exoplanets Might Be Larger than We Thought"
+      },
+      {
+        "authors": [
+          "Melton, Elizabeth J."
+        ],
+        "bibcode": "2024AJ....168..271M",
+        "ids": [
+          "10.3847/1538-3881/ad8355",
+          "10.48550/arxiv.2302.06744",
+          "2023arxiv230206744m",
+          "2024aj....168..271m",
+          "2302.06744"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS). III. Understanding the DTARPS-S Candidate Transiting Planet Catalogs"
+      },
+      {
+        "authors": [
+          "Pel{\\'a}ez-Torres, A."
+        ],
+        "bibcode": "2024A&A...690A..62P",
+        "ids": [
+          "10.1051/0004-6361/202347251",
+          "10.48550/arxiv.2409.07400",
+          "2024a&a...690a..62p",
+          "2024arxiv240907400p",
+          "2409.07400"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Validation of up to seven TESS planet candidates through multi-colour transit photometry using MuSCAT2 data"
+      }
+    ],
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202347431",
+    "page": "A170",
+    "page_count": 13,
+    "page_range": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2024-03-00",
+    "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
+    "volume": "683",
     "year": "2024"
   },
   {
@@ -12191,7 +11905,10 @@
         "bibcode": "2026A&A...714A.261M",
         "ids": [
           "10.1051/0004-6361/202659933",
-          "2026a&a...714a.261m"
+          "10.48550/arxiv.2603.17574",
+          "2026a&a...714a.261m",
+          "2026arxiv260317574m",
+          "2603.17574"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Searching for molecular signatures in 14 transiting exoplanets with SPIRou"
@@ -12240,19 +11957,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "Uniform Reinterpretation of Rocky Exoplanet Secondary Eclipse Observations and the Impact of Stellar and Orbital Uncertainties"
-      },
-      {
-        "authors": [
-          "Masson, A."
-        ],
-        "bibcode": "2026arXiv260317574M",
-        "ids": [
-          "10.48550/arxiv.2603.17574",
-          "2026arxiv260317574m",
-          "2603.17574"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Searching for Molecular Signatures in 14 Transiting Exoplanets with SPIRou"
       },
       {
         "authors": [
@@ -12632,6 +12336,21 @@
     "citing": [
       {
         "authors": [
+          "Duque-Casta{\\~n}o, David S."
+        ],
+        "bibcode": "2026A&A...714A.453D",
+        "ids": [
+          "10.1051/0004-6361/202659009",
+          "10.48550/arxiv.2602.10330",
+          "2026a&a...714a.453d",
+          "2026arxiv260210330d",
+          "2602.10330"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Efficient reduction of stellar contamination and noise in planetary transmission spectra using neural networks"
+      },
+      {
+        "authors": [
           "Weeks, Angharad"
         ],
         "bibcode": "2026arXiv261030594W",
@@ -12675,7 +12394,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -12713,7 +12435,10 @@
         "bibcode": "2026PASP..138i4403C",
         "ids": [
           "10.1088/1538-3873/aea59a",
-          "2026pasp..138i4403c"
+          "10.48550/arxiv.2609.16115",
+          "2026arxiv260916115c",
+          "2026pasp..138i4403c",
+          "2609.16115"
         ],
         "pub": "Publications of the Astronomical Society of the Pacific",
         "title": "Inhomogeneous Cloud Coverage and Altitude-dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-infrared Phase Curve"
@@ -12725,7 +12450,10 @@
         "bibcode": "2026AJ....172..237F",
         "ids": [
           "10.3847/1538-3881/ae9ff6",
-          "2026aj....172..237f"
+          "10.48550/arxiv.2608.25993",
+          "2026aj....172..237f",
+          "2026arxiv260825993f",
+          "2608.25993"
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST Color Sequence of Transiting Exoplanets and Directly Imaged Substellar Objects"
@@ -12744,32 +12472,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "WASP-43b TESS Phase Curve Mapping: Evidence for a Hot Interior"
-      },
-      {
-        "authors": [
-          "Venot, Olivia"
-        ],
-        "bibcode": "2026arXiv260927622V",
-        "ids": [
-          "10.48550/arxiv.2609.27622",
-          "2026arxiv260927622v",
-          "2609.27622"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Probing Exoplanetary Chemistry with Ariel: Scientific Priorities and Observational Strategies"
-      },
-      {
-        "authors": [
-          "Coulombe, Louis-Philippe"
-        ],
-        "bibcode": "2026arXiv260916115C",
-        "ids": [
-          "10.48550/arxiv.2609.16115",
-          "2026arxiv260916115c",
-          "2609.16115"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve"
       },
       {
         "authors": [
@@ -12846,19 +12548,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "The JWST Search for Earth-Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e"
-      },
-      {
-        "authors": [
-          "Fu, Guangwei"
-        ],
-        "bibcode": "2026arXiv260825993F",
-        "ids": [
-          "10.48550/arxiv.2608.25993",
-          "2026arxiv260825993f",
-          "2608.25993"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "JWST color sequence of transiting exoplanets and directly imaged substellar objects"
       },
       {
         "authors": [
@@ -13267,19 +12956,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Accelerating exoplanet climate modelling: A machine learning approach to complement 3D general circulation model grid simulations"
-      },
-      {
-        "authors": [
-          "Duque-Casta{\\~n}o, David S."
-        ],
-        "bibcode": "2026arXiv260210330D",
-        "ids": [
-          "10.48550/arxiv.2602.10330",
-          "2026arxiv260210330d",
-          "2602.10330"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Efficient reduction of stellar contamination and noise in planetary transmission spectra using neural networks"
       },
       {
         "authors": [
@@ -15252,7 +14928,10 @@
         "bibcode": "2026ApJS..287....9W",
         "ids": [
           "10.3847/1538-4365/aea075",
-          "2026apjs..287....9w"
+          "10.48550/arxiv.2610.19328",
+          "2026apjs..287....9w",
+          "2026arxiv261019328w",
+          "2610.19328"
         ],
         "pub": "The Astrophysical Journal Supplement Series",
         "title": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
@@ -15264,7 +14943,10 @@
         "bibcode": "2026ApJ..1010..133N",
         "ids": [
           "10.3847/1538-4357/ae9a84",
-          "2026apj..1010..133n"
+          "10.48550/arxiv.2608.19100",
+          "2026apj..1010..133n",
+          "2026arxiv260819100n",
+          "2608.19100"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
@@ -15276,7 +14958,10 @@
         "bibcode": "2026AJ....172..262S",
         "ids": [
           "10.3847/1538-3881/aea574",
-          "2026aj....172..262s"
+          "10.48550/arxiv.2609.03029",
+          "2026aj....172..262s",
+          "2026arxiv260903029s",
+          "2609.03029"
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST MIRI Reveals a Potential Atmosphere on the Ultrahot Rocky Planet TOI-431b"
@@ -15296,25 +14981,15 @@
       },
       {
         "authors": [
-          "Wu, Yunke"
-        ],
-        "bibcode": "2026arXiv261019328W",
-        "ids": [
-          "10.48550/arxiv.2610.19328",
-          "2026arxiv261019328w",
-          "2610.19328"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "ExoEcho: Exoplanet Ephemerides Change Observations. III. A JWST Survey for Transit Timing Variations of 37 Exoplanets"
-      },
-      {
-        "authors": [
           "Venot, Olivia"
         ],
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -15326,7 +15001,10 @@
         "bibcode": "2026ApJ..1010...44T",
         "ids": [
           "10.3847/1538-4357/ae9f4b",
-          "2026apj..1010...44t"
+          "10.48550/arxiv.2604.24845",
+          "2026apj..1010...44t",
+          "2026arxiv260424845t",
+          "2604.24845"
         ],
         "pub": "The Astrophysical Journal",
         "title": "ORCHARD: A General Planetary Evolution Code"
@@ -15338,7 +15016,10 @@
         "bibcode": "2026A&A...714A..21B",
         "ids": [
           "10.1051/0004-6361/202659782",
-          "2026a&a...714a..21b"
+          "10.48550/arxiv.2607.08486",
+          "2026a&a...714a..21b",
+          "2026arxiv260708486b",
+          "2607.08486"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models"
@@ -15384,19 +15065,6 @@
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "C, N, O, S, and Photochemistry in a Temperate Giant Planet Orbiting a Late M Dwarf"
-      },
-      {
-        "authors": [
-          "Venot, Olivia"
-        ],
-        "bibcode": "2026arXiv260927622V",
-        "ids": [
-          "10.48550/arxiv.2609.27622",
-          "2026arxiv260927622v",
-          "2609.27622"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Probing Exoplanetary Chemistry with Ariel: Scientific Priorities and Observational Strategies"
       },
       {
         "authors": [
@@ -15455,19 +15123,6 @@
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "A Homogeneous Survey of JWST-MIRI Transmission Spectra of 10 Exoplanets"
-      },
-      {
-        "authors": [
-          "Smith, Cole"
-        ],
-        "bibcode": "2026arXiv260903029S",
-        "ids": [
-          "10.48550/arxiv.2609.03029",
-          "2026arxiv260903029s",
-          "2609.03029"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "JWST MIRI reveals a potential atmosphere on the ultra-hot rocky planet TOI-431b"
       },
       {
         "authors": [
@@ -15533,25 +15188,15 @@
       },
       {
         "authors": [
-          "Nagpal, Vighnesh"
-        ],
-        "bibcode": "2026arXiv260819100N",
-        "ids": [
-          "10.48550/arxiv.2608.19100",
-          "2026arxiv260819100n",
-          "2608.19100"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
-      },
-      {
-        "authors": [
           "Cesario, Lorenzo"
         ],
         "bibcode": "2026ApJ..1007L...8C",
         "ids": [
           "10.3847/2041-8213/ae8b95",
-          "2026apj..1007l...8c"
+          "10.48550/arxiv.2607.13793",
+          "2026apj..1007l...8c",
+          "2026arxiv260713793c",
+          "2607.13793"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "Reflation: Redox-Driven Atmospheric Inflation as Tracer of Super-Earth Geochemistry"
@@ -15563,7 +15208,10 @@
         "bibcode": "2026A&A...712A..58L",
         "ids": [
           "10.1051/0004-6361/202660641",
-          "2026a&a...712a..58l"
+          "10.48550/arxiv.2606.19056",
+          "2026a&a...712a..58l",
+          "2026arxiv260619056l",
+          "2606.19056"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Three-dimensional temporal evolution of photochemical hazes in exoplanet atmospheres: I. Description and test application to HD 189733b"
@@ -15672,19 +15320,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Radiatively Controlled Thermal Stability of High-altitude Clouds in Exoplanetary Atmospheres"
-      },
-      {
-        "authors": [
-          "Baeyens, Robin"
-        ],
-        "bibcode": "2026arXiv260708486B",
-        "ids": [
-          "10.48550/arxiv.2607.08486",
-          "2026arxiv260708486b",
-          "2607.08486"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models"
       },
       {
         "authors": [
@@ -15820,19 +15455,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Influence of CO versus CH<SUB>4</SUB> on organic haze formation in atmospheres of diverse terrestrial exoplanets"
-      },
-      {
-        "authors": [
-          "Tejada Arevalo, Roberto"
-        ],
-        "bibcode": "2026arXiv260424845T",
-        "ids": [
-          "10.48550/arxiv.2604.24845",
-          "2026arxiv260424845t",
-          "2604.24845"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "ORCHARD: A General Planetary Evolution Code"
       },
       {
         "authors": [
@@ -18822,7 +18444,10 @@
         "bibcode": "2026ApJ..1010..133N",
         "ids": [
           "10.3847/1538-4357/ae9a84",
-          "2026apj..1010..133n"
+          "10.48550/arxiv.2608.19100",
+          "2026apj..1010..133n",
+          "2026arxiv260819100n",
+          "2608.19100"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
@@ -18834,7 +18459,10 @@
         "bibcode": "2026RASTI...5ag053V",
         "ids": [
           "10.1093/rasti/rzag053",
-          "2026rasti...5ag053v"
+          "10.48550/arxiv.2609.27622",
+          "2026arxiv260927622v",
+          "2026rasti...5ag053v",
+          "2609.27622"
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
@@ -18884,25 +18512,15 @@
       },
       {
         "authors": [
-          "Nagpal, Vighnesh"
-        ],
-        "bibcode": "2026arXiv260819100N",
-        "ids": [
-          "10.48550/arxiv.2608.19100",
-          "2026arxiv260819100n",
-          "2608.19100"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Wet Removal and Cloud Enhancement: The Microphysics of Cloud-Haze Interactions on Sub-Neptunes"
-      },
-      {
-        "authors": [
           "Lee, Elspeth K. H."
         ],
         "bibcode": "2026A&A...712A..58L",
         "ids": [
           "10.1051/0004-6361/202660641",
-          "2026a&a...712a..58l"
+          "10.48550/arxiv.2606.19056",
+          "2026a&a...712a..58l",
+          "2026arxiv260619056l",
+          "2606.19056"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Three-dimensional temporal evolution of photochemical hazes in exoplanet atmospheres: I. Description and test application to HD 189733b"
@@ -21050,7 +20668,10 @@
         "bibcode": "2026A&A...714A.333R",
         "ids": [
           "10.1051/0004-6361/202659448",
-          "2026a&a...714a.333r"
+          "10.48550/arxiv.2602.13125",
+          "2026a&a...714a.333r",
+          "2026arxiv260213125r",
+          "2602.13125"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "TIC65910228 b: A single-transit discovery of a massive long-period warm Jupiter with TESS"
@@ -21062,7 +20683,10 @@
         "bibcode": "2026A&A...713A.272L",
         "ids": [
           "10.1051/0004-6361/202660710",
-          "2026a&a...713a.272l"
+          "10.48550/arxiv.2607.19756",
+          "2026a&a...713a.272l",
+          "2026arxiv260719756l",
+          "2607.19756"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
@@ -21127,19 +20751,6 @@
       },
       {
         "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2026arXiv260719756L",
-        "ids": [
-          "10.48550/arxiv.2607.19756",
-          "2026arxiv260719756l",
-          "2607.19756"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
-      },
-      {
-        "authors": [
           "Murphy, Simon J."
         ],
         "bibcode": "2026MNRAS.550g1237M",
@@ -21197,19 +20808,6 @@
         ],
         "pub": "The Astrophysical Journal Supplement Series",
         "title": "ExoClock Project. IV. A Homogeneous Catalog of 620 Updated Exoplanet Ephemerides"
-      },
-      {
-        "authors": [
-          "Rojas, Felipe I."
-        ],
-        "bibcode": "2026arXiv260213125R",
-        "ids": [
-          "10.48550/arxiv.2602.13125",
-          "2026arxiv260213125r",
-          "2602.13125"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TIC65910228b: A single-transit discovery of a massive long-period warm Jupiter with TESS"
       },
       {
         "authors": [
@@ -21717,14 +21315,16 @@
         "authors": [
           "Sicilia, D."
         ],
-        "bibcode": "2026arXiv261012677S",
+        "bibcode": "2026MNRAS.tmp.1783S",
         "ids": [
+          "10.1093/mnras/stag1927",
           "10.48550/arxiv.2610.12677",
           "2026arxiv261012677s",
+          "2026mnras.tmp.1783s",
           "2610.12677"
         ],
-        "pub": "arXiv e-prints",
-        "title": "The GAPS programme at TNG LXXXII. The first atmospheric investigation of the gas giant WASP-13b at high resolution with GIARPS"
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "The GAPS programme at TNG LXXXII. The first atmospheric investigation of the gas giant WASP-13 b at high resolution with GIARPS<SUB></SUB>"
       },
       {
         "authors": [
@@ -22349,6 +21949,21 @@
     "citing": [
       {
         "authors": [
+          "Castro-Gonz{\\'a}lez, A."
+        ],
+        "bibcode": "2026A&A...714A.425C",
+        "ids": [
+          "10.1051/0004-6361/202661117",
+          "10.48550/arxiv.2609.05413",
+          "2026a&a...714a.425c",
+          "2026arxiv260905413c",
+          "2609.05413"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert"
+      },
+      {
+        "authors": [
           "Xiao, Guang-Yao"
         ],
         "bibcode": "2026ApJ..1009L...6X",
@@ -22361,19 +21976,6 @@
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "Transiting Planetary Systems with Distant Giant Companions Remain Moderately Coplanar"
-      },
-      {
-        "authors": [
-          "Castro-Gonz{\\'a}lez, A."
-        ],
-        "bibcode": "2026arXiv260905413C",
-        "ids": [
-          "10.48550/arxiv.2609.05413",
-          "2026arxiv260905413c",
-          "2609.05413"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert"
       },
       {
         "authors": [
@@ -22894,7 +22496,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 15,
+    "citations": 16,
     "citing": [
       {
         "authors": [
@@ -22903,7 +22505,10 @@
         "bibcode": "2026AJ....172..247C",
         "ids": [
           "10.3847/1538-3881/aea4aa",
-          "2026aj....172..247c"
+          "10.48550/arxiv.2608.21560",
+          "2026aj....172..247c",
+          "2026arxiv260821560c",
+          "2608.21560"
         ],
         "pub": "The Astronomical Journal",
         "title": "Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates"
@@ -22933,19 +22538,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Stellar companions sculpt hot Jupiter formation and spin-orbit evolution"
-      },
-      {
-        "authors": [
-          "Collier, Michael"
-        ],
-        "bibcode": "2026arXiv260821560C",
-        "ids": [
-          "10.48550/arxiv.2608.21560",
-          "2026arxiv260821560c",
-          "2608.21560"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Assessing the Impact of High-Resolution Imaging on Statistical Validation of TESS Planet Candidates"
       },
       {
         "authors": [
@@ -23403,6 +22995,21 @@
     "citing": [
       {
         "authors": [
+          "Pelletier, S."
+        ],
+        "bibcode": "2026A&A...714A.378P",
+        "ids": [
+          "10.1051/0004-6361/202555010",
+          "10.48550/arxiv.2609.13051",
+          "2026a&a...714a.378p",
+          "2026arxiv260913051p",
+          "2609.13051"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "The atomic C/O ratio of KELT-9b"
+      },
+      {
+        "authors": [
           "Wardenier, Joost P."
         ],
         "bibcode": "2026A&A...713A.146W",
@@ -23415,19 +23022,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Parametrizing the projected wind fields of ultra-hot Jupiters in thermal emission: An application to GCM spectra of WASP-76b"
-      },
-      {
-        "authors": [
-          "Pelletier, Stefan"
-        ],
-        "bibcode": "2026arXiv260913051P",
-        "ids": [
-          "10.48550/arxiv.2609.13051",
-          "2026arxiv260913051p",
-          "2609.13051"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The atomic C/O ratio of KELT-9b"
       },
       {
         "authors": [
@@ -24540,7 +24134,10 @@
         "bibcode": "2026ApJS..287....8G",
         "ids": [
           "10.3847/1538-4365/ae9b09",
-          "2026apjs..287....8g"
+          "10.48550/arxiv.2602.15695",
+          "2026apjs..287....8g",
+          "2026arxiv260215695g",
+          "2602.15695"
         ],
         "pub": "The Astrophysical Journal Supplement Series",
         "title": "The Montreal Open Clusters and Associations (MOCA) Database: A Census of Nearby Associations, Open Clusters, and Young Substellar Objects within 500 pc of the Sun"
@@ -24565,7 +24162,10 @@
         "bibcode": "2026ApJ..1009..221M",
         "ids": [
           "10.3847/1538-4357/ae9bb9",
-          "2026apj..1009..221m"
+          "10.48550/arxiv.2608.24701",
+          "2026apj..1009..221m",
+          "2026arxiv260824701m",
+          "2608.24701"
         ],
         "pub": "The Astrophysical Journal",
         "title": "Improving the Physical Interpretability of Gaussian Processes in Stellar Activity Modeling: A Study Case on Photometric Variability among Stellar Clusters"
@@ -24582,19 +24182,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Exoplanets in star clusters"
-      },
-      {
-        "authors": [
-          "Moranta, Leslie"
-        ],
-        "bibcode": "2026arXiv260824701M",
-        "ids": [
-          "10.48550/arxiv.2608.24701",
-          "2026arxiv260824701m",
-          "2608.24701"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Improving the Physical Interpretability of Gaussian Processes in Stellar Activity Modeling: A Study Case on Photometric Variability Among Stellar Clusters"
       },
       {
         "authors": [
@@ -24670,19 +24257,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "Measuring Rotation Periods in Crowded Star Clusters with TESS: A Proof of Concept with NGC 3532"
-      },
-      {
-        "authors": [
-          "Gagn{\\'e}, Jonathan"
-        ],
-        "bibcode": "2026arXiv260215695G",
-        "ids": [
-          "10.48550/arxiv.2602.15695",
-          "2026arxiv260215695g",
-          "2602.15695"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The Montreal Open Clusters and Associations (MOCA) Database: A Census of Nearby Associations, Open Clusters, and Young Substellar Objects within 500 pc of the Sun"
       },
       {
         "authors": [
@@ -25108,7 +24682,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 59,
+    "citations": 58,
     "citing": [
       {
         "authors": [
@@ -25125,19 +24699,6 @@
         ],
         "pub": "Nature Astronomy",
         "title": "Atmospheric asymmetries in WASP-121 b revealed by rotational transits detected with JWST"
-      },
-      {
-        "authors": [
-          "Barstow, Joanna K."
-        ],
-        "bibcode": "2026LRCA...12....6B",
-        "ids": [
-          "10.1007/s41115-026-00031-9",
-          "2026lrca...12....6b",
-          "2026lrca...12....6k"
-        ],
-        "pub": "Living Reviews in Computational Astrophysics",
-        "title": "Computational challenges in exoplanet atmospheric retrieval"
       },
       {
         "authors": [
@@ -26111,7 +25672,10 @@
         "bibcode": "2026A&A...713A.272L",
         "ids": [
           "10.1051/0004-6361/202660710",
-          "2026a&a...713a.272l"
+          "10.48550/arxiv.2607.19756",
+          "2026a&a...713a.272l",
+          "2026arxiv260719756l",
+          "2607.19756"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
@@ -26166,6 +25730,8 @@
         "bibcode": "2026MNRAS.552g1694V",
         "ids": [
           "10.1093/mnras/stag1694",
+          "10.48550/arxiv.2609.07278",
+          "2026arxiv260907278v",
           "2026mnras.552g1694v",
           "2026mnras.tmp.1561v",
           "2026mnras.tmp.1603v",
@@ -26218,19 +25784,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "Chemical Abundances of the Bioessential Elements C, O, and S, and the Refractory Elements Fe and Ni, in Solar-type Exoplanet-hosting Stars from HARPS North and South"
-      },
-      {
-        "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2026arXiv260719756L",
-        "ids": [
-          "10.48550/arxiv.2607.19756",
-          "2026arxiv260719756l",
-          "2607.19756"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
       },
       {
         "authors": [
@@ -27865,7 +27418,10 @@
         "bibcode": "2026AJ....172..247C",
         "ids": [
           "10.3847/1538-3881/aea4aa",
-          "2026aj....172..247c"
+          "10.48550/arxiv.2608.21560",
+          "2026aj....172..247c",
+          "2026arxiv260821560c",
+          "2608.21560"
         ],
         "pub": "The Astronomical Journal",
         "title": "Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates"
@@ -27913,19 +27469,6 @@
       },
       {
         "authors": [
-          "Collier, Michael"
-        ],
-        "bibcode": "2026arXiv260821560C",
-        "ids": [
-          "10.48550/arxiv.2608.21560",
-          "2026arxiv260821560c",
-          "2608.21560"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Assessing the Impact of High-Resolution Imaging on Statistical Validation of TESS Planet Candidates"
-      },
-      {
-        "authors": [
           "Liu, Qingtian"
         ],
         "bibcode": "2026arXiv260821129L",
@@ -27960,7 +27503,10 @@
         "bibcode": "2026ApJ..1007L...8C",
         "ids": [
           "10.3847/2041-8213/ae8b95",
-          "2026apj..1007l...8c"
+          "10.48550/arxiv.2607.13793",
+          "2026apj..1007l...8c",
+          "2026arxiv260713793c",
+          "2607.13793"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "Reflation: Redox-Driven Atmospheric Inflation as Tracer of Super-Earth Geochemistry"
@@ -28554,6 +28100,21 @@
     "citing": [
       {
         "authors": [
+          "Pelletier, S."
+        ],
+        "bibcode": "2026A&A...714A.378P",
+        "ids": [
+          "10.1051/0004-6361/202555010",
+          "10.48550/arxiv.2609.13051",
+          "2026a&a...714a.378p",
+          "2026arxiv260913051p",
+          "2609.13051"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "The atomic C/O ratio of KELT-9b"
+      },
+      {
+        "authors": [
           "Gapp, Cyril"
         ],
         "bibcode": "2026NatAs..10.1323G",
@@ -28582,19 +28143,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Parametrizing the projected wind fields of ultra-hot Jupiters in thermal emission: An application to GCM spectra of WASP-76b"
-      },
-      {
-        "authors": [
-          "Pelletier, Stefan"
-        ],
-        "bibcode": "2026arXiv260913051P",
-        "ids": [
-          "10.48550/arxiv.2609.13051",
-          "2026arxiv260913051p",
-          "2609.13051"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The atomic C/O ratio of KELT-9b"
       },
       {
         "authors": [
@@ -30663,6 +30211,21 @@
     "citing": [
       {
         "authors": [
+          "Borsato, N. W."
+        ],
+        "bibcode": "2026A&A...714A.412B",
+        "ids": [
+          "10.1051/0004-6361/202556732",
+          "10.48550/arxiv.2609.10695",
+          "2026a&a...714a.412b",
+          "2026arxiv260910695b",
+          "2609.10695"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Sorting a mess: I. Addressing the velocity-axis correlation of cross-correlation functions: A census of atomic and ionised species in KELT-9b's atmosphere"
+      },
+      {
+        "authors": [
           "Ramirez, Vanesa"
         ],
         "bibcode": "2026arXiv261022338R",
@@ -30681,35 +30244,12 @@
         "bibcode": "2026A&A...714A.149S",
         "ids": [
           "10.1051/0004-6361/202659817",
-          "2026a&a...714a.149s"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
-      },
-      {
-        "authors": [
-          "Borsato, Nicholas W."
-        ],
-        "bibcode": "2026arXiv260910695B",
-        "ids": [
-          "10.48550/arxiv.2609.10695",
-          "2026arxiv260910695b",
-          "2609.10695"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Sorting a mess I: Addressing velocity-axis correlation of cross-correlation functions. A census of atomic and ionised species in KELT-9b's atmosphere"
-      },
-      {
-        "authors": [
-          "Shulyak, D."
-        ],
-        "bibcode": "2026arXiv260803406S",
-        "ids": [
           "10.48550/arxiv.2608.03406",
+          "2026a&a...714a.149s",
           "2026arxiv260803406s",
           "2608.03406"
         ],
-        "pub": "arXiv e-prints",
+        "pub": "Astronomy and Astrophysics",
         "title": "Phase-curve approach to study atmospheric flows in hot Jupiters"
       },
       {
@@ -31549,6 +31089,8 @@
         "bibcode": "2026PASJ...78.1815K",
         "ids": [
           "10.1093/pasj/psag104",
+          "10.48550/arxiv.2608.19030",
+          "2026arxiv260819030k",
           "2026pasj...78.1815k",
           "2026pasj..tmp..198k",
           "2608.19030"
@@ -32589,6 +32131,36 @@
     "citing": [
       {
         "authors": [
+          "Lv, Chenglong"
+        ],
+        "bibcode": "2026ApJ..1011L..20L",
+        "ids": [
+          "10.3847/2041-8213/aeb301",
+          "10.48550/arxiv.2610.14371",
+          "2026apj..1011l..20l",
+          "2026arxiv261014371l",
+          "2610.14371"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "TESS Pulsation Timing Reveals the JWST Calibration Star HD 158485 as a Double-pulsator Binary"
+      },
+      {
+        "authors": [
+          "Knudstrup, E."
+        ],
+        "bibcode": "2026A&A...714A.496K",
+        "ids": [
+          "10.1051/0004-6361/202661610",
+          "10.48550/arxiv.2609.30915",
+          "2026a&a...714a.496k",
+          "2026arxiv260930915k",
+          "2609.30915"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "TS23/McDonald and FIES/NOT strike again: Two new warm Jupiter systems and outer companions in a third"
+      },
+      {
+        "authors": [
           "McMaster, Adam"
         ],
         "bibcode": "2026arXiv261030203M",
@@ -32620,23 +32192,13 @@
         "bibcode": "2026AJ....172..258W",
         "ids": [
           "10.3847/1538-3881/aea6d0",
-          "2026aj....172..258w"
+          "10.48550/arxiv.2609.16201",
+          "2026aj....172..258w",
+          "2026arxiv260916201l",
+          "2609.16201"
         ],
         "pub": "The Astronomical Journal",
         "title": "Rescuing Kepler's False Positives: A Possible Habitable Zone Exoplanet in the Triple-star System KOI-1623"
-      },
-      {
-        "authors": [
-          "Lv, Chenglong"
-        ],
-        "bibcode": "2026arXiv261014371L",
-        "ids": [
-          "10.48550/arxiv.2610.14371",
-          "2026arxiv261014371l",
-          "2610.14371"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TESS Pulsation Timing Reveals the JWST Calibration Star HD 158485 as a Double-pulsator Binary"
       },
       {
         "authors": [
@@ -32658,23 +32220,13 @@
         "bibcode": "2026ApJ..1009L..40D",
         "ids": [
           "10.3847/2041-8213/ae9a97",
-          "2026apj..1009l..40d"
+          "10.48550/arxiv.2606.03737",
+          "2026apj..1009l..40d",
+          "2026arxiv260603737d",
+          "2606.03737"
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "J0404+1112: A 3 hr Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes"
-      },
-      {
-        "authors": [
-          "Knudstrup, E."
-        ],
-        "bibcode": "2026arXiv260930915K",
-        "ids": [
-          "10.48550/arxiv.2609.30915",
-          "2026arxiv260930915k",
-          "2609.30915"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "TS23/McDonald and FIES/NOT strike again. Two new warm Jupiter systems and outer companions in a third"
       },
       {
         "authors": [
@@ -32743,19 +32295,6 @@
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Revisiting TOI-4438 and TOI-442 planetary systems with new observations from SPIRou and TESS"
-      },
-      {
-        "authors": [
-          "Lanxuan Wang, Rita"
-        ],
-        "bibcode": "2026arXiv260916201L",
-        "ids": [
-          "10.48550/arxiv.2609.16201",
-          "2026arxiv260916201l",
-          "2609.16201"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Rescuing Kepler's False Positives: A Possible Habitable Zone Exoplanet in the Triple Star System KOI-1623"
       },
       {
         "authors": [
@@ -36413,7 +35952,10 @@
         "bibcode": "2026AJ....172..254R",
         "ids": [
           "10.3847/1538-3881/ae9ff1",
-          "2026aj....172..254r"
+          "10.48550/arxiv.2609.09077",
+          "2026aj....172..254r",
+          "2026arxiv260909077r",
+          "2609.09077"
         ],
         "pub": "The Astronomical Journal",
         "title": "The Discovery of K2-232c: Divergent Formation Histories for Hot and Warm Jupiters Based on Outer Companion Eccentricity"
@@ -36438,7 +35980,10 @@
         "bibcode": "2026A&A...713A.272L",
         "ids": [
           "10.1051/0004-6361/202660710",
-          "2026a&a...713a.272l"
+          "10.48550/arxiv.2607.19756",
+          "2026a&a...713a.272l",
+          "2026arxiv260719756l",
+          "2607.19756"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
@@ -36483,19 +36028,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Stellar companions sculpt hot Jupiter formation and spin-orbit evolution"
-      },
-      {
-        "authors": [
-          "Ranshaw, Jessica A."
-        ],
-        "bibcode": "2026arXiv260909077R",
-        "ids": [
-          "10.48550/arxiv.2609.09077",
-          "2026arxiv260909077r",
-          "2609.09077"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The Discovery of K2-232c: Divergent Formation Histories for Hot and Warm Jupiters Based on Outer Companion Eccentricity"
       },
       {
         "authors": [
@@ -36581,19 +36113,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "Chemical Abundances of the Bioessential Elements C, O, and S, and the Refractory Elements Fe and Ni, in Solar-type Exoplanet-hosting Stars from HARPS North and South"
-      },
-      {
-        "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2026arXiv260719756L",
-        "ids": [
-          "10.48550/arxiv.2607.19756",
-          "2026arxiv260719756l",
-          "2607.19756"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
       },
       {
         "authors": [
@@ -37277,7 +36796,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 51,
+    "citations": 52,
     "citing": [
       {
         "authors": [
@@ -37286,7 +36805,10 @@
         "bibcode": "2026PASP..138i4210S",
         "ids": [
           "10.1088/1538-3873/aea2d5",
-          "2026pasp..138i4210s"
+          "10.48550/arxiv.2609.09734",
+          "2026arxiv260909734s",
+          "2026pasp..138i4210s",
+          "2609.09734"
         ],
         "pub": "Publications of the Astronomical Society of the Pacific",
         "title": "Automated Detection of Double-lined Spectroscopic Binaries in High-resolution Spectra and a Probabilistic Analysis of Stellar Multiplicity"
@@ -37298,7 +36820,10 @@
         "bibcode": "2026A&A...713A.272L",
         "ids": [
           "10.1051/0004-6361/202660710",
-          "2026a&a...713a.272l"
+          "10.48550/arxiv.2607.19756",
+          "2026a&a...713a.272l",
+          "2026arxiv260719756l",
+          "2607.19756"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
@@ -37315,19 +36840,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Migration and Evolution of giant ExoPlanets (MEEP). III. Twenty-Nine Giant Planets from the TESS Mission"
-      },
-      {
-        "authors": [
-          "Salazar, William B."
-        ],
-        "bibcode": "2026arXiv260909734S",
-        "ids": [
-          "10.48550/arxiv.2609.09734",
-          "2026arxiv260909734s",
-          "2609.09734"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Automated Detection of Double-Lined Spectroscopic Binaries in High-Resolution Spectra and a Probabilistic Analysis of Stellar Multiplicity"
       },
       {
         "authors": [
@@ -37376,19 +36888,6 @@
         ],
         "pub": "Science",
         "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
-      },
-      {
-        "authors": [
-          "Lillo-Box, J."
-        ],
-        "bibcode": "2026arXiv260719756L",
-        "ids": [
-          "10.48550/arxiv.2607.19756",
-          "2026arxiv260719756l",
-          "2607.19756"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "CAFE follow-up of TESS hot Jupiter candidates left behind: I. Five newly confirmed planets and a false positive"
       },
       {
         "authors": [
@@ -38133,7 +37632,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 96,
+    "citations": 97,
     "citing": [
       {
         "authors": [
@@ -38142,6 +37641,8 @@
         "bibcode": "2026MNRAS.553g1610L",
         "ids": [
           "10.1093/mnras/stag1610",
+          "10.48550/arxiv.2603.10905",
+          "2026arxiv260310905l",
           "2026mnras.553g1610l",
           "2026mnras.tmp.1622l",
           "2603.10905"
