@@ -29577,8 +29577,23 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 33,
+    "citations": 34,
     "citing": [
+      {
+        "authors": [
+          "Castro-Gonz{\\'a}lez, A."
+        ],
+        "bibcode": "2026A&A...714A.425C",
+        "ids": [
+          "10.1051/0004-6361/202661117",
+          "10.48550/arxiv.2609.05413",
+          "2026a&a...714a.425c",
+          "2026arxiv260905413c",
+          "2609.05413"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert"
+      },
       {
         "authors": [
           "Sun, Qinghui"
