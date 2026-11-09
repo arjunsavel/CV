@@ -1,5 +1,30 @@
 [
   {
+    "arxiv": "2507.05422",
+    "authors": [
+      "Noti, Pascal A.",
+      "Lee, Elspeth K. H.",
+      "Kitzmann, Daniel",
+      "MacDonald, Ryan",
+      "Jenkins, Sydney",
+      "Savel, Arjun",
+      "Limbach, Mary Anne",
+      "Mordasini, Christoph"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staf1119",
+    "page": "staf1119",
+    "page_count": 15,
+    "page_range": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2026-12-00",
+    "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856 + 534b orbiting a white dwarf",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.553f1119N",
+    "volume": "553",
+    "year": "2026"
+  },
+  {
     "arxiv": "2609.21810",
     "authors": [
       "Pan, Yanbo",
@@ -716,7 +741,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 2,
+    "citations": 5,
     "citing": [
       {
         "authors": [
@@ -733,6 +758,19 @@
       },
       {
         "authors": [
+          "Srivastava, Avidaan"
+        ],
+        "bibcode": "2026arXiv260917792S",
+        "ids": [
+          "10.48550/arxiv.2609.17792",
+          "2026arxiv260917792s",
+          "2609.17792"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
+      },
+      {
+        "authors": [
           "Jontof-Hutter, Daniel"
         ],
         "bibcode": "2026arXiv260825035J",
@@ -743,6 +781,35 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
+      },
+      {
+        "authors": [
+          "Madurga-Favieres, Cristina"
+        ],
+        "bibcode": "2026MNRAS.550g1273M",
+        "ids": [
+          "10.1093/mnras/stag1273",
+          "10.48550/arxiv.2607.20643",
+          "2026arxiv260720643m",
+          "2026mnras.550g1273m",
+          "2026mnras.tmp.1201m",
+          "2607.20643"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Evidence for a giant companion orbiting Tabby's star"
+      },
+      {
+        "authors": [
+          "Hansen, Brad"
+        ],
+        "bibcode": "2026arXiv260719632H",
+        "ids": [
+          "10.48550/arxiv.2607.19632",
+          "2026arxiv260719632h",
+          "2607.19632"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Dynamically Selected Mass-Radius Relationship for Low Mass Exoplanets"
       }
     ],
     "doctype": "article",
@@ -937,50 +1004,8 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 4,
+    "citations": 1,
     "citing": [
-      {
-        "authors": [
-          "Srivastava, Avidaan"
-        ],
-        "bibcode": "2026arXiv260917792S",
-        "ids": [
-          "10.48550/arxiv.2609.17792",
-          "2026arxiv260917792s",
-          "2609.17792"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Uncovering temperate worlds: an updated look at the K2-3 system with ESPRESSO"
-      },
-      {
-        "authors": [
-          "Jontof-Hutter, Daniel"
-        ],
-        "bibcode": "2026arXiv260825035J",
-        "ids": [
-          "10.48550/arxiv.2608.25035",
-          "2026arxiv260825035j",
-          "2608.25035"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Kepler-50: Two Planets in Close Resonance Perturbed by a Non-transiting Planet"
-      },
-      {
-        "authors": [
-          "Madurga-Favieres, Cristina"
-        ],
-        "bibcode": "2026MNRAS.550g1273M",
-        "ids": [
-          "10.1093/mnras/stag1273",
-          "10.48550/arxiv.2607.20643",
-          "2026arxiv260720643m",
-          "2026mnras.550g1273m",
-          "2026mnras.tmp.1201m",
-          "2607.20643"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Evidence for a giant companion orbiting Tabby's star"
-      },
       {
         "authors": [
           "Hansen, Brad"
@@ -1344,7 +1369,7 @@
       "Piette, Anjali A. A.",
       "Wogan, Nicholas F."
     ],
-    "citations": 30,
+    "citations": 31,
     "citing": [
       {
         "authors": [
@@ -1590,6 +1615,19 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "KRONOS I: The 1--2.8 {\\ensuremath{\\mu}}m JWST Transmission Spectrum of the 23 Myr V1298 Tau c"
+      },
+      {
+        "authors": [
+          "Waalkes, William C."
+        ],
+        "bibcode": "2026arXiv260631281W",
+        "ids": [
+          "10.48550/arxiv.2606.31281",
+          "2026arxiv260631281w",
+          "2606.31281"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b Part I: An Atmosphere Obscured by Contamination and Systematics"
       },
       {
         "authors": [
@@ -2925,15 +2963,15 @@
       "Mordasini, Christoph"
     ],
     "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staf1119",
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2507.05422",
     "page": null,
     "page_count": null,
     "page_range": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pub": "arXiv e-prints",
     "pubdate": "2025-07-00",
     "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp.1153N",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250705422N",
     "volume": null,
     "year": "2025"
   },
@@ -6605,7 +6643,7 @@
       "Brahm, Rafael",
       "Crouzet, Nicolas"
     ],
-    "citations": 66,
+    "citations": 67,
     "citing": [
       {
         "authors": [
@@ -6752,6 +6790,19 @@
         ],
         "pub": "arXiv e-prints",
         "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum"
+      },
+      {
+        "authors": [
+          "Barstow, Joanna K."
+        ],
+        "bibcode": "2026LRCA...12....6B",
+        "ids": [
+          "10.1007/s41115-026-00031-9",
+          "2026lrca...12....6b",
+          "2026lrca...12....6k"
+        ],
+        "pub": "Living Reviews in Computational Astrophysics",
+        "title": "Computational challenges in exoplanet atmospheric retrieval"
       },
       {
         "authors": [
@@ -9556,8 +9607,20 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 77,
+    "citations": 78,
     "citing": [
+      {
+        "authors": [
+          "Sun, Qinghui"
+        ],
+        "bibcode": "2026A&A...715A..47S",
+        "ids": [
+          "10.1051/0004-6361/202661689",
+          "2026a&a...715a..47s"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
+      },
       {
         "authors": [
           "Handley, Luke B."
@@ -11573,8 +11636,22 @@
       "Kempton, Eliza M.-R.",
       "Cinque, L."
     ],
-    "citations": 19,
+    "citations": 20,
     "citing": [
+      {
+        "authors": [
+          "Noti, Pascal A."
+        ],
+        "bibcode": "2026MNRAS.553f1119N",
+        "ids": [
+          "10.1093/mnras/staf1119",
+          "2025mnras.tmp.1153n",
+          "2026mnras.553f1119n",
+          "2507.05422"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856 + 534b orbiting a white dwarf"
+      },
       {
         "authors": [
           "Beltz, Hayley"
@@ -11589,6 +11666,19 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution"
+      },
+      {
+        "authors": [
+          "Cukier, Wolf"
+        ],
+        "bibcode": "2026arXiv260630438C",
+        "ids": [
+          "10.48550/arxiv.2606.30438",
+          "2026arxiv260630438c",
+          "2606.30438"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "CARMApy: An Open-Source Python Framework for Simulating Microphysical Clouds in Planetary Atmospheres"
       },
       {
         "authors": [
@@ -11692,21 +11782,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Assessing Robustness and Bias in 1D Retrievals of 3D Global Circulation Models at High Spectral Resolution: A WASP-76 b Simulation Case Study in Emission"
-      },
-      {
-        "authors": [
-          "Noti, Pascal A."
-        ],
-        "bibcode": "2025MNRAS.tmp.1153N",
-        "ids": [
-          "10.1093/mnras/staf1119",
-          "10.48550/arxiv.2507.05422",
-          "2025arxiv250705422n",
-          "2025mnras.tmp.1153n",
-          "2507.05422"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf"
       },
       {
         "authors": [
@@ -14891,8 +14966,22 @@
       "Welbanks, Luis",
       "McGill, Peter"
     ],
-    "citations": 180,
+    "citations": 181,
     "citing": [
+      {
+        "authors": [
+          "Noti, Pascal A."
+        ],
+        "bibcode": "2026MNRAS.553f1119N",
+        "ids": [
+          "10.1093/mnras/staf1119",
+          "2025mnras.tmp.1153n",
+          "2026mnras.553f1119n",
+          "2507.05422"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856 + 534b orbiting a white dwarf"
+      },
       {
         "authors": [
           "Aresu, Giambattista"
@@ -15320,6 +15409,19 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "The Role of Formation Location in Shaping Sulfur-, Nitrogen-, and Carbon-bearing Species in Super-Earth and Sub-Neptune Atmospheres"
+      },
+      {
+        "authors": [
+          "Waalkes, William C."
+        ],
+        "bibcode": "2026arXiv260631281W",
+        "ids": [
+          "10.48550/arxiv.2606.31281",
+          "2026arxiv260631281w",
+          "2606.31281"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b Part I: An Atmosphere Obscured by Contamination and Systematics"
       },
       {
         "authors": [
@@ -16249,21 +16351,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Evolution of Steam Worlds: Energetic Aspects"
-      },
-      {
-        "authors": [
-          "Noti, Pascal A."
-        ],
-        "bibcode": "2025MNRAS.tmp.1153N",
-        "ids": [
-          "10.1093/mnras/staf1119",
-          "10.48550/arxiv.2507.05422",
-          "2025arxiv250705422n",
-          "2025mnras.tmp.1153n",
-          "2507.05422"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856+534b orbiting a white dwarf"
       },
       {
         "authors": [
@@ -21285,6 +21372,20 @@
     "citing": [
       {
         "authors": [
+          "Sicilia, D."
+        ],
+        "bibcode": "2026MNRAS.553g1927S",
+        "ids": [
+          "10.1093/mnras/stag1927",
+          "2026mnras.553g1927s",
+          "2026mnras.tmp.1783s",
+          "2610.12677"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "The GAPS programme at TNG LXXXII. The first atmospheric investigation of the gas giant WASP-13 b at high resolution with GIARPS"
+      },
+      {
+        "authors": [
           "Fromont, Emeline F."
         ],
         "bibcode": "2026arXiv261030243F",
@@ -21295,21 +21396,6 @@
         ],
         "pub": "arXiv e-prints",
         "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b"
-      },
-      {
-        "authors": [
-          "Sicilia, D."
-        ],
-        "bibcode": "2026MNRAS.tmp.1783S",
-        "ids": [
-          "10.1093/mnras/stag1927",
-          "10.48550/arxiv.2610.12677",
-          "2026arxiv261012677s",
-          "2026mnras.tmp.1783s",
-          "2610.12677"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "The GAPS programme at TNG LXXXII. The first atmospheric investigation of the gas giant WASP-13 b at high resolution with GIARPS<SUB></SUB>"
       },
       {
         "authors": [
@@ -22481,7 +22567,7 @@
       "Dressing, Courtney D.",
       "Ciardi, David R."
     ],
-    "citations": 15,
+    "citations": 14,
     "citing": [
       {
         "authors": [
@@ -24667,7 +24753,7 @@
       "Welbanks, Luis",
       "Savel, Arjun B."
     ],
-    "citations": 58,
+    "citations": 59,
     "citing": [
       {
         "authors": [
@@ -24684,6 +24770,19 @@
         ],
         "pub": "Nature Astronomy",
         "title": "Atmospheric asymmetries in WASP-121 b revealed by rotational transits detected with JWST"
+      },
+      {
+        "authors": [
+          "Barstow, Joanna K."
+        ],
+        "bibcode": "2026LRCA...12....6B",
+        "ids": [
+          "10.1007/s41115-026-00031-9",
+          "2026lrca...12....6b",
+          "2026lrca...12....6k"
+        ],
+        "pub": "Living Reviews in Computational Astrophysics",
+        "title": "Computational challenges in exoplanet atmospheric retrieval"
       },
       {
         "authors": [
@@ -27394,8 +27493,20 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 45,
+    "citations": 46,
     "citing": [
+      {
+        "authors": [
+          "Sun, Qinghui"
+        ],
+        "bibcode": "2026A&A...715A..47S",
+        "ids": [
+          "10.1051/0004-6361/202661689",
+          "2026a&a...715a..47s"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
+      },
       {
         "authors": [
           "Collier, Michael"
@@ -29577,8 +29688,20 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 34,
+    "citations": 35,
     "citing": [
+      {
+        "authors": [
+          "Sun, Qinghui"
+        ],
+        "bibcode": "2026A&A...715A..47S",
+        "ids": [
+          "10.1051/0004-6361/202661689",
+          "2026a&a...715a..47s"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
+      },
       {
         "authors": [
           "Castro-Gonz{\\'a}lez, A."
@@ -36796,7 +36919,7 @@
       "Mayo, Andrew W.",
       "Christiansen, Jessie L."
     ],
-    "citations": 50,
+    "citations": 49,
     "citing": [
       {
         "authors": [
@@ -37632,7 +37755,7 @@
       "Vanderburg, A.",
       "Weiss, L. M."
     ],
-    "citations": 96,
+    "citations": 95,
     "citing": [
       {
         "authors": [
