@@ -3114,6 +3114,21 @@
     "citing": [
       {
         "authors": [
+          "Mukherjee, Sagnick"
+        ],
+        "bibcode": "2026ApJ..1011L..40M",
+        "ids": [
+          "10.3847/2041-8213/aeb6af",
+          "10.48550/arxiv.2610.22271",
+          "2026apj..1011l..40m",
+          "2026arxiv261022271m",
+          "2610.22271"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
+      },
+      {
+        "authors": [
           "Fromont, Emeline F."
         ],
         "bibcode": "2026arXiv261030243F",
@@ -3139,19 +3154,6 @@
         ],
         "pub": "Nature Astronomy",
         "title": "A spatial map of the atmospheric limb of a hot Jupiter"
-      },
-      {
-        "authors": [
-          "Mukherjee, Sagnick"
-        ],
-        "bibcode": "2026arXiv261022271M",
-        "ids": [
-          "10.48550/arxiv.2610.22271",
-          "2026arxiv261022271m",
-          "2610.22271"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
       },
       {
         "authors": [
@@ -6523,6 +6525,21 @@
     "citing": [
       {
         "authors": [
+          "Mukherjee, Sagnick"
+        ],
+        "bibcode": "2026ApJ..1011L..40M",
+        "ids": [
+          "10.3847/2041-8213/aeb6af",
+          "10.48550/arxiv.2610.22271",
+          "2026apj..1011l..40m",
+          "2026arxiv261022271m",
+          "2610.22271"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
+      },
+      {
+        "authors": [
           "Zamyatina, Maria"
         ],
         "bibcode": "2026MNRAS.tmp.1897Z",
@@ -6595,19 +6612,6 @@
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "The Asymmetric Limbs of HD 209458 b Observed with JWST NIRCam F322W2/F444W"
-      },
-      {
-        "authors": [
-          "Mukherjee, Sagnick"
-        ],
-        "bibcode": "2026arXiv261022271M",
-        "ids": [
-          "10.48550/arxiv.2610.22271",
-          "2026arxiv261022271m",
-          "2610.22271"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
       },
       {
         "authors": [
@@ -9492,7 +9496,10 @@
         "bibcode": "2026A&A...715A..47S",
         "ids": [
           "10.1051/0004-6361/202661689",
-          "2026a&a...715a..47s"
+          "10.48550/arxiv.2609.34417",
+          "2026a&a...715a..47s",
+          "2026arxiv260934417s",
+          "2609.34417"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
@@ -10712,6 +10719,21 @@
     "citing": [
       {
         "authors": [
+          "Mukherjee, Sagnick"
+        ],
+        "bibcode": "2026ApJ..1011L..40M",
+        "ids": [
+          "10.3847/2041-8213/aeb6af",
+          "10.48550/arxiv.2610.22271",
+          "2026apj..1011l..40m",
+          "2026arxiv261022271m",
+          "2610.22271"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
+      },
+      {
+        "authors": [
           "Zamyatina, Maria"
         ],
         "bibcode": "2026MNRAS.tmp.1897Z",
@@ -10724,19 +10746,6 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "Spatial variability of CH<SUB>4</SUB>-to-CO conversion pathways in irradiated gas giant atmospheres: implications for chemical relaxation and 1D quench schemes"
-      },
-      {
-        "authors": [
-          "Mukherjee, Sagnick"
-        ],
-        "bibcode": "2026arXiv261022271M",
-        "ids": [
-          "10.48550/arxiv.2610.22271",
-          "2026arxiv261022271m",
-          "2610.22271"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
       },
       {
         "authors": [
@@ -11521,6 +11530,8 @@
         "bibcode": "2026MNRAS.553f1119N",
         "ids": [
           "10.1093/mnras/staf1119",
+          "10.48550/arxiv.2507.05422",
+          "2025arxiv250705422n",
           "2025mnras.tmp.1153n",
           "2026mnras.553f1119n",
           "2507.05422"
@@ -14851,12 +14862,29 @@
         "bibcode": "2026MNRAS.553f1119N",
         "ids": [
           "10.1093/mnras/staf1119",
+          "10.48550/arxiv.2507.05422",
+          "2025arxiv250705422n",
           "2025mnras.tmp.1153n",
           "2026mnras.553f1119n",
           "2507.05422"
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "Modelling the 3D atmospheric structure of the cold Jupiter WD1856 + 534b orbiting a white dwarf"
+      },
+      {
+        "authors": [
+          "Mukherjee, Sagnick"
+        ],
+        "bibcode": "2026ApJ..1011L..40M",
+        "ids": [
+          "10.3847/2041-8213/aeb6af",
+          "10.48550/arxiv.2610.22271",
+          "2026apj..1011l..40m",
+          "2026arxiv261022271m",
+          "2610.22271"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
       },
       {
         "authors": [
@@ -14915,19 +14943,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "JWST MIRI Reveals a Potential Atmosphere on the Ultrahot Rocky Planet TOI-431b"
-      },
-      {
-        "authors": [
-          "Mukherjee, Sagnick"
-        ],
-        "bibcode": "2026arXiv261022271M",
-        "ids": [
-          "10.48550/arxiv.2610.22271",
-          "2026arxiv261022271m",
-          "2610.22271"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
       },
       {
         "authors": [
@@ -21253,6 +21268,8 @@
         "bibcode": "2026MNRAS.553g1927S",
         "ids": [
           "10.1093/mnras/stag1927",
+          "10.48550/arxiv.2610.12677",
+          "2026arxiv261012677s",
           "2026mnras.553g1927s",
           "2026mnras.tmp.1783s",
           "2610.12677"
@@ -27378,7 +27395,10 @@
         "bibcode": "2026A&A...715A..47S",
         "ids": [
           "10.1051/0004-6361/202661689",
-          "2026a&a...715a..47s"
+          "10.48550/arxiv.2609.34417",
+          "2026a&a...715a..47s",
+          "2026arxiv260934417s",
+          "2609.34417"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
@@ -29573,7 +29593,10 @@
         "bibcode": "2026A&A...715A..47S",
         "ids": [
           "10.1051/0004-6361/202661689",
-          "2026a&a...715a..47s"
+          "10.48550/arxiv.2609.34417",
+          "2026a&a...715a..47s",
+          "2026arxiv260934417s",
+          "2609.34417"
         ],
         "pub": "Astronomy and Astrophysics",
         "title": "Planets Around Solar Twins/Analogs (PASTA): III. Chemical clock relations in planet-hosting solar analogs"
