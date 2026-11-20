@@ -1879,7 +1879,7 @@
       "van Sluijs, Lennart",
       "Wardenier, Joost P."
     ],
-    "citations": 8,
+    "citations": 7,
     "citing": [
       {
         "authors": [
@@ -3168,7 +3168,7 @@
       "Fortney, Jonathan J.",
       "de Azevedo Silva, Tom{\\'a}s"
     ],
-    "citations": 5,
+    "citations": 4,
     "citing": [
       {
         "authors": [
@@ -23068,18 +23068,6 @@
       },
       {
         "authors": [
-          "Wilson, Thomas G."
-        ],
-        "bibcode": "2026Sci...392l2348W",
-        "ids": [
-          "10.1126/science.adl2348",
-          "2026sci...392l2348w"
-        ],
-        "pub": "Science",
-        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
-      },
-      {
-        "authors": [
           "Barkaoui, K."
         ],
         "bibcode": "2025A&A...695A.281B",
@@ -37467,18 +37455,6 @@
       },
       {
         "authors": [
-          "Wilson, Thomas G."
-        ],
-        "bibcode": "2026Sci...392l2348W",
-        "ids": [
-          "10.1126/science.adl2348",
-          "2026sci...392l2348w"
-        ],
-        "pub": "Science",
-        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
-      },
-      {
-        "authors": [
           "Gonz{\\'a}lez-Payo, Javier"
         ],
         "bibcode": "2025PhDT........53G",
@@ -38327,18 +38303,6 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "A gem system with a lava world and a habitable zone sub-Neptune orbiting TOI--1752"
-      },
-      {
-        "authors": [
-          "Wilson, Thomas G."
-        ],
-        "bibcode": "2026Sci...392l2348W",
-        "ids": [
-          "10.1126/science.adl2348",
-          "2026sci...392l2348w"
-        ],
-        "pub": "Science",
-        "title": "Gas-depleted planet formation occurred in the four-planet system around the red dwarf LHS 1903"
       },
       {
         "authors": [
