@@ -1883,18 +1883,16 @@
     "citing": [
       {
         "authors": [
-          "Hayashi, Yuya"
+          "Vaulato, Valentina"
         ],
-        "bibcode": "2026AJ....172..305H",
+        "bibcode": "2026arXiv261118835V",
         "ids": [
-          "10.3847/1538-3881/aeb4b0",
-          "10.48550/arxiv.2610.19377",
-          "2026aj....172..305h",
-          "2026arxiv261019377h",
-          "2610.19377"
+          "10.48550/arxiv.2611.18835",
+          "2026arxiv261118835v",
+          "2611.18835"
         ],
-        "pub": "The Astronomical Journal",
-        "title": "Emission Spectroscopy of KELT-2A b with Gemini-North/IGRINS-2: Hints of a Stellar C/O Ratio and Substellar Metallicity"
+        "pub": "arXiv e-prints",
+        "title": "Thermal emission spectroscopy of the ultra-hot Jupiter HAT-P-70b: NIRPS constraints on its refractory and volatile content"
       },
       {
         "authors": [
@@ -5184,6 +5182,19 @@
     ],
     "citations": 43,
     "citing": [
+      {
+        "authors": [
+          "Vaulato, Valentina"
+        ],
+        "bibcode": "2026arXiv261118835V",
+        "ids": [
+          "10.48550/arxiv.2611.18835",
+          "2026arxiv261118835v",
+          "2611.18835"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Thermal emission spectroscopy of the ultra-hot Jupiter HAT-P-70b: NIRPS constraints on its refractory and volatile content"
+      },
       {
         "authors": [
           "Hayashi, Yuya"
@@ -9907,7 +9918,7 @@
       "Barrado, David",
       "Morales-Calder{\\'o}n, Mar{\\'\\i}a"
     ],
-    "citations": 81,
+    "citations": 79,
     "citing": [
       {
         "authors": [
@@ -11139,180 +11150,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2401.11879",
-    "authors": [
-      "Parviainen, H.",
-      "Murgas, F.",
-      "Esparza-Borges, E.",
-      "Pel{\\'a}ez-Torres, A.",
-      "Palle, E.",
-      "Luque, R.",
-      "Zapatero-Osorio, M. R.",
-      "Korth, J.",
-      "Fukui, A.",
-      "Narita, N.",
-      "Collins, K. A.",
-      "B{\\'e}jar, V. J. S.",
-      "Morello, G.",
-      "Monelli, M.",
-      "Garcia, N. Abreu",
-      "Chen, G.",
-      "Crouzet, N.",
-      "de Leon, J. P.",
-      "Isogai, K.",
-      "Kagetani, T.",
-      "Kawauchi, K.",
-      "Klagyivik, P.",
-      "Kodama, T.",
-      "Kusakabe, N.",
-      "Livingston, J. H.",
-      "Meni, P.",
-      "Mori, M.",
-      "Nowak, G.",
-      "Tamura, M.",
-      "Terada, Y.",
-      "Watanabe, N.",
-      "Ciardi, D. R.",
-      "Lund, M. B.",
-      "Christiansen, J. L.",
-      "Dressing, C. D.",
-      "Giacalone, S.",
-      "Savel, A. B.",
-      "Hirsch, L.",
-      "Parsons, S. G.",
-      "Brown, P.",
-      "Collins, K. I.",
-      "Barkaoui, K.",
-      "Timmermans, M.",
-      "Ghachoui, M.",
-      "Soubkiou, A.",
-      "Benkhaldoun, Z.",
-      "McDermott, S.",
-      "Pritchard, T.",
-      "Rowden, P.",
-      "Striegel, S.",
-      "Gan, T.",
-      "Horne, K.",
-      "Jensen, E. L. N.",
-      "Schwarz, R. P.",
-      "Shporer, A.",
-      "Srdoc, G.",
-      "Seager, S.",
-      "Winn, J. N.",
-      "Jenkins, J. M.",
-      "Ricker, G.",
-      "Vanderspek, R.",
-      "Dragomir, D."
-    ],
-    "citations": 6,
-    "citing": [
-      {
-        "authors": [
-          "Decocq, Emeline"
-        ],
-        "bibcode": "2026AJ....171..316D",
-        "ids": [
-          "10.3847/1538-3881/ae5486",
-          "10.48550/arxiv.2605.10427",
-          "2026aj....171..316d",
-          "2026arxiv260510427d",
-          "2605.10427"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "Comparing Results from Two Uniform Phase-curve Surveys"
-      },
-      {
-        "authors": [
-          "Jiang, Chengzi"
-        ],
-        "bibcode": "2026MNRAS.547ag367J",
-        "ids": [
-          "10.1093/mnras/stag367",
-          "10.48550/arxiv.2512.06817",
-          "2025arxiv251206817j",
-          "2026mnras.547ag367j",
-          "2026mnras.547g.367j",
-          "2026mnras.tmp..333j",
-          "2512.06817"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": "Multicolour validation of two temperate mini-Neptunes around M-dwarf habitable zones"
-      },
-      {
-        "authors": [
-          "Ikuta, Kai"
-        ],
-        "bibcode": "2025PASJ...77.1101I",
-        "ids": [
-          "10.1093/pasj/psaf090",
-          "10.48550/arxiv.2507.16222",
-          "2025arxiv250716222i",
-          "2025pasj...77.1101i",
-          "2025pasj..tmp...95i",
-          "2507.16222"
-        ],
-        "pub": "Publications of the Astronomical Society of Japan",
-        "title": "The mass of TOI-654 b: A short-period sub-Neptune transiting a mid-M dwarf"
-      },
-      {
-        "authors": [
-          "Han, Te"
-        ],
-        "bibcode": "2025ApJ...988L...4H",
-        "ids": [
-          "10.3847/2041-8213/ade794",
-          "10.48550/arxiv.2506.19985",
-          "2025apj...988l...4h",
-          "2025arxiv250619985h",
-          "2506.19985"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": "Hundreds of TESS Exoplanets Might Be Larger than We Thought"
-      },
-      {
-        "authors": [
-          "Melton, Elizabeth J."
-        ],
-        "bibcode": "2024AJ....168..271M",
-        "ids": [
-          "10.3847/1538-3881/ad8355",
-          "10.48550/arxiv.2302.06744",
-          "2023arxiv230206744m",
-          "2024aj....168..271m",
-          "2302.06744"
-        ],
-        "pub": "The Astronomical Journal",
-        "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS). III. Understanding the DTARPS-S Candidate Transiting Planet Catalogs"
-      },
-      {
-        "authors": [
-          "Pel{\\'a}ez-Torres, A."
-        ],
-        "bibcode": "2024A&A...690A..62P",
-        "ids": [
-          "10.1051/0004-6361/202347251",
-          "10.48550/arxiv.2409.07400",
-          "2024a&a...690a..62p",
-          "2024arxiv240907400p",
-          "2409.07400"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": "Validation of up to seven TESS planet candidates through multi-colour transit photometry using MuSCAT2 data"
-      }
-    ],
-    "doctype": "article",
-    "doi": "10.1051/0004-6361/202347431",
-    "page": "A170",
-    "page_count": 13,
-    "page_range": null,
-    "pub": "Astronomy and Astrophysics",
-    "pubdate": "2024-03-00",
-    "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
-    "volume": "683",
-    "year": "2024"
-  },
-  {
     "arxiv": "2310.17751",
     "authors": [
       "Tsai, Shang-Min",
@@ -11326,8 +11163,21 @@
       "Pierrehumbert, Raymond T.",
       "Schwieterman, Edward W."
     ],
-    "citations": 28,
+    "citations": 29,
     "citing": [
+      {
+        "authors": [
+          "Simonetti, Paolo"
+        ],
+        "bibcode": "2026arXiv261118431S",
+        "ids": [
+          "10.48550/arxiv.2611.18431",
+          "2026arxiv261118431s",
+          "2611.18431"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "The effect of vertical mixing on oxygen sequestration by refractory elements in the atmosphere of giant planets"
+      },
       {
         "authors": [
           "Mukherjee, Sagnick"
@@ -11760,6 +11610,180 @@
     "title": "Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model",
     "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...41T",
     "volume": "963",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2401.11879",
+    "authors": [
+      "Parviainen, H.",
+      "Murgas, F.",
+      "Esparza-Borges, E.",
+      "Pel{\\'a}ez-Torres, A.",
+      "Palle, E.",
+      "Luque, R.",
+      "Zapatero-Osorio, M. R.",
+      "Korth, J.",
+      "Fukui, A.",
+      "Narita, N.",
+      "Collins, K. A.",
+      "B{\\'e}jar, V. J. S.",
+      "Morello, G.",
+      "Monelli, M.",
+      "Garcia, N. Abreu",
+      "Chen, G.",
+      "Crouzet, N.",
+      "de Leon, J. P.",
+      "Isogai, K.",
+      "Kagetani, T.",
+      "Kawauchi, K.",
+      "Klagyivik, P.",
+      "Kodama, T.",
+      "Kusakabe, N.",
+      "Livingston, J. H.",
+      "Meni, P.",
+      "Mori, M.",
+      "Nowak, G.",
+      "Tamura, M.",
+      "Terada, Y.",
+      "Watanabe, N.",
+      "Ciardi, D. R.",
+      "Lund, M. B.",
+      "Christiansen, J. L.",
+      "Dressing, C. D.",
+      "Giacalone, S.",
+      "Savel, A. B.",
+      "Hirsch, L.",
+      "Parsons, S. G.",
+      "Brown, P.",
+      "Collins, K. I.",
+      "Barkaoui, K.",
+      "Timmermans, M.",
+      "Ghachoui, M.",
+      "Soubkiou, A.",
+      "Benkhaldoun, Z.",
+      "McDermott, S.",
+      "Pritchard, T.",
+      "Rowden, P.",
+      "Striegel, S.",
+      "Gan, T.",
+      "Horne, K.",
+      "Jensen, E. L. N.",
+      "Schwarz, R. P.",
+      "Shporer, A.",
+      "Srdoc, G.",
+      "Seager, S.",
+      "Winn, J. N.",
+      "Jenkins, J. M.",
+      "Ricker, G.",
+      "Vanderspek, R.",
+      "Dragomir, D."
+    ],
+    "citations": 6,
+    "citing": [
+      {
+        "authors": [
+          "Decocq, Emeline"
+        ],
+        "bibcode": "2026AJ....171..316D",
+        "ids": [
+          "10.3847/1538-3881/ae5486",
+          "10.48550/arxiv.2605.10427",
+          "2026aj....171..316d",
+          "2026arxiv260510427d",
+          "2605.10427"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "Comparing Results from Two Uniform Phase-curve Surveys"
+      },
+      {
+        "authors": [
+          "Jiang, Chengzi"
+        ],
+        "bibcode": "2026MNRAS.547ag367J",
+        "ids": [
+          "10.1093/mnras/stag367",
+          "10.48550/arxiv.2512.06817",
+          "2025arxiv251206817j",
+          "2026mnras.547ag367j",
+          "2026mnras.547g.367j",
+          "2026mnras.tmp..333j",
+          "2512.06817"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Multicolour validation of two temperate mini-Neptunes around M-dwarf habitable zones"
+      },
+      {
+        "authors": [
+          "Ikuta, Kai"
+        ],
+        "bibcode": "2025PASJ...77.1101I",
+        "ids": [
+          "10.1093/pasj/psaf090",
+          "10.48550/arxiv.2507.16222",
+          "2025arxiv250716222i",
+          "2025pasj...77.1101i",
+          "2025pasj..tmp...95i",
+          "2507.16222"
+        ],
+        "pub": "Publications of the Astronomical Society of Japan",
+        "title": "The mass of TOI-654 b: A short-period sub-Neptune transiting a mid-M dwarf"
+      },
+      {
+        "authors": [
+          "Han, Te"
+        ],
+        "bibcode": "2025ApJ...988L...4H",
+        "ids": [
+          "10.3847/2041-8213/ade794",
+          "10.48550/arxiv.2506.19985",
+          "2025apj...988l...4h",
+          "2025arxiv250619985h",
+          "2506.19985"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "Hundreds of TESS Exoplanets Might Be Larger than We Thought"
+      },
+      {
+        "authors": [
+          "Melton, Elizabeth J."
+        ],
+        "bibcode": "2024AJ....168..271M",
+        "ids": [
+          "10.3847/1538-3881/ad8355",
+          "10.48550/arxiv.2302.06744",
+          "2023arxiv230206744m",
+          "2024aj....168..271m",
+          "2302.06744"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "DIAmante TESS AutoRegressive Planet Search (DTARPS). III. Understanding the DTARPS-S Candidate Transiting Planet Catalogs"
+      },
+      {
+        "authors": [
+          "Pel{\\'a}ez-Torres, A."
+        ],
+        "bibcode": "2024A&A...690A..62P",
+        "ids": [
+          "10.1051/0004-6361/202347251",
+          "10.48550/arxiv.2409.07400",
+          "2024a&a...690a..62p",
+          "2024arxiv240907400p",
+          "2409.07400"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": "Validation of up to seven TESS planet candidates through multi-colour transit photometry using MuSCAT2 data"
+      }
+    ],
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202347431",
+    "page": "A170",
+    "page_count": 13,
+    "page_range": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2024-03-00",
+    "title": "TOI-2266 b: A keystone super-Earth at the edge of the M dwarf radius valley",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P",
+    "volume": "683",
     "year": "2024"
   },
   {
@@ -12731,7 +12755,7 @@
       "Venot, Olivia",
       "Wheatley, Peter J."
     ],
-    "citations": 173,
+    "citations": 171,
     "citing": [
       {
         "authors": [
@@ -15322,6 +15346,19 @@
     ],
     "citations": 186,
     "citing": [
+      {
+        "authors": [
+          "Ih, Jegug"
+        ],
+        "bibcode": "2026arXiv261117300I",
+        "ids": [
+          "10.48550/arxiv.2611.17300",
+          "2026arxiv261117300i",
+          "2611.17300"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "JWST Rocky Worlds DDT Observations of LTT 1445 A b and c in Secondary Eclipse Using MIRI/F1500W"
+      },
       {
         "authors": [
           "Burn, Remo"
@@ -27907,7 +27944,7 @@
       "Ziegler, Carl",
       "Zou, Yujie"
     ],
-    "citations": 46,
+    "citations": 45,
     "citing": [
       {
         "authors": [
@@ -30094,8 +30131,21 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 34,
+    "citations": 35,
     "citing": [
+      {
+        "authors": [
+          "Cukier, Wolf"
+        ],
+        "bibcode": "2026arXiv261116091C",
+        "ids": [
+          "10.48550/arxiv.2611.16091",
+          "2026arxiv261116091c",
+          "2611.16091"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "Dynamical stability of double planets in compact multiplanetary systems"
+      },
       {
         "authors": [
           "Sun, Qinghui"
@@ -30745,7 +30795,7 @@
       },
       {
         "authors": [
-          "Ramirez, Vanesa"
+          "Ram{\\'\\i}rez, Vanesa"
         ],
         "bibcode": "2026arXiv261022338R",
         "ids": [
@@ -32646,8 +32696,34 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 248,
+    "citations": 250,
     "citing": [
+      {
+        "authors": [
+          "Daniels, Darya"
+        ],
+        "bibcode": "2026arXiv261119724D",
+        "ids": [
+          "10.48550/arxiv.2611.19724",
+          "2026arxiv261119724d",
+          "2611.19724"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "TOI-2665 b: A Highly Irradiated Giant in the Hot Neptune Desert"
+      },
+      {
+        "authors": [
+          "Ih, Jegug"
+        ],
+        "bibcode": "2026arXiv261117300I",
+        "ids": [
+          "10.48550/arxiv.2611.17300",
+          "2026arxiv261117300i",
+          "2611.17300"
+        ],
+        "pub": "arXiv e-prints",
+        "title": "JWST Rocky Worlds DDT Observations of LTT 1445 A b and c in Secondary Eclipse Using MIRI/F1500W"
+      },
       {
         "authors": [
           "Yee, Samuel W."
