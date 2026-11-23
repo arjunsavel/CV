@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.1)  3 NOV 2026 05:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.1)  23 NOV 2026 20:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -654,25 +654,25 @@ File: l3backend-pdftex.def 2026-09-09 L3 backend support: PDF output (pdfTeX)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-Package hyperref Info: Link coloring ON on input line 149.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+Package hyperref Info: Link coloring ON on input line 172.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -743,193 +743,192 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 157.
+(Font)              <12> on input line 180.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 157.
+(Font)              <8> on input line 180.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 157.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 15
-7.
+(Font)              <6> on input line 180.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 18
+0.
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 157.
+ut line 180.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `T1/cmr/m/fsc' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 161.
+(Font)              using `T1/cmr/m/n' instead on input line 184.
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 166--168
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 189--191
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 171--173
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 194--196
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 180--185
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 203--208
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 185--187
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 208--210
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 197--201
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 220--224
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 201--206
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 224--229
 [] 
  []
 
 
-Overfull \hbox (2.3514pt too wide) in paragraph at lines 206--208
+Overfull \hbox (2.3514pt too wide) in paragraph at lines 229--231
 [] 
  []
 
-(./src/supp_tex/pubs_summary.tex) [1{/opt/texlive/texdir/texmf-var/fonts/map/pd
-ftex/updmap/pdftex.map}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super
-/cm-super-t1.enc}
-
-{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}
-{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+(./src/supp_tex/pubs_summary.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 232.
+(hyperref)                removing `math shift' on input line 255.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 232.
+(hyperref)                removing `\@@underline' on input line 255.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 232.
+(hyperref)                removing `\hbox' on input line 255.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 232.
+(hyperref)                removing `\mathsurround' on input line 255.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 232.
+(hyperref)                removing `\z@' on input line 255.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 232.
+(hyperref)                removing `math shift' on input line 255.
 
-(./src/supp_tex/pubs_ref_first_or_second_author.tex)
+(./src/supp_tex/pubs_ref_first_or_second_author.tex [1
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 246.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 246.
-
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive
+/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/opt/texlive/texdi
+r/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/opt/texlive/texdi
+r/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 246.
+(hyperref)                removing `math shift' on input line 270.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 246.
+(hyperref)                removing `\@@underline' on input line 270.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 246.
+(hyperref)                removing `\hbox' on input line 270.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 246.
-
-(./src/supp_tex/pubs_unref.tex [2])
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 251.
+(hyperref)                removing `\mathsurround' on input line 270.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 251.
+(hyperref)                removing `\z@' on input line 270.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 251.
+(hyperref)                removing `math shift' on input line 270.
+
+(./src/supp_tex/pubs_unref.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 275.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 251.
+(hyperref)                removing `\@@underline' on input line 275.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 251.
+(hyperref)                removing `\hbox' on input line 275.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 251.
-
-(./src/supp_tex/pubs_ref.tex [3] [4] [5] [6]) [7] (./src/supp_tex/honors.tex)
-[8]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 331.
+(hyperref)                removing `\mathsurround' on input line 275.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 331.
+(hyperref)                removing `\z@' on input line 275.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 331.
+(hyperref)                removing `math shift' on input line 275.
+
+(./src/supp_tex/pubs_ref.tex [2] [3] [4] [5] [6]) [7]
+(./src/supp_tex/honors.tex) [8]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 331.
+(hyperref)                removing `\@@underline' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 331.
+(hyperref)                removing `\hbox' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 331.
-
-[9]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 348.
+(hyperref)                removing `\mathsurround' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 348.
+(hyperref)                removing `\z@' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 348.
+(hyperref)                removing `math shift' on input line 355.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 348.
+(hyperref)                removing `math shift' on input line 372.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 348.
+(hyperref)                removing `\@@underline' on input line 372.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 348.
+(hyperref)                removing `\hbox' on input line 372.
 
-[10] [11] [12] [13] [14] [15] (./main.aux)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 372.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 372.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 372.
+
+[9] [10] [11] [12] [13] [14] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
@@ -942,28 +941,28 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C237749BA23150C17B0BA20DD67516EC;3812.
  ) 
 Here is how much of TeX's memory you used:
- 23844 strings out of 467050
- 440724 string characters out of 5408429
- 844873 words of memory out of 5000000
- 52783 multiletter control sequences out of 15000+600000
- 637809 words of font info for 62 fonts, out of 8000000 for 9000
+ 23850 strings out of 467050
+ 440850 string characters out of 5408429
+ 847466 words of memory out of 5000000
+ 52790 multiletter control sequences out of 15000+600000
+ 637812 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,121p,588b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,13n,121p,588b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt
 /texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texl
 ive/texdir/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/te
-xdir/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></opt/texlive/texdir/t
+xdir/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/texlive/texdir/t
 exmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></opt/texlive/texdir/texmf-d
 ist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/texlive/texdir/texmf-dist/fo
 nts/type1/public/cm-super/sfrm1440.pfb></opt/texlive/texdir/texmf-dist/fonts/ty
 pe1/public/cm-super/sfss1200.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pu
 blic/cm-super/sfti1200.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/c
 m-super/sftt1200.pfb>
-Output written on main.pdf (15 pages, 245751 bytes).
+Output written on main.pdf (14 pages, 246155 bytes).
 PDF statistics:
- 583 PDF objects out of 1000 (max. 8388607)
- 537 compressed objects within 6 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 575 PDF objects out of 1000 (max. 8388607)
+ 530 compressed objects within 6 object streams
+ 40 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
