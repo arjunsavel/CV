@@ -496,6 +496,21 @@
     "citing": [
       {
         "authors": [
+          "Adams, Danica"
+        ],
+        "bibcode": "2026ApJ..1012L...8A",
+        "ids": [
+          "10.3847/2041-8213/aeb6e0",
+          "10.48550/arxiv.2608.27576",
+          "2026apj..1012l...8a",
+          "2026arxiv260827576a",
+          "2608.27576"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "Stellar Flares Rather than High T<SUB>int</SUB> as Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298 Tau b"
+      },
+      {
+        "authors": [
           "Inai, Masayuki"
         ],
         "bibcode": "2026arXiv260912240I",
@@ -521,19 +536,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "Host-Non-host Differences in Stellar Chemistry, Activity, and Birth Radius: Hints of Distinct Formation Environments for Earth-like Planets and Sub-Neptunes"
-      },
-      {
-        "authors": [
-          "Adams, Danica"
-        ],
-        "bibcode": "2026arXiv260827576A",
-        "ids": [
-          "10.48550/arxiv.2608.27576",
-          "2026arxiv260827576a",
-          "2608.27576"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Stellar Flares Rather than High $T{\\_}{\\{}int{\\}}$ As Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298~Tau\\,b"
       },
       {
         "authors": [
@@ -1401,6 +1403,21 @@
     "citing": [
       {
         "authors": [
+          "Waalkes, William C."
+        ],
+        "bibcode": "2026AJ....172..324W",
+        "ids": [
+          "10.3847/1538-3881/aeb41f",
+          "10.48550/arxiv.2606.31281",
+          "2026aj....172..324w",
+          "2026arxiv260631281w",
+          "2606.31281"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b. I. An Atmosphere Obscured by Contamination and Systematics"
+      },
+      {
+        "authors": [
           "Tejada Arevalo, Roberto"
         ],
         "bibcode": "2026ApJ..1010...44T",
@@ -1643,19 +1660,6 @@
         ],
         "pub": "The Astronomical Journal",
         "title": "KRONOS I: The 1--2.8 {\\ensuremath{\\mu}}m JWST Transmission Spectrum of the 23 Myr V1298 Tau c"
-      },
-      {
-        "authors": [
-          "Waalkes, William C."
-        ],
-        "bibcode": "2026arXiv260631281W",
-        "ids": [
-          "10.48550/arxiv.2606.31281",
-          "2026arxiv260631281w",
-          "2606.31281"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b Part I: An Atmosphere Obscured by Contamination and Systematics"
       },
       {
         "authors": [
@@ -2478,14 +2482,16 @@
         "authors": [
           "DiTomasso, Victoria"
         ],
-        "bibcode": "2026arXiv261022254D",
+        "bibcode": "2026AJ....172..326D",
         "ids": [
+          "10.3847/1538-3881/aeb6e9",
           "10.48550/arxiv.2610.22254",
+          "2026aj....172..326d",
           "2026arxiv261022254d",
           "2610.22254"
         ],
-        "pub": "arXiv e-prints",
-        "title": "A Sample of Thick-Disk Stars Hosting Hot Jupiters"
+        "pub": "The Astronomical Journal",
+        "title": "A Sample of Thick-disk Stars Hosting Hot Jupiters"
       },
       {
         "authors": [
@@ -8087,6 +8093,21 @@
     "citing": [
       {
         "authors": [
+          "Adams, Danica"
+        ],
+        "bibcode": "2026ApJ..1012L...8A",
+        "ids": [
+          "10.3847/2041-8213/aeb6e0",
+          "10.48550/arxiv.2608.27576",
+          "2026apj..1012l...8a",
+          "2026arxiv260827576a",
+          "2608.27576"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": "Stellar Flares Rather than High T<SUB>int</SUB> as Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298 Tau b"
+      },
+      {
+        "authors": [
           "Ashtari, Reza"
         ],
         "bibcode": "2026AJ....172..275A",
@@ -8278,19 +8299,6 @@
         ],
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": "PYRAT BAY 2.0: an upgraded framework for exoplanet atmosphere modelling in the JWST era"
-      },
-      {
-        "authors": [
-          "Adams, Danica"
-        ],
-        "bibcode": "2026arXiv260827576A",
-        "ids": [
-          "10.48550/arxiv.2608.27576",
-          "2026arxiv260827576a",
-          "2608.27576"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Stellar Flares Rather than High $T{\\_}{\\{}int{\\}}$ As Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298~Tau\\,b"
       },
       {
         "authors": [
@@ -11232,7 +11240,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 166,
+    "citations": 168,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -12876,6 +12884,21 @@
     "citing": [
       {
         "authors": [
+          "Zhong, Wei"
+        ],
+        "bibcode": "2026ApJ..1012...91Z",
+        "ids": [
+          "10.3847/1538-4357/aeb008",
+          "10.48550/arxiv.2610.05287",
+          "2026apj..1012...91z",
+          "2026arxiv261005287z",
+          "2610.05287"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": "Irradiated Atmospheres. VII. Effect of Mixing Energy Flux on Atmosphere-Interior Coupling"
+      },
+      {
+        "authors": [
           "Hayashi, Yuya"
         ],
         "bibcode": "2026AJ....172..305H",
@@ -12956,19 +12979,6 @@
         ],
         "pub": "RAS Techniques and Instruments",
         "title": "Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies"
-      },
-      {
-        "authors": [
-          "Zhong, Wei"
-        ],
-        "bibcode": "2026arXiv261005287Z",
-        "ids": [
-          "10.48550/arxiv.2610.05287",
-          "2026arxiv261005287z",
-          "2610.05287"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "Irradiated Atmospheres VII. Effect of Mixing Energy Flux on Atmosphere-Interior Coupling"
       },
       {
         "authors": [
@@ -15465,6 +15475,36 @@
     "citing": [
       {
         "authors": [
+          "Aresu, G."
+        ],
+        "bibcode": "2026ApJ..1012..162A",
+        "ids": [
+          "10.3847/1538-4357/aeb6da",
+          "10.48550/arxiv.2610.28117",
+          "2026apj..1012..162a",
+          "2026arxiv261028117a",
+          "2610.28117"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": "The T-matrix Method for Modeling the Optical Properties of Grains in Exoplanetary Atmospheres"
+      },
+      {
+        "authors": [
+          "Waalkes, William C."
+        ],
+        "bibcode": "2026AJ....172..324W",
+        "ids": [
+          "10.3847/1538-3881/aeb41f",
+          "10.48550/arxiv.2606.31281",
+          "2026aj....172..324w",
+          "2026arxiv260631281w",
+          "2606.31281"
+        ],
+        "pub": "The Astronomical Journal",
+        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b. I. An Atmosphere Obscured by Contamination and Systematics"
+      },
+      {
+        "authors": [
           "Ih, Jegug"
         ],
         "bibcode": "2026arXiv261117300I",
@@ -15547,19 +15587,6 @@
         ],
         "pub": "The Astrophysical Journal Letters",
         "title": "A New Method for Constraining 3D Exoplanet Atmospheres: Application to WASP-94A b's Panchromatic Spectrum"
-      },
-      {
-        "authors": [
-          "Aresu, Giambattista"
-        ],
-        "bibcode": "2026arXiv261028117A",
-        "ids": [
-          "10.48550/arxiv.2610.28117",
-          "2026arxiv261028117a",
-          "2610.28117"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The T-matrix method for modeling the optical properties of grains in exoplanetary atmospheres"
       },
       {
         "authors": [
@@ -16000,19 +16027,6 @@
         ],
         "pub": "The Astrophysical Journal",
         "title": "The Role of Formation Location in Shaping Sulfur-, Nitrogen-, and Carbon-bearing Species in Super-Earth and Sub-Neptune Atmospheres"
-      },
-      {
-        "authors": [
-          "Waalkes, William C."
-        ],
-        "bibcode": "2026arXiv260631281W",
-        "ids": [
-          "10.48550/arxiv.2606.31281",
-          "2026arxiv260631281w",
-          "2606.31281"
-        ],
-        "pub": "arXiv e-prints",
-        "title": "The HST/WFC3 Transmission Spectrum of AU Mic b Part I: An Atmosphere Obscured by Contamination and Systematics"
       },
       {
         "authors": [
@@ -26346,14 +26360,16 @@
         "authors": [
           "DiTomasso, Victoria"
         ],
-        "bibcode": "2026arXiv261022254D",
+        "bibcode": "2026AJ....172..326D",
         "ids": [
+          "10.3847/1538-3881/aeb6e9",
           "10.48550/arxiv.2610.22254",
+          "2026aj....172..326d",
           "2026arxiv261022254d",
           "2610.22254"
         ],
-        "pub": "arXiv e-prints",
-        "title": "A Sample of Thick-Disk Stars Hosting Hot Jupiters"
+        "pub": "The Astronomical Journal",
+        "title": "A Sample of Thick-disk Stars Hosting Hot Jupiters"
       },
       {
         "authors": [
